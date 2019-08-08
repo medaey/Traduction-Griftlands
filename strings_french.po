@@ -96,7 +96,7 @@ msgstr "zRoublard"
 #: ASPECT.DRUNK.NAME
 msgctxt "ASPECT.DRUNK.NAME"
 msgid "zDrunk"
-msgstr "zSaoul"
+msgstr "zIvre"
 
 #: ASPECT.DRUNKARD.NAME
 msgctxt "ASPECT.DRUNKARD.NAME"
@@ -176,7 +176,7 @@ msgstr "zEngagé auprès de Hesh."
 #: ASPECT.PIOUS.NAME
 msgctxt "ASPECT.PIOUS.NAME"
 msgid "zPious"
-msgstr "zPious"
+msgstr "zPieux"
 
 #: ASPECT.ROBUST.DESC
 msgctxt "ASPECT.ROBUST.DESC"
@@ -226,32 +226,32 @@ msgstr "zPierce"
 #: ATTACK.AI_BANDIT_GOON2_ATTACK2.NAME
 msgctxt "ATTACK.AI_BANDIT_GOON2_ATTACK2.NAME"
 msgid "zOpen Wounds"
-msgstr "zOpen Wounds"
+msgstr "zPlaie ouverte"
 
 #: ATTACK.AI_BANDIT_GOON2_BUFF1.NAME
 msgctxt "ATTACK.AI_BANDIT_GOON2_BUFF1.NAME"
 msgid "zCauterize"
-msgstr "zCauterize"
+msgstr "zCautériser"
 
 #: ATTACK.AI_DRONE_CHARGE.NAME
 msgctxt "ATTACK.AI_DRONE_CHARGE.NAME"
 msgid "zElectro-Charge"
-msgstr "zElectro-Charge"
+msgstr "zÉlectro-charge"
 
 #: ATTACK.AI_DRONE_SHOOT.NAME
 msgctxt "ATTACK.AI_DRONE_SHOOT.NAME"
 msgid "zDischarge"
-msgstr "zDischarge"
+msgstr "zDécharge"
 
 #: ATTACK.AI_ELITE_MERC_ATTACK1.NAME
 msgctxt "ATTACK.AI_ELITE_MERC_ATTACK1.NAME"
 msgid "zBlaster Barrage"
-msgstr "zBlaster Barrage"
+msgstr "zTir de barrage"
 
 #: ATTACK.AI_ELITE_MERC_ATTACK2.NAME
 msgctxt "ATTACK.AI_ELITE_MERC_ATTACK2.NAME"
 msgid "zAimed Shot"
-msgstr "zAimed Shot"
+msgstr "zTir Précis"
 
 #: ATTACK.AI_ELITE_MERC_BUFF1.NAME
 msgctxt "ATTACK.AI_ELITE_MERC_BUFF1.NAME"
@@ -286,7 +286,7 @@ msgstr "zGut Smash"
 #: ATTACK.AI_KNIFE_SLICE.NAME
 msgctxt "ATTACK.AI_KNIFE_SLICE.NAME"
 msgid "zSlice"
-msgstr "zSlice"
+msgstr "zTranche"
 
 #: ATTACK.AI_LUMINARI_SLICE.NAME
 msgctxt "ATTACK.AI_LUMINARI_SLICE.NAME"
@@ -301,7 +301,7 @@ msgstr "zSwing of Hesh"
 #: ATTACK.AI_PATROL_LEADER_ATTACK1.NAME
 msgctxt "ATTACK.AI_PATROL_LEADER_ATTACK1.NAME"
 msgid "zMighty Thrust"
-msgstr "zMighty Thrust"
+msgstr "zPoussée Puissante"
 
 #: ATTACK.AI_PATROL_LEADER_ATTACK2.NAME
 msgctxt "ATTACK.AI_PATROL_LEADER_ATTACK2.NAME"
@@ -376,17 +376,17 @@ msgstr "zBandage"
 #: ATTACK.BASIC_ATTACK.NAME
 msgctxt "ATTACK.BASIC_ATTACK.NAME"
 msgid "zWhip"
-msgstr "zWhip"
+msgstr "zFouet"
 
 #: ATTACK.BASIC_MEDICAL_PACKAGE.DESC
 msgctxt "ATTACK.BASIC_MEDICAL_PACKAGE.DESC"
 msgid "zInsert 2 Bandage cards into your draw pile."
-msgstr "zInsert 2 Bandage cards into your draw pile."
+msgstr "zAjoute 2 cartes Bandage dans votre pioche."
 
 #: ATTACK.BASIC_MEDICAL_PACKAGE.NAME
 msgctxt "ATTACK.BASIC_MEDICAL_PACKAGE.NAME"
 msgid "zMedical Package"
-msgstr "zMedical Package"
+msgstr "zTrousse de secours"
 
 #: ATTACK.BASIC_RUN.DESC
 msgctxt "ATTACK.BASIC_RUN.DESC"
@@ -396,47 +396,47 @@ msgstr "z"
 #: ATTACK.BASIC_RUN.NAME
 msgctxt "ATTACK.BASIC_RUN.NAME"
 msgid "zRun"
-msgstr "zRun"
+msgstr "zCourir"
 
 #: ATTACK.BIOWASTE.DESC
 msgctxt "ATTACK.BIOWASTE.DESC"
 msgid "zLose {DEFEND 2} at the end of your turn."
-msgstr "zLose {DEFEND 2} at the end of your turn."
+msgstr "zPerdre {DEFEND 2} à la fin de ton tour."
 
 #: ATTACK.BIOWASTE.NAME
 msgctxt "ATTACK.BIOWASTE.NAME"
 msgid "zBio-waste"
-msgstr "zBio-waste"
+msgstr "zBiodéchets"
 
 #: ATTACK.BLASTER_AIM.NAME
 msgctxt "ATTACK.BLASTER_AIM.NAME"
 msgid "zAim"
-msgstr "zAim"
+msgstr "zViser"
 
 #: ATTACK.BLASTER_BLAST.NAME
 msgctxt "ATTACK.BLASTER_BLAST.NAME"
 msgid "zBlast"
-msgstr "zBlast"
+msgstr "zExplosion"
 
 #: ATTACK.BLASTER_HEADSHOT.NAME
 msgctxt "ATTACK.BLASTER_HEADSHOT.NAME"
 msgid "zHeadshot"
-msgstr "zHeadshot"
+msgstr "zEn pleine tête"
 
 #: ATTACK.BLASTER_RAPID_FIRE.NAME
 msgctxt "ATTACK.BLASTER_RAPID_FIRE.NAME"
 msgid "zRapid Fire"
-msgstr "zRapid Fire"
+msgstr "zTir rapide"
 
 #: ATTACK.BLASTER_STRAY_BULLETS.NAME
 msgctxt "ATTACK.BLASTER_STRAY_BULLETS.NAME"
 msgid "zStray Bullets"
-msgstr "zStray Bullets"
+msgstr "zBalles perdues"
 
 #: ATTACK.BLOCK.NAME
 msgctxt "ATTACK.BLOCK.NAME"
 msgid "zBlock"
-msgstr "zBlock"
+msgstr "zBloquer"
 
 #: ATTACK.BRISTLE.NAME
 msgctxt "ATTACK.BRISTLE.NAME"
@@ -446,17 +446,17 @@ msgstr "zBristle"
 #: ATTACK.BULWARK.NAME
 msgctxt "ATTACK.BULWARK.NAME"
 msgid "zBulwark"
-msgstr "zBulwark"
+msgstr "zRempart"
 
 #: ATTACK.CHEMICAL_PUNCH.NAME
 msgctxt "ATTACK.CHEMICAL_PUNCH.NAME"
 msgid "zPunch"
-msgstr "zPunch"
+msgstr "zFrappe"
 
 #: ATTACK.COMBAT_DRONE_ACTIVATE.DESC
 msgctxt "ATTACK.COMBAT_DRONE_ACTIVATE.DESC"
 msgid "zSummons a combat drone to fight for you."
-msgstr "zSummons a combat drone to fight for you."
+msgstr "zInvoque un drone de combat qui se battre pour vous."
 
 #: ATTACK.COMBAT_DRONE_ACTIVATE.NAME
 msgctxt "ATTACK.COMBAT_DRONE_ACTIVATE.NAME"
@@ -531,7 +531,7 @@ msgstr "zDrunk"
 #: ATTACK.GNAW.DESC
 msgctxt "ATTACK.GNAW.DESC"
 msgid "zBite at open wounds. Yummy!"
-msgstr "zBite at open wounds. Yummy!"
+msgstr "zMordre dans les plaies ouvertes. Délicieux!"
 
 #: ATTACK.GNAW.NAME
 msgctxt "ATTACK.GNAW.NAME"
@@ -651,7 +651,7 @@ msgstr "zKnee Cap"
 #: ATTACK.KNIFE_ADAPT.DESC
 msgctxt "ATTACK.KNIFE_ADAPT.DESC"
 msgid "zDiscard your hand\nDraw {1} cards"
-msgstr "zDiscard your hand\nDraw {1} cards"
+msgstr "zDéfausser votre main\nPioche {1} cartes"
 
 #: ATTACK.KNIFE_ADAPT.NAME
 msgctxt "ATTACK.KNIFE_ADAPT.NAME"
@@ -661,7 +661,7 @@ msgstr "zAdapt"
 #: ATTACK.KNIFE_ADAPT_PLUS.DESC
 msgctxt "ATTACK.KNIFE_ADAPT_PLUS.DESC"
 msgid "zDiscard your hand\nDraw {1} cards"
-msgstr "zDiscard your hand\nDraw {1} cards"
+msgstr "zDéfausser votre main\nPioche {1} cartes"
 
 #: ATTACK.KNIFE_ADAPT_PLUS.NAME
 msgctxt "ATTACK.KNIFE_ADAPT_PLUS.NAME"
@@ -671,17 +671,17 @@ msgstr "zAdapt+"
 #: ATTACK.KNIFE_ADRENALINE.DESC
 msgctxt "ATTACK.KNIFE_ADRENALINE.DESC"
 msgid "zGain 2 Actions\nLose {1} Health"
-msgstr "zGagne 2 Actions\nLose {1} Health"
+msgstr "zGagne 2 Actions\nPerd {1} Santé"
 
 #: ATTACK.KNIFE_ADRENALINE.NAME
 msgctxt "ATTACK.KNIFE_ADRENALINE.NAME"
 msgid "zAdrenaline"
-msgstr "zAdrenaline"
+msgstr "zAdrénaline"
 
 #: ATTACK.KNIFE_ADRENALINE_PLUS.DESC
 msgctxt "ATTACK.KNIFE_ADRENALINE_PLUS.DESC"
 msgid "zGain 2 Actions\nLose {1} Health"
-msgstr "zGagne 2 Actions\nLose {1} Health"
+msgstr "zGagne 2 Actions\nPerd {1} Santé"
 
 #: ATTACK.KNIFE_ADRENALINE_PLUS.NAME
 msgctxt "ATTACK.KNIFE_ADRENALINE_PLUS.NAME"
@@ -691,87 +691,87 @@ msgstr "zAdrenaline+"
 #: ATTACK.KNIFE_ANTICIPATE.DESC
 msgctxt "ATTACK.KNIFE_ANTICIPATE.DESC"
 msgid "zAdd {1} copies of {haste} into your draw pile\n{COMBO}: {EXPEND}"
-msgstr "zAdd {1} copies of {haste} into your draw pile\n{COMBO}: {EXPEND}"
+msgstr "zAjoute {1} copie de {haste} dans votre pioche\n{COMBO}: {EXPEND}"
 
 #: ATTACK.KNIFE_ANTICIPATE.NAME
 msgctxt "ATTACK.KNIFE_ANTICIPATE.NAME"
 msgid "zAnticipate"
-msgstr "zAnticipate"
+msgstr "zAnticipation"
 
 #: ATTACK.KNIFE_ANTICIPATE_PLUS.DESC
 msgctxt "ATTACK.KNIFE_ANTICIPATE_PLUS.DESC"
 msgid "zAdd {1} copies of {haste} into your draw pile\n{COMBO}: {EXPEND}"
-msgstr "zAdd {1} copies of {haste} into your draw pile\n{COMBO}: {EXPEND}"
+msgstr "zAjoute {1} copie de {haste} dans votre pioche\n{COMBO}: {EXPEND}"
 
 #: ATTACK.KNIFE_ANTICIPATE_PLUS.NAME
 msgctxt "ATTACK.KNIFE_ANTICIPATE_PLUS.NAME"
 msgid "zAnticipate+"
-msgstr "zAnticipate+"
+msgstr "zAnticipation+"
 
 #: ATTACK.KNIFE_BACKSTAB.DESC
 msgctxt "ATTACK.KNIFE_BACKSTAB.DESC"
 msgid "zIf this card was improvised, it costs 0 until end of turn."
-msgstr "zIf this card was improvised, it costs 0 until end of turn."
+msgstr "zSi cette carte a été improvisée, elle coûte 0 jusqu’à la fin du tour."
 
 #: ATTACK.KNIFE_BACKSTAB.NAME
 msgctxt "ATTACK.KNIFE_BACKSTAB.NAME"
 msgid "zBackstab"
-msgstr "zBackstab"
+msgstr "zAttaque sournoise"
 
 #: ATTACK.KNIFE_BACKSTAB_PLUS.DESC
 msgctxt "ATTACK.KNIFE_BACKSTAB_PLUS.DESC"
 msgid "zIf this card was improvised, it costs 0 until end of turn."
-msgstr "zIf this card was improvised, it costs 0 until end of turn."
+msgstr "zSi cette carte a été improvisée, elle coûte 0 jusqu’à la fin du tour."
 
 #: ATTACK.KNIFE_BACKSTAB_PLUS.NAME
 msgctxt "ATTACK.KNIFE_BACKSTAB_PLUS.NAME"
 msgid "zBackstab+"
-msgstr "zBackstab+"
+msgstr "zAttaque sournoise+"
 
 #: ATTACK.KNIFE_BLADE_FLASH.DESC
 msgctxt "ATTACK.KNIFE_BLADE_FLASH.DESC"
 msgid "zDraw a card"
-msgstr "zPioche a card"
+msgstr "zPioche une carte"
 
 #: ATTACK.KNIFE_BLADE_FLASH.NAME
 msgctxt "ATTACK.KNIFE_BLADE_FLASH.NAME"
 msgid "zBlade Flash"
-msgstr "zBlade Flash"
+msgstr "zLame éclair"
 
 #: ATTACK.KNIFE_BLADE_FURY.DESC
 msgctxt "ATTACK.KNIFE_BLADE_FURY.DESC"
 msgid "zAttack {1} times\n{COMBO}: Attack {2} times"
-msgstr "zAttack {1} times\n{COMBO}: Attack {2} times"
+msgstr "zAttaque {1} fois\n{COMBO}: Attaque {2} fois"
 
 #: ATTACK.KNIFE_BLADE_FURY.NAME
 msgctxt "ATTACK.KNIFE_BLADE_FURY.NAME"
 msgid "zBlade Fury"
-msgstr "zBlade Fury"
+msgstr "zLame Enragée"
 
 #: ATTACK.KNIFE_BLADE_FURY_PLUS.DESC
 msgctxt "ATTACK.KNIFE_BLADE_FURY_PLUS.DESC"
 msgid "zAttack {1} times\n{COMBO}: Attack {2} times"
-msgstr "zAttack {1} times\n{COMBO}: Attack {2} times"
+msgstr "zAttaque {1} fois\n{COMBO}: Attaque {2} fois"
 
 #: ATTACK.KNIFE_BLADE_FURY_PLUS.NAME
 msgctxt "ATTACK.KNIFE_BLADE_FURY_PLUS.NAME"
 msgid "zBlade Fury+"
-msgstr "zBlade Fury+"
+msgstr "zLame Enragée+"
 
 #: ATTACK.KNIFE_CONCENTRATE.DESC
 msgctxt "ATTACK.KNIFE_CONCENTRATE.DESC"
 msgid "zDraw a card"
-msgstr "zPioche a card"
+msgstr "zPioche une carte"
 
 #: ATTACK.KNIFE_CONCENTRATE.NAME
 msgctxt "ATTACK.KNIFE_CONCENTRATE.NAME"
 msgid "zConcentrate"
-msgstr "zConcentrate"
+msgstr "zConcentré"
 
 #: ATTACK.KNIFE_CONCENTRATE_PLUS.DESC
 msgctxt "ATTACK.KNIFE_CONCENTRATE_PLUS.DESC"
 msgid "zDraw a card"
-msgstr "zPioche a card"
+msgstr "zPioche une carte"
 
 #: ATTACK.KNIFE_CONCENTRATE_PLUS.NAME
 msgctxt "ATTACK.KNIFE_CONCENTRATE_PLUS.NAME"
@@ -1046,7 +1046,7 @@ msgstr "zPreparation+"
 #: ATTACK.KNIFE_QUICK_DRAW.DESC
 msgctxt "ATTACK.KNIFE_QUICK_DRAW.DESC"
 msgid "zDraw a card"
-msgstr "zPioche a card"
+msgstr "zPioche une carte"
 
 #: ATTACK.KNIFE_QUICK_DRAW.NAME
 msgctxt "ATTACK.KNIFE_QUICK_DRAW.NAME"
@@ -1056,7 +1056,7 @@ msgstr "zQuick Draw"
 #: ATTACK.KNIFE_QUICK_DRAW_PLUS.DESC
 msgctxt "ATTACK.KNIFE_QUICK_DRAW_PLUS.DESC"
 msgid "zDraw a card"
-msgstr "zPioche a card"
+msgstr "zPioche une carte"
 
 #: ATTACK.KNIFE_QUICK_DRAW_PLUS.NAME
 msgctxt "ATTACK.KNIFE_QUICK_DRAW_PLUS.NAME"
