@@ -306,17 +306,17 @@ msgstr "zMighty Thrust"
 #: ATTACK.AI_PATROL_LEADER_ATTACK2.NAME
 msgctxt "ATTACK.AI_PATROL_LEADER_ATTACK2.NAME"
 msgid "zHamstring"
-msgstr "zHamstring"
+msgstr "zParalyser"
 
 #: ATTACK.AI_PATROL_LEADER_BUFF1.NAME
 msgctxt "ATTACK.AI_PATROL_LEADER_BUFF1.NAME"
 msgid "zPrepared Stance"
-msgstr "zPrepared Stance"
+msgstr "zPosition Préparée"
 
 #: ATTACK.AI_PATROL_LEADER_BUFF2.NAME
 msgctxt "ATTACK.AI_PATROL_LEADER_BUFF2.NAME"
 msgid "zIntensify"
-msgstr "zIntensify"
+msgstr "zRenforcer"
 
 #: ATTACK.AI_PULL_RANK.NAME
 msgctxt "ATTACK.AI_PULL_RANK.NAME"
