@@ -1311,7 +1311,7 @@ msgstr "zUppercut+"
 #: ATTACK.KNIFE_WILD_LUNGE.DESC
 msgctxt "ATTACK.KNIFE_WILD_LUNGE.DESC"
 msgid "zAttack 1 random enemy"
-msgstr "zAttack 1 random enemy"
+msgstr "zAttaque 1 ennemi au hasard"
 
 #: ATTACK.KNIFE_WILD_LUNGE.NAME
 msgctxt "ATTACK.KNIFE_WILD_LUNGE.NAME"
@@ -1321,7 +1321,7 @@ msgstr "zWild Lunge"
 #: ATTACK.KNIFE_WILD_LUNGE_PLUS.DESC
 msgctxt "ATTACK.KNIFE_WILD_LUNGE_PLUS.DESC"
 msgid "zAttack 1 random enemy"
-msgstr "zAttack 1 random enemy"
+msgstr "zAttaque 1 ennemi au hasard"
 
 #: ATTACK.KNIFE_WILD_LUNGE_PLUS.NAME
 msgctxt "ATTACK.KNIFE_WILD_LUNGE_PLUS.NAME"
@@ -1571,7 +1571,7 @@ msgstr "zSwing"
 #: ATTACK.SWORD_BARRAGE.DESC
 msgctxt "ATTACK.SWORD_BARRAGE.DESC"
 msgid "zAttack 3 times"
-msgstr "zAttack 3 times"
+msgstr "zAttaque 3 fois"
 
 #: ATTACK.SWORD_BARRAGE.NAME
 msgctxt "ATTACK.SWORD_BARRAGE.NAME"
@@ -16311,7 +16311,7 @@ msgstr "zCrafty"
 #: FEATURE.CRIPPLE.DESC
 msgctxt "FEATURE.CRIPPLE.DESC"
 msgid "zAttack damage reduced by 33%"
-msgstr "zAttack damage reduced by 33%"
+msgstr "zDégâts d'attaque réduits de 33%"
 
 #: FEATURE.CRIPPLE.NAME
 msgctxt "FEATURE.CRIPPLE.NAME"
@@ -19516,7 +19516,7 @@ msgstr "z{handler} has a reward for you."
 #: QUEST.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.OBJECTIVE.RETURN_FOR_REWARD.TITLE
 msgctxt "QUEST.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "zGet reward from {handler}"
-msgstr "zGet reward from {handler}"
+msgstr "zObtention d'une récompense {handler}"
 
 #: QUEST.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.OBJECTIVE.WIPE_OUT_HIDEOUT.DESC
 msgctxt "QUEST.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.OBJECTIVE.WIPE_OUT_HIDEOUT.DESC"
@@ -20046,7 +20046,7 @@ msgstr "z{giver#agent} has your payment ready. Go collect it."
 #: QUEST.MJR_KILL_HATED.OBJECTIVE.RETURN_FOR_REWARD.TITLE
 msgctxt "QUEST.MJR_KILL_HATED.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "zGet reward from {giver#agent}"
-msgstr "zGet reward from {giver#agent}"
+msgstr "zObtention d'une récompense {giver#agent}"
 
 #: QUEST.MJR_KILL_HATED.TITLE
 msgctxt "QUEST.MJR_KILL_HATED.TITLE"
@@ -20096,7 +20096,7 @@ msgstr "zThe feud is over. Go celebrate by getting paid."
 #: QUEST.MJR_MAKE_PEACE.OBJECTIVE.RETURN_FOR_REWARD.TITLE
 msgctxt "QUEST.MJR_MAKE_PEACE.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "zGet reward from {giver#agent}"
-msgstr "zGet reward from {giver#agent}"
+msgstr "zObtention d'une récompense {giver#agent}"
 
 #: QUEST.MJR_MAKE_PEACE.OBJECTIVE.TELL_GIVER_KILLED_TARGET.DESC
 msgctxt "QUEST.MJR_MAKE_PEACE.OBJECTIVE.TELL_GIVER_KILLED_TARGET.DESC"
@@ -20106,7 +20106,7 @@ msgstr "zGo collect your blood money. You sure have a knack for making the world
 #: QUEST.MJR_MAKE_PEACE.OBJECTIVE.TELL_GIVER_KILLED_TARGET.TITLE
 msgctxt "QUEST.MJR_MAKE_PEACE.OBJECTIVE.TELL_GIVER_KILLED_TARGET.TITLE"
 msgid "zGet reward from {giver#agent}"
-msgstr "zGet reward from {giver#agent}"
+msgstr "zObtention d'une récompense {giver#agent}"
 
 #: QUEST.MJR_MAKE_PEACE.OBJECTIVE.TELL_TARGET_KILLED_GIVER.DESC
 msgctxt "QUEST.MJR_MAKE_PEACE.OBJECTIVE.TELL_TARGET_KILLED_GIVER.DESC"
@@ -20116,7 +20116,7 @@ msgstr "zGo collect your blood money. You sure have a knack for making the world
 #: QUEST.MJR_MAKE_PEACE.OBJECTIVE.TELL_TARGET_KILLED_GIVER.TITLE
 msgctxt "QUEST.MJR_MAKE_PEACE.OBJECTIVE.TELL_TARGET_KILLED_GIVER.TITLE"
 msgid "zGet reward from {target#agent}"
-msgstr "zGet reward from {target#agent}"
+msgstr "zObtention d'une récompense {target#agent}"
 
 #: QUEST.MJR_MAKE_PEACE.TITLE
 msgctxt "QUEST.MJR_MAKE_PEACE.TITLE"
@@ -20721,7 +20721,7 @@ msgstr "z{handler#agent} has your payment ready. Go collect it."
 #: QUEST.SAL_STORY_ACT_1_KILL_HANDLER.OBJECTIVE.RETURN_FOR_REWARD.TITLE
 msgctxt "QUEST.SAL_STORY_ACT_1_KILL_HANDLER.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "zGet reward from {handler#agent}"
-msgstr "zGet reward from {handler#agent}"
+msgstr "zObtention d'une récompense {handler#agent}"
 
 #: QUEST.SAL_STORY_ACT_1_KILL_HANDLER.TITLE
 msgctxt "QUEST.SAL_STORY_ACT_1_KILL_HANDLER.TITLE"
@@ -20891,12 +20891,12 @@ msgstr "zYou dispensed with violence, it's time for {giver} to dispense with cas
 #: QUEST.SIDE_ATTACK_RIVAL.OBJECTIVE.RETURN_FOR_REWARD.TITLE
 msgctxt "QUEST.SIDE_ATTACK_RIVAL.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "zGet reward from {giver#agent}"
-msgstr "zGet reward from {giver#agent}"
+msgstr "zObtention d'une récompense {giver#agent}"
 
 #: QUEST.SIDE_ATTACK_RIVAL.TITLE
 msgctxt "QUEST.SIDE_ATTACK_RIVAL.TITLE"
 msgid "zAttack Rival"
-msgstr "zAttack Rival"
+msgstr "zAttaque Rival"
 
 #: QUEST.SIDE_AT_THE_CROSSROAD.DESC
 msgctxt "QUEST.SIDE_AT_THE_CROSSROAD.DESC"
@@ -21026,7 +21026,7 @@ msgstr "zYou did the work, now get your due."
 #: QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.OBJECTIVE.RETURN_FOR_REWARD.TITLE
 msgctxt "QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "zGet reward from {giver}"
-msgstr "zGet reward from {giver}"
+msgstr "zObtention d'une récompense {giver}"
 
 #: QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.TITLE
 msgctxt "QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.TITLE"
@@ -21116,7 +21116,7 @@ msgstr "zYou've earned it!"
 #: QUEST.SIDE_DELIVER_SUMMONS.OBJECTIVE.RETURN_FOR_REWARD.TITLE
 msgctxt "QUEST.SIDE_DELIVER_SUMMONS.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "zGet reward from {giver#agent}"
-msgstr "zGet reward from {giver#agent}"
+msgstr "zObtention d'une récompense {giver#agent}"
 
 #: QUEST.SIDE_DELIVER_SUMMONS.TITLE
 msgctxt "QUEST.SIDE_DELIVER_SUMMONS.TITLE"
@@ -21166,7 +21166,7 @@ msgstr "zTell {giver} that the position has been vacated for their friend."
 #: QUEST.SIDE_EARLY_RETIREMENT.OBJECTIVE.RETURN_FOR_REWARD.TITLE
 msgctxt "QUEST.SIDE_EARLY_RETIREMENT.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "zGet reward from {giver#agent}"
-msgstr "zGet reward from {giver#agent}"
+msgstr "zObtention d'une récompense {giver#agent}"
 
 #: QUEST.SIDE_EARLY_RETIREMENT.TITLE
 msgctxt "QUEST.SIDE_EARLY_RETIREMENT.TITLE"
@@ -21246,7 +21246,7 @@ msgstr "zGet paid for your work, or you may as well have never done it."
 #: QUEST.SIDE_INTERNAL_AFFAIR.OBJECTIVE.RETURN_FOR_REWARD.TITLE
 msgctxt "QUEST.SIDE_INTERNAL_AFFAIR.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "zGet reward from {giver#agent}"
-msgstr "zGet reward from {giver#agent}"
+msgstr "zObtention d'une récompense {giver#agent}"
 
 #: QUEST.SIDE_INTERNAL_AFFAIR.TITLE
 msgctxt "QUEST.SIDE_INTERNAL_AFFAIR.TITLE"
