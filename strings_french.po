@@ -511,7 +511,7 @@ msgstr "zDebug Stun"
 #: ATTACK.DISEMBOWEL.NAME
 msgctxt "ATTACK.DISEMBOWEL.NAME"
 msgid "zDisembowel"
-msgstr "zDisembowel"
+msgstr "zÉventrer"
 
 #: ATTACK.DOUBLE_WHAMMY.NAME
 msgctxt "ATTACK.DOUBLE_WHAMMY.NAME"
@@ -526,7 +526,7 @@ msgstr "z"
 #: ATTACK.DRUNK.NAME
 msgctxt "ATTACK.DRUNK.NAME"
 msgid "zDrunk"
-msgstr "zDrunk"
+msgstr "zIvre"
 
 #: ATTACK.GNAW.DESC
 msgctxt "ATTACK.GNAW.DESC"
@@ -2426,7 +2426,7 @@ msgstr "zDoubt Bomb+"
 #: CARD.DRUNK_NPC.NAME
 msgctxt "CARD.DRUNK_NPC.NAME"
 msgid "zDrunk"
-msgstr "zDrunk"
+msgstr "zIvre"
 
 #: CARD.DRUNK_PLAYER.DESC
 msgctxt "CARD.DRUNK_PLAYER.DESC"
@@ -2436,7 +2436,7 @@ msgstr "zExpend a random card from your hand"
 #: CARD.DRUNK_PLAYER.NAME
 msgctxt "CARD.DRUNK_PLAYER.NAME"
 msgid "zDrunk"
-msgstr "zDrunk"
+msgstr "zIvre"
 
 #: CARD.DUPLICITY.DESC
 msgctxt "CARD.DUPLICITY.DESC"
@@ -15581,7 +15581,7 @@ msgstr "zDistract"
 #: CONVO_COMMON.OPT_DRUNK
 msgctxt "CONVO_COMMON.OPT_DRUNK"
 msgid "zDrunk"
-msgstr "zDrunk"
+msgstr "zIvre"
 
 #: CONVO_COMMON.OPT_FAST_TALK
 msgctxt "CONVO_COMMON.OPT_FAST_TALK"
@@ -16371,7 +16371,7 @@ msgstr "zReduce minimum damage of all attacks by 1."
 #: FEATURE.DRUNK.NAME
 msgctxt "FEATURE.DRUNK.NAME"
 msgid "zDrunk"
-msgstr "zDrunk"
+msgstr "zIvre"
 
 #: FEATURE.DUPLICITY.DESC
 msgctxt "FEATURE.DUPLICITY.DESC"
@@ -17541,7 +17541,7 @@ msgstr "zAn item."
 #: GENERAL.DRUNK
 msgctxt "GENERAL.DRUNK"
 msgid "zdrunk"
-msgstr "zdrunk"
+msgstr "zIvre"
 
 #: GENERAL.GAINT_ATTACK_COUNT
 msgctxt "GENERAL.GAINT_ATTACK_COUNT"
