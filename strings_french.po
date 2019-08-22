@@ -6441,7 +6441,7 @@ msgstr "Attempt to convince the guard to look the other way"
 #: CONVO.ADMIRALTY_COMMON.FRISK_FOUNDSOMETHING.OPT_FIGHT
 msgctxt "CONVO.ADMIRALTY_COMMON.FRISK_FOUNDSOMETHING.OPT_FIGHT"
 msgid "Attack!"
-msgstr "Attack!"
+msgstr "Attaque!"
 
 #: CONVO.ADMIRALTY_COMMON.FRISK_FOUNDSOMETHING.OPT_PAY_FINE
 msgctxt "CONVO.ADMIRALTY_COMMON.FRISK_FOUNDSOMETHING.OPT_PAY_FINE"
@@ -6641,12 +6641,12 @@ msgstr "                agent:\n                    !right\n                    
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_FIGHT_SOMEONE_ELSE.OPT_FIGHT
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_FIGHT_SOMEONE_ELSE.OPT_FIGHT"
 msgid "Attack {agent#agent}"
-msgstr "Attack {agent#agent}"
+msgstr "Attaque {agent#agent}"
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_FIGHT_SOMEONE_ELSE.OPT_FIGHT_TARGET
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_FIGHT_SOMEONE_ELSE.OPT_FIGHT_TARGET"
 msgid "Attack {target#agent} for {agent#agent}"
-msgstr "Attack {target#agent} for {agent#agent}"
+msgstr "Attaque {target#agent} pour {agent#agent}"
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_PLANT_CONTRABAND.DIALOG_INTRO
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_PLANT_CONTRABAND.DIALOG_INTRO"
@@ -7251,7 +7251,7 @@ msgstr "                player: \n                    !throatcut\n              
 #: CONVO.EASY_TARGET_MERCHANT.STATE_MERCHANT.OPT_ATTACK
 msgctxt "CONVO.EASY_TARGET_MERCHANT.STATE_MERCHANT.OPT_ATTACK"
 msgid "Attack"
-msgstr "Attack"
+msgstr "Attaque"
 
 #: CONVO.EASY_TARGET_MERCHANT.STATE_MERCHANT.OPT_LET_THEM_GO
 msgctxt "CONVO.EASY_TARGET_MERCHANT.STATE_MERCHANT.OPT_LET_THEM_GO"
@@ -7841,7 +7841,7 @@ msgstr "                player: \n                    !threaten\n               
 #: CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_CAVE_ENTRANCE.OPT_ATTACK
 msgctxt "CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_CAVE_ENTRANCE.OPT_ATTACK"
 msgid "Attack {bathroom_bandit}"
-msgstr "Attack {bathroom_bandit}"
+msgstr "Attaque {bathroom_bandit}"
 
 #: CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_CAVE_ENTRANCE.OPT_CONVINCE_RUN
 msgctxt "CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_CAVE_ENTRANCE.OPT_CONVINCE_RUN"
@@ -8536,7 +8536,7 @@ msgstr "                * You manage to sneak past {goon1} while {goon1.hisher} 
 #: CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_ENCOUNTER.OPT_ATTACK_GOON
 msgctxt "CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_ENCOUNTER.OPT_ATTACK_GOON"
 msgid "Attack {goon1}"
-msgstr "Attack {goon1}"
+msgstr "Attaque {goon1}"
 
 #: CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_ENCOUNTER.OPT_CONFRONT
 msgctxt "CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_ENCOUNTER.OPT_CONFRONT"
@@ -8611,7 +8611,7 @@ msgstr "                player:\n                    !left\n                * Yo
 #: CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_INTERIOR_GOONS.OPT_ATTACK
 msgctxt "CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_INTERIOR_GOONS.OPT_ATTACK"
 msgid "Attack!"
-msgstr "Attack!"
+msgstr "Attaque!"
 
 #: CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_INTERIOR_GOONS.OPT_NEGOTIATE
 msgctxt "CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_INTERIOR_GOONS.OPT_NEGOTIATE"
@@ -9481,7 +9481,7 @@ msgstr "                        agent:\n                            !injured\n  
 #: CONVO.KALANDRA_ASSET_LIBERATION_0.STATE_FALLING_OUT.OPT_ATTACK
 msgctxt "CONVO.KALANDRA_ASSET_LIBERATION_0.STATE_FALLING_OUT.OPT_ATTACK"
 msgid "Attack {agent}"
-msgstr "Attack {agent}"
+msgstr "Attaque {agent}"
 
 #: CONVO.KALANDRA_ASSET_LIBERATION_0.STATE_FALLING_OUT.OPT_LET_GO
 msgctxt "CONVO.KALANDRA_ASSET_LIBERATION_0.STATE_FALLING_OUT.OPT_LET_GO"
@@ -10171,7 +10171,7 @@ msgstr "                player:\n                    !thumb\n                   
 #: CONVO.KALANDRA_WORKER_RALLY_2.STATE_TRY_THREAT.OPT_FIGHT
 msgctxt "CONVO.KALANDRA_WORKER_RALLY_2.STATE_TRY_THREAT.OPT_FIGHT"
 msgid "Attack {agent}"
-msgstr "Attack {agent}"
+msgstr "Attaque {agent}"
 
 #: CONVO.KALANDRA_WORKER_RALLY_2.STATE_TRY_THREAT.OPT_NEGOTIATION
 msgctxt "CONVO.KALANDRA_WORKER_RALLY_2.STATE_TRY_THREAT.OPT_NEGOTIATION"
@@ -10341,7 +10341,7 @@ msgstr "                agent:\n                    I'll take your word on it, I
 #: CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_ATTACK
 msgctxt "CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_ATTACK"
 msgid "Attack {agent}"
-msgstr "Attack {agent}"
+msgstr "Attaque {agent}"
 
 #: CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_NEGOTIATE
 msgctxt "CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_NEGOTIATE"
@@ -10786,7 +10786,7 @@ msgstr "                target:\n                    Alright. I'll let them be.\
 #: CONVO.MJR_BANDIT_BACK_OFF.STATE_CONFRONT.OPT_ATTACK
 msgctxt "CONVO.MJR_BANDIT_BACK_OFF.STATE_CONFRONT.OPT_ATTACK"
 msgid "Attack {target}"
-msgstr "Attack {target}"
+msgstr "Attaque {target}"
 
 #: CONVO.MJR_BANDIT_BACK_OFF.STATE_CONFRONT.OPT_BACK_DOWN
 msgctxt "CONVO.MJR_BANDIT_BACK_OFF.STATE_CONFRONT.OPT_BACK_DOWN"
@@ -11216,7 +11216,7 @@ msgstr "Demand {shopkeeper} hand over the goods without a fight."
 #: CONVO.MJR_STORE_ROBBERY.OPT_DO_FIGHT
 msgctxt "CONVO.MJR_STORE_ROBBERY.OPT_DO_FIGHT"
 msgid "Attack {shopkeeper} immediately <i>(grants ambush)</>"
-msgstr "Attack {shopkeeper} immediately <i>(grants ambush)</>"
+msgstr "Attaque {shopkeeper} immédiatement <i>(grants ambush)</>"
 
 #: CONVO.MJR_STORE_ROBBERY.OPT_SWITCH_SIDES
 msgctxt "CONVO.MJR_STORE_ROBBERY.OPT_SWITCH_SIDES"
@@ -11841,7 +11841,7 @@ msgstr "                    Agent:\n                        Worthless. Scram!\n 
 #: CONVO.PROPRIETOR_CHAT.STATE_TRY_GAIN_ENTRY.OPT_ATTACK
 msgctxt "CONVO.PROPRIETOR_CHAT.STATE_TRY_GAIN_ENTRY.OPT_ATTACK"
 msgid "Attack {agent}"
-msgstr "Attack {agent}"
+msgstr "Attaque {agent}"
 
 #: CONVO.PROPRIETOR_CHAT.STATE_TRY_GAIN_ENTRY.OPT_LEAVE
 msgctxt "CONVO.PROPRIETOR_CHAT.STATE_TRY_GAIN_ENTRY.OPT_LEAVE"
@@ -12796,7 +12796,7 @@ msgstr "                handler:\n                    !right\n                  
 #: CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_SMUGGLE.CONVINCE_OTHER_GUARD.OPT_ATTACK_GUARD
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_SMUGGLE.CONVINCE_OTHER_GUARD.OPT_ATTACK_GUARD"
 msgid "Attack {other_guard}"
-msgstr "Attack {other_guard}"
+msgstr "Attaque {other_guard}"
 
 #: CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_SMUGGLE.CONVINCE_OTHER_GUARD.OPT_CONVINCE
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_SMUGGLE.CONVINCE_OTHER_GUARD.OPT_CONVINCE"
@@ -12861,7 +12861,7 @@ msgstr "                player:\n                    DIAL_PRE_NEGOTIATE\n       
 #: CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_2.ADMIRALTY_GUARD_CONFRONT.OPT_FIGHT
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_2.ADMIRALTY_GUARD_CONFRONT.OPT_FIGHT"
 msgid "Attack the guards"
-msgstr "Attack the guards"
+msgstr "Attaquer les gardes"
 
 #: CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_2.ADMIRALTY_GUARD_CONFRONT.OPT_JUST_WIN_DEBUG
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_2.ADMIRALTY_GUARD_CONFRONT.OPT_JUST_WIN_DEBUG"
@@ -12941,7 +12941,7 @@ msgstr "Convince {bandit_escort} to leave {handler} for the guards"
 #: CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_ARREST.ARREST_INTRO.OPT_FIGHT_OFF_GUARDS
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_ARREST.ARREST_INTRO.OPT_FIGHT_OFF_GUARDS"
 msgid "Attack the guards"
-msgstr "Attack the guards"
+msgstr "Attaquer les gardes"
 
 #: CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_ARREST.BETRAYED_HANDLER.DIAL_LEAVE
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_ARREST.BETRAYED_HANDLER.DIAL_LEAVE"
@@ -13621,7 +13621,7 @@ msgstr "                target:\n                    !right\n                   
 #: CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_5.STATE_NPC_TALKS.OPT_PICK_GIVER
 msgctxt "CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_5.STATE_NPC_TALKS.OPT_PICK_GIVER"
 msgid "Attack {target} for {giver}"
-msgstr "Attack {target} for {giver}"
+msgstr "Attaque {target} pour {giver}"
 
 #: CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_5.STATE_NPC_TALKS.OPT_PICK_TARGET
 msgctxt "CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_5.STATE_NPC_TALKS.OPT_PICK_TARGET"
@@ -14311,7 +14311,7 @@ msgstr "                * You leave before more Jakes make their way ashore.\n  
 #: CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_BEACH_PEOPLE.OPT_ATTACK
 msgctxt "CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_BEACH_PEOPLE.OPT_ATTACK"
 msgid "Attack them"
-msgstr "Attack them"
+msgstr "Attaque them"
 
 #: CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_BEACH_PEOPLE.OPT_TALK_WAY_OUT
 msgctxt "CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_BEACH_PEOPLE.OPT_TALK_WAY_OUT"
@@ -14341,7 +14341,7 @@ msgstr "                * You leave before reinforcement can arrive.\n          
 #: CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_WOODS_PEOPLE.OPT_ATTACK
 msgctxt "CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_WOODS_PEOPLE.OPT_ATTACK"
 msgid "Attack them"
-msgstr "Attack them"
+msgstr "Attaque them"
 
 #: CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_WOODS_PEOPLE.OPT_SNEAK_AWAY
 msgctxt "CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_WOODS_PEOPLE.OPT_SNEAK_AWAY"
@@ -15096,7 +15096,7 @@ msgstr "                    player:\n                        Why are you fightin
 #: CONVO.TRAVEL_ENEMIES_FIGHTING.STATE_TALK.OPT_ATTACK
 msgctxt "CONVO.TRAVEL_ENEMIES_FIGHTING.STATE_TALK.OPT_ATTACK"
 msgid "Attack {agent}"
-msgstr "Attack {agent}"
+msgstr "Attaque {agent}"
 
 #: CONVO.TRAVEL_ENEMIES_FIGHTING.STATE_TALK.OPT_LEAVE
 msgctxt "CONVO.TRAVEL_ENEMIES_FIGHTING.STATE_TALK.OPT_LEAVE"
