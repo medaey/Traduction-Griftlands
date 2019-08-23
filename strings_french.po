@@ -106,7 +106,7 @@ msgstr "zAlcolique"
 #: ASPECT.FEARLESS.DESC
 msgctxt "ASPECT.FEARLESS.DESC"
 msgid "zHard to make demands"
-msgstr "zHard to make demands"
+msgstr "zDifficile de faire des demandes"
 
 #: ASPECT.FEARLESS.NAME
 msgctxt "ASPECT.FEARLESS.NAME"
@@ -2646,7 +2646,7 @@ msgstr "zHands are Tied"
 #: CARD.HARD_FACTS.DESC
 msgctxt "CARD.HARD_FACTS.DESC"
 msgid "zEvery card played this turn generates 2 {DOUBT}"
-msgstr "zEvery card played this turn generates 2 {DOUBT}"
+msgstr "zChaque carte jouée ce tour génère 2 {DOUBT}"
 
 #: CARD.HARD_FACTS.NAME
 msgctxt "CARD.HARD_FACTS.NAME"
@@ -6526,7 +6526,7 @@ msgstr "            * Violence doesn't solve every problem, but it certainly sol
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.OPT_FIGHT
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.OPT_FIGHT"
 msgid "Defend yourself"
-msgstr "Defend yourself"
+msgstr "Se défendre"
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.OPT_NEGOTIATE
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.OPT_NEGOTIATE"
@@ -6716,12 +6716,12 @@ msgstr "                agent:\n                    If I'm going to survive as a
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.DIALOG_NEGOTIATE_FAIL
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.DIALOG_NEGOTIATE_FAIL"
 msgid "                agent:\n                    Nice try, but I really do want to fight <b>you</>.\n\n            "
-msgstr "                agent:\n                    Nice try, but I really do want to fight <b>you</>.\n\n            "
+msgstr "                agent:\n                    Bien essayé, mais je veux vraiment me battre <b>contre vous</>.\n\n            "
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.DIALOG_PST_FIGHT
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.DIALOG_PST_FIGHT"
 msgid "                * You leave, before backup can arrive.\n            "
-msgstr "                * You leave, before backup can arrive.\n            "
+msgstr "                * Vous partez, avant que les renforts arrivent.\n            "
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.DIALOG_SUGGEST_OTHER
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.DIALOG_SUGGEST_OTHER"
@@ -6731,7 +6731,7 @@ msgstr "                agent:\n                    Hmmmm. Yeah, they'll do just
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.OPT_RECEIVE_BEATING
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.OPT_RECEIVE_BEATING"
 msgid "Take a beating"
-msgstr "Take a beating"
+msgstr "Prendre une raclée"
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.OPT_SUGGEST_AGENT
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.OPT_SUGGEST_AGENT"
@@ -6786,22 +6786,22 @@ msgstr "{agent} is Spree, and people are generally afraid of the Spree"
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ACCOST.DIALOG_INTRO
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ACCOST.DIALOG_INTRO"
 msgid "                player:\n                    !left\n                * A bandit emerges from the shadows.\n                agent:\n                    !right\n            "
-msgstr "                player:\n                    !left\n                * A bandit emerges from the shadows.\n                agent:\n                    !right\n            "
+msgstr "                joueur:\n                    !à gauche\n                * Un bandit émerge de l'ombre.\n                agent:\n                    !droit\n            "
 
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ROB.DIALOG_CONVINCE_LESS
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ROB.DIALOG_CONVINCE_LESS"
 msgid "                player:\n                    You have to leave me with something!\n            "
-msgstr "                player:\n                    You have to leave me with something!\n            "
+msgstr "                joueur:\n                    Tu dois me laisser quelque chose!\n            "
 
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ROB.DIALOG_CONVINCE_NONE
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ROB.DIALOG_CONVINCE_NONE"
 msgid "                player:\n                    Do you even know who you're dealing with?\n            "
-msgstr "                player:\n                    Do you even know who you're dealing with?\n            "
+msgstr "                joueur:\n                    Tu sais à qui tu as affaire ?\n            "
 
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ROB.DIALOG_GIVE_ALL
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ROB.DIALOG_GIVE_ALL"
 msgid "                * You hand over all of your money.\n                agent:\n                    Today's my pay day!\n                    !exit\n                * The bandit swaggers off, counting your hard-earned shills.\n            "
-msgstr "                * You hand over all of your money.\n                agent:\n                    Today's my pay day!\n                    !exit\n                * The bandit swaggers off, counting your hard-earned shills.\n            "
+msgstr "                * Tu donnes tout ton argent.\n                agent:\n                    C’est mon jour de paie!\n                    !sortie\n                * Le bandit s'éloigne, comptant vos shills durement gagnés.\n            "
 
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ROB.DIALOG_GIVE_LESS
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ROB.DIALOG_GIVE_LESS"
@@ -6826,17 +6826,17 @@ msgstr "                agent:\n                    !exit\n                * You
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ROB.OPT_CONVINCE_LESS
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ROB.OPT_CONVINCE_LESS"
 msgid "Convince them to take only half of your shills"
-msgstr "Convince them to take only half of your shills"
+msgstr "Convainquez-les de ne prendre que la moitié de vos shills"
 
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ROB.OPT_CONVINCE_NONE
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ROB.OPT_CONVINCE_NONE"
 msgid "Convince {agent} to leave you alone"
-msgstr "Convince {agent} to leave you alone"
+msgstr "Convaincre {agent} de te laisser tranquille"
 
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ROB.OPT_FIGHT
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ROB.OPT_FIGHT"
 msgid "Defend yourself"
-msgstr "Defend yourself"
+msgstr "Se défendre"
 
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ROB.OPT_HAND_OVER_MONEY
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ROB.OPT_HAND_OVER_MONEY"
@@ -6846,7 +6846,7 @@ msgstr "Hand over <i>ALL</> of your shills"
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ROB.TT_LESS_AMOUNT
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ROB.TT_LESS_AMOUNT"
 msgid "Give {1#money}"
-msgstr "Give {1#money}"
+msgstr "Donner {1#money}"
 
 #: CONVO.BANDIT_TENT_ENCOUNTER.STATE_ATTACK.DIALOG_FAIL_NEGOTIATION
 msgctxt "CONVO.BANDIT_TENT_ENCOUNTER.STATE_ATTACK.DIALOG_FAIL_NEGOTIATION"
@@ -6871,7 +6871,7 @@ msgstr "                agent:\n                    Fine. Get out of here before
 #: CONVO.BANDIT_TENT_ENCOUNTER.STATE_ATTACK.OPT_FIGHT
 msgctxt "CONVO.BANDIT_TENT_ENCOUNTER.STATE_ATTACK.OPT_FIGHT"
 msgid "Defend yourself"
-msgstr "Defend yourself"
+msgstr "Se défendre"
 
 #: CONVO.BANDIT_TENT_ENCOUNTER.STATE_ATTACK.OPT_NEGOTIATE
 msgctxt "CONVO.BANDIT_TENT_ENCOUNTER.STATE_ATTACK.OPT_NEGOTIATE"
@@ -6951,7 +6951,7 @@ msgstr "Tell {agent#agent} you don't have that much money"
 #: CONVO.BANDIT_THREATEN_PLAYER.OPT_FIGHT
 msgctxt "CONVO.BANDIT_THREATEN_PLAYER.OPT_FIGHT"
 msgid "Defend yourself"
-msgstr "Defend yourself"
+msgstr "Se défendre"
 
 #: CONVO.BANDIT_THREATEN_PLAYER.OPT_HAND_OVER_MONEY
 msgctxt "CONVO.BANDIT_THREATEN_PLAYER.OPT_HAND_OVER_MONEY"
@@ -7951,7 +7951,7 @@ msgstr "                agent:\n                    !exit\n                * The
 #: CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_MEET_BANDITS.OPT_FIGHT
 msgctxt "CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_MEET_BANDITS.OPT_FIGHT"
 msgid "Defend yourself"
-msgstr "Defend yourself"
+msgstr "Se défendre"
 
 #: CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_MEET_HESH.DIALOG_FAIL_NEGOTIATION
 msgctxt "CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_MEET_HESH.DIALOG_FAIL_NEGOTIATION"
@@ -8001,7 +8001,7 @@ msgstr "                * With that dealt with, you only hope the bandits don't 
 #: CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_MEET_MONSTERS.OPT_FIGHT
 msgctxt "CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_MEET_MONSTERS.OPT_FIGHT"
 msgid "Defend yourself"
-msgstr "Defend yourself"
+msgstr "Se défendre"
 
 #: CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE_2.DIALOG_INTRO
 msgctxt "CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE_2.DIALOG_INTRO"
@@ -8956,7 +8956,7 @@ msgstr "Rush to {spree_prisoner}'s defense"
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_3.STATE_ENCOUNTER.OPT_DEFEND
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_3.STATE_ENCOUNTER.OPT_DEFEND"
 msgid "Defend yourself"
-msgstr "Defend yourself"
+msgstr "Se défendre"
 
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_3.STATE_ENCOUNTER.OPT_HAND_BACK
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_3.STATE_ENCOUNTER.OPT_HAND_BACK"
@@ -9096,7 +9096,7 @@ msgstr "                * {agent} looks confused.\n                agent:\n     
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_6.STATE_REVENGE_FIGHT.OPT_DEFEND
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_6.STATE_REVENGE_FIGHT.OPT_DEFEND"
 msgid "Defend yourself"
-msgstr "Defend yourself"
+msgstr "Se défendre"
 
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_6.STATE_REVENGE_FIGHT.OPT_NEGOTIATE
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_6.STATE_REVENGE_FIGHT.OPT_NEGOTIATE"
@@ -23131,17 +23131,17 @@ msgstr "z\nHotkey: {1#binding}"
 #: UI.MAIN_OVERLAY.VIEW_BATTLE_DECK
 msgctxt "UI.MAIN_OVERLAY.VIEW_BATTLE_DECK"
 msgid "zView Battle Deck"
-msgstr "zView Battle Deck"
+msgstr "zVoir le deck de combat"
 
 #: UI.MAIN_OVERLAY.VIEW_NEGOTIATION_DECK
 msgctxt "UI.MAIN_OVERLAY.VIEW_NEGOTIATION_DECK"
 msgid "zView Negotiation Deck"
-msgstr "zView Negotiation Deck"
+msgstr "zVoir le deck de négociation"
 
 #: UI.MAIN_OVERLAY.VIEW_QUEST
 msgctxt "UI.MAIN_OVERLAY.VIEW_QUEST"
 msgid "zView Active Contracts"
-msgstr "zView Active Contracts"
+msgstr "zVoir les contrats en cour"
 
 #: UI.MINIMAP.CENTER
 msgctxt "UI.MINIMAP.CENTER"
@@ -23161,12 +23161,12 @@ msgstr "zOpen Full Map"
 #: UI.MINIMAP.ZOOMIN
 msgctxt "UI.MINIMAP.ZOOMIN"
 msgid "zZoom In"
-msgstr "zZoom In"
+msgstr "zZoom plus"
 
 #: UI.MINIMAP.ZOOMOUT
 msgctxt "UI.MINIMAP.ZOOMOUT"
 msgid "zZoom Out"
-msgstr "zZoom Out"
+msgstr "zZoom moins"
 
 #: UI.MONEY_INDICATOR.TOOLTIP
 msgctxt "UI.MONEY_INDICATOR.TOOLTIP"
@@ -23176,7 +23176,7 @@ msgstr "z<b>Shills Available</b>\nThe currency of Havaria."
 #: UI.MOVIE_SCREEN.SKIP
 msgctxt "UI.MOVIE_SCREEN.SKIP"
 msgid "zPress {1} to skip"
-msgstr "zPress {1} to skip"
+msgstr "zAppuyez {1} pour passer"
 
 #: UI.NEGOTIATION_PANEL.ACTION_COST
 msgctxt "UI.NEGOTIATION_PANEL.ACTION_COST"
@@ -23576,7 +23576,7 @@ msgstr "zYou can't do that while you are in conversation"
 #: UI.QUEST_STATUS.DROP_QUEST_BTN
 msgctxt "UI.QUEST_STATUS.DROP_QUEST_BTN"
 msgid "zDROP QUEST"
-msgstr "zDROP QUEST"
+msgstr "zABANDONNER LA QUETE"
 
 #: UI.QUEST_STATUS.DROP_QUEST_DESC
 msgctxt "UI.QUEST_STATUS.DROP_QUEST_DESC"
@@ -23586,32 +23586,32 @@ msgstr "zThis will fail the quest, which may cause people to dislike you. Are yo
 #: UI.QUEST_STATUS.DROP_QUEST_TITLE
 msgctxt "UI.QUEST_STATUS.DROP_QUEST_TITLE"
 msgid "zDrop Quest"
-msgstr "zDrop Quest"
+msgstr "zAbandonner la quête"
 
 #: UI.QUEST_STATUS.FAILED_DESC
 msgctxt "UI.QUEST_STATUS.FAILED_DESC"
 msgid "z<#PENALTY>QUEST FAILED</>\n{1}"
-msgstr "z<#PENALTY>QUEST FAILED</>\n{1}"
+msgstr "z<#PENALTY>ECHEC DE LA QUETE</>\n{1}"
 
 #: UI.QUEST_STATUS.FAILED_TYPE
 msgctxt "UI.QUEST_STATUS.FAILED_TYPE"
 msgid "z<#PENALTY>FAILED QUEST</>"
-msgstr "z<#PENALTY>FAILED QUEST</>"
+msgstr "z<#PENALTY>ECHEC DE LA QUETE</>"
 
 #: UI.QUEST_STATUS.NEW_TYPE
 msgctxt "UI.QUEST_STATUS.NEW_TYPE"
 msgid "zNEW QUEST"
-msgstr "zNEW QUEST"
+msgstr "zNOUVELLE QUETE"
 
 #: UI.QUEST_STATUS.TIMELIMIT_DUE
 msgctxt "UI.QUEST_STATUS.TIMELIMIT_DUE"
 msgid "zDue: {1}"
-msgstr "zDue: {1}"
+msgstr "zCause: {1}"
 
 #: UI.QUEST_STATUS.TIMELIMIT_DURATION
 msgctxt "UI.QUEST_STATUS.TIMELIMIT_DURATION"
 msgid "zTime Limit: {1#duration}"
-msgstr "zTime Limit: {1#duration}"
+msgstr "zTemps écoulé: {1#duration}"
 
 #: UI.RELATIONSHIP_LINK.AGENTS_TOOLTIP
 msgctxt "UI.RELATIONSHIP_LINK.AGENTS_TOOLTIP"
