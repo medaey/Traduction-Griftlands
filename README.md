@@ -6,7 +6,8 @@
 
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
+Traduction en Français pour le jeu vidéo Griftlands.
 ## Installation:
-Pas de méthode d'installation avec la version alpha du jeux
+1) Pour le moment il n'y a pas de méthode d'installation avec la version alpha du jeux
 
 ## Désinstallation:
