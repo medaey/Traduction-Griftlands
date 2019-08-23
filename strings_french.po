@@ -1881,7 +1881,7 @@ msgstr "zweeks ago"
 #: CALENDAR.TIMEDELTA.YESTERDAY
 msgctxt "CALENDAR.TIMEDELTA.YESTERDAY"
 msgid "zyesterday"
-msgstr "zyesterday"
+msgstr "zhier"
 
 #: CALENDAR.TOMORROW_PHASE
 msgctxt "CALENDAR.TOMORROW_PHASE"
@@ -1896,7 +1896,7 @@ msgstr "z{1} days ago at {2}"
 #: CALENDAR.YESTERDAY_PHASE
 msgctxt "CALENDAR.YESTERDAY_PHASE"
 msgid "zyesterday {1}"
-msgstr "zyesterday {1}"
+msgstr "zhier {1}"
 
 #: CARD.ADMIRALTY_INTEL.NAME
 msgctxt "CARD.ADMIRALTY_INTEL.NAME"
@@ -3011,7 +3011,7 @@ msgstr "zAdd {EXPEND} to the next opponent card played."
 #: CARD.OBSERVE.NAME
 msgctxt "CARD.OBSERVE.NAME"
 msgid "zObserve"
-msgstr "zObserve"
+msgstr "zObserver"
 
 #: CARD.OBSERVE_PLUS.DESC
 msgctxt "CARD.OBSERVE_PLUS.DESC"
@@ -3021,7 +3021,7 @@ msgstr "zAdd {EXPEND} to the next opponent card played."
 #: CARD.OBSERVE_PLUS.NAME
 msgctxt "CARD.OBSERVE_PLUS.NAME"
 msgid "zObserve+"
-msgstr "zObserve+"
+msgstr "zObserver+"
 
 #: CARD.OPEN_HOSTILITY.NAME
 msgctxt "CARD.OPEN_HOSTILITY.NAME"
@@ -6531,7 +6531,7 @@ msgstr "Se défendre"
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.OPT_NEGOTIATE
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.OPT_NEGOTIATE"
 msgid "Convince {agent#agent} to back off"
-msgstr "Convince {agent#agent} to back off"
+msgstr "Convaincre {agent#agent} d'arrêter"
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.START.DIALOG_INTRO
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.START.DIALOG_INTRO"
@@ -6581,7 +6581,7 @@ msgstr "Hand over enough money to buy a {demand_item#item}"
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_DEMAND_ITEM.OPT_NEGOTIATE
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_DEMAND_ITEM.OPT_NEGOTIATE"
 msgid "Convince {agent#agent} to leave you alone."
-msgstr "Convince {agent#agent} to leave you alone."
+msgstr "Convaincre {agent#agent} de vous laisser tranquille."
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_DEMAND_MONEY.DIALOG_DEMAND_MONEY
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_DEMAND_MONEY.DIALOG_DEMAND_MONEY"
@@ -6961,7 +6961,7 @@ msgstr "Hand over the money"
 #: CONVO.BANDIT_THREATEN_PLAYER.OPT_NEGOTIATE
 msgctxt "CONVO.BANDIT_THREATEN_PLAYER.OPT_NEGOTIATE"
 msgid "Convince {agent#agent} to back off"
-msgstr "Convince {agent#agent} to back off"
+msgstr "Convaincre {agent#agent} d'arrêter"
 
 #: CONVO.BAR_SHIFTY_BANDIT.DIAL_FINE
 msgctxt "CONVO.BAR_SHIFTY_BANDIT.DIAL_FINE"
@@ -7161,7 +7161,7 @@ msgstr "            player:\n                So I've heard you're gunning for me
 #: CONVO.CONS_GRUDGE_ATTACK_2.OPT_TRY_RECONCILE
 msgctxt "CONVO.CONS_GRUDGE_ATTACK_2.OPT_TRY_RECONCILE"
 msgid "Convince {agent#agent} to back down"
-msgstr "Convince {agent#agent} to back down"
+msgstr "Convaincre {agent#agent} de faire marche arrière"
 
 #: CONVO.CONS_GRUDGE_ATTACK_3.ACCOST_START.DIALOG_FAILURE
 msgctxt "CONVO.CONS_GRUDGE_ATTACK_3.ACCOST_START.DIALOG_FAILURE"
@@ -7196,7 +7196,7 @@ msgstr "                player:\n                    You don't have to do this..
 #: CONVO.CONS_GRUDGE_ATTACK_3.ACCOST_START.OPT_TRY_RECONCILE
 msgctxt "CONVO.CONS_GRUDGE_ATTACK_3.ACCOST_START.OPT_TRY_RECONCILE"
 msgid "Convince {agent} to back down"
-msgstr "Convince {agent} to back down"
+msgstr "Convaincre {agent} de faire marche arrière"
 
 #: CONVO.CREW_CHAT.OPT_DISMISS
 msgctxt "CONVO.CREW_CHAT.OPT_DISMISS"
@@ -7366,7 +7366,7 @@ msgstr "There are no patrons here"
 #: CONVO.FALCON_CHAT.CONVINCE_JOIN_PARTY
 msgctxt "CONVO.FALCON_CHAT.CONVINCE_JOIN_PARTY"
 msgid "Convince {agent.name} to join your crew"
-msgstr "Convince {agent.name} to join your crew"
+msgstr "Convaincre {agent.name} de rejoindre votre équipe"
 
 #: CONVO.FALCON_CHAT.GIVE_ME_TIPS
 msgctxt "CONVO.FALCON_CHAT.GIVE_ME_TIPS"
@@ -7986,7 +7986,7 @@ msgstr "Leave {agent} to {agent.hisher} own devices"
 #: CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_MEET_HESH.OPT_NEGOTIATION
 msgctxt "CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_MEET_HESH.OPT_NEGOTIATION"
 msgid "Convince {agent} to join you against the bandits"
-msgstr "Convince {agent} to join you against the bandits"
+msgstr "Convaincre {agent} de vous rejoindre pour affronter les bandits"
 
 #: CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_MEET_MONSTERS.DIALOG_INTRO
 msgctxt "CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_MEET_MONSTERS.DIALOG_INTRO"
@@ -8281,7 +8281,7 @@ msgstr "Agree to the offer"
 #: CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_4.STATE_ROBBERY.OPT_ASK_TO_LEAVE
 msgctxt "CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_4.STATE_ROBBERY.OPT_ASK_TO_LEAVE"
 msgid "Convince {bandit} to leave"
-msgstr "Convince {bandit} to leave"
+msgstr "Convaincre {bandit} de partir"
 
 #: CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_4.STATE_ROBBERY.OPT_DEFEND
 msgctxt "CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_4.STATE_ROBBERY.OPT_DEFEND"
@@ -8336,7 +8336,7 @@ msgstr "Tell {handler} about {clerk}'s treachery"
 #: CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_5.OPT_CONVINCE_WAS_ROBBED
 msgctxt "CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_5.OPT_CONVINCE_WAS_ROBBED"
 msgid "Convince {handler} you were robbed"
-msgstr "Convince {handler} you were robbed"
+msgstr "Convaincre {handler} qu'on vous a volé"
 
 #: CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_6.DIALOG_EXCUSE
 msgctxt "CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_6.DIALOG_EXCUSE"
@@ -8696,7 +8696,7 @@ msgstr "            player:\n                !placate\n                Hunter's 
 #: CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION_3.OPT_CONVINCE
 msgctxt "CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION_3.OPT_CONVINCE"
 msgid "Convince {agent} that {target} is still loyal"
-msgstr "Convince {agent} that {target} is still loyal"
+msgstr "Convaincre {agent} que {target} est toujout loyal"
 
 #: CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION_4.DIALOG_INTRO
 msgctxt "CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION_4.DIALOG_INTRO"
@@ -8826,7 +8826,7 @@ msgstr "            player:\n                It's time you consider a new line o
 #: CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_2.OPT_CONVINCE_TO_LEAVE_JOB
 msgctxt "CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_2.OPT_CONVINCE_TO_LEAVE_JOB"
 msgid "Convince {target} to leave their job"
-msgstr "Convince {target} to leave their job"
+msgstr "Convaincre {target} to leave their job"
 
 #: CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_3.DIALOG_GIVE_RUMOUR
 msgctxt "CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_3.DIALOG_GIVE_RUMOUR"
@@ -8971,7 +8971,7 @@ msgstr "Let it happen"
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_3.STATE_ENCOUNTER.OPT_NEGOTIATE_HAND_BACK
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_3.STATE_ENCOUNTER.OPT_NEGOTIATE_HAND_BACK"
 msgid "Convince {agent} to back down"
-msgstr "Convince {agent} to back down"
+msgstr "Convaincre {agent} de faire marche arrière"
 
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_3.STATE_ENCOUNTER.OPT_REFUSE
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_3.STATE_ENCOUNTER.OPT_REFUSE"
@@ -9101,7 +9101,7 @@ msgstr "Se défendre"
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_6.STATE_REVENGE_FIGHT.OPT_NEGOTIATE
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_6.STATE_REVENGE_FIGHT.OPT_NEGOTIATE"
 msgid "Convince {agent} to let you go"
-msgstr "Convince {agent} to let you go"
+msgstr "Convaincre {agent} de te laisser partir"
 
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_6.STATE_REVENGE_FIGHT.OPT_TURN_OVER
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_6.STATE_REVENGE_FIGHT.OPT_TURN_OVER"
@@ -9626,7 +9626,7 @@ msgstr "                player:\n                    !point\n                   
 #: CONVO.KALANDRA_ASSET_LIBERATION_2.STATE_TRY_COME_WITH.OPT_NEGOTIATION
 msgctxt "CONVO.KALANDRA_ASSET_LIBERATION_2.STATE_TRY_COME_WITH.OPT_NEGOTIATION"
 msgid "Convince {agent} to to come with you"
-msgstr "Convince {agent} to to come with you"
+msgstr "Convaincre {agent} de venir avec toi"
 
 #: CONVO.KALANDRA_ASSET_LIBERATION_2.STATE_TRY_COME_WITH.OPT_NEVER_MIND
 msgctxt "CONVO.KALANDRA_ASSET_LIBERATION_2.STATE_TRY_COME_WITH.OPT_NEVER_MIND"
@@ -9846,7 +9846,7 @@ msgstr "            player:\n                Yeah, fine. I'll take care of it, l
 #: CONVO.KALANDRA_BUSINESS_IS_BOOMING.OPT_CONVINCE
 msgctxt "CONVO.KALANDRA_BUSINESS_IS_BOOMING.OPT_CONVINCE"
 msgid "Convince {agent} to come with you"
-msgstr "Convince {agent} to come with you"
+msgstr "Convaincre {agent} to come with you"
 
 #: CONVO.KALANDRA_BUSINESS_IS_BOOMING.OPT_GREET
 msgctxt "CONVO.KALANDRA_BUSINESS_IS_BOOMING.OPT_GREET"
@@ -9891,7 +9891,7 @@ msgstr "                agent:\n                    !exit\n                * The
 #: CONVO.KALANDRA_BUSINESS_IS_BOOMING_2.STATE_NOT_PRESENT.OPT_CONVINCE_INNOCENT
 msgctxt "CONVO.KALANDRA_BUSINESS_IS_BOOMING_2.STATE_NOT_PRESENT.OPT_CONVINCE_INNOCENT"
 msgid "Convince {agent} they are mistaken"
-msgstr "Convince {agent} they are mistaken"
+msgstr "Convaincre {agent} qu'ils se trompent"
 
 #: CONVO.KALANDRA_BUSINESS_IS_BOOMING_2.STATE_PRESENT.DIALOG_CONVINCE
 msgctxt "CONVO.KALANDRA_BUSINESS_IS_BOOMING_2.STATE_PRESENT.DIALOG_CONVINCE"
@@ -9931,7 +9931,7 @@ msgstr "                explosives_expert:\n                    !right\n        
 #: CONVO.KALANDRA_BUSINESS_IS_BOOMING_2.STATE_PRESENT.OPT_CONVINCE
 msgctxt "CONVO.KALANDRA_BUSINESS_IS_BOOMING_2.STATE_PRESENT.OPT_CONVINCE"
 msgid "Convince {agent} to let {explosives_expert} go"
-msgstr "Convince {agent} to let {explosives_expert} go"
+msgstr "Convaincre {agent} de laisser {explosives_expert} partir"
 
 #: CONVO.KALANDRA_BUSINESS_IS_BOOMING_2.STATE_PRESENT.OPT_FIGHT
 msgctxt "CONVO.KALANDRA_BUSINESS_IS_BOOMING_2.STATE_PRESENT.OPT_FIGHT"
@@ -10046,7 +10046,7 @@ msgstr "Leave the workers to their fate"
 #: CONVO.KALANDRA_BUSINESS_IS_BOOMING_3.STATE_MEET_WORKERS.OPT_NEGOTIATE
 msgctxt "CONVO.KALANDRA_BUSINESS_IS_BOOMING_3.STATE_MEET_WORKERS.OPT_NEGOTIATE"
 msgid "Convince {agent} to get out of here"
-msgstr "Convince {agent} to get out of here"
+msgstr "Convaincre {agent} pour sortir d'ici"
 
 #: CONVO.KALANDRA_BUSINESS_IS_BOOMING_4.DIALOG_WORKERS_DIED
 msgctxt "CONVO.KALANDRA_BUSINESS_IS_BOOMING_4.DIALOG_WORKERS_DIED"
@@ -10131,7 +10131,7 @@ msgstr "            target:\n                Fine. I'll go. Should be good for l
 #: CONVO.KALANDRA_WORKER_RALLY.OPT_CONVINCE_TARGET_TO_ATTEND
 msgctxt "CONVO.KALANDRA_WORKER_RALLY.OPT_CONVINCE_TARGET_TO_ATTEND"
 msgid "Convince {target} to attend the rally"
-msgstr "Convince {target} to attend the rally"
+msgstr "Convaincre {target} d'assiter au rassemblement"
 
 #: CONVO.KALANDRA_WORKER_RALLY_2.STATE_TRY_THREAT.DIALOG_BRIBED
 msgctxt "CONVO.KALANDRA_WORKER_RALLY_2.STATE_TRY_THREAT.DIALOG_BRIBED"
@@ -10176,7 +10176,7 @@ msgstr "Attaque {agent}"
 #: CONVO.KALANDRA_WORKER_RALLY_2.STATE_TRY_THREAT.OPT_NEGOTIATION
 msgctxt "CONVO.KALANDRA_WORKER_RALLY_2.STATE_TRY_THREAT.OPT_NEGOTIATION"
 msgid "Convince {agent} it wasn't you"
-msgstr "Convince {agent} it wasn't you"
+msgstr "Convaincre {agent} que ce n'était pas vous"
 
 #: CONVO.KALANDRA_WORKER_RALLY_2.STATE_TRY_THREAT.OPT_PAY_OFF
 msgctxt "CONVO.KALANDRA_WORKER_RALLY_2.STATE_TRY_THREAT.OPT_PAY_OFF"
@@ -10216,7 +10216,7 @@ msgstr "Resort to violence"
 #: CONVO.KALANDRA_WORKER_RALLY_3.STATE_BUST_UP.OPT_NEGOTIATION
 msgctxt "CONVO.KALANDRA_WORKER_RALLY_3.STATE_BUST_UP.OPT_NEGOTIATION"
 msgid "Convince {agent} to let {handler} finish"
-msgstr "Convince {agent} to let {handler} finish"
+msgstr "Convaincre {agent} de laisser {handler} finir"
 
 #: CONVO.KALANDRA_WORKER_RALLY_3.STATE_CONCLUSION.DIALOG_INTRO
 msgctxt "CONVO.KALANDRA_WORKER_RALLY_3.STATE_CONCLUSION.DIALOG_INTRO"
@@ -10346,7 +10346,7 @@ msgstr "Attaque {agent}"
 #: CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_NEGOTIATE
 msgctxt "CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_NEGOTIATE"
 msgid "Convince {agent} it was nothing"
-msgstr "Convince {agent} it was nothing"
+msgstr "Convaincre {agent} que ce n'était rien"
 
 #: CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_RUN
 msgctxt "CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_RUN"
@@ -10576,7 +10576,7 @@ msgstr "Blackmail {agent}"
 #: CONVO.MANIPULATE_CHAT.OPT_CONVINCE_BEATDOWN
 msgctxt "CONVO.MANIPULATE_CHAT.OPT_CONVINCE_BEATDOWN"
 msgid "Convince {agent} to help you attack an enemy..."
-msgstr "Convince {agent} to help you attack an enemy..."
+msgstr "Convaincre {agent} de vous aider à attquer un ennemi..."
 
 #: CONVO.MANIPULATE_CHAT.OPT_GET_RUMOUR
 msgctxt "CONVO.MANIPULATE_CHAT.OPT_GET_RUMOUR"
@@ -10791,12 +10791,12 @@ msgstr "Attaque {target}"
 #: CONVO.MJR_BANDIT_BACK_OFF.STATE_CONFRONT.OPT_BACK_DOWN
 msgctxt "CONVO.MJR_BANDIT_BACK_OFF.STATE_CONFRONT.OPT_BACK_DOWN"
 msgid "Back down"
-msgstr "Back down"
+msgstr "Redescendre"
 
 #: CONVO.MJR_BANDIT_BACK_OFF.STATE_CONFRONT.OPT_NEGOTIATE
 msgctxt "CONVO.MJR_BANDIT_BACK_OFF.STATE_CONFRONT.OPT_NEGOTIATE"
 msgid "Convince {target} to leave {giver} alone"
-msgstr "Convince {target} to leave {giver} alone"
+msgstr "Convaincre {target} to leave {giver} alone"
 
 #: CONVO.MJR_BANDIT_BACK_OFF_2.DIALOG_CONFIRM
 msgctxt "CONVO.MJR_BANDIT_BACK_OFF_2.DIALOG_CONFIRM"
@@ -10991,7 +10991,7 @@ msgstr "                agent:\n                    Alright. If {giver.heshe} wa
 #: CONVO.MJR_MAKE_PEACE.STATE_ASK_ABOUT_GIVER.OPT_CONVINCE
 msgctxt "CONVO.MJR_MAKE_PEACE.STATE_ASK_ABOUT_GIVER.OPT_CONVINCE"
 msgid "Convince {target} to forgive {giver}"
-msgstr "Convince {target} to forgive {giver}"
+msgstr "Convaincre {target} de pardonner {giver}"
 
 #: CONVO.MJR_MAKE_PEACE_2.OPT_REPORT_SUCCESS
 msgctxt "CONVO.MJR_MAKE_PEACE_2.OPT_REPORT_SUCCESS"
@@ -11156,7 +11156,7 @@ msgstr "            agent:\n                Fine, I'll let it go.\n        "
 #: CONVO.MJR_PERSONAL_EFFECTS_5.OPT_INSIST
 msgctxt "CONVO.MJR_PERSONAL_EFFECTS_5.OPT_INSIST"
 msgid "Convince {agent} to back off"
-msgstr "Convince {agent} to back off"
+msgstr "Convaincre {agent} d'arrêter"
 
 #: CONVO.MJR_PERSONAL_EFFECTS_5.OPT_LEAVE_ALONE
 msgctxt "CONVO.MJR_PERSONAL_EFFECTS_5.OPT_LEAVE_ALONE"
@@ -11276,7 +11276,7 @@ msgstr "            agent:\n                No, I'm going to to what's right.\n 
 #: CONVO.MOLE_DISCOVERED_2.OPT_CONVINCE_NO_TELL
 msgctxt "CONVO.MOLE_DISCOVERED_2.OPT_CONVINCE_NO_TELL"
 msgid "Convince {threat} to keep quiet about {mole}"
-msgstr "Convince {threat} to keep quiet about {mole}"
+msgstr "Convaincre {threat} de ne rien dire sur {mole}"
 
 #: CONVO.MOLE_DISCOVERED_3.DIALOG_THANK
 msgctxt "CONVO.MOLE_DISCOVERED_3.DIALOG_THANK"
@@ -11501,7 +11501,7 @@ msgstr "            agent:\n                I'm working on it!\n                
 #: CONVO.OBLG_NEED_MONEY_3.OPT_ASK_ABOUT_MONEY
 msgctxt "CONVO.OBLG_NEED_MONEY_3.OPT_ASK_ABOUT_MONEY"
 msgid "Ask about the loan"
-msgstr "Ask about the loan"
+msgstr "Poser des questions sur le prêt"
 
 #: CONVO.OBLG_NEED_MONEY_4.DIALOG_BREAK_EVEN
 msgctxt "CONVO.OBLG_NEED_MONEY_4.DIALOG_BREAK_EVEN"
@@ -11526,7 +11526,7 @@ msgstr "            agent:\n                So, I have good news, and I have bad
 #: CONVO.OBLG_NEED_MONEY_4.OPT_ASK_ABOUT_MONEY
 msgctxt "CONVO.OBLG_NEED_MONEY_4.OPT_ASK_ABOUT_MONEY"
 msgid "Ask about the loan"
-msgstr "Ask about the loan"
+msgstr "Poser des questions sur le prêt"
 
 #: CONVO.OBLG_NEED_MONEY_5.STATE_DISAPPOINT.DIALOG_DISAPPOINTED
 msgctxt "CONVO.OBLG_NEED_MONEY_5.STATE_DISAPPOINT.DIALOG_DISAPPOINTED"
@@ -11846,12 +11846,12 @@ msgstr "Attaque {agent}"
 #: CONVO.PROPRIETOR_CHAT.STATE_TRY_GAIN_ENTRY.OPT_LEAVE
 msgctxt "CONVO.PROPRIETOR_CHAT.STATE_TRY_GAIN_ENTRY.OPT_LEAVE"
 msgid "Back off"
-msgstr "Back off"
+msgstr "Reculer"
 
 #: CONVO.PROPRIETOR_CHAT.STATE_TRY_GAIN_ENTRY.OPT_NEGOTIATE
 msgctxt "CONVO.PROPRIETOR_CHAT.STATE_TRY_GAIN_ENTRY.OPT_NEGOTIATE"
 msgid "Convince {agent} to let you in"
-msgstr "Convince {agent} to let you in"
+msgstr "Convaincre {agent} de vous laisser entrer"
 
 #: CONVO.RAN_AWAY_CHAT.STATE_RESPOND_TO_RAN_AWAY.DIALOG_NO_RUN
 msgctxt "CONVO.RAN_AWAY_CHAT.STATE_RESPOND_TO_RAN_AWAY.DIALOG_NO_RUN"
@@ -12116,7 +12116,7 @@ msgstr "            ** HINT: You can tell by {admiralty_clerk}'s tight lip that 
 #: CONVO.SAL_STORY_ACT_0_3_3.OPT_ASK_TO_LEAVE
 msgctxt "CONVO.SAL_STORY_ACT_0_3_3.OPT_ASK_TO_LEAVE"
 msgid "Ask to leave"
-msgstr "Ask to leave"
+msgstr "Demander de partir"
 
 #: CONVO.SAL_STORY_ACT_0_3_4.DIAL_NEGOTIATE_FAIL
 msgctxt "CONVO.SAL_STORY_ACT_0_3_4.DIAL_NEGOTIATE_FAIL"
@@ -12141,7 +12141,7 @@ msgstr "            admiralty_clerk:\n                !angry_point\n            
 #: CONVO.SAL_STORY_ACT_0_3_4.OPT_TALK_YOUR_WAY_THROUGH
 msgctxt "CONVO.SAL_STORY_ACT_0_3_4.OPT_TALK_YOUR_WAY_THROUGH"
 msgid "Ask to leave"
-msgstr "Ask to leave"
+msgstr "Demander de partir"
 
 #: CONVO.SAL_STORY_ACT_0_3_5.RESCUE.DIAL_FSSH_RESCUE
 msgctxt "CONVO.SAL_STORY_ACT_0_3_5.RESCUE.DIAL_FSSH_RESCUE"
@@ -12266,7 +12266,7 @@ msgstr "Ask about the Admiralty"
 #: CONVO.SAL_STORY_ACT_1.STATE_QUESTIONS.OPT_3
 msgctxt "CONVO.SAL_STORY_ACT_1.STATE_QUESTIONS.OPT_3"
 msgid "Ask about the Spree"
-msgstr "Ask about the Spree"
+msgstr "Posez des questions sur la fête"
 
 #: CONVO.SAL_STORY_ACT_1.STATE_QUESTIONS.OPT_4
 msgctxt "CONVO.SAL_STORY_ACT_1.STATE_QUESTIONS.OPT_4"
@@ -12676,7 +12676,7 @@ msgstr "Provoke {assassination_target} into attacking you"
 #: CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_ASSASSINATION.ASSASSINATION.OPT_SEARCH
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_ASSASSINATION.ASSASSINATION.OPT_SEARCH"
 msgid "Convince {assassination_target} you need to search {assassination_target.hisher} bags"
-msgstr "Convince {assassination_target} you need to search {assassination_target.hisher} bags"
+msgstr "Convaincre {assassination_target} que vous devez chercher {assassination_target.hisher} sacs"
 
 #: CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_ASSASSINATION.ASSASSINATION.OPT_WARN_OF_ATTACK
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_ASSASSINATION.ASSASSINATION.OPT_WARN_OF_ATTACK"
@@ -12801,7 +12801,7 @@ msgstr "Attaque {other_guard}"
 #: CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_SMUGGLE.CONVINCE_OTHER_GUARD.OPT_CONVINCE
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_SMUGGLE.CONVINCE_OTHER_GUARD.OPT_CONVINCE"
 msgid "Convince {other_guard} to look the other way"
-msgstr "Convince {other_guard} to look the other way"
+msgstr "Convaincre {other_guard} de regarder ailleurs"
 
 #: CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_SMUGGLE.CONVINCE_OTHER_GUARD.OPT_DECLINE_FRIEND
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_ADMIRALTY_SMUGGLE.CONVINCE_OTHER_GUARD.OPT_DECLINE_FRIEND"
@@ -12936,7 +12936,7 @@ msgstr "                player:\n                    !left\n                band
 #: CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_ARREST.ARREST_INTRO.OPT_ABANDON_HANDLER
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_ARREST.ARREST_INTRO.OPT_ABANDON_HANDLER"
 msgid "Convince {bandit_escort} to leave {handler} for the guards"
-msgstr "Convince {bandit_escort} to leave {handler} for the guards"
+msgstr "Convaincre {bandit_escort} de partir {handler} a cause des gardes"
 
 #: CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_ARREST.ARREST_INTRO.OPT_FIGHT_OFF_GUARDS
 msgctxt "CONVO.SAL_STORY_ACT_1_AUCTION_BANDIT_ARREST.ARREST_INTRO.OPT_FIGHT_OFF_GUARDS"
@@ -13086,7 +13086,7 @@ msgstr "            agent:\n                OK. I'll pencil them in for double s
 #: CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.OPT_BEAT_UP
 msgctxt "CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.OPT_BEAT_UP"
 msgid "Beat up {agent} to send a message"
-msgstr "Beat up {agent} to send a message"
+msgstr "Frapper {agent} pour faire passer un message"
 
 #: CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.OPT_NEGOTIATE
 msgctxt "CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.OPT_NEGOTIATE"
@@ -13126,7 +13126,7 @@ msgstr "            agent:\n                Ok, ok, stop talking.\n             
 #: CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT_2.OPT_BEAT_UP
 msgctxt "CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT_2.OPT_BEAT_UP"
 msgid "Beat up {agent} to send a message"
-msgstr "Beat up {agent} to send a message"
+msgstr "Frapper {agent} pour faire passer un message"
 
 #: CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT_2.OPT_NEGOTIATE
 msgctxt "CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT_2.OPT_NEGOTIATE"
@@ -13371,7 +13371,7 @@ msgstr "                giver:\n                    We didn't earn any money at 
 #: CONVO.SIDE_AT_THE_CROSSROAD.STATE_ADMIRALTY_BUST.OPT_NEGOTIATE
 msgctxt "CONVO.SIDE_AT_THE_CROSSROAD.STATE_ADMIRALTY_BUST.OPT_NEGOTIATE"
 msgid "Convince {agent} you aren't who they're looking for"
-msgstr "Convince {agent} you aren't who they're looking for"
+msgstr "Convaincre {agent} vous n'êtes pas celui qu'ils recherchent"
 
 #: CONVO.SIDE_AT_THE_CROSSROAD.STATE_BANDIT_ARRIVE.DIALOG_INTRO
 msgctxt "CONVO.SIDE_AT_THE_CROSSROAD.STATE_BANDIT_ARRIVE.DIALOG_INTRO"
@@ -13511,7 +13511,7 @@ msgstr "            player:\n                I gave {target} your offer, and the
 #: CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_3.OPT_TRICK
 msgctxt "CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_3.OPT_TRICK"
 msgid "Convince {giver} to come with you"
-msgstr "Convince {giver} to come with you"
+msgstr "Convaincre {giver} de vous suivre"
 
 #: CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_4.STATE_CONFRONT.DIALOG_INTRO
 msgctxt "CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_4.STATE_CONFRONT.DIALOG_INTRO"
@@ -14011,7 +14011,7 @@ msgstr "            agent:\n                I'll do it. I must be crazy, but I'l
 #: CONVO.SIDE_EARLY_RETIREMENT_2.OPT_CONVINCE_TO_LEAVE_JOB
 msgctxt "CONVO.SIDE_EARLY_RETIREMENT_2.OPT_CONVINCE_TO_LEAVE_JOB"
 msgid "Convince {target} to leave their job"
-msgstr "Convince {target} to leave their job"
+msgstr "Convaincre {target} de quitter son travail"
 
 #: CONVO.SIDE_EARLY_RETIREMENT_3.DIALOG_OFFER
 msgctxt "CONVO.SIDE_EARLY_RETIREMENT_3.DIALOG_OFFER"
@@ -14231,7 +14231,7 @@ msgstr "            agent:\n                {giver} sent you about that {package
 #: CONVO.SIDE_REPO_PERSON.OPT_BEAT_UP
 msgctxt "CONVO.SIDE_REPO_PERSON.OPT_BEAT_UP"
 msgid "Beat up {agent} to send a message"
-msgstr "Beat up {agent} to send a message"
+msgstr "Frapper {agent} pour faire passer un message"
 
 #: CONVO.SIDE_REPO_PERSON.OPT_CONFRONT
 msgctxt "CONVO.SIDE_REPO_PERSON.OPT_CONFRONT"
@@ -14241,7 +14241,7 @@ msgstr "Confront {agent} about the {package}"
 #: CONVO.SIDE_REPO_PERSON.OPT_CONVINCE_THEM_TO_PAY
 msgctxt "CONVO.SIDE_REPO_PERSON.OPT_CONVINCE_THEM_TO_PAY"
 msgid "Convince {agent} to pay their debt"
-msgstr "Convince {agent} to pay their debt"
+msgstr "Convaincre {agent} de rembourser leur dette"
 
 #: CONVO.SIDE_REPO_PERSON.OPT_DEMAND_ITEM
 msgctxt "CONVO.SIDE_REPO_PERSON.OPT_DEMAND_ITEM"
@@ -14311,7 +14311,7 @@ msgstr "                * You leave before more Jakes make their way ashore.\n  
 #: CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_BEACH_PEOPLE.OPT_ATTACK
 msgctxt "CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_BEACH_PEOPLE.OPT_ATTACK"
 msgid "Attack them"
-msgstr "Attaque them"
+msgstr "Les attaquer"
 
 #: CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_BEACH_PEOPLE.OPT_TALK_WAY_OUT
 msgctxt "CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_BEACH_PEOPLE.OPT_TALK_WAY_OUT"
@@ -14341,7 +14341,7 @@ msgstr "                * You leave before reinforcement can arrive.\n          
 #: CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_WOODS_PEOPLE.OPT_ATTACK
 msgctxt "CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_WOODS_PEOPLE.OPT_ATTACK"
 msgid "Attack them"
-msgstr "Attaque them"
+msgstr "Les attaquer"
 
 #: CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_WOODS_PEOPLE.OPT_SNEAK_AWAY
 msgctxt "CONVO.SIDE_SCOUT_OUT_PATROL_SPOT_2.STATE_WOODS_PEOPLE.OPT_SNEAK_AWAY"
@@ -14421,7 +14421,7 @@ msgstr "Demand {agent} hand over the package"
 #: CONVO.SIDE_SECRET_SHOPPER.STATE_ASK_ABOUT_PACKAGE.OPT_OFFER_TO_BUY_PACKAGE
 msgctxt "CONVO.SIDE_SECRET_SHOPPER.STATE_ASK_ABOUT_PACKAGE.OPT_OFFER_TO_BUY_PACKAGE"
 msgid "Convince {agent} to sell the package to <b>you</> instead"
-msgstr "Convince {agent} to sell the package to <b>you</> instead"
+msgstr "Convaincre {agent} de <b>vous</> vendre la paquet"
 
 #: CONVO.SIDE_SECRET_SHOPPER.STATE_ASK_ABOUT_PACKAGE.OPT_PAY_TAB
 msgctxt "CONVO.SIDE_SECRET_SHOPPER.STATE_ASK_ABOUT_PACKAGE.OPT_PAY_TAB"
@@ -14576,7 +14576,7 @@ msgstr "            agent:\n                Alright. Alright. I'll do it.\n     
 #: CONVO.SIDE_SING_FOR_YOUR_SUPPER.OPT_CONVINCE_BE_INFORMANT
 msgctxt "CONVO.SIDE_SING_FOR_YOUR_SUPPER.OPT_CONVINCE_BE_INFORMANT"
 msgid "Convince {giver} to turn informant"
-msgstr "Convince {giver} to turn informant"
+msgstr "Convaincre {giver} de devenir un informateur"
 
 #: CONVO.SIDE_SING_FOR_YOUR_SUPPER_2.DIALOG_CONVINCE_LEAVE_ALONE_START
 msgctxt "CONVO.SIDE_SING_FOR_YOUR_SUPPER_2.DIALOG_CONVINCE_LEAVE_ALONE_START"
@@ -14611,7 +14611,7 @@ msgstr "Ask about {giver}"
 #: CONVO.SIDE_SING_FOR_YOUR_SUPPER_2.OPT_CONVINCE_LEAVE_ALONE
 msgctxt "CONVO.SIDE_SING_FOR_YOUR_SUPPER_2.OPT_CONVINCE_LEAVE_ALONE"
 msgid "Convince {target} to leave {giver} alone"
-msgstr "Convince {target} to leave {giver} alone"
+msgstr "Convaincre {target} de laisser {giver} seul"
 
 #: CONVO.SIDE_SING_FOR_YOUR_SUPPER_2.OPT_OFFER_TO_HELP_CONVINCE_GIVER
 msgctxt "CONVO.SIDE_SING_FOR_YOUR_SUPPER_2.OPT_OFFER_TO_HELP_CONVINCE_GIVER"
@@ -14821,7 +14821,7 @@ msgstr "                * The door opens just a crack.\n                agent:\n
 #: CONVO.SLUMS_DOOR_ENCOUNTER.STATE_KNOCK.OPT_CONVINCE_ENTRY
 msgctxt "CONVO.SLUMS_DOOR_ENCOUNTER.STATE_KNOCK.OPT_CONVINCE_ENTRY"
 msgid "Convince {agent} to let you in"
-msgstr "Convince {agent} to let you in"
+msgstr "Convaincre {agent} de vous laisser entrer"
 
 #: CONVO.SLUMS_DOOR_ENCOUNTER.STATE_OUTSIDE.DIAL_INTRO
 msgctxt "CONVO.SLUMS_DOOR_ENCOUNTER.STATE_OUTSIDE.DIAL_INTRO"
@@ -15241,7 +15241,7 @@ msgstr "        handler:\n            Not right now, Sal. I've got my own proble
 #: CONVO.WORK_FOR_KALANDRA_2.OPT_ASK_ABOUT_WORK
 msgctxt "CONVO.WORK_FOR_KALANDRA_2.OPT_ASK_ABOUT_WORK"
 msgid "Ask about missions"
-msgstr "Ask about missions"
+msgstr "Poser des questions sur la mission"
 
 #: CONVO.WORK_FOR_KALANDRA_2.OPT_GET_WORK
 msgctxt "CONVO.WORK_FOR_KALANDRA_2.OPT_GET_WORK"
@@ -15326,17 +15326,17 @@ msgstr "Ask about the Admiralty"
 #: CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_ADMIRALTY.OPT_2
 msgctxt "CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_ADMIRALTY.OPT_2"
 msgid "Ask about the auction"
-msgstr "Ask about the auction"
+msgstr "Poser des questions sur la vente aux enchères"
 
 #: CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_ADMIRALTY.OPT_3
 msgctxt "CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_ADMIRALTY.OPT_3"
 msgid "Ask about the auction"
-msgstr "Ask about the auction"
+msgstr "Poser des questions sur la vente aux enchères"
 
 #: CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_ADMIRALTY.OPT_4
 msgctxt "CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_ADMIRALTY.OPT_4"
 msgid "Ask about the auction"
-msgstr "Ask about the auction"
+msgstr "Poser des questions sur la vente aux enchères"
 
 #: CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_BANDITS.DIALOG_1
 msgctxt "CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_BANDITS.DIALOG_1"
@@ -15351,12 +15351,12 @@ msgstr "            player:\n                So if the Spree aren't allowed into
 #: CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_BANDITS.OPT_1
 msgctxt "CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_BANDITS.OPT_1"
 msgid "Ask about the Spree"
-msgstr "Ask about the Spree"
+msgstr "Posez des questions sur la fête"
 
 #: CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_BANDITS.OPT_2
 msgctxt "CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_BANDITS.OPT_2"
 msgid "Ask about the auction"
-msgstr "Ask about the auction"
+msgstr "Poser des questions sur la vente aux enchères"
 
 #: CONVO_COMMON.AGREE
 msgctxt "CONVO_COMMON.AGREE"
@@ -15641,7 +15641,7 @@ msgstr "zNevermind"
 #: CONVO_COMMON.OPT_OBSERVE
 msgctxt "CONVO_COMMON.OPT_OBSERVE"
 msgid "zObserve"
-msgstr "zObserve"
+msgstr "zObserver"
 
 #: CONVO_COMMON.OPT_PALM_GREASE
 msgctxt "CONVO_COMMON.OPT_PALM_GREASE"
@@ -16931,7 +16931,7 @@ msgstr "zAjoute {EXPEND} à la prochaine carte jouée par l'adversaire."
 #: FEATURE.OBSERVE.NAME
 msgctxt "FEATURE.OBSERVE.NAME"
 msgid "zObserve"
-msgstr "zObserve"
+msgstr "zObserver"
 
 #: FEATURE.OPPORTUNISTIC.DESC
 msgctxt "FEATURE.OPPORTUNISTIC.DESC"
@@ -18991,7 +18991,7 @@ msgstr "zAdd {EXPEND} to the next opponent card played."
 #: MODIFIER.OBSERVE.NAME
 msgctxt "MODIFIER.OBSERVE.NAME"
 msgid "zObserve"
-msgstr "zObserve"
+msgstr "zObserver"
 
 #: MODIFIER.ORGANIZER.DESC
 msgctxt "MODIFIER.ORGANIZER.DESC"
@@ -22506,7 +22506,7 @@ msgstr "zQUIT TO MAIN MENU"
 #: UI.DIALOGS.NO
 msgctxt "UI.DIALOGS.NO"
 msgid "zNo"
-msgstr "zNo"
+msgstr "zNon"
 
 #: UI.DIALOGS.OK
 msgctxt "UI.DIALOGS.OK"
@@ -22531,12 +22531,12 @@ msgstr "zLeaving so soon?"
 #: UI.DIALOGS.QUIT_TITLE
 msgctxt "UI.DIALOGS.QUIT_TITLE"
 msgid "zQUIT"
-msgstr "zQUIT"
+msgstr "zQUITTER"
 
 #: UI.DIALOGS.YES
 msgctxt "UI.DIALOGS.YES"
 msgid "zYes"
-msgstr "zYes"
+msgstr "zOui"
 
 #: UI.FIGHTER_PREVIEW.ARRIVES_TOOLTIP
 msgctxt "UI.FIGHTER_PREVIEW.ARRIVES_TOOLTIP"
@@ -22731,7 +22731,7 @@ msgstr "zThis team will act first when the fight starts!"
 #: UI.FIGHT_TEAM_PREVIEW.YOU
 msgctxt "UI.FIGHT_TEAM_PREVIEW.YOU"
 msgid "zYou"
-msgstr "zYou"
+msgstr "zVous"
 
 #: UI.GAME_OVER_SCREEN.BODY_TXT
 msgctxt "UI.GAME_OVER_SCREEN.BODY_TXT"
@@ -22751,12 +22751,12 @@ msgstr "zSubmit Playtest"
 #: UI.GAME_OVER_SCREEN.THANK_YOU
 msgctxt "UI.GAME_OVER_SCREEN.THANK_YOU"
 msgid "zThank you!"
-msgstr "zThank you!"
+msgstr "zJe vous remercie!"
 
 #: UI.GAME_OVER_SCREEN.TITLE
 msgctxt "UI.GAME_OVER_SCREEN.TITLE"
 msgid "zGame Over"
-msgstr "zGame Over"
+msgstr "zPartie Terminée"
 
 #: UI.GRAFT_SCREEN.TITLE
 msgctxt "UI.GRAFT_SCREEN.TITLE"
@@ -24116,7 +24116,7 @@ msgstr "zGarrison"
 #: WORK_DATA.ADMIRALTY_BARRACKS.GARRISON1.JOB.TXT
 msgctxt "WORK_DATA.ADMIRALTY_BARRACKS.GARRISON1.JOB.TXT"
 msgid "zGuarding"
-msgstr "zGuarding"
+msgstr "zGarde"
 
 #: WORK_DATA.ADMIRALTY_BARRACKS.GARRISON2.JOB.TITLE
 msgctxt "WORK_DATA.ADMIRALTY_BARRACKS.GARRISON2.JOB.TITLE"
@@ -24126,7 +24126,7 @@ msgstr "zGarrison"
 #: WORK_DATA.ADMIRALTY_BARRACKS.GARRISON2.JOB.TXT
 msgctxt "WORK_DATA.ADMIRALTY_BARRACKS.GARRISON2.JOB.TXT"
 msgid "zGuarding"
-msgstr "zGuarding"
+msgstr "zGarde"
 
 #: WORK_DATA.COLONYLANDS_LUMIN_DOCKS.FOREMAN.JOB.TITLE
 msgctxt "WORK_DATA.COLONYLANDS_LUMIN_DOCKS.FOREMAN.JOB.TITLE"
@@ -24286,7 +24286,7 @@ msgstr "zGarrison"
 #: WORK_DATA.GB_GATEHOUSE.GARRISON1.JOB.TXT
 msgctxt "WORK_DATA.GB_GATEHOUSE.GARRISON1.JOB.TXT"
 msgid "zGuarding"
-msgstr "zGuarding"
+msgstr "zGarde"
 
 #: WORK_DATA.GB_GATEHOUSE.GARRISON2.JOB.TITLE
 msgctxt "WORK_DATA.GB_GATEHOUSE.GARRISON2.JOB.TITLE"
@@ -24296,7 +24296,7 @@ msgstr "zGarrison"
 #: WORK_DATA.GB_GATEHOUSE.GARRISON2.JOB.TXT
 msgctxt "WORK_DATA.GB_GATEHOUSE.GARRISON2.JOB.TXT"
 msgid "zGuarding"
-msgstr "zGuarding"
+msgstr "zGarde"
 
 #: WORK_DATA.GB_GATEHOUSE.LEADER.JOB.TITLE
 msgctxt "WORK_DATA.GB_GATEHOUSE.LEADER.JOB.TITLE"
@@ -24316,7 +24316,7 @@ msgstr "zGarrison"
 #: WORK_DATA.GB_RISE_HQ.GARRISON1.JOB.TXT
 msgctxt "WORK_DATA.GB_RISE_HQ.GARRISON1.JOB.TXT"
 msgid "zGuarding"
-msgstr "zGuarding"
+msgstr "zGarde"
 
 #: WORK_DATA.GB_RISE_HQ.GARRISON2.JOB.TITLE
 msgctxt "WORK_DATA.GB_RISE_HQ.GARRISON2.JOB.TITLE"
@@ -24326,7 +24326,7 @@ msgstr "zGarrison"
 #: WORK_DATA.GB_RISE_HQ.GARRISON2.JOB.TXT
 msgctxt "WORK_DATA.GB_RISE_HQ.GARRISON2.JOB.TXT"
 msgid "zGuarding"
-msgstr "zGuarding"
+msgstr "zGarde"
 
 #: WORK_DATA.GB_WORKER_BAR.BARTENDER.JOB.TITLE
 msgctxt "WORK_DATA.GB_WORKER_BAR.BARTENDER.JOB.TITLE"
@@ -24471,7 +24471,7 @@ msgstr "zAdmiralty Guard"
 #: WORK_DATA.SAL_ACT_0_HOLDING_ROOM_GUARD.JOB.TXT
 msgctxt "WORK_DATA.SAL_ACT_0_HOLDING_ROOM_GUARD.JOB.TXT"
 msgid "zGuarding"
-msgstr "zGuarding"
+msgstr "zGarde"
 
 #: WORK_DATA.SAL_ACT_1_ADMIRALTY_CONTACT.JOB.TITLE
 msgctxt "WORK_DATA.SAL_ACT_1_ADMIRALTY_CONTACT.JOB.TITLE"
@@ -24486,12 +24486,12 @@ msgstr "zAdvancing the Admiralty's Agenda"
 #: WORK_DATA.SAL_ACT_1_AUCTION_ENTRANCE_GUARD.JOB.TITLE
 msgctxt "WORK_DATA.SAL_ACT_1_AUCTION_ENTRANCE_GUARD.JOB.TITLE"
 msgid "zAuction Guard"
-msgstr "zAuction Guard"
+msgstr "zGarde des enchères"
 
 #: WORK_DATA.SAL_ACT_1_AUCTION_ENTRANCE_GUARD.JOB.TXT
 msgctxt "WORK_DATA.SAL_ACT_1_AUCTION_ENTRANCE_GUARD.JOB.TXT"
 msgid "zGuarding"
-msgstr "zGuarding"
+msgstr "zGarde"
 
 #: WORK_DATA.SAL_ACT_1_AUCTION_HOUSE.CALLER.JOB.TITLE
 msgctxt "WORK_DATA.SAL_ACT_1_AUCTION_HOUSE.CALLER.JOB.TITLE"
@@ -24506,22 +24506,22 @@ msgstr "zRunning Auction"
 #: WORK_DATA.SAL_ACT_1_AUCTION_HOUSE.GUARD_1.JOB.TITLE
 msgctxt "WORK_DATA.SAL_ACT_1_AUCTION_HOUSE.GUARD_1.JOB.TITLE"
 msgid "zAuction Guard"
-msgstr "zAuction Guard"
+msgstr "zGarde des enchères"
 
 #: WORK_DATA.SAL_ACT_1_AUCTION_HOUSE.GUARD_1.JOB.TXT
 msgctxt "WORK_DATA.SAL_ACT_1_AUCTION_HOUSE.GUARD_1.JOB.TXT"
 msgid "zGuarding Auction"
-msgstr "zGuarding Auction"
+msgstr "zVente aux enchères"
 
 #: WORK_DATA.SAL_ACT_1_AUCTION_HOUSE.GUARD_2.JOB.TITLE
 msgctxt "WORK_DATA.SAL_ACT_1_AUCTION_HOUSE.GUARD_2.JOB.TITLE"
 msgid "zAuction Guard"
-msgstr "zAuction Guard"
+msgstr "zGarde des enchères"
 
 #: WORK_DATA.SAL_ACT_1_AUCTION_HOUSE.GUARD_2.JOB.TXT
 msgctxt "WORK_DATA.SAL_ACT_1_AUCTION_HOUSE.GUARD_2.JOB.TXT"
 msgid "zGuarding Auction"
-msgstr "zGuarding Auction"
+msgstr "zVente aux enchères"
 
 #: WORK_DATA.SAL_ACT_1_AUCTION_HOUSE_CONTACT.JOB.TITLE
 msgctxt "WORK_DATA.SAL_ACT_1_AUCTION_HOUSE_CONTACT.JOB.TITLE"
