@@ -1,5 +1,5 @@
 # Traduction-Griftlands
-Traduction en Français pour le jeu vidéo Griftlands.
+<p align="center">Traduction en Français pour le jeu vidéo Griftlands.</p>
 <p align="center">
 <a href="https://github.com/leghort/Traduction-Griftlands/releases"><img src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands"></a>
 <a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/traduction-10%25-orange"></a>
