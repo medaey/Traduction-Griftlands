@@ -4,6 +4,7 @@
 <a href="https://github.com/leghort/Traduction-Griftlands/releases"><img src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands"></a>
 <a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/traduction-8%25-red"></a>
 </p>
+
 ```lua
 Statistique:
 | Statistique sur la Traduction | Éléments     | Mots  | Caractères |
