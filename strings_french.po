@@ -781,7 +781,7 @@ msgstr "zConcentrate+"
 #: ATTACK.KNIFE_DAGGERSTORM.DESC
 msgctxt "ATTACK.KNIFE_DAGGERSTORM.DESC"
 msgid "zInsert {1} {knife_blade_flash} cards into your draw pile."
-msgstr "zInsert {1} {knife_blade_flash} cards into your draw pile."
+msgstr "zInsert {1} {knife_blade_flash} cartes into your draw pile."
 
 #: ATTACK.KNIFE_DAGGERSTORM.NAME
 msgctxt "ATTACK.KNIFE_DAGGERSTORM.NAME"
@@ -791,7 +791,7 @@ msgstr "zDagger Storm"
 #: ATTACK.KNIFE_DAGGERSTORM_PLUS.DESC
 msgctxt "ATTACK.KNIFE_DAGGERSTORM_PLUS.DESC"
 msgid "zInsert {1} {knife_blade_flash} cards into your draw pile."
-msgstr "zInsert {1} {knife_blade_flash} cards into your draw pile."
+msgstr "zInsert {1} {knife_blade_flash} cartes into your draw pile."
 
 #: ATTACK.KNIFE_DAGGERSTORM_PLUS.NAME
 msgctxt "ATTACK.KNIFE_DAGGERSTORM_PLUS.NAME"
@@ -811,7 +811,7 @@ msgstr "zDagger Throw+"
 #: ATTACK.KNIFE_DECEPTION.DESC
 msgctxt "ATTACK.KNIFE_DECEPTION.DESC"
 msgid "z{IMPROVISE} an attack card from your draw pile"
-msgstr "z{IMPROVISE} an attack card from your draw pile"
+msgstr "z{IMPROVISE} an attack carte from your draw pile"
 
 #: ATTACK.KNIFE_DECEPTION.NAME
 msgctxt "ATTACK.KNIFE_DECEPTION.NAME"
@@ -821,7 +821,7 @@ msgstr "zDeception"
 #: ATTACK.KNIFE_DECEPTION_PLUS.DESC
 msgctxt "ATTACK.KNIFE_DECEPTION_PLUS.DESC"
 msgid "z{IMPROVISE} an attack card from your draw pile"
-msgstr "z{IMPROVISE} an attack card from your draw pile"
+msgstr "z{IMPROVISE} an attack carte from your draw pile"
 
 #: ATTACK.KNIFE_DECEPTION_PLUS.NAME
 msgctxt "ATTACK.KNIFE_DECEPTION_PLUS.NAME"
@@ -976,7 +976,7 @@ msgstr "zImprove Accuracy+"
 #: ATTACK.KNIFE_INTO_THE_NIGHT.DESC
 msgctxt "ATTACK.KNIFE_INTO_THE_NIGHT.DESC"
 msgid "zGain +{DEFEND {1}} for each card discarded this turn"
-msgstr "zGagne +{DEFEND {1}} for each card discarded this turn"
+msgstr "zGagne +{DEFEND {1}} for each carte discarded this turn"
 
 #: ATTACK.KNIFE_INTO_THE_NIGHT.NAME
 msgctxt "ATTACK.KNIFE_INTO_THE_NIGHT.NAME"
@@ -986,7 +986,7 @@ msgstr "zInto the Night"
 #: ATTACK.KNIFE_INTO_THE_NIGHT_PLUS.DESC
 msgctxt "ATTACK.KNIFE_INTO_THE_NIGHT_PLUS.DESC"
 msgid "zGain +{DEFEND {1}} for each card discarded this turn"
-msgstr "zGagne +{DEFEND {1}} for each card discarded this turn"
+msgstr "zGagne +{DEFEND {1}} for each carte discarded this turn"
 
 #: ATTACK.KNIFE_INTO_THE_NIGHT_PLUS.NAME
 msgctxt "ATTACK.KNIFE_INTO_THE_NIGHT_PLUS.NAME"
@@ -1106,7 +1106,7 @@ msgstr "zSalve+"
 #: ATTACK.KNIFE_SHADOW_MASTERY.DESC
 msgctxt "ATTACK.KNIFE_SHADOW_MASTERY.DESC"
 msgid "zGain: Whenever you discard a card, draw a card"
-msgstr "zGagne: Whenever you discard a card, draw a card"
+msgstr "zGagne: Whenever you défausser a card, draw a card"
 
 #: ATTACK.KNIFE_SHADOW_MASTERY.NAME
 msgctxt "ATTACK.KNIFE_SHADOW_MASTERY.NAME"
@@ -1116,7 +1116,7 @@ msgstr "zShadow Mastery"
 #: ATTACK.KNIFE_SHADOW_MASTERY_PLUS.DESC
 msgctxt "ATTACK.KNIFE_SHADOW_MASTERY_PLUS.DESC"
 msgid "zGain: Whenever you discard a card, draw a card"
-msgstr "zGagne: Whenever you discard a card, draw a card"
+msgstr "zGagne: Whenever you défausser a card, draw a card"
 
 #: ATTACK.KNIFE_SHADOW_MASTERY_PLUS.NAME
 msgctxt "ATTACK.KNIFE_SHADOW_MASTERY_PLUS.NAME"
@@ -1146,7 +1146,7 @@ msgstr "zSharpen+"
 #: ATTACK.KNIFE_SIDESTEP.DESC
 msgctxt "ATTACK.KNIFE_SIDESTEP.DESC"
 msgid "z{IMPROVISE} a card from your draw pile"
-msgstr "z{IMPROVISE} a card from your draw pile"
+msgstr "z{IMPROVISE} a carte from your draw pile"
 
 #: ATTACK.KNIFE_SIDESTEP.NAME
 msgctxt "ATTACK.KNIFE_SIDESTEP.NAME"
@@ -1156,7 +1156,7 @@ msgstr "zSidestep"
 #: ATTACK.KNIFE_SIDESTEP_PLUS.DESC
 msgctxt "ATTACK.KNIFE_SIDESTEP_PLUS.DESC"
 msgid "z{IMPROVISE} a card from your draw pile"
-msgstr "z{IMPROVISE} a card from your draw pile"
+msgstr "z{IMPROVISE} a carte from your draw pile"
 
 #: ATTACK.KNIFE_SIDESTEP_PLUS.NAME
 msgctxt "ATTACK.KNIFE_SIDESTEP_PLUS.NAME"
@@ -1176,7 +1176,7 @@ msgstr "zSilent Shiv+"
 #: ATTACK.KNIFE_SLEIGHT_OF_HAND.DESC
 msgctxt "ATTACK.KNIFE_SLEIGHT_OF_HAND.DESC"
 msgid "zDiscard 2 cards at random\nGain 1 action"
-msgstr "zDiscard 2 cards at random\nGain 1 action"
+msgstr "zDiscard 2 cartes at random\nGain 1 action"
 
 #: ATTACK.KNIFE_SLEIGHT_OF_HAND.NAME
 msgctxt "ATTACK.KNIFE_SLEIGHT_OF_HAND.NAME"
@@ -1201,7 +1201,7 @@ msgstr "zSlice"
 #: ATTACK.KNIFE_SLIPPERY.DESC
 msgctxt "ATTACK.KNIFE_SLIPPERY.DESC"
 msgid "z{IMPROVISE} a card from your discard"
-msgstr "z{IMPROVISE} a card from your discard"
+msgstr "z{IMPROVISE} a carte from your discard"
 
 #: ATTACK.KNIFE_SLIPPERY.NAME
 msgctxt "ATTACK.KNIFE_SLIPPERY.NAME"
@@ -1211,7 +1211,7 @@ msgstr "zSlippery"
 #: ATTACK.KNIFE_SLIPPERY_PLUS.DESC
 msgctxt "ATTACK.KNIFE_SLIPPERY_PLUS.DESC"
 msgid "z{IMPROVISE} a card from your discard"
-msgstr "z{IMPROVISE} a card from your discard"
+msgstr "z{IMPROVISE} a carte from your discard"
 
 #: ATTACK.KNIFE_SLIPPERY_PLUS.NAME
 msgctxt "ATTACK.KNIFE_SLIPPERY_PLUS.NAME"
@@ -1531,7 +1531,7 @@ msgstr "zSpark Grenade"
 #: ATTACK.SPEED_TONIC.DESC
 msgctxt "ATTACK.SPEED_TONIC.DESC"
 msgid "zChoose a card in hand. It costs one less Action this combat."
-msgstr "zChoose a card in hand. It costs one less Action this combat."
+msgstr "zChoose a carte in hand. It costs one less Action this combat."
 
 #: ATTACK.SPEED_TONIC.NAME
 msgctxt "ATTACK.SPEED_TONIC.NAME"
@@ -1541,7 +1541,7 @@ msgstr "zSpeed Tonic"
 #: ATTACK.STATUS_CONCUSSION.DESC
 msgctxt "ATTACK.STATUS_CONCUSSION.DESC"
 msgid "zDiscard a random card whenever you play a card\n{EXPEND} at the end of turn"
-msgstr "zDiscard a random card whenever you play a card\n{EXPEND} at the end of turn"
+msgstr "zDiscard a random carte whenever you play a card\n{EXPEND} at the end of turn"
 
 #: ATTACK.STATUS_CONCUSSION.NAME
 msgctxt "ATTACK.STATUS_CONCUSSION.NAME"
@@ -1636,7 +1636,7 @@ msgstr "zDiscipline"
 #: ATTACK.SWORD_EMBOLDEN.DESC
 msgctxt "ATTACK.SWORD_EMBOLDEN.DESC"
 msgid "zCompanions receive +2 attack to next card played"
-msgstr "zCompanions receive +2 attack to next card played"
+msgstr "zCompanions receive +2 attack to next carte played"
 
 #: ATTACK.SWORD_EMBOLDEN.NAME
 msgctxt "ATTACK.SWORD_EMBOLDEN.NAME"
@@ -1646,7 +1646,7 @@ msgstr "zEmbolden"
 #: ATTACK.SWORD_EXPERTISE.DESC
 msgctxt "ATTACK.SWORD_EXPERTISE.DESC"
 msgid "zAll Attack cards in hand increase damage by 1"
-msgstr "zAll Attack cards in hand increase damage by 1"
+msgstr "zAll Attack cartes in hand increase damage by 1"
 
 #: ATTACK.SWORD_EXPERTISE.NAME
 msgctxt "ATTACK.SWORD_EXPERTISE.NAME"
@@ -1916,7 +1916,7 @@ msgstr "zAlleviate+"
 #: CARD.ALL_IN.DESC
 msgctxt "CARD.ALL_IN.DESC"
 msgid "zHostile cards cost 0 this turn\nDraw 3 cards"
-msgstr "zHostile cards cost 0 this turn\nDraw 3 cards"
+msgstr "zHostile cartes cost 0 this turn\nDraw 3 cards"
 
 #: CARD.ALL_IN.NAME
 msgctxt "CARD.ALL_IN.NAME"
@@ -1926,7 +1926,7 @@ msgstr "zAll In"
 #: CARD.ALL_IN_PLUS.DESC
 msgctxt "CARD.ALL_IN_PLUS.DESC"
 msgid "zHostile cards cost 0 this turn\nDraw 3 cards"
-msgstr "zHostile cards cost 0 this turn\nDraw 3 cards"
+msgstr "zHostile cartes cost 0 this turn\nDraw 3 cards"
 
 #: CARD.ALL_IN_PLUS.NAME
 msgctxt "CARD.ALL_IN_PLUS.NAME"
@@ -1936,7 +1936,7 @@ msgstr "zAll In+"
 #: CARD.ALWAYS_WORKING.DESC
 msgctxt "CARD.ALWAYS_WORKING.DESC"
 msgid "zDraw one less card this turn"
-msgstr "zPioche one less card this turn"
+msgstr "zPioche one less carte this turn"
 
 #: CARD.ALWAYS_WORKING.NAME
 msgctxt "CARD.ALWAYS_WORKING.NAME"
@@ -1966,7 +1966,7 @@ msgstr "zAppeal to Reason+"
 #: CARD.AVARICE.DESC
 msgctxt "CARD.AVARICE.DESC"
 msgid "zYou have at least 1000 shills.\nNon-hostile cards gain {1} persuasion"
-msgstr "zYou have at least 1000 shills.\nNon-hostile cards gain {1} persuasion"
+msgstr "zYou have at least 1000 shills.\nNon-hostile cartes gain {1} persuasion"
 
 #: CARD.AVARICE.NAME
 msgctxt "CARD.AVARICE.NAME"
@@ -1976,7 +1976,7 @@ msgstr "zAvarice"
 #: CARD.BACK_PEDAL.DESC
 msgctxt "CARD.BACK_PEDAL.DESC"
 msgid "zExpend a random card in your hand."
-msgstr "zExpend a random card in your hand."
+msgstr "zExpend a random carte in your hand."
 
 #: CARD.BACK_PEDAL.NAME
 msgctxt "CARD.BACK_PEDAL.NAME"
@@ -1986,7 +1986,7 @@ msgstr "zBack pedal"
 #: CARD.BACK_PEDAL_PLUS.DESC
 msgctxt "CARD.BACK_PEDAL_PLUS.DESC"
 msgid "zExpend a random card in your hand."
-msgstr "zExpend a random card in your hand."
+msgstr "zExpend a random carte in your hand."
 
 #: CARD.BACK_PEDAL_PLUS.NAME
 msgctxt "CARD.BACK_PEDAL_PLUS.NAME"
@@ -2076,7 +2076,7 @@ msgstr "zBluster+"
 #: CARD.BONE_TIRED.DESC
 msgctxt "CARD.BONE_TIRED.DESC"
 msgid "zDiplomacy cards deal +1 resolve damage"
-msgstr "zDiplomacy cards deal +1 resolve damage"
+msgstr "zDiplomacy cartes deal +1 resolve damage"
 
 #: CARD.BONE_TIRED.NAME
 msgctxt "CARD.BONE_TIRED.NAME"
@@ -2091,7 +2091,7 @@ msgstr "zSnellick's Finest"
 #: CARD.BREATHER.DESC
 msgctxt "CARD.BREATHER.DESC"
 msgid "zRestore 1 charge to a card in your hand"
-msgstr "zRestore 1 charge to a card in your hand"
+msgstr "zRestore 1 charge to a carte in your hand"
 
 #: CARD.BREATHER.NAME
 msgctxt "CARD.BREATHER.NAME"
@@ -2101,7 +2101,7 @@ msgstr "zBreather"
 #: CARD.BREATHER_PLUS.DESC
 msgctxt "CARD.BREATHER_PLUS.DESC"
 msgid "zRestore 1 charge to all cards in your hand"
-msgstr "zRestore 1 charge to all cards in your hand"
+msgstr "zRestore 1 charge to all cartes in your hand"
 
 #: CARD.BREATHER_PLUS.NAME
 msgctxt "CARD.BREATHER_PLUS.NAME"
@@ -2111,7 +2111,7 @@ msgstr "zBreather+"
 #: CARD.BROWBEAT.DESC
 msgctxt "CARD.BROWBEAT.DESC"
 msgid "zThis card gains +2 resolve damage each time it is played"
-msgstr "zThis card gains +2 resolve damage each time it is played"
+msgstr "zThis carte gains +2 resolve damage each time it is played"
 
 #: CARD.BROWBEAT.NAME
 msgctxt "CARD.BROWBEAT.NAME"
@@ -2281,7 +2281,7 @@ msgstr "zSpree Intel"
 #: CARD.CURIOUS.DESC
 msgctxt "CARD.CURIOUS.DESC"
 msgid "zAll cards gain {1%+d} resolve damage."
-msgstr "zAll cards gain {1%+d} resolve damage."
+msgstr "zAll cartes gain {1%+d} resolve damage."
 
 #: CARD.CURIOUS.NAME
 msgctxt "CARD.CURIOUS.NAME"
@@ -2376,7 +2376,7 @@ msgstr "zDiscourse+"
 #: CARD.DISCUSSION.DESC
 msgctxt "CARD.DISCUSSION.DESC"
 msgid "zCan only be played with no Hostility or Hostile cards in hand. Gain {COMPOSURE 1}."
-msgstr "zCan only be played with no Hostility or Hostile cards in hand. Gain {COMPOSURE 1}."
+msgstr "zCan only be played with no Hostility or Hostile cartes in hand. Gain {COMPOSURE 1}."
 
 #: CARD.DISCUSSION.NAME
 msgctxt "CARD.DISCUSSION.NAME"
@@ -2386,7 +2386,7 @@ msgstr "zDiscussion"
 #: CARD.DISCUSSION_PLUS.DESC
 msgctxt "CARD.DISCUSSION_PLUS.DESC"
 msgid "zCan only be played with no Hostility or Hostile cards in hand. Gain {COMPOSURE 1}."
-msgstr "zCan only be played with no Hostility or Hostile cards in hand. Gain {COMPOSURE 1}."
+msgstr "zCan only be played with no Hostility or Hostile cartes in hand. Gain {COMPOSURE 1}."
 
 #: CARD.DISCUSSION_PLUS.NAME
 msgctxt "CARD.DISCUSSION_PLUS.NAME"
@@ -2431,7 +2431,7 @@ msgstr "zIvre"
 #: CARD.DRUNK_PLAYER.DESC
 msgctxt "CARD.DRUNK_PLAYER.DESC"
 msgid "zExpend a random card from your hand"
-msgstr "zExpend a random card from your hand"
+msgstr "zExpend a random carte from your hand"
 
 #: CARD.DRUNK_PLAYER.NAME
 msgctxt "CARD.DRUNK_PLAYER.NAME"
@@ -2441,7 +2441,7 @@ msgstr "zIvre"
 #: CARD.DUPLICITY.DESC
 msgctxt "CARD.DUPLICITY.DESC"
 msgid "zThe next card played this turn is played twice."
-msgstr "zThe next card played this turn is played twice."
+msgstr "zThe next carte played this turn is played twice."
 
 #: CARD.DUPLICITY.NAME
 msgctxt "CARD.DUPLICITY.NAME"
@@ -2451,7 +2451,7 @@ msgstr "zDuplicity"
 #: CARD.DUPLICITY_PLUS.DESC
 msgctxt "CARD.DUPLICITY_PLUS.DESC"
 msgid "zThe next card played this turn is played twice."
-msgstr "zThe next card played this turn is played twice."
+msgstr "zThe next carte played this turn is played twice."
 
 #: CARD.DUPLICITY_PLUS.NAME
 msgctxt "CARD.DUPLICITY_PLUS.NAME"
@@ -2491,7 +2491,7 @@ msgstr "zEmpathy+"
 #: CARD.EUREKA.DESC
 msgctxt "CARD.EUREKA.DESC"
 msgid "zDiscard a card in your hand and recover all of its charges."
-msgstr "zDiscard a card in your hand and recover all of its charges."
+msgstr "zDiscard a carte in your hand and recover all of its charges."
 
 #: CARD.EUREKA.NAME
 msgctxt "CARD.EUREKA.NAME"
@@ -2501,7 +2501,7 @@ msgstr "zEureka!"
 #: CARD.EUREKA_PLUS.DESC
 msgctxt "CARD.EUREKA_PLUS.DESC"
 msgid "zDiscard a card in your hand and recover all of its charges."
-msgstr "zDiscard a card in your hand and recover all of its charges."
+msgstr "zDiscard a carte in your hand and recover all of its charges."
 
 #: CARD.EUREKA_PLUS.NAME
 msgctxt "CARD.EUREKA_PLUS.NAME"
@@ -2591,7 +2591,7 @@ msgstr "zFriendly Support"
 #: CARD.FROM_THE_TOP.DESC
 msgctxt "CARD.FROM_THE_TOP.DESC"
 msgid "zThis card is an <b>Order</b>."
-msgstr "zThis card is an <b>Order</b>."
+msgstr "zThis carte is an <b>Order</b>."
 
 #: CARD.FROM_THE_TOP.NAME
 msgctxt "CARD.FROM_THE_TOP.NAME"
@@ -2621,7 +2621,7 @@ msgstr "zGood Cop+"
 #: CARD.GOOD_CUSTOMER.DESC
 msgctxt "CARD.GOOD_CUSTOMER.DESC"
 msgid "zDiplomacy cards gain +2 persuasion if you are {1#aspect} or {2#aspect}"
-msgstr "zDiplomacy cards gain +2 persuasion if you are {1#aspect} or {2#aspect}"
+msgstr "zDiplomacy cartes gain +2 persuasion if you are {1#aspect} or {2#aspect}"
 
 #: CARD.GOOD_CUSTOMER.NAME
 msgctxt "CARD.GOOD_CUSTOMER.NAME"
@@ -2636,7 +2636,7 @@ msgstr "zGossip"
 #: CARD.HANDS_ARE_TIED.DESC
 msgctxt "CARD.HANDS_ARE_TIED.DESC"
 msgid "zThis card is an <b>Order</b>."
-msgstr "zThis card is an <b>Order</b>."
+msgstr "zThis carte is an <b>Order</b>."
 
 #: CARD.HANDS_ARE_TIED.NAME
 msgctxt "CARD.HANDS_ARE_TIED.NAME"
@@ -2656,7 +2656,7 @@ msgstr "zHard Facts"
 #: CARD.HEAVY_ORDERS.DESC
 msgctxt "CARD.HEAVY_ORDERS.DESC"
 msgid "zGain: All \"Order\" cards deal +2 resolve damage."
-msgstr "zGagne: All \"Order\" cards deal +2 resolve damage."
+msgstr "zGagne: All \"Order\" cartes deal +2 resolve damage."
 
 #: CARD.HEAVY_ORDERS.NAME
 msgctxt "CARD.HEAVY_ORDERS.NAME"
@@ -2696,7 +2696,7 @@ msgstr "zImmoveable Object"
 #: CARD.IMPATIENCE.DESC
 msgctxt "CARD.IMPATIENCE.DESC"
 msgid "z{EXPEND} all cards played this turn."
-msgstr "z{EXPEND} all cards played this turn."
+msgstr "z{EXPEND} all cartes played this turn."
 
 #: CARD.IMPATIENCE.NAME
 msgctxt "CARD.IMPATIENCE.NAME"
@@ -2871,7 +2871,7 @@ msgstr "zLow Blow+"
 #: CARD.MAD_SCIENCE.DESC
 msgctxt "CARD.MAD_SCIENCE.DESC"
 msgid "zAll cards have a random cost this turn"
-msgstr "zAll cards have a random cost this turn"
+msgstr "zAll cartes have a random cost this turn"
 
 #: CARD.MAD_SCIENCE.NAME
 msgctxt "CARD.MAD_SCIENCE.NAME"
@@ -2896,7 +2896,7 @@ msgstr "zMartinet"
 #: CARD.MASKING.DESC
 msgctxt "CARD.MASKING.DESC"
 msgid "zThis card receives +1 resolve damage for every opponent card played this turn."
-msgstr "zThis card receives +1 resolve damage for every opponent card played this turn."
+msgstr "zThis carte receives +1 resolve damage for every opponent carte played this turn."
 
 #: CARD.MASKING.NAME
 msgctxt "CARD.MASKING.NAME"
@@ -2976,7 +2976,7 @@ msgstr "zMoney talks"
 #: CARD.NONSEQUITUR.DESC
 msgctxt "CARD.NONSEQUITUR.DESC"
 msgid "zChoose a playable card in your hand and play it for free."
-msgstr "zChoose a playable card in your hand and play it for free."
+msgstr "zChoose a playable carte in your hand and play it for free."
 
 #: CARD.NONSEQUITUR.NAME
 msgctxt "CARD.NONSEQUITUR.NAME"
@@ -2986,7 +2986,7 @@ msgstr "zNon Sequitur"
 #: CARD.NONSEQUITUR_PLUS.DESC
 msgctxt "CARD.NONSEQUITUR_PLUS.DESC"
 msgid "zChoose a playable card in your hand and play it for free."
-msgstr "zChoose a playable card in your hand and play it for free."
+msgstr "zChoose a playable carte in your hand and play it for free."
 
 #: CARD.NONSEQUITUR_PLUS.NAME
 msgctxt "CARD.NONSEQUITUR_PLUS.NAME"
@@ -3006,7 +3006,7 @@ msgstr "zNothin' to Do"
 #: CARD.OBSERVE.DESC
 msgctxt "CARD.OBSERVE.DESC"
 msgid "zAdd {EXPEND} to the next opponent card played."
-msgstr "zAdd {EXPEND} to the next opponent card played."
+msgstr "zAdd {EXPEND} to the next opponent carte played."
 
 #: CARD.OBSERVE.NAME
 msgctxt "CARD.OBSERVE.NAME"
@@ -3016,7 +3016,7 @@ msgstr "zObserver"
 #: CARD.OBSERVE_PLUS.DESC
 msgctxt "CARD.OBSERVE_PLUS.DESC"
 msgid "zAdd {EXPEND} to the next opponent card played."
-msgstr "zAdd {EXPEND} to the next opponent card played."
+msgstr "zAdd {EXPEND} to the next opponent carte played."
 
 #: CARD.OBSERVE_PLUS.NAME
 msgctxt "CARD.OBSERVE_PLUS.NAME"
@@ -3031,7 +3031,7 @@ msgstr "zOpen Hostility"
 #: CARD.PALM_GREASE.DESC
 msgctxt "CARD.PALM_GREASE.DESC"
 msgid "zThe next card played deals double resolve damage"
-msgstr "zThe next card played deals double resolve damage"
+msgstr "zThe next carte played deals double resolve damage"
 
 #: CARD.PALM_GREASE.NAME
 msgctxt "CARD.PALM_GREASE.NAME"
@@ -3041,7 +3041,7 @@ msgstr "zPalm Grease"
 #: CARD.PALM_GREASE_PLUS.DESC
 msgctxt "CARD.PALM_GREASE_PLUS.DESC"
 msgid "zThe next card played deals double resolve damage"
-msgstr "zThe next card played deals double resolve damage"
+msgstr "zThe next carte played deals double resolve damage"
 
 #: CARD.PALM_GREASE_PLUS.NAME
 msgctxt "CARD.PALM_GREASE_PLUS.NAME"
@@ -3051,7 +3051,7 @@ msgstr "zPalm Grease+"
 #: CARD.PAPER_PUSHER.DESC
 msgctxt "CARD.PAPER_PUSHER.DESC"
 msgid "zAdd 3 {baffled} cards to your draw pile"
-msgstr "zAdd 3 {baffled} cards to your draw pile"
+msgstr "zAdd 3 {baffled} cartes to your draw pile"
 
 #: CARD.PAPER_PUSHER.NAME
 msgctxt "CARD.PAPER_PUSHER.NAME"
@@ -3131,7 +3131,7 @@ msgstr "zPlonk"
 #: CARD.PRAYER_OF_HESH.DESC
 msgctxt "CARD.PRAYER_OF_HESH.DESC"
 msgid "zAdd 2 {silence} cards to your draw pile."
-msgstr "zAdd 2 {silence} cards to your draw pile."
+msgstr "zAdd 2 {silence} cartes to your draw pile."
 
 #: CARD.PRAYER_OF_HESH.NAME
 msgctxt "CARD.PRAYER_OF_HESH.NAME"
@@ -3181,7 +3181,7 @@ msgstr "zPressure+"
 #: CARD.PRICKLY.DESC
 msgctxt "CARD.PRICKLY.DESC"
 msgid "zApply {HOSTILITY 1} for each card played."
-msgstr "zApply {HOSTILITY 1} for each card played."
+msgstr "zApply {HOSTILITY 1} for each carte played."
 
 #: CARD.PRICKLY.NAME
 msgctxt "CARD.PRICKLY.NAME"
@@ -3211,7 +3211,7 @@ msgstr "zQuick Thinking+"
 #: CARD.RAPID_FIRE.DESC
 msgctxt "CARD.RAPID_FIRE.DESC"
 msgid "zPlay this card {1} times"
-msgstr "zPlay this card {1} times"
+msgstr "zPlay this carte {1} times"
 
 #: CARD.RAPID_FIRE.NAME
 msgctxt "CARD.RAPID_FIRE.NAME"
@@ -3221,7 +3221,7 @@ msgstr "zRapid Fire"
 #: CARD.RAPID_FIRE_PLUS.DESC
 msgctxt "CARD.RAPID_FIRE_PLUS.DESC"
 msgid "zPlay this card {1} times"
-msgstr "zPlay this card {1} times"
+msgstr "zPlay this carte {1} times"
 
 #: CARD.RAPID_FIRE_PLUS.NAME
 msgctxt "CARD.RAPID_FIRE_PLUS.NAME"
@@ -3251,7 +3251,7 @@ msgstr "zRecall+"
 #: CARD.RELENTLESS.DESC
 msgctxt "CARD.RELENTLESS.DESC"
 msgid "zPlay this card as many times as you have Actions, then use up your Actions"
-msgstr "zPlay this card as many times as you have Actions, then use up your Actions"
+msgstr "zPlay this carte as many times as you have Actions, then use up your Actions"
 
 #: CARD.RELENTLESS.NAME
 msgctxt "CARD.RELENTLESS.NAME"
@@ -3261,7 +3261,7 @@ msgstr "zRelentless"
 #: CARD.RELENTLESS_PLUS.DESC
 msgctxt "CARD.RELENTLESS_PLUS.DESC"
 msgid "zPlay this card as many times as you have Actions, then use up your Actions"
-msgstr "zPlay this card as many times as you have Actions, then use up your Actions"
+msgstr "zPlay this carte as many times as you have Actions, then use up your Actions"
 
 #: CARD.RELENTLESS_PLUS.NAME
 msgctxt "CARD.RELENTLESS_PLUS.NAME"
@@ -3296,7 +3296,7 @@ msgstr "zRumor"
 #: CARD.SALES_PITCH.DESC
 msgctxt "CARD.SALES_PITCH.DESC"
 msgid "zAdds 2 {kickback} cards to your deck"
-msgstr "zAdds 2 {kickback} cards to your deck"
+msgstr "zAdds 2 {kickback} cartes to your deck"
 
 #: CARD.SALES_PITCH.NAME
 msgctxt "CARD.SALES_PITCH.NAME"
@@ -3326,7 +3326,7 @@ msgstr "zScorched Earth+"
 #: CARD.SECOND_WIND.DESC
 msgctxt "CARD.SECOND_WIND.DESC"
 msgid "zGain 1 Action for every 3 cards in your discard"
-msgstr "zGagne 1 Action for every 3 cards in your discard"
+msgstr "zGagne 1 Action for every 3 cartes in your discard"
 
 #: CARD.SECOND_WIND.NAME
 msgctxt "CARD.SECOND_WIND.NAME"
@@ -3336,7 +3336,7 @@ msgstr "zSecond Wind"
 #: CARD.SECOND_WIND_PLUS.DESC
 msgctxt "CARD.SECOND_WIND_PLUS.DESC"
 msgid "zGain 1 Action for every 3 cards in your discard"
-msgstr "zGagne 1 Action for every 3 cards in your discard"
+msgstr "zGagne 1 Action for every 3 cartes in your discard"
 
 #: CARD.SECOND_WIND_PLUS.NAME
 msgctxt "CARD.SECOND_WIND_PLUS.NAME"
@@ -3406,7 +3406,7 @@ msgstr "zSetup+"
 #: CARD.SHORT_FUSE.DESC
 msgctxt "CARD.SHORT_FUSE.DESC"
 msgid "z{EMPHASIS 3}: Add 3 random Hostile cards to your hand. They cost this turn."
-msgstr "z{EMPHASIS 3}: Add 3 random Hostile cards to your hand. They cost this turn."
+msgstr "z{EMPHASIS 3}: Add 3 random Hostile cartes to your hand. They cost this turn."
 
 #: CARD.SHORT_FUSE.NAME
 msgctxt "CARD.SHORT_FUSE.NAME"
@@ -3456,7 +3456,7 @@ msgstr "zSnoop"
 #: CARD.SOLID_POINT.DESC
 msgctxt "CARD.SOLID_POINT.DESC"
 msgid "zWhen this card is drawn, deal its minimum resolve damage"
-msgstr "zWhen this card is drawn, deal its minimum resolve damage"
+msgstr "zWhen this carte is drawn, deal its minimum resolve damage"
 
 #: CARD.SOLID_POINT.NAME
 msgctxt "CARD.SOLID_POINT.NAME"
@@ -3466,7 +3466,7 @@ msgstr "zSolid Point"
 #: CARD.SOLID_POINT_PLUS.DESC
 msgctxt "CARD.SOLID_POINT_PLUS.DESC"
 msgid "zWhen this card is drawn, deal its minimum resolve damage"
-msgstr "zWhen this card is drawn, deal its minimum resolve damage"
+msgstr "zWhen this carte is drawn, deal its minimum resolve damage"
 
 #: CARD.SOLID_POINT_PLUS.NAME
 msgctxt "CARD.SOLID_POINT_PLUS.NAME"
@@ -3556,7 +3556,7 @@ msgstr "zStreet cred"
 #: CARD.STRONG_POINT.DESC
 msgctxt "CARD.STRONG_POINT.DESC"
 msgid "zWhen this card is drawn, deal its minimum resolve damage"
-msgstr "zWhen this card is drawn, deal its minimum resolve damage"
+msgstr "zWhen this carte is drawn, deal its minimum resolve damage"
 
 #: CARD.STRONG_POINT.NAME
 msgctxt "CARD.STRONG_POINT.NAME"
@@ -3566,7 +3566,7 @@ msgstr "zStrong Point"
 #: CARD.STRONG_POINT_PLUS.DESC
 msgctxt "CARD.STRONG_POINT_PLUS.DESC"
 msgid "zWhen this card is drawn, deal its minimum resolve damage"
-msgstr "zWhen this card is drawn, deal its minimum resolve damage"
+msgstr "zWhen this carte is drawn, deal its minimum resolve damage"
 
 #: CARD.STRONG_POINT_PLUS.NAME
 msgctxt "CARD.STRONG_POINT_PLUS.NAME"
@@ -3676,7 +3676,7 @@ msgstr "zDelay"
 #: CARD.THIEF_EXTORT.DESC
 msgctxt "CARD.THIEF_EXTORT.DESC"
 msgid "zAdd 2 {extortion} cards to your draw pile."
-msgstr "zAdd 2 {extortion} cards to your draw pile."
+msgstr "zAdd 2 {extortion} cartes to your draw pile."
 
 #: CARD.THIEF_EXTORT.NAME
 msgctxt "CARD.THIEF_EXTORT.NAME"
@@ -3741,7 +3741,7 @@ msgstr "zVouch"
 #: CARD.WARY.DESC
 msgctxt "CARD.WARY.DESC"
 msgid "zLose 2 resolve when a Manipulate card is played"
-msgstr "zLose 2 resolve when a Manipulate card is played"
+msgstr "zLose 2 resolve when a Manipulate carte is played"
 
 #: CARD.WARY.NAME
 msgctxt "CARD.WARY.NAME"
@@ -3751,7 +3751,7 @@ msgstr "zWary"
 #: CARD.WEALTH_EXTRACTOR.DESC
 msgctxt "CARD.WEALTH_EXTRACTOR.DESC"
 msgid "zGain {1#money} for each card played while this card is in your hand"
-msgstr "zGagne {1#money} for each card played while this card is in your hand"
+msgstr "zGagne {1#money} for each carte played while this carte is in your hand"
 
 #: CARD.WEALTH_EXTRACTOR.NAME
 msgctxt "CARD.WEALTH_EXTRACTOR.NAME"
@@ -3761,7 +3761,7 @@ msgstr "zWealth Extractor"
 #: CARD.WHITE_LIE.DESC
 msgctxt "CARD.WHITE_LIE.DESC"
 msgid "zAdd a copy of this card to your discards."
-msgstr "zAdd a copy of this card to your discards."
+msgstr "zAdd a copy of this carte to your discards."
 
 #: CARD.WHITE_LIE.NAME
 msgctxt "CARD.WHITE_LIE.NAME"
@@ -5071,7 +5071,7 @@ msgstr "zClell"
 #: CHARACTER_SKIN.JAKES_RUNNER.4A11F0E4-EC9A-440B-919C-F2BAEF62D342.CUSTOM_BIO
 msgctxt "CHARACTER_SKIN.JAKES_RUNNER.4A11F0E4-EC9A-440B-919C-F2BAEF62D342.CUSTOM_BIO"
 msgid "zYou've heard that Owoki has a collection of trading cards depicting the upper echelon of the Heshian cult—from cardinals to arbishops. Of course, that's the Deltrean side. Unlikely Havarian clergy warrant any mention."
-msgstr "zYou've heard that Owoki has a collection of trading cards depicting the upper echelon of the Heshian cult—from cardinals to arbishops. Of course, that's the Deltrean side. Unlikely Havarian clergy warrant any mention."
+msgstr "zYou've heard that Owoki has a collection of trading cartes depicting the upper echelon of the Heshian cult—from cardinals to arbishops. Of course, that's the Deltrean side. Unlikely Havarian clergy warrant any mention."
 
 #: CHARACTER_SKIN.JAKES_RUNNER.4A11F0E4-EC9A-440B-919C-F2BAEF62D342.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.JAKES_RUNNER.4A11F0E4-EC9A-440B-919C-F2BAEF62D342.CUSTOM_NAME"
@@ -5981,7 +5981,7 @@ msgstr "zSpark Grenade"
 #: COMMODITY.SPEED_TONIC.CARD.DESC
 msgctxt "COMMODITY.SPEED_TONIC.CARD.DESC"
 msgid "zChoose a card in hand. It costs one less Action this combat."
-msgstr "zChoose a card in hand. It costs one less Action this combat."
+msgstr "zChoose a carte in hand. It costs one less Action this combat."
 
 #: COMMODITY.SPEED_TONIC.CARD.NAME
 msgctxt "COMMODITY.SPEED_TONIC.CARD.NAME"
@@ -7831,7 +7831,7 @@ msgstr "                * The tunnels are worse than expected: sometimes the bra
 #: CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_CAVE_ENTRANCE.DIALOG_START_CONVINCE
 msgctxt "CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_CAVE_ENTRANCE.DIALOG_START_CONVINCE"
 msgid "                * {handler} said to kill all of the Spree <i>in the cave</i>. No harm done if you make the job easier by letting one runner go, surely.\n                player:\n                    You know why you call 'em \"Switches\", right? Cus they have the authority to beat you bloodless. \n                    !cruel\n                    But that doesn't have to be you, friend. Not if you answer a few questions. \n                ** Play all {1} clue cards before the end of the negotiation to determine the location of the bandit hideout.\n            "
-msgstr "                * {handler} said to kill all of the Spree <i>in the cave</i>. No harm done if you make the job easier by letting one runner go, surely.\n                player:\n                    You know why you call 'em \"Switches\", right? Cus they have the authority to beat you bloodless. \n                    !cruel\n                    But that doesn't have to be you, friend. Not if you answer a few questions. \n                ** Play all {1} clue cards before the end of the negotiation to determine the location of the bandit hideout.\n            "
+msgstr "                * {handler} said to kill all of the Spree <i>in the cave</i>. No harm done if you make the job easier by letting one runner go, surely.\n                player:\n                    You know why you call 'em \"Switches\", right? Cus they have the authority to beat you bloodless. \n                    !cruel\n                    But that doesn't have to be you, friend. Not if you answer a few questions. \n                ** Play all {1} clue cartes before the end of the negotiation to determine the location of the bandit hideout.\n            "
 
 #: CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_CAVE_ENTRANCE.DIALOG_WON_NEGOTIATION
 msgctxt "CONVO.HANDLER_ADMIRALTY_CLEAR_BANDIT_CAVE.STATE_CAVE_ENTRANCE.DIALOG_WON_NEGOTIATION"
@@ -15866,7 +15866,7 @@ msgstr "zThis person has a job available for you"
 #: CONVO_COMMON.UNPLAYABLE
 msgctxt "CONVO_COMMON.UNPLAYABLE"
 msgid "zThis card is unplayable"
-msgstr "zThis card is unplayable"
+msgstr "zThis carte is unplayable"
 
 #: CONVO_COMMON.USE_ITEM
 msgctxt "CONVO_COMMON.USE_ITEM"
@@ -16061,7 +16061,7 @@ msgstr "zElectro-Charge"
 #: FEATURE.ALL_IN.DESC
 msgctxt "FEATURE.ALL_IN.DESC"
 msgid "zHostile cards cost 0 this turn\nDraw 3 cards"
-msgstr "zHostile cards cost 0 this turn\nDraw 3 cards"
+msgstr "zHostile cartes cost 0 this turn\nDraw 3 cards"
 
 #: FEATURE.ALL_IN.NAME
 msgctxt "FEATURE.ALL_IN.NAME"
@@ -16091,7 +16091,7 @@ msgstr "zArmor of Hesh"
 #: FEATURE.AUTOPLAY.DESC
 msgctxt "FEATURE.AUTOPLAY.DESC"
 msgid "zThis card cannot be played, and resolves automatically at the end of your turn"
-msgstr "zThis card cannot be played, and resolves automatically at the end of your turn"
+msgstr "zThis carte cannot be played, and resolves automatically at the end of your turn"
 
 #: FEATURE.AUTOPLAY.NAME
 msgctxt "FEATURE.AUTOPLAY.NAME"
@@ -16161,7 +16161,7 @@ msgstr "zBreaking"
 #: FEATURE.BRIBE.DESC
 msgctxt "FEATURE.BRIBE.DESC"
 msgid "zThis card cost money to play"
-msgstr "zThis card cost money to play"
+msgstr "zThis carte cost money to play"
 
 #: FEATURE.BRIBE.NAME
 msgctxt "FEATURE.BRIBE.NAME"
@@ -16231,7 +16231,7 @@ msgstr "zCard Draw"
 #: FEATURE.COMBO.DESC
 msgctxt "FEATURE.COMBO.DESC"
 msgid "zPlayed at least 2 cards this turn"
-msgstr "zPlayed at least 2 cards this turn"
+msgstr "zPlayed at least 2 cartes this turn"
 
 #: FEATURE.COMBO.NAME
 msgctxt "FEATURE.COMBO.NAME"
@@ -16271,7 +16271,7 @@ msgstr "zConfusion"
 #: FEATURE.CONSUME.DESC
 msgctxt "FEATURE.CONSUME.DESC"
 msgid "zRemove this card permanently"
-msgstr "zRemove this card permanently"
+msgstr "zRemove this carte permanently"
 
 #: FEATURE.CONSUME.NAME
 msgctxt "FEATURE.CONSUME.NAME"
@@ -16281,7 +16281,7 @@ msgstr "zConsume"
 #: FEATURE.COUNTERFEIT_COIN.DESC
 msgctxt "FEATURE.COUNTERFEIT_COIN.DESC"
 msgid "zEvery 3rd bribe card played is free."
-msgstr "zEvery 3rd bribe card played is free."
+msgstr "zEvery 3rd bribe carte played is free."
 
 #: FEATURE.COUNTERFEIT_COIN.NAME
 msgctxt "FEATURE.COUNTERFEIT_COIN.NAME"
@@ -16301,7 +16301,7 @@ msgstr "zCowardly"
 #: FEATURE.CRAFTY.DESC
 msgctxt "FEATURE.CRAFTY.DESC"
 msgid "zDrawn cards automatically receive {VEILED}."
-msgstr "zPiochen cards automatically receive {VEILED}."
+msgstr "zPiochen cartes automatically receive {VEILED}."
 
 #: FEATURE.CRAFTY.NAME
 msgctxt "FEATURE.CRAFTY.NAME"
@@ -16376,7 +16376,7 @@ msgstr "zIvre"
 #: FEATURE.DUPLICITY.DESC
 msgctxt "FEATURE.DUPLICITY.DESC"
 msgid "zThe next card played this turn is played twice."
-msgstr "zThe next card played this turn is played twice."
+msgstr "zThe next carte played this turn is played twice."
 
 #: FEATURE.DUPLICITY.NAME
 msgctxt "FEATURE.DUPLICITY.NAME"
@@ -16416,7 +16416,7 @@ msgstr "zExert"
 #: FEATURE.EXPEND.DESC
 msgctxt "FEATURE.EXPEND.DESC"
 msgid "zRemove this card for the rest of this negotiation"
-msgstr "zRemove this card for the rest of this negotiation"
+msgstr "zRemove this carte for the rest of this negotiation"
 
 #: FEATURE.EXPEND.NAME
 msgctxt "FEATURE.EXPEND.NAME"
@@ -16436,7 +16436,7 @@ msgstr "zFearless"
 #: FEATURE.FIELD_NOTES.DESC
 msgctxt "FEATURE.FIELD_NOTES.DESC"
 msgid "zGain 2 resolve for every 4 cards played"
-msgstr "zGagne 2 resolve for every 4 cards played"
+msgstr "zGagne 2 resolve for every 4 cartes played"
 
 #: FEATURE.FIELD_NOTES.NAME
 msgctxt "FEATURE.FIELD_NOTES.NAME"
@@ -16561,7 +16561,7 @@ msgstr "zPractictioner"
 #: FEATURE.GRAFT_BATTLE_CONDITION_REPLENISH_GRAFT.DESC
 msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_REPLENISH_GRAFT.DESC"
 msgid "zWhenever you {EXPEND} a card in battle, draw a card"
-msgstr "zWhenever you {EXPEND} a card in battle, draw a card"
+msgstr "zWhenever you {EXPEND} a carte in battle, draw a card"
 
 #: FEATURE.GRAFT_BATTLE_CONDITION_REPLENISH_GRAFT.NAME
 msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_REPLENISH_GRAFT.NAME"
@@ -16611,7 +16611,7 @@ msgstr "zWounding Barbs"
 #: FEATURE.GREEDY.DESC
 msgctxt "FEATURE.GREEDY.DESC"
 msgid "z{BRIBE} cards cost twice as much"
-msgstr "z{BRIBE} cards cost twice as much"
+msgstr "z{BRIBE} cartes cost twice as much"
 
 #: FEATURE.GREEDY.NAME
 msgctxt "FEATURE.GREEDY.NAME"
@@ -16621,7 +16621,7 @@ msgstr "zGreedy"
 #: FEATURE.GUNSHA_POWDER.DESC
 msgctxt "FEATURE.GUNSHA_POWDER.DESC"
 msgid "zDraw one less card per turn"
-msgstr "zPioche one less card per turn"
+msgstr "zPioche one less carte per turn"
 
 #: FEATURE.GUNSHA_POWDER.NAME
 msgctxt "FEATURE.GUNSHA_POWDER.NAME"
@@ -16631,7 +16631,7 @@ msgstr "zStinging Eyes"
 #: FEATURE.HARD_FACTS.DESC
 msgctxt "FEATURE.HARD_FACTS.DESC"
 msgid "zEvery card played this turn generates 2 {DOUBT}"
-msgstr "zEvery card played this turn generates 2 {DOUBT}"
+msgstr "zEvery carte played this turn generates 2 {DOUBT}"
 
 #: FEATURE.HARD_FACTS.NAME
 msgctxt "FEATURE.HARD_FACTS.NAME"
@@ -16661,7 +16661,7 @@ msgstr "zHeal"
 #: FEATURE.HEAVY_ORDERS.DESC
 msgctxt "FEATURE.HEAVY_ORDERS.DESC"
 msgid "zAll \"Order\" cards deal {1%+d} resolve damage"
-msgstr "zAll \"Order\" cards deal {1%+d} resolve damage"
+msgstr "zAll \"Order\" cartes deal {1%+d} resolve damage"
 
 #: FEATURE.HEAVY_ORDERS.NAME
 msgctxt "FEATURE.HEAVY_ORDERS.NAME"
@@ -16681,7 +16681,7 @@ msgstr "zHemophage"
 #: FEATURE.HONEST.DESC
 msgctxt "FEATURE.HONEST.DESC"
 msgid "z{BRIBE} cards are 50% less effective"
-msgstr "z{BRIBE} cards are 50% less effective"
+msgstr "z{BRIBE} cartes are 50% less effective"
 
 #: FEATURE.HONEST.NAME
 msgctxt "FEATURE.HONEST.NAME"
@@ -16736,7 +16736,7 @@ msgstr "zIncept"
 #: FEATURE.INCEPTED.DESC
 msgctxt "FEATURE.INCEPTED.DESC"
 msgid "zIncepted cards are inserted into decks by the opponent."
-msgstr "zIncepted cards are inserted into decks by the opponent."
+msgstr "zIncepted cartes are inserted into decks by the opponent."
 
 #: FEATURE.INCEPTED.NAME
 msgctxt "FEATURE.INCEPTED.NAME"
@@ -16881,7 +16881,7 @@ msgstr "zMachine"
 #: FEATURE.MENACE.DESC
 msgctxt "FEATURE.MENACE.DESC"
 msgid "zAdd +{1} morale damage to cards that deal morale damage"
-msgstr "zAdd +{1} morale damage to cards that deal morale damage"
+msgstr "zAdd +{1} morale damage to cartes that deal morale damage"
 
 #: FEATURE.MENACE.NAME
 msgctxt "FEATURE.MENACE.NAME"
@@ -16946,7 +16946,7 @@ msgstr "zOpportuniste"
 #: FEATURE.ORGANIZER.DESC
 msgctxt "FEATURE.ORGANIZER.DESC"
 msgid "z{SPENT} cards can be played as: \"Cost 1: Expend and draw a card\""
-msgstr "z{SPENT} cards can be played as: \"Cost 1: Expend and draw a card\""
+msgstr "z{SPENT} cartes can be played as: \"Cost 1: Expend and draw a card\""
 
 #: FEATURE.ORGANIZER.NAME
 msgctxt "FEATURE.ORGANIZER.NAME"
@@ -16956,7 +16956,7 @@ msgstr "zOrganisateur"
 #: FEATURE.PALM_GREASE.DESC
 msgctxt "FEATURE.PALM_GREASE.DESC"
 msgid "zThe next card played deals double resolve damage"
-msgstr "zThe next card played deals double resolve damage"
+msgstr "zThe next carte played deals double resolve damage"
 
 #: FEATURE.PALM_GREASE.NAME
 msgctxt "FEATURE.PALM_GREASE.NAME"
@@ -16976,7 +16976,7 @@ msgstr "zPickpocket"
 #: FEATURE.POCKET_JOURNAL.DESC
 msgctxt "FEATURE.POCKET_JOURNAL.DESC"
 msgid "zDraw 1 card for every 3 cards played."
-msgstr "zPioche 1 card for every 3 cards played."
+msgstr "zPioche 1 carte for every 3 cartes played."
 
 #: FEATURE.POCKET_JOURNAL.NAME
 msgctxt "FEATURE.POCKET_JOURNAL.NAME"
@@ -17166,7 +17166,7 @@ msgstr "zDiscipline"
 #: FEATURE.SWORD_EMBOLDEN.DESC
 msgctxt "FEATURE.SWORD_EMBOLDEN.DESC"
 msgid "zCompanions receive +2 attack to next card played"
-msgstr "zCompanions receive +2 attack to next card played"
+msgstr "zCompanions receive +2 attack to next carte played"
 
 #: FEATURE.SWORD_EMBOLDEN.NAME
 msgctxt "FEATURE.SWORD_EMBOLDEN.NAME"
@@ -17206,7 +17206,7 @@ msgstr "zToxic"
 #: FEATURE.TRANSFORMS.DESC
 msgctxt "FEATURE.TRANSFORMS.DESC"
 msgid "zThis card transforms into another card when played"
-msgstr "zThis card transforms into another card when played"
+msgstr "zThis carte transforms into another carte when played"
 
 #: FEATURE.TRANSFORMS.NAME
 msgctxt "FEATURE.TRANSFORMS.NAME"
@@ -17216,7 +17216,7 @@ msgstr "zTransforms"
 #: FEATURE.UNPLAYABLE.DESC
 msgctxt "FEATURE.UNPLAYABLE.DESC"
 msgid "zThis card cannot be played"
-msgstr "zThis card cannot be played"
+msgstr "zThis carte cannot be played"
 
 #: FEATURE.UNPLAYABLE.NAME
 msgctxt "FEATURE.UNPLAYABLE.NAME"
@@ -17226,7 +17226,7 @@ msgstr "zUnplayable"
 #: FEATURE.VEILED.DESC
 msgctxt "FEATURE.VEILED.DESC"
 msgid "zVeiled cards cannot be seen until played."
-msgstr "zVeiled cards cannot be seen until played."
+msgstr "zVeiled cartes cannot be seen until played."
 
 #: FEATURE.VEILED.NAME
 msgctxt "FEATURE.VEILED.NAME"
@@ -17616,7 +17616,7 @@ msgstr "zAdmiralty Alliance"
 #: GRAFT.AUTO_SCROLL.DESC
 msgctxt "GRAFT.AUTO_SCROLL.DESC"
 msgid "zRestore a charge to a random {SPENT} card at the beginning of negotiation."
-msgstr "zRestore a charge to a random {SPENT} card at the beginning of negotiation."
+msgstr "zRestore a charge to a random {SPENT} carte at the beginning of negotiation."
 
 #: GRAFT.AUTO_SCROLL.NAME
 msgctxt "GRAFT.AUTO_SCROLL.NAME"
@@ -17666,7 +17666,7 @@ msgstr "zBuster"
 #: GRAFT.COUNTERFEIT_COIN.DESC
 msgctxt "GRAFT.COUNTERFEIT_COIN.DESC"
 msgid "zEvery 3rd bribe card played is free."
-msgstr "zEvery 3rd bribe card played is free."
+msgstr "zEvery 3rd bribe carte played is free."
 
 #: GRAFT.COUNTERFEIT_COIN.NAME
 msgctxt "GRAFT.COUNTERFEIT_COIN.NAME"
@@ -17736,7 +17736,7 @@ msgstr "zFeedback Loop"
 #: GRAFT.FIELD_NOTES.DESC
 msgctxt "GRAFT.FIELD_NOTES.DESC"
 msgid "zGain 2 resolve for every 4 cards played"
-msgstr "zGagne 2 resolve for every 4 cards played"
+msgstr "zGagne 2 resolve for every 4 cartes played"
 
 #: GRAFT.FIELD_NOTES.NAME
 msgctxt "GRAFT.FIELD_NOTES.NAME"
@@ -17776,7 +17776,7 @@ msgstr "zHemophage"
 #: GRAFT.ORGANIZER.DESC
 msgctxt "GRAFT.ORGANIZER.DESC"
 msgid "z{SPENT} cards can be played as: \"Cost 1: Expend and draw a card\""
-msgstr "z{SPENT} cards can be played as: \"Cost 1: Expend and draw a card\""
+msgstr "z{SPENT} cartes can be played as: \"Cost 1: Expend and draw a card\""
 
 #: GRAFT.ORGANIZER.NAME
 msgctxt "GRAFT.ORGANIZER.NAME"
@@ -17786,7 +17786,7 @@ msgstr "zOrganizer"
 #: GRAFT.POCKET_JOURNAL.DESC
 msgctxt "GRAFT.POCKET_JOURNAL.DESC"
 msgid "zDraw 1 card for every 3 cards played."
-msgstr "zPioche 1 card for every 3 cards played."
+msgstr "zPioche 1 carte for every 3 cartes played."
 
 #: GRAFT.POCKET_JOURNAL.NAME
 msgctxt "GRAFT.POCKET_JOURNAL.NAME"
@@ -17806,7 +17806,7 @@ msgstr "zPractictioner"
 #: GRAFT.REPLENISH_GRAFT.DESC
 msgctxt "GRAFT.REPLENISH_GRAFT.DESC"
 msgid "zWhenever you {EXPEND} a card in battle, draw a card"
-msgstr "zWhenever you {EXPEND} a card in battle, draw a card"
+msgstr "zWhenever you {EXPEND} a carte in battle, draw a card"
 
 #: GRAFT.REPLENISH_GRAFT.NAME
 msgctxt "GRAFT.REPLENISH_GRAFT.NAME"
@@ -18656,7 +18656,7 @@ msgstr "zAdmiralty Alliance"
 #: MODIFIER.ALL_IN.DESC
 msgctxt "MODIFIER.ALL_IN.DESC"
 msgid "zHostile cards cost 0 this turn\nDraw 3 cards"
-msgstr "zHostile cards cost 0 this turn\nDraw 3 cards"
+msgstr "zHostile cartes cost 0 this turn\nDraw 3 cards"
 
 #: MODIFIER.ALL_IN.NAME
 msgctxt "MODIFIER.ALL_IN.NAME"
@@ -18746,7 +18746,7 @@ msgstr "zConfusion"
 #: MODIFIER.COUNTERFEIT_COIN.DESC
 msgctxt "MODIFIER.COUNTERFEIT_COIN.DESC"
 msgid "zEvery 3rd bribe card played is free."
-msgstr "zEvery 3rd bribe card played is free."
+msgstr "zEvery 3rd bribe carte played is free."
 
 #: MODIFIER.COUNTERFEIT_COIN.NAME
 msgctxt "MODIFIER.COUNTERFEIT_COIN.NAME"
@@ -18766,7 +18766,7 @@ msgstr "zCowardly"
 #: MODIFIER.CRAFTY.DESC
 msgctxt "MODIFIER.CRAFTY.DESC"
 msgid "zDrawn cards automatically receive {VEILED}."
-msgstr "zPiochen cards automatically receive {VEILED}."
+msgstr "zPiochen cartes automatically receive {VEILED}."
 
 #: MODIFIER.CRAFTY.NAME
 msgctxt "MODIFIER.CRAFTY.NAME"
@@ -18806,7 +18806,7 @@ msgstr "zDoubt"
 #: MODIFIER.DUPLICITY.DESC
 msgctxt "MODIFIER.DUPLICITY.DESC"
 msgid "zThe next card played this turn is played twice."
-msgstr "zThe next card played this turn is played twice."
+msgstr "zThe next carte played this turn is played twice."
 
 #: MODIFIER.DUPLICITY.NAME
 msgctxt "MODIFIER.DUPLICITY.NAME"
@@ -18846,7 +18846,7 @@ msgstr "zFearless"
 #: MODIFIER.FIELD_NOTES.DESC
 msgctxt "MODIFIER.FIELD_NOTES.DESC"
 msgid "zGain 2 resolve for every 4 cards played"
-msgstr "zGagne 2 resolve for every 4 cards played"
+msgstr "zGagne 2 resolve for every 4 cartes played"
 
 #: MODIFIER.FIELD_NOTES.NAME
 msgctxt "MODIFIER.FIELD_NOTES.NAME"
@@ -18866,7 +18866,7 @@ msgstr "zFuming!"
 #: MODIFIER.GREEDY.DESC
 msgctxt "MODIFIER.GREEDY.DESC"
 msgid "z{BRIBE} cards cost twice as much"
-msgstr "z{BRIBE} cards cost twice as much"
+msgstr "z{BRIBE} cartes cost twice as much"
 
 #: MODIFIER.GREEDY.NAME
 msgctxt "MODIFIER.GREEDY.NAME"
@@ -18876,7 +18876,7 @@ msgstr "zGreedy"
 #: MODIFIER.HARD_FACTS.DESC
 msgctxt "MODIFIER.HARD_FACTS.DESC"
 msgid "zEvery card played this turn generates 2 {DOUBT}"
-msgstr "zEvery card played this turn generates 2 {DOUBT}"
+msgstr "zEvery carte played this turn generates 2 {DOUBT}"
 
 #: MODIFIER.HARD_FACTS.NAME
 msgctxt "MODIFIER.HARD_FACTS.NAME"
@@ -18896,7 +18896,7 @@ msgstr "zHavarian Codex"
 #: MODIFIER.HEAVY_ORDERS.DESC
 msgctxt "MODIFIER.HEAVY_ORDERS.DESC"
 msgid "zAll \"Order\" cards deal {1%+d} resolve damage"
-msgstr "zAll \"Order\" cards deal {1%+d} resolve damage"
+msgstr "zAll \"Order\" cartes deal {1%+d} resolve damage"
 
 #: MODIFIER.HEAVY_ORDERS.NAME
 msgctxt "MODIFIER.HEAVY_ORDERS.NAME"
@@ -18906,7 +18906,7 @@ msgstr "zHeavy Orders"
 #: MODIFIER.HONEST.DESC
 msgctxt "MODIFIER.HONEST.DESC"
 msgid "z{BRIBE} cards are 50% less effective"
-msgstr "z{BRIBE} cards are 50% less effective"
+msgstr "z{BRIBE} cartes are 50% less effective"
 
 #: MODIFIER.HONEST.NAME
 msgctxt "MODIFIER.HONEST.NAME"
@@ -18966,7 +18966,7 @@ msgstr "zIntimidated"
 #: MODIFIER.IRRITABLE.DESC
 msgctxt "MODIFIER.IRRITABLE.DESC"
 msgid "zDiplomacy cards create {HOSTILITY 1} when played."
-msgstr "zDiplomacy cards create {HOSTILITY 1} when played."
+msgstr "zDiplomacy cartes create {HOSTILITY 1} when played."
 
 #: MODIFIER.IRRITABLE.NAME
 msgctxt "MODIFIER.IRRITABLE.NAME"
@@ -18986,7 +18986,7 @@ msgstr "zUnderpaid"
 #: MODIFIER.OBSERVE.DESC
 msgctxt "MODIFIER.OBSERVE.DESC"
 msgid "zAdd {EXPEND} to the next opponent card played."
-msgstr "zAdd {EXPEND} to the next opponent card played."
+msgstr "zAdd {EXPEND} to the next opponent carte played."
 
 #: MODIFIER.OBSERVE.NAME
 msgctxt "MODIFIER.OBSERVE.NAME"
@@ -18996,7 +18996,7 @@ msgstr "zObserver"
 #: MODIFIER.ORGANIZER.DESC
 msgctxt "MODIFIER.ORGANIZER.DESC"
 msgid "z{SPENT} cards can be played as: \"Cost 1: Expend and draw a card\""
-msgstr "z{SPENT} cards can be played as: \"Cost 1: Expend and draw a card\""
+msgstr "z{SPENT} cartes can be played as: \"Cost 1: Expend and draw a card\""
 
 #: MODIFIER.ORGANIZER.NAME
 msgctxt "MODIFIER.ORGANIZER.NAME"
@@ -19006,7 +19006,7 @@ msgstr "zOrganizer"
 #: MODIFIER.PALM_GREASE.DESC
 msgctxt "MODIFIER.PALM_GREASE.DESC"
 msgid "zThe next card played deals double resolve damage"
-msgstr "zThe next card played deals double resolve damage"
+msgstr "zThe next carte played deals double resolve damage"
 
 #: MODIFIER.PALM_GREASE.NAME
 msgctxt "MODIFIER.PALM_GREASE.NAME"
@@ -19016,7 +19016,7 @@ msgstr "zPalm Grease"
 #: MODIFIER.POCKET_JOURNAL.DESC
 msgctxt "MODIFIER.POCKET_JOURNAL.DESC"
 msgid "zDraw 1 card for every 3 cards played."
-msgstr "zPioche 1 card for every 3 cards played."
+msgstr "zPioche 1 carte for every 3 cartes played."
 
 #: MODIFIER.POCKET_JOURNAL.NAME
 msgctxt "MODIFIER.POCKET_JOURNAL.NAME"
@@ -22191,7 +22191,7 @@ msgstr "zINVENTORY"
 #: UI.CARDS.ALT_DECK_TT
 msgctxt "UI.CARDS.ALT_DECK_TT"
 msgid "z<b>View Inventory</b>\nClick to view the cards in your inventory."
-msgstr "z<b>View Inventory</b>\nClick to view the cards in your inventory."
+msgstr "z<b>Afficher l'inventaire</b>\nCliquez pour afficher les cartes de votre inventaire."
 
 #: UI.CARDS.DECK
 msgctxt "UI.CARDS.DECK"
@@ -22201,27 +22201,27 @@ msgstr "zDECK"
 #: UI.CARDS.DISCARDED
 msgctxt "UI.CARDS.DISCARDED"
 msgid "zDISCARDED"
-msgstr "zDISCARDED"
+msgstr "zDÉFAUSE"
 
 #: UI.CARDS.DISCARDS_DECK_DIALOG_SUBTITLE
 msgctxt "UI.CARDS.DISCARDS_DECK_DIALOG_SUBTITLE"
 msgid "zPlayed cards are moved here. They're shuffled into your Draw Deck when it is empty."
-msgstr "zPlayed cards are moved here. They're shuffled into your Draw Deck when it is empty."
+msgstr "zPlayed cartes are moved here. They're shuffled into your Draw Deck when it is empty."
 
 #: UI.CARDS.DISCARDS_DECK_DIALOG_TITLE
 msgctxt "UI.CARDS.DISCARDS_DECK_DIALOG_TITLE"
 msgid "zDiscards Deck"
-msgstr "zDiscards Deck"
+msgstr "zDéfausser votre Deck"
 
 #: UI.CARDS.DISCARDS_DECK_TT
 msgctxt "UI.CARDS.DISCARDS_DECK_TT"
 msgid "z<b>Discards</b>\nClick to view cards in your discard pile. These cards are shuffled into your draw pile when it is empty."
-msgstr "z<b>Discards</b>\nClick to view cards in your discard pile. These cards are shuffled into your draw pile when it is empty."
+msgstr "z<b>Discards</b>\nClick to view cartes in your défausser pile. These cartes are shuffled into your draw pile when it is empty."
 
 #: UI.CARDS.DRAW_DECK_DIALOG_SUBTITLE
 msgctxt "UI.CARDS.DRAW_DECK_DIALOG_SUBTITLE"
 msgid "zCards are drawn from this deck on your turn. When you run out, your Discard Deck is shuffled back here."
-msgstr "zCards are drawn from this deck on your turn. When you run out, your Discard Deck is shuffled back here."
+msgstr "zCards are drawn from this deck on your turn. When you run out, your défausser Deck is shuffled back here."
 
 #: UI.CARDS.DRAW_DECK_DIALOG_TITLE
 msgctxt "UI.CARDS.DRAW_DECK_DIALOG_TITLE"
@@ -22231,12 +22231,12 @@ msgstr "zPioche Deck"
 #: UI.CARDS.DRAW_DECK_TT
 msgctxt "UI.CARDS.DRAW_DECK_TT"
 msgid "z<b>Draw</b>\nYou draw {1} cards per turn from this deck. Click to inspect."
-msgstr "z<b>Draw</b>\nYou draw {1} cards per turn from this deck. Click to inspect."
+msgstr "z<b>Draw</b>\nYou draw {1} cartes per turn from this deck. Click to inspect."
 
 #: UI.CARDS.END_TURN
 msgctxt "UI.CARDS.END_TURN"
 msgid "zEND TURN"
-msgstr "zEND TURN"
+msgstr "zFIN DU TOUR"
 
 #: UI.CARDS.ENEMY_DISCARDS_DECK_DIALOG_SUBTITLE
 msgctxt "UI.CARDS.ENEMY_DISCARDS_DECK_DIALOG_SUBTITLE"
@@ -22251,7 +22251,7 @@ msgstr "z{1}'s Discards Deck"
 #: UI.CARDS.ENEMY_DRAW_DECK_DIALOG_SUBTITLE
 msgctxt "UI.CARDS.ENEMY_DRAW_DECK_DIALOG_SUBTITLE"
 msgid "zCards are drawn from this deck on {1}'s turn. When they run out, {1}'s Discard Deck is shuffled back here."
-msgstr "zCards are drawn from this deck on {1}'s turn. When they run out, {1}'s Discard Deck is shuffled back here."
+msgstr "zCards are drawn from this deck on {1}'s turn. When they run out, {1}'s défausser Deck is shuffled back here."
 
 #: UI.CARDS.ENEMY_DRAW_DECK_DIALOG_TITLE
 msgctxt "UI.CARDS.ENEMY_DRAW_DECK_DIALOG_TITLE"
@@ -22266,17 +22266,17 @@ msgstr "zExerted"
 #: UI.CARDS.HAND_DECK_TITLE
 msgctxt "UI.CARDS.HAND_DECK_TITLE"
 msgid "zHAND"
-msgstr "zHAND"
+msgstr "zMAIN"
 
 #: UI.CARDS.HAND_DECK_TT
 msgctxt "UI.CARDS.HAND_DECK_TT"
 msgid "z<b>View Hand</b>\nClick to view the cards in your hand."
-msgstr "z<b>View Hand</b>\nClick to view the cards in your hand."
+msgstr "z<b>View Hand</b>\nClick to view the cartes in your hand."
 
 #: UI.CARDS.HAND_SIZE
 msgctxt "UI.CARDS.HAND_SIZE"
 msgid "zHand Size"
-msgstr "zHand Size"
+msgstr "zTaille de la main"
 
 #: UI.CARDS_PANEL.ACCEPT_SURRENDER
 msgctxt "UI.CARDS_PANEL.ACCEPT_SURRENDER"
@@ -22291,7 +22291,7 @@ msgstr "zChoose {1} {1*carte|cartes}"
 #: UI.CARDS_PANEL.CONCEDE_BTN
 msgctxt "UI.CARDS_PANEL.CONCEDE_BTN"
 msgid "zCONCEDE"
-msgstr "zCONCEDE"
+msgstr "zCONCÉDER"
 
 #: UI.CARDS_PANEL.DECK
 msgctxt "UI.CARDS_PANEL.DECK"
@@ -22301,7 +22301,7 @@ msgstr "zDeck"
 #: UI.CARDS_PANEL.DISCARD
 msgctxt "UI.CARDS_PANEL.DISCARD"
 msgid "zDiscard"
-msgstr "zDiscard"
+msgstr "zDéfausse"
 
 #: UI.CARDS_PANEL.SWAP
 msgctxt "UI.CARDS_PANEL.SWAP"
@@ -22311,7 +22311,7 @@ msgstr "zSwap"
 #: UI.CARD_RARITY.TOOLTIP
 msgctxt "UI.CARD_RARITY.TOOLTIP"
 msgid "z<b>Card Rarity</b>\n{1}"
-msgstr "z<b>Card Rarity</b>\n{1}"
+msgstr "z<b>Rareté de la carte</b>\n{1}"
 
 #: UI.CARD_WIDGET.CARD_TYPE.CONDITION
 msgctxt "UI.CARD_WIDGET.CARD_TYPE.CONDITION"
@@ -22321,7 +22321,7 @@ msgstr "zCondition"
 #: UI.CARD_WIDGET.CARD_TYPE.DIPLOMACY
 msgctxt "UI.CARD_WIDGET.CARD_TYPE.DIPLOMACY"
 msgid "zDiplomacy"
-msgstr "zDiplomacy"
+msgstr "zDiplomatie"
 
 #: UI.CARD_WIDGET.CARD_TYPE.HOSTILE
 msgctxt "UI.CARD_WIDGET.CARD_TYPE.HOSTILE"
@@ -22331,7 +22331,7 @@ msgstr "zHostility"
 #: UI.CARD_WIDGET.CARD_TYPE.MANIPULATE
 msgctxt "UI.CARD_WIDGET.CARD_TYPE.MANIPULATE"
 msgid "zManipulate"
-msgstr "zManipulate"
+msgstr "zManipuler"
 
 #: UI.CARD_WIDGET.CARD_TYPE.OPPONENT
 msgctxt "UI.CARD_WIDGET.CARD_TYPE.OPPONENT"
@@ -22341,12 +22341,12 @@ msgstr "zOpponent"
 #: UI.CARD_WIDGET.CARD_TYPE.STATUS
 msgctxt "UI.CARD_WIDGET.CARD_TYPE.STATUS"
 msgid "zStatus"
-msgstr "zStatus"
+msgstr "zÉtat"
 
 #: UI.CARD_WIDGET.REFRESH_CHARGES_TOOLTIP
 msgctxt "UI.CARD_WIDGET.REFRESH_CHARGES_TOOLTIP"
 msgid "zCharges: {1} / {2}\nWhen there are no charges remaining, this card becomes <b>Unplayable</b>."
-msgstr "zCharges: {1} / {2}\nWhen there are no charges remaining, this card becomes <b>Unplayable</b>."
+msgstr "zCharges: {1} / {2}\nWhen there are no charges remaining, this carte becomes <b>Unplayable</b>."
 
 #: UI.CHALLENGE_PANEL.ROLL
 msgctxt "UI.CHALLENGE_PANEL.ROLL"
@@ -22376,17 +22376,17 @@ msgstr "zDisables context sensitive player tips"
 #: UI.CHARACTER_SELECT_DETAILS_PANEL.DISABLE_TUTORIALS
 msgctxt "UI.CHARACTER_SELECT_DETAILS_PANEL.DISABLE_TUTORIALS"
 msgid "zDisable Tutorials"
-msgstr "zDisable Tutorials"
+msgstr "zDésactiver Tutoriels"
 
 #: UI.CHARACTER_SELECT_DETAILS_PANEL.DISABLE_TUTORIALS_TOOLTIP
 msgctxt "UI.CHARACTER_SELECT_DETAILS_PANEL.DISABLE_TUTORIALS_TOOLTIP"
 msgid "zDisables tutorials"
-msgstr "zDisables tutorials"
+msgstr "zDésactiver Tutoriels"
 
 #: UI.CHARACTER_SELECT_DETAILS_PANEL.LOCKED
 msgctxt "UI.CHARACTER_SELECT_DETAILS_PANEL.LOCKED"
 msgid "z<#PENALTY>Locked</>"
-msgstr "z<#PENALTY>Locked</>"
+msgstr "z<#PENALTY>Verrouillé</>"
 
 #: UI.CHARACTER_SELECT_DETAILS_PANEL.SELECT_STARTING_ACT
 msgctxt "UI.CHARACTER_SELECT_DETAILS_PANEL.SELECT_STARTING_ACT"
@@ -22396,22 +22396,22 @@ msgstr "zSelect Starting Act:"
 #: UI.CHARACTER_SELECT_SCREEN.CHARACTER_LOCKED
 msgctxt "UI.CHARACTER_SELECT_SCREEN.CHARACTER_LOCKED"
 msgid "z<#PENALTY>Character Locked</>"
-msgstr "z<#PENALTY>Character Locked</>"
+msgstr "z<#PENALTY>Personnage Verrouillé</>"
 
 #: UI.CHARACTER_STATS.HP.DESC
 msgctxt "UI.CHARACTER_STATS.HP.DESC"
 msgid "zThe amount of damage you can take in combat before you die."
-msgstr "zThe amount of damage you can take in combat before you die."
+msgstr "zLe montant des dommages que vous pouvez subir au combat avant de mourir."
 
 #: UI.CHARACTER_STATS.HP.TITLE
 msgctxt "UI.CHARACTER_STATS.HP.TITLE"
 msgid "zHP"
-msgstr "zHP"
+msgstr "zPV"
 
 #: UI.CHOOSE_LOCATION.SELECT_LOCATION
 msgctxt "UI.CHOOSE_LOCATION.SELECT_LOCATION"
 msgid "zSelect A Location"
-msgstr "zSelect A Location"
+msgstr "zChoisir un emplacement"
 
 #: UI.CLOCK.TOOLTIP
 msgctxt "UI.CLOCK.TOOLTIP"
@@ -22426,12 +22426,12 @@ msgstr "z<b>Combat Strength</>\nPeople with higher combat strength are tougher i
 #: UI.CONVERSATION_SCREEN.CLICK_TO_CONTINUE
 msgctxt "UI.CONVERSATION_SCREEN.CLICK_TO_CONTINUE"
 msgid "zCLICK TO CONTINUE"
-msgstr "zCLICK TO CONTINUE"
+msgstr "zCLIQUEZ POUR CONTINUER"
 
 #: UI.CONVERSATION_SCREEN.PRESS_TO_SKIP
 msgctxt "UI.CONVERSATION_SCREEN.PRESS_TO_SKIP"
 msgid "z<i>{1#binding} to skip</>"
-msgstr "z<i>{1#binding} to skip</>"
+msgstr "z<i>{1#binding} pour passer</>"
 
 #: UI.CREW_PORTRAITS.BUSY_TOOLTIP
 msgctxt "UI.CREW_PORTRAITS.BUSY_TOOLTIP"
@@ -22451,12 +22451,12 @@ msgstr "z<b>Defend</>\nDamage is removed from <b>Defend</> before health."
 #: UI.DIALOGS.ACCEPT
 msgctxt "UI.DIALOGS.ACCEPT"
 msgid "zAccept"
-msgstr "zAccept"
+msgstr "zAccepter"
 
 #: UI.DIALOGS.BACK
 msgctxt "UI.DIALOGS.BACK"
 msgid "zBack"
-msgstr "zBack"
+msgstr "zRetour"
 
 #: UI.DIALOGS.CANCEL
 msgctxt "UI.DIALOGS.CANCEL"
@@ -22466,12 +22466,12 @@ msgstr "Annuler"
 #: UI.DIALOGS.CANCEL_TIMEOUT
 msgctxt "UI.DIALOGS.CANCEL_TIMEOUT"
 msgid "zCancel (%d)"
-msgstr "zCancel (%d)"
+msgstr "zAnnuler (%d)"
 
 #: UI.DIALOGS.CONFIRM
 msgctxt "UI.DIALOGS.CONFIRM"
 msgid "zConfirm"
-msgstr "zConfirm"
+msgstr "zConfirmer"
 
 #: UI.DIALOGS.CONTINUE
 msgctxt "UI.DIALOGS.CONTINUE"
@@ -22481,12 +22481,12 @@ msgstr "zContinue"
 #: UI.DIALOGS.DELETE_BODY
 msgctxt "UI.DIALOGS.DELETE_BODY"
 msgid "zAre you sure?"
-msgstr "zAre you sure?"
+msgstr "zVous êtes sûr?"
 
 #: UI.DIALOGS.DELETE_TITLE
 msgctxt "UI.DIALOGS.DELETE_TITLE"
 msgid "zDELETE SAVE GAME"
-msgstr "zDELETE SAVE GAME"
+msgstr "zSUPPRIMER SAUVEGARDE DU JEU"
 
 #: UI.DIALOGS.EXIT_BODY
 msgctxt "UI.DIALOGS.EXIT_BODY"
@@ -22496,12 +22496,12 @@ msgstr "zReturn to the main menu? Your progress will be saved."
 #: UI.DIALOGS.EXIT_LOAD_TITLE
 msgctxt "UI.DIALOGS.EXIT_LOAD_TITLE"
 msgid "zLOAD GAME"
-msgstr "zLOAD GAME"
+msgstr "zCHARGEMENT DU JEU"
 
 #: UI.DIALOGS.EXIT_TITLE
 msgctxt "UI.DIALOGS.EXIT_TITLE"
 msgid "zQUIT TO MAIN MENU"
-msgstr "zQUIT TO MAIN MENU"
+msgstr "zRETOURNER AU MENU PRINCIPAL"
 
 #: UI.DIALOGS.NO
 msgctxt "UI.DIALOGS.NO"
@@ -22516,12 +22516,12 @@ msgstr "zOK"
 #: UI.DIALOGS.OVERWRITESAVE_BODY
 msgctxt "UI.DIALOGS.OVERWRITESAVE_BODY"
 msgid "zAre you sure you want to overwrite this save file?"
-msgstr "zAre you sure you want to overwrite this save file?"
+msgstr "zÊtes-vous sûr de vouloir écraser ce fichier de sauvegarde?"
 
 #: UI.DIALOGS.OVERWRITESAVE_TITLE
 msgctxt "UI.DIALOGS.OVERWRITESAVE_TITLE"
 msgid "zSAVE GAME"
-msgstr "zSAVE GAME"
+msgstr "zSAUVEGARDER LA PARTIE"
 
 #: UI.DIALOGS.QUIT_BODY
 msgctxt "UI.DIALOGS.QUIT_BODY"
@@ -22546,12 +22546,12 @@ msgstr "z{1}\n<i>Arrives in {2} turns</i>"
 #: UI.FIGHTER_PREVIEW.TALKTO_TOOLTIP
 msgctxt "UI.FIGHTER_PREVIEW.TALKTO_TOOLTIP"
 msgid "zTalk to {1}"
-msgstr "zTalk to {1}"
+msgstr "zParler à {1}"
 
 #: UI.FIGHT_PREVIEW_SCREEN.BEGIN_FIGHT
 msgctxt "UI.FIGHT_PREVIEW_SCREEN.BEGIN_FIGHT"
 msgid "zBegin Fight"
-msgstr "zBegin Fight"
+msgstr "zCommencer le combat"
 
 #: UI.FIGHT_PREVIEW_SCREEN.BEGIN_FIGHT_TOOLTIP
 msgctxt "UI.FIGHT_PREVIEW_SCREEN.BEGIN_FIGHT_TOOLTIP"
@@ -22566,12 +22566,12 @@ msgstr "zCommit To Fight"
 #: UI.FIGHT_PREVIEW_SCREEN.CONVINCE_RESULT
 msgctxt "UI.FIGHT_PREVIEW_SCREEN.CONVINCE_RESULT"
 msgid "zYou lose 1 AP"
-msgstr "zYou lose 1 AP"
+msgstr "zVous perdez 1 AP"
 
 #: UI.FIGHT_RESULTS_SCREEN.BATTLE_WON
 msgctxt "UI.FIGHT_RESULTS_SCREEN.BATTLE_WON"
 msgid "zYou won the battle!"
-msgstr "zYou won the battle!"
+msgstr "zVous avez gagné la bataille!"
 
 #: UI.FIGHT_RESULTS_SCREEN.FACTION_RELATIONSHIPS
 msgctxt "UI.FIGHT_RESULTS_SCREEN.FACTION_RELATIONSHIPS"
@@ -22586,7 +22586,7 @@ msgstr "z{1#agent} remembers: {2}"
 #: UI.FIGHT_RESULTS_SCREEN.TITLE
 msgctxt "UI.FIGHT_RESULTS_SCREEN.TITLE"
 msgid "zFight Results"
-msgstr "zFight Results"
+msgstr "zRésultats du combat"
 
 #: UI.FIGHT_SCREEN.ACCEPT_SURRENDER_TOOLTIP
 msgctxt "UI.FIGHT_SCREEN.ACCEPT_SURRENDER_TOOLTIP"
@@ -22596,7 +22596,7 @@ msgstr "zThey've surrendered to you. You can end this fight now, if you want."
 #: UI.FIGHT_SCREEN.CARD_TYPE.ATTACK_TOOLTIP
 msgctxt "UI.FIGHT_SCREEN.CARD_TYPE.ATTACK_TOOLTIP"
 msgid "zAttack"
-msgstr "zAttack"
+msgstr "zAttaque"
 
 #: UI.FIGHT_SCREEN.CARD_TYPE.MANEUVER_TOOLTIP
 msgctxt "UI.FIGHT_SCREEN.CARD_TYPE.MANEUVER_TOOLTIP"
@@ -22606,7 +22606,7 @@ msgstr "zManeuver"
 #: UI.FIGHT_SCREEN.CARD_TYPE.SPECIAL_TOOLTIP
 msgctxt "UI.FIGHT_SCREEN.CARD_TYPE.SPECIAL_TOOLTIP"
 msgid "zSpecial"
-msgstr "zSpecial"
+msgstr "zSpéciale"
 
 #: UI.FIGHT_SCREEN.CARD_TYPE.STATUS_TOOLTIP
 msgctxt "UI.FIGHT_SCREEN.CARD_TYPE.STATUS_TOOLTIP"
@@ -22626,7 +22626,7 @@ msgstr "zChoose {1} {1*carte|cartes}"
 #: UI.FIGHT_SCREEN.DAMAGE_INFLICTED
 msgctxt "UI.FIGHT_SCREEN.DAMAGE_INFLICTED"
 msgid "z<b>Damage Inflicted</b>\nThis card will inflict damage by a random value within the range shown."
-msgstr "z<b>Damage Inflicted</b>\nThis card will inflict damage by a random value within the range shown."
+msgstr "z<b>Damage Inflicted</b>\nThis carte will inflict damage by a random value within the range shown."
 
 #: UI.FIGHT_SCREEN.DEAL_MORALE_DAMAGE
 msgctxt "UI.FIGHT_SCREEN.DEAL_MORALE_DAMAGE"
@@ -22641,7 +22641,7 @@ msgstr "zDeal {1}-{2} morale damage"
 #: UI.FIGHT_SCREEN.DEFEAT
 msgctxt "UI.FIGHT_SCREEN.DEFEAT"
 msgid "zDEFEAT"
-msgstr "zDEFEAT"
+msgstr "zDÉFAITE"
 
 #: UI.FIGHT_SCREEN.END_TURN_TOOLTIP
 msgctxt "UI.FIGHT_SCREEN.END_TURN_TOOLTIP"
@@ -22661,12 +22661,12 @@ msgstr "zExit Demo"
 #: UI.FIGHT_SCREEN.HAND
 msgctxt "UI.FIGHT_SCREEN.HAND"
 msgid "zHAND"
-msgstr "zHAND"
+msgstr "zMAIN"
 
 #: UI.FIGHT_SCREEN.ITEMS
 msgctxt "UI.FIGHT_SCREEN.ITEMS"
 msgid "zITEMS"
-msgstr "zITEMS"
+msgstr "zOBJETS"
 
 #: UI.FIGHT_SCREEN.MODIFIERS
 msgctxt "UI.FIGHT_SCREEN.MODIFIERS"
@@ -22681,7 +22681,7 @@ msgstr "zPLAYER ADVANTAGE!\n+1 Action"
 #: UI.FIGHT_SCREEN.REFRESH_COST_DETAILS
 msgctxt "UI.FIGHT_SCREEN.REFRESH_COST_DETAILS"
 msgid "z<b>Action Cost</b>\nThis card will reduce your available Actions by the amount shown.{1#concat_line}"
-msgstr "z<b>Action Cost</b>\nThis card will reduce your available Actions by the amount shown.{1#concat_line}"
+msgstr "z<b>Action Cost</b>\nThis carte will reduce your available Actions by the amount shown.{1#concat_line}"
 
 #: UI.FIGHT_SCREEN.RESERVES_ARRIVE_TOOLTIP
 msgctxt "UI.FIGHT_SCREEN.RESERVES_ARRIVE_TOOLTIP"
@@ -22696,12 +22696,12 @@ msgstr "zRESERVE FIGHTERS"
 #: UI.FIGHT_SCREEN.SHOW_TURN
 msgctxt "UI.FIGHT_SCREEN.SHOW_TURN"
 msgid "zTurn {1}"
-msgstr "zTurn {1}"
+msgstr "zTour {1}"
 
 #: UI.FIGHT_SCREEN.VICTORY
 msgctxt "UI.FIGHT_SCREEN.VICTORY"
 msgid "zVICTORY!"
-msgstr "zVICTORY!"
+msgstr "zVICTOIRE!"
 
 #: UI.FIGHT_TEAM_PREVIEW.AGGRESSOR
 msgctxt "UI.FIGHT_TEAM_PREVIEW.AGGRESSOR"
@@ -22716,7 +22716,7 @@ msgstr "zBystanders"
 #: UI.FIGHT_TEAM_PREVIEW.ENEMY
 msgctxt "UI.FIGHT_TEAM_PREVIEW.ENEMY"
 msgid "zEnemy"
-msgstr "zEnemy"
+msgstr "zEnnemi"
 
 #: UI.FIGHT_TEAM_PREVIEW.INITIATIVE
 msgctxt "UI.FIGHT_TEAM_PREVIEW.INITIATIVE"
@@ -22801,12 +22801,12 @@ msgstr "z<b>Health</b>\nA fighter is removed from combat when they lose all thei
 #: UI.HEALTH_INDICATOR.TOOLTIP
 msgctxt "UI.HEALTH_INDICATOR.TOOLTIP"
 msgid "z<b>Health</>\n"
-msgstr "z<b>Health</>\n"
+msgstr "z<b>Santé</>\n"
 
 #: UI.HEALTH_TOOLTIP
 msgctxt "UI.HEALTH_TOOLTIP"
 msgid "zIf you run out of Health, you will die."
-msgstr "zIf you run out of Health, you will die."
+msgstr "zSi vous manquez de santé, vous mourrez."
 
 #: UI.ILLEGAL_GOODS_TT
 msgctxt "UI.ILLEGAL_GOODS_TT"
@@ -22841,17 +22841,17 @@ msgstr "zItem Info Here"
 #: UI.ITEM_DETAILS.ITEM_NAME
 msgctxt "UI.ITEM_DETAILS.ITEM_NAME"
 msgid "zItem Name"
-msgstr "zItem Name"
+msgstr "zNom de l'objet"
 
 #: UI.ITEM_DETAILS.ITEM_TYPE
 msgctxt "UI.ITEM_DETAILS.ITEM_TYPE"
 msgid "zItem Type"
-msgstr "zItem Type"
+msgstr "zType d'objet"
 
 #: UI.JOB_POPUP.ACCEPT
 msgctxt "UI.JOB_POPUP.ACCEPT"
 msgid "zAccept"
-msgstr "zAccept"
+msgstr "zAccepter"
 
 #: UI.JOB_POPUP.DECLINE
 msgctxt "UI.JOB_POPUP.DECLINE"
@@ -22861,42 +22861,42 @@ msgstr "zDecline"
 #: UI.JOB_POPUP.RANK_LABEL
 msgctxt "UI.JOB_POPUP.RANK_LABEL"
 msgid "zDIFFICULTY"
-msgstr "zDIFFICULTY"
+msgstr "zDIFFICULTÉ"
 
 #: UI.JOB_POPUP.TITLE_LABEL
 msgctxt "UI.JOB_POPUP.TITLE_LABEL"
 msgid "zNEW QUEST"
-msgstr "zNEW QUEST"
+msgstr "zNOUVELLE QUETE"
 
 #: UI.LOADGAMESCREEN.CANCEL
 msgctxt "UI.LOADGAMESCREEN.CANCEL"
 msgid "zCANCEL"
-msgstr "zCANCEL"
+msgstr "zANNULER"
 
 #: UI.LOADGAMESCREEN.DELETE
 msgctxt "UI.LOADGAMESCREEN.DELETE"
 msgid "zDELETE"
-msgstr "zDELETE"
+msgstr "zSUPPRIMER"
 
 #: UI.LOADGAMESCREEN.LOAD
 msgctxt "UI.LOADGAMESCREEN.LOAD"
 msgid "zLOAD"
-msgstr "zLOAD"
+msgstr "zCHARGEMENT"
 
 #: UI.LOADGAMESCREEN.NAME
 msgctxt "UI.LOADGAMESCREEN.NAME"
 msgid "zSAVE NAME:"
-msgstr "zSAVE NAME:"
+msgstr "zNOM DE SAUVEGARDE:"
 
 #: UI.LOADGAMESCREEN.NEWSAVE
 msgctxt "UI.LOADGAMESCREEN.NEWSAVE"
 msgid "zNEW SAVE"
-msgstr "zNEW SAVE"
+msgstr "zNOUVELLE SAUVEGARDE"
 
 #: UI.LOADGAMESCREEN.PLAY_TIME
 msgctxt "UI.LOADGAMESCREEN.PLAY_TIME"
 msgid "zPLAY TIME"
-msgstr "zPLAY TIME"
+msgstr "zTEMPS DE JEU"
 
 #: UI.LOADGAMESCREEN.SAVE
 msgctxt "UI.LOADGAMESCREEN.SAVE"
@@ -22911,12 +22911,12 @@ msgstr "zOVERWRITE SAVE"
 #: UI.LOADGAMESCREEN.SAVETITLE
 msgctxt "UI.LOADGAMESCREEN.SAVETITLE"
 msgid "zSAVE GAME"
-msgstr "zSAVE GAME"
+msgstr "zENREGISTRER LAenregistrer la partie"
 
 #: UI.LOADGAMESCREEN.TITLE
 msgctxt "UI.LOADGAMESCREEN.TITLE"
 msgid "zLOAD GAME"
-msgstr "zLOAD GAME"
+msgstr "zCHARGER LA PARTIE"
 
 #: UI.LOCATION_SCREEN.ENEMIES_WITH
 msgctxt "UI.LOCATION_SCREEN.ENEMIES_WITH"
@@ -22931,7 +22931,7 @@ msgstr "zFriendly with {1}"
 #: UI.LOCATION_SCREEN.LOVED_BY
 msgctxt "UI.LOCATION_SCREEN.LOVED_BY"
 msgid "zLoved by {1}"
-msgstr "zLoved by {1}"
+msgstr "zAimé de {1}"
 
 #: UI.LOCATION_SCREEN.NAMEPLATE.EMPLOYS
 msgctxt "UI.LOCATION_SCREEN.NAMEPLATE.EMPLOYS"
@@ -22961,7 +22961,7 @@ msgstr "zSame Faction as {1}"
 #: UI.LOCATION_SCREEN.NAMEPLATE.SYMPATHIZES_WITH
 msgctxt "UI.LOCATION_SCREEN.NAMEPLATE.SYMPATHIZES_WITH"
 msgid "zSympathizes with {1}"
-msgstr "zSympathizes with {1}"
+msgstr "zSympathise avec {1}"
 
 #: UI.LOCATION_SCREEN.NAMEPLATE.TRAVELLING_WITH
 msgctxt "UI.LOCATION_SCREEN.NAMEPLATE.TRAVELLING_WITH"
@@ -22981,12 +22981,12 @@ msgstr "zWorks with {1}"
 #: UI.LOCATION_SCREEN.OKAY
 msgctxt "UI.LOCATION_SCREEN.OKAY"
 msgid "zOkay"
-msgstr "zOkay"
+msgstr "zC'est Okay"
 
 #: UI.LOCATION_SCREEN.OVERBURDENED
 msgctxt "UI.LOCATION_SCREEN.OVERBURDENED"
 msgid "z<#PENALTY>Overburdened</>"
-msgstr "z<#PENALTY>Overburdened</>"
+msgstr "z<#PENALTY>Surchargée</>"
 
 #: UI.LOCATION_SCREEN.OVERBURDENED_DESC
 msgctxt "UI.LOCATION_SCREEN.OVERBURDENED_DESC"
@@ -23026,7 +23026,7 @@ msgstr "zOpen Hours: {1#schedule}"
 #: UI.LOOT_SCREEN.LEAVE
 msgctxt "UI.LOOT_SCREEN.LEAVE"
 msgid "zLeave"
-msgstr "zLeave"
+msgstr "zPartir"
 
 #: UI.LOOT_SCREEN.MONEY_TAKEN
 msgctxt "UI.LOOT_SCREEN.MONEY_TAKEN"
@@ -23041,7 +23041,7 @@ msgstr "zNo items can be looted."
 #: UI.LOOT_SCREEN.TAKE_ALL
 msgctxt "UI.LOOT_SCREEN.TAKE_ALL"
 msgid "zTake All"
-msgstr "zTake All"
+msgstr "zTOUT prendre"
 
 #: UI.LOOT_SCREEN.TAKE_ALL_TOOLTIP
 msgctxt "UI.LOOT_SCREEN.TAKE_ALL_TOOLTIP"
@@ -23121,7 +23121,7 @@ msgstr "zOUTILS"
 #: UI.MAINMENU.WELCOME
 msgctxt "UI.MAINMENU.WELCOME"
 msgid "zWelcome to the Griftlands"
-msgstr "zWelcome to the Griftlands"
+msgstr "zBienvenue dans Griftlands"
 
 #: UI.MAIN_OVERLAY.HOTKEY_BINDING
 msgctxt "UI.MAIN_OVERLAY.HOTKEY_BINDING"
@@ -23151,12 +23151,12 @@ msgstr "zCenter on Caravan"
 #: UI.MINIMAP.JOURNAL
 msgctxt "UI.MINIMAP.JOURNAL"
 msgid "zOpen Journal"
-msgstr "zOpen Journal"
+msgstr "zOuvrir le journal"
 
 #: UI.MINIMAP.OPEN
 msgctxt "UI.MINIMAP.OPEN"
 msgid "zOpen Full Map"
-msgstr "zOpen Full Map"
+msgstr "zOuvrir la carte"
 
 #: UI.MINIMAP.ZOOMIN
 msgctxt "UI.MINIMAP.ZOOMIN"
@@ -23181,7 +23181,7 @@ msgstr "zAppuyez {1} pour passer"
 #: UI.NEGOTIATION_PANEL.ACTION_COST
 msgctxt "UI.NEGOTIATION_PANEL.ACTION_COST"
 msgid "z<b>Action Cost</b>\nThis card will reduce your available Actions by the amount shown.{1#concat_line}"
-msgstr "z<b>Action Cost</b>\nThis card will reduce your available Actions by the amount shown.{1#concat_line}"
+msgstr "z<b>Action Cost</b>\nThis carte will reduce your available Actions by the amount shown.{1#concat_line}"
 
 #: UI.NEGOTIATION_PANEL.CHOOSE_CARDS
 msgctxt "UI.NEGOTIATION_PANEL.CHOOSE_CARDS"
@@ -23641,7 +23641,7 @@ msgstr "zAmount of Resolve you have when negotiating."
 #: UI.REWARDS_WIDGET.BATTLE_ADDCARD_SUBTITLE
 msgctxt "UI.REWARDS_WIDGET.BATTLE_ADDCARD_SUBTITLE"
 msgid "zCHOOSE A CARD TO ADD TO YOUR BATTLE DECK"
-msgstr "zCHOOSE A CARD TO ADD TO YOUR BATTLE DECK"
+msgstr "zCHOOSE A carte TO ADD TO YOUR BATTLE DECK"
 
 #: UI.REWARDS_WIDGET.BATTLE_ADDCARD_TITLE
 msgctxt "UI.REWARDS_WIDGET.BATTLE_ADDCARD_TITLE"
@@ -23686,7 +23686,7 @@ msgstr "zMoney made of plack."
 #: UI.REWARDS_WIDGET.NEGOTIATION_ADDCARD_SUBTITLE
 msgctxt "UI.REWARDS_WIDGET.NEGOTIATION_ADDCARD_SUBTITLE"
 msgid "zCHOOSE A CARD TO ADD TO YOUR NEGOTIATION DECK"
-msgstr "zCHOOSE A CARD TO ADD TO YOUR NEGOTIATION DECK"
+msgstr "zCHOOSE A carte TO ADD TO YOUR NEGOTIATION DECK"
 
 #: UI.REWARDS_WIDGET.NEGOTIATION_ADDCARD_TITLE
 msgctxt "UI.REWARDS_WIDGET.NEGOTIATION_ADDCARD_TITLE"
@@ -23711,7 +23711,7 @@ msgstr "zREWARDS"
 #: UI.REWARDS_WIDGET.REWARD_TOOLTIP
 msgctxt "UI.REWARDS_WIDGET.REWARD_TOOLTIP"
 msgid "zGain a number of {1} cards upfront, upon accepting this quest."
-msgstr "zGagne a number of {1} cards upfront, upon accepting this quest."
+msgstr "zGagne a number of {1} cartes upfront, upon accepting this quest."
 
 #: UI.REWARDS_WIDGET.UPFRONT_REWARDS
 msgctxt "UI.REWARDS_WIDGET.UPFRONT_REWARDS"
@@ -24026,12 +24026,12 @@ msgstr "zYou cannot BRIBE in this negotiation"
 #: UI.TOOLTIP_CONVO_OPTION.NEGOTIATION.NO_DIPLOMACY
 msgctxt "UI.TOOLTIP_CONVO_OPTION.NEGOTIATION.NO_DIPLOMACY"
 msgid "zYou cannot play DIPLOMACY cards in this negotiation"
-msgstr "zYou cannot play DIPLOMACY cards in this negotiation"
+msgstr "zYou cannot play DIPLOMACY cartes in this negotiation"
 
 #: UI.TOOLTIP_CONVO_OPTION.NEGOTIATION.NO_HOSTILE
 msgctxt "UI.TOOLTIP_CONVO_OPTION.NEGOTIATION.NO_HOSTILE"
 msgid "zYou cannot play HOSTILE cards in this negotiation"
-msgstr "zYou cannot play HOSTILE cards in this negotiation"
+msgstr "zYou cannot play HOSTILE cartes in this negotiation"
 
 #: UI.TOOLTIP_CONVO_OPTION.NEGOTIATION.PENALTY
 msgctxt "UI.TOOLTIP_CONVO_OPTION.NEGOTIATION.PENALTY"
