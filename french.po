@@ -39255,7 +39255,7 @@ msgstr "Forums"
 msgctxt "UI.MAINMENU.INFO_BTN_NOTES"
 msgid "Patch notes"
 msgstr "Notes de patch"
-²
+
 #: UI.CARDCOMPENDIUM.UPGRADES_TITLE
 msgctxt "UI.CARDCOMPENDIUM.UPGRADES_TITLE"
 msgid "POTENTIAL UPGRADES"
