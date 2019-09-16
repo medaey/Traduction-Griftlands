@@ -36435,104 +36435,17 @@ msgctxt "UI.LOOT_SCREEN.TAKE_ALL_TOOLTIP"
 msgid "Take as much as possible."
 msgstr "Take as much as possible."
 
-#: UI.MAINMENU.BACK
-#, fuzzy
-msgctxt "UI.MAINMENU.BACK"
-msgid "BACK"
-msgstr "RETOUR"
-
-#: UI.MAINMENU.UPDATE_TEXT_WEEKS
-msgctxt "UI.MAINMENU.UPDATE_TEXT_WEEKS"
-msgid ""
-msgstr ""
-
-#: UI.MAINMENU.BUILDTEST
-#, fuzzy
-msgctxt "UI.MAINMENU.BUILDTEST"
-msgid "BUILD TESTER"
-msgstr "BUILD TESTER"
-
-#: UI.MAINMENU.CONTINUE
-#, fuzzy
-msgctxt "UI.MAINMENU.CONTINUE"
-msgid "CONTINUE"
-msgstr "CONTINUER"
-
-#: UI.MAINMENU.CONVOTEST
-#, fuzzy
-msgctxt "UI.MAINMENU.CONVOTEST"
-msgid "CONVO TESTER"
-msgstr "CONVO TESTER"
-
-#: UI.MAINMENU.FIGHTTEST
-#, fuzzy
-msgctxt "UI.MAINMENU.FIGHTTEST"
-msgid "FIGHT TEST"
-msgstr "FIGHT TEST"
-
-#: UI.MAINMENU.LOAD
-#, fuzzy
-msgctxt "UI.MAINMENU.LOAD"
-msgid "LOAD GAME"
-msgstr "CHARGER PARTIE"
-
-#: UI.MAINMENU.NEW
-#, fuzzy
-msgctxt "UI.MAINMENU.NEW"
-msgid "NEW GAME"
-msgstr "NOUVELLE PARTIE"
-
-#: UI.MAINMENU.OPTIONS
-#, fuzzy
-msgctxt "UI.MAINMENU.OPTIONS"
-msgid "OPTIONS"
-msgstr "OPTIONS"
-
-#: UI.MAINMENU.PLAY
-#, fuzzy
-msgctxt "UI.MAINMENU.PLAY"
-msgid "PLAY"
-msgstr "JOUER"
-
-#: UI.MAINMENU.QUICKPLAY
-#, fuzzy
-msgctxt "UI.MAINMENU.QUICKPLAY"
-msgid "JUMP INTO WORLD (DEBUG)"
-msgstr "JUMP INTO WORLD (DEBUG)"
-
 #: UI.MAINMENU.QUICKPLAY_2
 #, fuzzy
 msgctxt "UI.MAINMENU.QUICKPLAY_2"
 msgid "JUMP INTO ACT 2 (DEBUG)"
 msgstr "JUMP INTO ACT 2 (DEBUG)"
 
-#: UI.MAINMENU.QUIT
-#, fuzzy
-msgctxt "UI.MAINMENU.QUIT"
-msgid "QUIT"
-msgstr "QUITTER"
-
-#: UI.MAINMENU.TOOLS
-#, fuzzy
-msgctxt "UI.MAINMENU.TOOLS"
-msgid "TOOLS"
-msgstr "OUTILS"
-
-#: UI.MAINMENU.WELCOME
-#, fuzzy
-msgctxt "UI.MAINMENU.WELCOME"
-msgid "Welcome to the Griftlands"
-msgstr "Welcome to the Griftlands"
-
 #: UI.MAIN_OVERLAY.HOTKEY_BINDING
 #, fuzzy
 msgctxt "UI.MAIN_OVERLAY.HOTKEY_BINDING"
-msgid ""
-"\n"
-"Hotkey: {1#binding}"
-msgstr ""
-"\n"
-"Hotkey: {1#binding}"
+msgid "\nHotkey: {1#binding}"
+msgstr "\nHotkey: {1#binding}"
 
 #: UI.MAIN_OVERLAY.VIEW_BATTLE_DECK
 #, fuzzy
@@ -36593,10 +36506,9 @@ msgstr ""
 "The currency of Havaria."
 
 #: UI.MOVIE_SCREEN.SKIP
-#, fuzzy
 msgctxt "UI.MOVIE_SCREEN.SKIP"
-msgid "Press {1} to skip"
-msgstr "Appuyez sur <b>ESC</b> pour passer"
+msgid "Press <#TITLE>ESC</> to skip"
+msgstr "Appuyez sur <#TITLE>ESC</> pour passer"
 
 #: UI.NEGOTIATION_PANEL.ACTION_COST
 #, fuzzy
@@ -36755,20 +36667,10 @@ msgctxt "UI.NEWGAME.TITLE"
 msgid "NEW GAME"
 msgstr "NOUVELLE PARTIE"
 
-#: UI.OPTIONS_SCREEN.LANGUAGE
-msgctxt "UI.OPTIONS_SCREEN.LANGUAGE"
-msgid "Language"
-msgstr "Langage"
-
 #: UI.OPTIONS_SCREEN.ACCEPT_RESOLUTION
 msgctxt "UI.OPTIONS_SCREEN.ACCEPT_RESOLUTION"
 msgid "Accept new resolution?"
 msgstr "Accepter la nouvelle résolution?"
-
-#: UI.OPTIONS_SCREEN.APPLY
-msgctxt "UI.OPTIONS_SCREEN.APPLY"
-msgid "APPLY"
-msgstr "APPLIQUER"
 
 #: UI.OPTIONS_SCREEN.ASPECT_RATIO
 #, fuzzy
@@ -36780,17 +36682,6 @@ msgstr "Aspect Ratio"
 msgctxt "UI.OPTIONS_SCREEN.BLOOM"
 msgid "Bloom"
 msgstr "Floue"
-
-#: UI.OPTIONS_SCREEN.CONFIRM_CLOSE
-#, fuzzy
-msgctxt "UI.OPTIONS_SCREEN.CONFIRM_CLOSE"
-msgid "Really Close"
-msgstr "Modification non sauvegardées"
-
-#: UI.OPTIONS_SCREEN.CONFIRM_CLOSE_DETAILS
-msgctxt "UI.OPTIONS_SCREEN.CONFIRM_CLOSE_DETAILS"
-msgid "You have unsaved changes. Are you sure you want to close?"
-msgstr "Vous avez des modifications non sauvegardées.\nVoulez-vous tout de même fermer?"
 
 #: UI.OPTIONS_SCREEN.DISPLAY
 msgctxt "UI.OPTIONS_SCREEN.DISPLAY"
@@ -36830,20 +36721,24 @@ msgstr "RÉSOLUTION"
 
 #: UI.OPTIONS_SCREEN.RESOLUTION_DESC
 msgctxt "UI.OPTIONS_SCREEN.RESOLUTION_DESC"
-msgid "The size of the game windows in pixel"
-msgstr "La taille de la fenêtres de jeu en pixel"
+msgid "The size of the game windows in pixels."
+msgstr "La resolution du jeu en pixels"
+
+#: UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION
+msgctxt "UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION"
+msgid "CUSTOM {1}x{2}"
+msgstr "PERSONNALISÉ {1}X{2}"
+
+#: UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION_DESC
+msgctxt "UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION_DESC"
+msgid "You're in fullscreen mode, so the game window uses the exact resolution of your display. To increase performance, decrease the <#SUBTITLE>Max Target Size</> below"
+msgstr "Vous êtes en mode plein écran, la fenêtre du jeu utilise donc la résolution exacte de votre écran.\n<#SOUS-TITRE> Résolution maximale</> ci-dessous."
 
 #: UI.OPTIONS_SCREEN.RESOLUTION_CHANGED
 #, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.RESOLUTION_CHANGED"
 msgid "Resolution Changed"
 msgstr "Resolution Changed"
-
-#: UI.OPTIONS_SCREEN.REVERT
-#, fuzzy
-msgctxt "UI.OPTIONS_SCREEN.REVERT"
-msgid "REVERT"
-msgstr "ANNULER"
 
 #: UI.OPTIONS_SCREEN.TITLE
 msgctxt "UI.OPTIONS_SCREEN.TITLE"
@@ -36859,6 +36754,26 @@ msgstr "VOIX"
 msgctxt "UI.OPTIONS_SCREEN.VSYNC"
 msgid "V-Sync"
 msgstr "V-Sync"
+
+#: UI.OPTIONS_SCREEN.VSYNC_ON
+msgctxt "UI.OPTIONS_SCREEN.VSYNC_ON"
+msgid "ON",
+msgstr "OUI"
+
+#: UI.OPTIONS_SCREEN.VSYNC_ON_DESC
+msgctxt "UI.OPTIONS_SCREEN.VSYNC_ON_DESC"
+msgid "The game will render at the maximum frame rate supported by your display. <#SUBTITLE>Recommended.</>",
+msgstr "Le jeu sera rendu à la fréquence d'images maximale supportée par votre écran. <#SUBTITLE>Recommandé.</>"
+
+#: UI.OPTIONS_SCREEN.VSYNC_OFF
+msgctxt "UI.OPTIONS_SCREEN.VSYNC_OFF"
+msgid "OFF",
+msgstr "NON"
+
+#: UI.OPTIONS_SCREEN.VSYNC_OFF_DESC
+msgctxt "UI.OPTIONS_SCREEN.VSYNC_OFF_DESC"
+msgid "The game will render as many frames as possible, even if your display can't show them all. <#SUBTITLE>Not recommended for this game as it'll waste power with no visual or input benefit.</>",
+msgstr "Le jeu restituera autant d'images que possible, même si votre écran ne peut pas toutes les afficher. <#SUBTITLE> Non recommandé pour ce jeu car il gaspille de l'énergie sans bénéfice visuel.</>"
 
 #: UI.OPTIONS_SCREEN.WINDOWED
 msgctxt "UI.OPTIONS_SCREEN.WINDOWED"
@@ -38626,41 +38541,6 @@ msgctxt "UI.LANGUAGES_SCREEN.TITLE"
 msgid "LANGUAGES"
 msgstr "LANGAGE"
 
-#: UI.MAINMENU.CARDCOMPENDIUM
-msgctxt "UI.MAINMENU.CARDCOMPENDIUM"
-msgid "CARDS"
-msgstr "CARTES"
-
-#: UI.MAINMENU.CARDCOMPENDIUM
-msgctxt "UI.MAINMENU.CARDCOMPENDIUM"
-msgid "CARDS"
-msgstr "CARTES"
-
-#: UI.MAINMENU.KLEI_GAMES
-msgctxt "UI.MAINMENU.KLEI_GAMES"
-msgid "MORE\nGAMES"
-msgstr "PLUS\nDE JEU"
-
-#: UI.MAINMENU.KLEI_COMMUNITY
-msgctxt "UI.MAINMENU.KLEI_COMMUNITY"
-msgid "GAME\nCOMMUNITY"
-msgstr "COMMUNAUTÉ\nDU JEU"
-
-#: UI.MAINMENU.UPDATE_TEXT_WEEKS_DAYS
-msgctxt "UI.MAINMENU.UPDATE_TEXT_WEEKS_DAYS"
-msgid "{1} WEEKS, {2} DAYS"
-msgstr "{1} SEMAINES,\n{2} JOURS"
-
-#: UI.OPTIONS_SCREEN.RESET_PROFILE_BUTTON
-msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_BUTTON"
-msgid "Reset Profile"
-msgstr "Réinitialiser le profil"
-
-#: UI.OPTIONS_SCREEN.CREDITS
-msgctxt "UI.OPTIONS_SCREEN.CREDITS"
-msgid "Credits"
-msgstr "Crédits"
-
 #: UI.LANGUAGES_SCREEN.CHANGE_LANGUAGE_TITLE
 msgctxt "UI.LANGUAGES_SCREEN.CHANGE_LANGUAGE_TITLE"
 msgid "Change Language"
@@ -38686,7 +38566,6 @@ msgctxt "UI.SLOT_SELECT_SCREEN.EMPTYSLOT_TITLE"
 msgid "EMPTY RUN SLOT"
 msgstr "EMPLACEMENT VIDE"
 
-
 #: UI.SLOT_SELECT_SCREEN.EMPTYSLOT_DESC
 msgctxt "UI.SLOT_SELECT_SCREEN.EMPTYSLOT_DESC"
 msgid "Start a new run"
@@ -38696,36 +38575,6 @@ msgstr "Démarrer une nouvelle partie"
 msgctxt "UI.SLOT_SELECT_SCREEN.BACK"
 msgid "Back"
 msgstr "Retour"
-
-#: UI.OPTIONS_SCREEN.FAST_MODE_DISABLED
-msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_DISABLED"
-msgid "DISABLED"
-msgstr "DÉSACTIVÉ"
-
-#: UI.OPTIONS_SCREEN.FAST_MODE_DISABLED
-msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED"
-msgid "DISABLED"
-msgstr "DÉSACTIVÉ"
-
-#: UI.OPTIONS_SCREEN.FAST_MODE_DISABLED
-msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED"
-msgid "DISABLED"
-msgstr "DÉSACTIVÉ"
-
-#: UI.OPTIONS_SCREEN.FAST_MODE_DISABLED_DESC
-msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_DISABLED_DESC"
-msgid "The game will play at normal speed."
-msgstr "Le jeu se déroule à une vitesse normale."
-
-#: UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED_DESC
-msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED_DESC"
-msgid "Guring card selection, a single click will select a card"
-msgstr "En sélectionnant une carte, un simple clic séléctionera la carte."
-
-#: UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED_DESC
-msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED_DESC"
-msgid "Default game UI."
-msgstr "Interface par défaut du jeu"
 
 #: UI.OPTIONS_SCREEN.TAB_OTHER
 msgctxt "UI.OPTIONS_SCREEN.TAB_OTHER"
@@ -38745,62 +38594,12 @@ msgstr "VIDEO"
 #: UI.OPTIONS_SCREEN.TAB_GAMEPLAY
 msgctxt "UI.OPTIONS_SCREEN.TAB_GAMEPLAY"
 msgid "GAMEPLAY"
-msgstr "GAMEPLAY"
+msgstr "JOUABILITÉ"
 
 #: UI.OPTIONS_SCREEN.FAST_MODE
 msgctxt "UI.OPTIONS_SCREEN.FAST_MODE"
 msgid "FAST MODE"
 msgstr "MODE RAPIDE"
-
-#: UI.OPTIONS_SCREEN.CONFIRM_SELECT
-msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT"
-msgid "CONFIRM CARD SELECTION"
-msgstr "CONFIRMER LA SÉLECTION DE LA CARTE"
-
-#: UI.OPTIONS_SCREEN.STREAMER_MODE
-msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE"
-msgid "STREAMING MODE"
-msgstr "MODE STREAMING"
-
-#: UI.MAINMENU.BETA_TITLE
-msgctxt "UI.MAINMENU.BETA_TITLE"
-msgid "Welcome to the Griftlands Alpha!"
-msgstr "Bienvenue sur l'Alpha de Griftlands!"
-
-#: UI.MAINMENU.BETA_BODY
-msgctxt "UI.MAINMENU.BETA_BODY"
-msgid "The Griftlands are a harsh and unforgiving land, where every decision matters and death\ncomes easily to the unprepared.\n\n You will fail,but keep trying and you may be able to bend fate your favor.\n\nThis game is in Alpha.At any time, press <b>F8</b/> to send us feedback!"
-msgstr "Les Griftlands sont des terre rude et impitoyable, où chaque décision compte et où la mort vient facilement à ceux qui ne sont pas préparés.\n\nVous échouerez, mais continuez d'essayer et vous serez peut-être en mesure de plier le destin en votre faveur.\n\nCe jeu est en Alpha.\nA tout moment, appuyez sur <b>F8</b> pour nous envoyer vos commentaires !"
-
-#: UI.MAINMENU.BETA_BUTTON
-msgctxt "UI.MAINMENU.BETA_BUTTON"
-msgid "OK"
-msgstr "OK"
-
-#: UI.OPTIONS_SCREEN.RESET_PROFILE_TT
-msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_TT"
-msgid "Reset your meta progression, stats, and unlocks."
-msgstr "Réinitialise tout votre progression, vos statistiques..."
-
-#: UI.OPTIONS_SCREEN.RESET_PROFILE_TITLE
-msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_TITLE"
-msgid "Profile Reset!"
-msgstr "Réinitialisation"
-
-#: UI.OPTIONS_SCREEN.RESET_PROFILE_BODY
-msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_BODY"
-msgid "You profile has been reset."
-msgstr "<b><#PENALTY>ATTENTION</></b>\nVotre profil va étre réinitialisé"
-
-#: UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_TITLE
-msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_TITLE"
-msgid "Reset Profile"
-msgstr "Réinitialisation"
-
-#: UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_BODY
-msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_BODY"
-msgid "<b><i>WARNING:</i></b>\nThis will reset all of your character XP and unlocks.This action can not undone\nAre you <b>absolutely sure</b> you want to do this?"
-msgstr "<b><#PENALTY>ATTENTION</></b>\nCette action à réinitialisé tous vos personnage.\nCette action ne peut pas étre annuler\n"
 
 #: UI.CHARACTER_SELECT_DETAILS_PANEL.STARTING_NEGOTIATION_DECK
 msgctxt "UI.CHARACTER_SELECT_DETAILS_PANEL.STARTING_NEGOTIATION_DECK"
@@ -38927,7 +38726,6 @@ msgctxt "UI.OPTIONS_SCREEN.METRICS_ENABLED_DESC"
 msgid "the game will send gameplay data to Klei's server, to help us improve the game."
 msgstr "le jeu enverra des données de jeu au serveur de Klei, pour nous aider à améliorer le jeu."
 
-
 #: UI.OPTIONS_SCREEN.FULLSCREEN_OFF
 msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_OFF"
 msgid "OFF"
@@ -38938,20 +38736,15 @@ msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_ON"
 msgid "ON"
 msgstr "OUI"
 
+#: UI.OPTIONS_SCREEN.FULLSCREEN_ON_DESC
+msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_ON_DESC"
+msgid "The game window fills up your display."
+msgstr "La fenêtre de jeu prend tout votre écran."
+
 #: UI.OPTIONS_SCREEN.FULLSCREEN_OFF_DESC
 msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_OFF_DESC"
-msgid "The game windows can be positioned and resized at will."
+msgid "The game window can be positioned and resized at will."
 msgstr "La fenêtre de jeu peuvent être positionnées et redimensionnées à volonté."
-
-#: UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION
-msgctxt "UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION"
-msgid "CUSTOM {1}X{2}"
-msgstr "PERSONNALISÉ {1}X{2}"
-
-#: UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION_DESC
-msgctxt "UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION_DESC"
-msgid "The size of the game windows in pixels."
-msgstr "La resolution du jeu en pixels"
 
 #: UI.OPTIONS_SCREEN.MAXY
 msgctxt "UI.OPTIONS_SCREEN.MAXY"
@@ -38968,15 +38761,50 @@ msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND"
 msgid "COLOR BLIND SETTINGS"
 msgstr "RÉGLAGES DES COULEURS"
 
+#: UI.OPTIONS_SCREEN.COLOURBLIND_TT
+msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_TT"
+msgid "{1} card color preview"
+msgstr "{1} aperçu des couleurs de la carte"
+
 #: UI.OPTIONS_SCREEN.COLOURBLIND_DEFAULT
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_DEFAULT"
 msgid "DEFAULT"
 msgstr "DEFAULT"
 
-#: UI.OPTIONS_SCREEN.COLOURBLIND_DESC
+#: UI.OPTIONS_SCREEN.COLOURBLIND_DEFAULT_DESC
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_DEFAULT_DESC"
 msgid "Cards are shown in their original colors"
-msgstr "Les cartes sont présentées dans leurs couleurs originales"
+msgstr "Les cartes sont montrées dans leurs couleurs d'origine"
+
+#: UI.OPTIONS_SCREEN.COLOURBLIND_PROTANOPIA
+msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_PROTANOPIA"
+msgid "Protanopia - Red/Green"
+msgstr "Protanopi - Rouge/Vert"
+
+#: UI.OPTIONS_SCREEN.COLOURBLIND_PROTANOPIA_DESC
+msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_PROTANOPIA_DESC"
+msgid "Hostility, Item and Attack card colors are tweaked to be more distinct"
+msgstr "Les couleurs des cartes d'Hostilité, Objets et d'Attaques sont modifiées pour être plus distinctes."
+
+#: UI.OPTIONS_SCREEN.COLOURBLIND_DEUTERANOPIA
+msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_DEUTERANOPIA"
+msgid "Deuteranopia - Red/Green"
+msgstr "DeutÉranopie - Rouge/Vert"
+
+#: UI.OPTIONS_SCREEN.COLOURBLIND_DEUTERANOPIA_DESC
+msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_DEUTERANOPIA_DESC"
+msgid "Diplomacy and Item card colors are tweaked to be more distinct"
+msgstr "La diplomatie et les couleurs des cartes d'objets sont modifiées pour être plus distinctes"
+
+#: UI.OPTIONS_SCREEN.COLOURBLIND_TRITANOPIA
+msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_TRITANOPIA"
+msgid "Tritanopia - Blue/Yellow"
+msgstr "Tritanopi - Bleu/Jaune"
+
+#: UI.OPTIONS_SCREEN.COLOURBLIND_TRITANOPIA_DESC
+msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_TRITANOPIA_DESC"
+msgid "Maneuver, Attack and Item card colors are tweaked to be more distinct"
+msgstr "Les couleurs des cartes de manœuvre, attaque et objet sont modifiées pour être plus distinctes."
 
 #: UI.OPTIONS_SCREEN.BLOOM_ON
 msgctxt "UI.OPTIONS_SCREEN.BLOOM_ON"
@@ -38990,8 +38818,13 @@ msgstr "NON"
 
 #: UI.OPTIONS_SCREEN.BLOOM_ON_DESC
 msgctxt "UI.OPTIONS_SCREEN.BLOOM_ON_DESC"
-msgid "Show some glow around various visual elements. Recommended."
-msgstr "Montrez une lueur autour de divers éléments visuels. Recommander."
+msgid "Shows some glow around various visual elements. <#SUBTITLE>Recommended.</>"
+msgstr "Montrez une lueur autour de divers éléments visuels. <#SUBTITLE>Recommander.</>"
+
+#: UI.OPTIONS_SCREEN.BLOOM_OFF_DESC
+msgctxt "UI.OPTIONS_SCREEN.BLOOM_OFF_DESC"
+msgid "Increased performance by hiding the glow."
+msgstr "Augmentation de la performance en cachant la lueur"
 
 #: UI.OPTIONS_SCREEN.DETAILLEVEL
 msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL"
@@ -39003,20 +38836,20 @@ msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH"
 msgid "HIGH"
 msgstr "HAUT"
 
+#: UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH_DESC
+msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH_DESC"
+msgid "High quality fog and distance blur."
+msgstr "Haute qualité pour le flou de distance"
+
 #: UI.OPTIONS_SCREEN.DETAILLEVEL_LOW
 msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_LOW"
 msgid "LOW"
 msgstr "BAS"
 
-#: UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH_DESC
-msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH_DESC"
-msgid "High quality for and distance blur"
-msgstr "Haute qualité pour le flou de distance"
-
-#: UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION_DESC
-msgctxt "UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION_DESC"
-msgid "The siz of the game windwos in pixels"
-msgstr "La taille de la fenêtre en pixels"
+#: UI.OPTIONS_SCREEN.DETAILLEVEL_LOW_DESC
+msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_LOW_DESC"
+msgid "Increased performance by lowering the fog and distance blur quality."
+msgstr "Performances accrues grâce à l'abaissement de la qualité du brouillard et du flou de distance."
 
 #: UI.OPTIONS_SCREEN.FX_AMBIENCE
 msgctxt "UI.OPTIONS_SCREEN.FX_AMBIENCE"
@@ -39062,3 +38895,650 @@ msgstr "Le volume des sons de l'interface utilisateur (clics, survol de la souri
 msgctxt "UI.OPTIONS_SCREEN.FX_DROPDOWN_TT"
 msgid "Advanced effect volume controls"
 msgstr "Contrôles de volume avancés"
+
+#: CARD.COMPLIMENT.NAME
+msgctxt "CARD.COMPLIMENT.NAME"
+msgid "Compliment"
+msgstr "Compliment"
+
+#: UI.MAINMENU.UPDATE_TITLE
+msgctxt "UI.MAINMENU.UPDATE_TITLE"
+msgid "NEXT UPDATE:"
+msgstr "MISE A JOUR:"
+
+#: UI.MAINMENU.UPDATE_TEXT_DAYS
+msgctxt "UI.MAINMENU.UPDATE_TEXT_DAYS"
+msgid "{1} {1*DAY|DAYS}"
+msgstr "{1} JOUR(S)"
+
+#: UI.MAINMENU.UPDATE_TEXT_WEEKS
+msgctxt "UI.MAINMENU.UPDATE_TEXT_WEEKS"
+msgid "{1} {1*WEEK|WEEKS}"
+msgstr "{1} SEMAINE(S)"
+
+#: UI.MAINMENU.UPDATE_TEXT_WEEKS_DAYS
+msgctxt "UI.MAINMENU.UPDATE_TEXT_WEEKS_DAYS"
+msgid "{1} {1*WEEK|WEEKS}, {2} {2*DAY|DAYS}"
+msgstr "{1} SEMAINE(S),\n{2}JOUR(S)"
+
+#: UI.MAINMENU.UPDATE_TEXT
+msgctxt "UI.MAINMENU.UPDATE_TEXT"
+msgid "IMMINENT!"
+msgstr "IMMINENT!"
+
+#: UI.OPTIONS_SCREEN.FAST_MODE_ENABLED
+msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_ENABLED"
+msgid "ENABLED"
+msgstr "ACTIVÉ"
+
+#: UI.OPTIONS_SCREEN.FAST_MODE_ENABLED_DESC
+msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_ENABLED_DESC"
+msgid "The game will speed through text and travel more quickly on the map."
+msgstr "Le jeu va accélérer les texte et les voyages plus rapidement sur la carte."
+
+#: UI.OPTIONS_SCREEN.FAST_MODE_DISABLED
+msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_DISABLED"
+msgid "DISABLED"
+msgstr "DÉSACTIVÉ"
+
+#: UI.OPTIONS_SCREEN.FAST_MODE_DISABLED_DESC
+msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_DISABLED_DESC"
+msgid "The game will play at normal speed."
+msgstr "Le jeu se déroulera à une vitesse normale."
+
+#: UI.OPTIONS_SCREEN.SKIP_MOVIES
+msgctxt "UI.OPTIONS_SCREEN.SKIP_MOVIES"
+msgid "Skip Cinematics"
+msgstr "Passer les cinématiques"
+
+#: UI.OPTIONS_SCREEN.SKIP_MOVIES_ENABLED
+msgctxt "UI.OPTIONS_SCREEN.SKIP_MOVIES_ENABLED"
+msgid "ENABLED"
+msgstr "ACTIVÉ"
+
+#: UI.OPTIONS_SCREEN.SKIP_MOVIES_ENABLED_DESC
+msgctxt "UI.OPTIONS_SCREEN.SKIP_MOVIES_ENABLED_DESC"
+msgid "The game will skip cinematics."
+msgstr "Le jeu va sauter les cinématiques."
+
+#: UI.OPTIONS_SCREEN.SKIP_MOVIES_DISABLED
+msgctxt "UI.OPTIONS_SCREEN.SKIP_MOVIES_DISABLED"
+msgid "DISABLED"
+msgstr "DÉSACTIVÉ"
+
+#: UI.OPTIONS_SCREEN.SKIP_MOVIES_DISABLED_DESC
+msgctxt "UI.OPTIONS_SCREEN.SKIP_MOVIES_DISABLED_DESC"
+msgid "The game will play cinematics."
+msgstr "Le jeu va jouer les cinématiques."
+
+#: UI.OPTIONS_SCREEN.CONFIRM_SELECT
+msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT"
+msgid "Confirm Card Selection"
+msgstr "CONFIRMER LA SÉLECTION DE LA CARTE"
+
+#: UI.OPTIONS_SCREEN.CONFIRM_SELECT_ENABLED
+msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_ENABLED"
+msgid "ENABLED"
+msgstr "ACTIVÉ"
+
+#: UI.OPTIONS_SCREEN.CONFIRM_SELECT_ENABLED_DESC
+msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_ENABLED_DESC"
+msgid "During card selection, two clicks are required to select a card (good for trackpads)."
+msgstr "Lors de la sélection de la carte, deux clics sont nécessaires pour sélectionner une carte (bon pour les trackpads)."
+
+#: UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED
+msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED"
+msgid "DISABLED"
+msgstr "DÉSACTIVÉ"
+
+#: UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED_DESC
+msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED_DESC"
+msgid "During card selection, a single click will select a card."
+msgstr "Lors de la sélection de la carte, un seul clic sélectionnera une carte."
+
+#: UI.OPTIONS_SCREEN.STREAMER_MODE
+msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE"
+msgid "Streaming Mode"
+msgstr "MODE STREAMING"
+
+#: UI.OPTIONS_SCREEN.STREAMER_MODE_OVERLAY_TEXT
+msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_OVERLAY_TEXT"
+msgid "SAFE AREA FOR STREAMING OVERLAY"
+msgstr "ZONE LIBRE POUR SUPERPOSER UN CONTENUE"
+
+#: UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED
+msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED"
+msgid "LEFT SIDE"
+msgstr "CÔTÉ GAUCHE"
+
+#: UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_DESC
+msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_DESC"
+msgid "The game UI will leave a safe area on the bottom left corner for a camera feed overlay."
+msgstr "L'interface utilisateur du jeu laissera une zone libre dans le coin inférieur gauche pour une positionner une webcam."
+
+#: UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_RIGHT
+msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_RIGHT"
+msgid "RIGHT SIDE"
+msgstr "CÔTÉ DROIT"
+
+#: UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_DESC_RIGHT
+msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_DESC_RIGHT"
+msgid "The game UI will leave a safe area on the bottom right corner for a camera feed overlay."
+msgstr "L'interface utilisateur du jeu laissera une zone libre dans le coin inférieur droit pour une positionner une webcam."
+
+#: UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED
+msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED"
+msgid "DISABLED"
+msgstr "DÉSACTIVÉ"
+
+#: UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED_DESC
+msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED_DESC"
+msgid "Default game UI."
+msgstr "Interface par défaut du jeu"
+
+#: UI.OPTIONS_SCREEN.APPLY
+msgctxt "UI.OPTIONS_SCREEN.APPLY"
+msgid "Apply Changes"
+msgstr "Appliquer les modifications"
+
+#: UI.OPTIONS_SCREEN.REVERT
+msgctxt "UI.OPTIONS_SCREEN.REVERT"
+msgid "Revert Changes"
+msgstr "Annuler les changements"
+
+#: UI.OPTIONS_SCREEN.CREDITS
+msgctxt "UI.OPTIONS_SCREEN.CREDITS"
+msgid "Credits"
+msgstr "Crédits"
+
+#: UI.OPTIONS_SCREEN.CONFIRM_CLOSE
+msgctxt "UI.OPTIONS_SCREEN.CONFIRM_CLOSE"
+msgid "Unsaved Changes"
+msgstr "Modifications non enregistrées"
+
+#: UI.OPTIONS_SCREEN.CONFIRM_CLOSE_DETAILS
+msgctxt "UI.OPTIONS_SCREEN.CONFIRM_CLOSE_DETAILS"
+msgid "You have unsaved changes. Are you sure you want to close without applying them first?"
+msgstr "Vous avez des changements non enregistrés.\nEtes-vous sûr que vous voulez fermer sans les appliquer?"
+
+#: UI.OPTIONS_SCREEN.RESET_PROFILE_BUTTON
+msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_BUTTON"
+msgid "Reset Profile"
+msgstr "Réinitialiser le profil"
+
+#: UI.OPTIONS_SCREEN.RESET_PROFILE_TITLE
+msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_TITLE"
+msgid "Reset Profile"
+msgstr "Réinitialiser le profil"
+
+#: UI.OPTIONS_SCREEN.RESET_PROFILE_BODY
+msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_BODY"
+msgid "<b><#PENALTY>WARNING:</></>\nThis will reset all of your character XP and unlocks. This action can not be undone. Are you <b>absolutely sure</> you want to do this?"
+msgstr "<b><#PENALTY>AVERTISSEMENT:</></>\nCeci réinitialise tout votre personnage XP et objet déverrouille. Cette action ne peut pas être annulée. Êtes-vous <b>absolument sûr</> de vouloir faire cela?"
+
+#: UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_TITLE
+msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_TITLE"
+msgid "Profile Reset!"
+msgstr "Réinitialisation du profil!"
+
+#: UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_BODY
+msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_BODY"
+msgid "You profile has been reset."
+msgstr "Votre profil a été réinitialisé."
+
+#: UI.OPTIONS_SCREEN.RESET_PROFILE_TT
+msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_TT"
+msgid "Reset your meta progression, stats, and unlocks."
+msgstr "Réinitialise tout votre progression, vos statistiques..."
+
+#: UI.OPTIONS_SCREEN.RESET_PROFILE_TT_LOCKED
+msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_TT_LOCKED"
+msgid "You can't do this while you are in the middle of a run."
+msgstr "Vous ne pouvez pas faire cela pendant que vous utilisée votre profile."
+
+#: UI.OPTION_SCREEN.TITLE
+msgxtxt "UI.OPTION_SCREEN.TITLE"
+msgid "LANGUAGES"
+msgstr "LANGUES"
+
+#: UI.OPTION_SCREEN.CHANGE_LANGUAGE_TITLE
+msgxtxt "UI.OPTION_SCREEN.CHANGE_LANGUAGE_TITLE"
+msgid "Change Language"
+msgstr "Changer de langue"
+
+#: UI.OPTION_SCREEN.CHANGE_LANGUAGE_TARGET
+msgxtxt "UI.OPTION_SCREEN.CHANGE_LANGUAGE_TARGET"
+msgid "Are you sure you want to change the language to:\n{1}?\n\nThis will restart the game!"
+msgstr "Êtes-vous sûr de vouloir changer la langue en: \n {1}? \n\nCela va redémarre le jeu!"
+
+#: UI.MAINMENU.EXPERIMENTAL_BRANCH_BTN
+msgctxt "UI.MAINMENU.EXPERIMENTAL_BRANCH_BTN"
+msgid "EXPERIMENTAL BRANCH INFO"
+msgstr "INFORMATIONS SUR LA BRANCHE EXPÉRIMENTALE"
+
+#: UI.MAINMENU.BETA_TITLE
+msgctxt "UI.MAINMENU.BETA_TITLE"
+msgid "Welcome to the Griftlands Alpha!"
+msgstr "Bienvenue sur l'Alpha de Griftlands!"
+
+#: UI.MAINMENU.BETA_BODY
+msgctxt "UI.MAINMENU.BETA_BODY"
+msgid "The Griftlands are a harsh and unforgiving land, where every decision matters and death\ncomes easily to the unprepared.\n\n You will fail,but keep trying and you may be able to bend fate your favor.\n\nThis game is in Alpha.At any time, press <b>F8</b/> to send us feedback!"
+msgstr "Les Griftlands sont des terre rude et impitoyable, où chaque décision compte et où la mort vient facilement à ceux qui ne sont pas préparés.\n\nVous échouerez, mais continuez d'essayer et vous serez peut-être en mesure de plier le destin en votre faveur.\n\nCe jeu est en Alpha.\nA tout moment, appuyez sur <b>F8</b> pour nous envoyer vos commentaires !"
+
+#: UI.MAINMENU.BETA_BUTTON
+msgctxt "UI.MAINMENU.BETA_BUTTON"
+msgid "OK"
+msgstr "OK"
+
+#: UI.MAINMENU.WELCOME
+msgctxt "UI.MAINMENU.WELCOME"
+msgid "Welcome to the Griftlands"
+msgstr "Bienvenue dans les Griftlands"
+
+#: UI.MAINMENU.TUTORIALS
+msgctxt "UI.MAINMENU.TUTORIALS"
+msgid "TUTORIALS"
+msgstr "TUTORIELS"
+
+#: UI.MAINMENU.NEGOTIATION
+msgctxt "UI.MAINMENU.NEGOTIATION"
+msgid "NEGOTIATION"
+msgstr "NÉOCIATION"
+
+#: UI.MAINMENU.BATTLE
+msgctxt "UI.MAINMENU.BATTLE"
+msgid "BATTLE"
+msgstr "BATAILLE"
+
+#: UI.MAINMENU.QUICKPLAY
+msgctxt "UI.MAINMENU.QUICKPLAY"
+msgid "QUICK JUMP {1}"
+msgstr "SAUT RAPIDE {1}"
+
+#: UI.MAINMENU.PLAY
+msgctxt "UI.MAINMENU.PLAY"
+msgid "PLAY"
+msgstr "JOUER"
+
+#: UI.MAINMENU.TOOLS
+msgctxt "UI.MAINMENU.TOOLS"
+msgid "TOOLS"
+msgstr "OUTILS"
+
+#: UI.MAINMENU.CARDCOMPENDIUM
+msgctxt "UI.MAINMENU.CARDCOMPENDIUM"
+msgid "CARDS"
+msgstr "CARTES"
+
+#: UI.MAINMENU.FIGHTTEST
+msgctxt "UI.MAINMENU.FIGHTTEST"
+msgid "FIGHT TEST"
+msgstr "TEST DE COMBAT"
+
+#: UI.MAINMENU.BUILDTEST
+msgctxt "UI.MAINMENU.BUILDTEST"
+msgid "BUILD TESTER"
+msgstr "TESTEUR DE CONSTRUCTION"
+
+#: UI.MAINMENU.CONVOTEST
+msgctxt "UI.MAINMENU.CONVOTEST"
+msgid "CONVO TESTER"
+msgstr "TESTEUR CONVO"
+
+#: UI.MAINMENU.OPTIONS
+msgctxt "UI.MAINMENU.OPTIONS"
+msgid "OPTIONS"
+msgstr "OPTIONS"
+
+#: UI.MAINMENU.QUIT
+msgctxt "UI.MAINMENU.QUIT"
+msgid "QUIT"
+msgstr "QUITTER"
+
+#: UI.MAINMENU.NEW
+msgctxt "UI.MAINMENU.NEW"
+msgid "NEW GAME"
+msgstr "NOUVELLE PARTIE"
+
+#: UI.MAINMENU.LOAD
+msgctxt "UI.MAINMENU.LOAD"
+msgid "LOAD GAME"
+msgstr "CHARGER PARTIE"
+
+#: UI.MAINMENU.CONTINUE
+msgctxt "UI.MAINMENU.CONTINUE"
+msgid "CONTINUE"
+msgstr "CONTINUER"
+
+#: UI.MAINMENU.BACK
+msgctxt "UI.MAINMENU.BACK"
+msgid "BACK"
+msgstr "RETOUR"
+
+#: UI.MAINMENU.CLOSE
+msgctxt "UI.MAINMENU.CLOSE"
+msgid "Close"
+msgstr "proche"
+
+#: UI.MAINMENU.MORE_INFO
+msgctxt "UI.MAINMENU.MORE_INFO"
+msgid "More info"
+msgstr "Plus d'informations"
+
+#: UI.MAINMENU.KLEI_GAMES
+msgctxt "UI.MAINMENU.KLEI_GAMES"
+msgid "MORE GAMES"
+msgstr "PLUS \nDE JEUX"
+
+#: UI.MAINMENU.KLEI_COMMUNITY
+msgctxt "UI.MAINMENU.KLEI_COMMUNITY"
+msgid "GAME COMMUNITY"
+msgstr "COMMUNAUTÉ\nDU JEU"
+
+#: UI.MAINMENU.INFO_TITLE
+msgctxt "UI.MAINMENU.INFO_TITLE"
+msgid "DEVELOPMENT BUILD"
+msgstr "DEVELOPMENT BUILD"
+
+#: UI.MAINMENU.INFO_TEXT
+msgctxt "UI.MAINMENU.INFO_TEXT"
+msgid "This game is in active development. Stay up to date by joining our mailing list, or head on over to the forums and join the discussion."
+msgstr "Ce jeu est en développement actif. Tenez-vous au courant en vous inscrivant à notre liste de diffusion, ou rendez-vous sur les forums et participez à la discussion."
+
+#: UI.MAINMENU.INFO_BTN_FORUMS
+msgctxt "UI.MAINMENU.INFO_BTN_FORUMS"
+msgid "Forums"
+msgstr "Forums"
+
+#: UI.MAINMENU.INFO_BTN_NOTES
+msgctxt "UI.MAINMENU.INFO_BTN_NOTES"
+msgid "Patch notes"
+msgstr "Notes de patch"
+²
+#: UI.CARDCOMPENDIUM.UPGRADES_TITLE
+msgctxt "UI.CARDCOMPENDIUM.UPGRADES_TITLE"
+msgid "POTENTIAL UPGRADES"
+msgstr "AMÉLIORATIONS POTENTIELLES"
+
+#: UI.CARDCOMPENDIUM.NAV_CARDS
+msgctxt "UI.CARDCOMPENDIUM.NAV_CARDS"
+msgid "CARDS"
+msgstr "CARTES"
+
+#: UI.CARDCOMPENDIUM.NAV_PEOPLE
+msgctxt "UI.CARDCOMPENDIUM.NAV_PEOPLE"
+msgid "PEOPLE"
+msgstr "PERSONNES"
+
+#: UI.CARDCOMPENDIUM.NAV_GRAFTS
+#, fuzzy
+msgctxt "UI.CARDCOMPENDIUM.NAV_GRAFTS"
+msgid "GRAFTS"
+msgstr "GRAFTS"
+
+#: UI.CARDCOMPENDIUM.NAV_PROGRESS
+msgctxt "UI.CARDCOMPENDIUM.NAV_PROGRESS"
+msgid "<b>{1}</>/{2}"
+msgstr "<b>{1}/{2}</b>"
+
+#: UI.CARDCOMPENDIUM.CARD_LOCKED_TT
+msgctxt "UI.CARDCOMPENDIUM.CARD_LOCKED_TT"
+msgid "<b><#TITLE>Locked Card</></b>\nThis card is locked. Doing more runs with this character will unlock more of their cards."
+msgstr "<b><#TITLE>Carte verrouillée</#TITLE></b>\nCette carte est verrouillée. Joué plus avec ce personnage débloquera plus de cartes."
+
+#: UI.CARDCOMPENDIUM.FILTER_CHARACTERS
+msgctxt "UI.CARDCOMPENDIUM.FILTER_CHARACTERS"
+msgid "CHARACTERS"
+msgstr "PERSONNAGES"
+
+#: UI.CARDCOMPENDIUM.FILTER_SERIES_TITLE
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SERIES_TITLE"
+msgid "{1} CARDS"
+msgstr "CARTES {1}"
+
+#: UI.CARDCOMPENDIUM.FILTER_SERIES_SUBTITLE
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SERIES_SUBTITLE"
+msgid "Unlocked"
+msgstr "Débloqué"
+
+#: UI.CARDCOMPENDIUM.FILTER_SERIES_PROGRESS
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SERIES_PROGRESS"
+msgid "<b>{1}</>/{2}"
+msgstr "<b>{1}/{2}</b>"
+
+#: UI.CARDCOMPENDIUM.FILTER_SERIES_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SERIES_TT"
+msgid "<b><#TITLE>{1}</></b>\n{2}"
+msgstr "<b><#TITLE>{1}</></b>\n{2}"
+
+#: UI.CARDCOMPENDIUM.FILTER_SERIES_PLAYER_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SERIES_PLAYER_TT"
+msgid "Cards you can get when you play as {1}.\n<#SUBTITLE>You've unlocked <b>{2}/{3}</> of this character's unlockable cards.</>"
+msgstr "Les cartes que vous pouvez obtenir lorsque vous jouez en tant que {1}.\n<#SUBTITLE> Vous avez débloqué <b>{2}/{3}</> des cartes déverrouillables de ce personnage.</>"
+
+#: UI.CARDCOMPENDIUM.FILTER_SERIES_NPC
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SERIES_NPC"
+msgid "ENEMY"
+msgstr "ENNEMIE"
+
+#: UI.CARDCOMPENDIUM.FILTER_SERIES_NPC_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SERIES_NPC_TT"
+msgid "Cards that enemies incept into your deck"
+msgstr "Cartes que les ennemis introduisent dans votre deck"
+
+#: UI.CARDCOMPENDIUM.FILTER_SERIES_GENERAL
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SERIES_GENERAL"
+msgid "OTHER"
+msgstr "AUTRE"
+
+#: UI.CARDCOMPENDIUM.FILTER_SERIES_GENERAL_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SERIES_GENERAL_TT"
+msgid "Cards that aren't specific to a particular character"
+msgstr "Cartes qui ne sont pas spécifiques à un personnage en particulier"
+
+#: UI.CARDCOMPENDIUM.FILTER_SEARCH
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SEARCH"
+msgid "SEARCH"
+msgstr "CHERCHER"
+
+#: UI.CARDCOMPENDIUM.FILTER_SEARCH_DEFAULT_STRING
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SEARCH_DEFAULT_STRING"
+msgid "Search..."
+msgstr "Chercher..."
+
+#: UI.CARDCOMPENDIUM.FILTER_MINIGAME
+msgctxt "UI.CARDCOMPENDIUM.FILTER_MINIGAME"
+msgid "CARD CATEGORY"
+msgstr "CATÉGORIE DE CARTE"
+
+#: UI.CARDCOMPENDIUM.FILTER_MINIGAME_TITLE_BATTLE
+msgctxt "UI.CARDCOMPENDIUM.FILTER_MINIGAME_TITLE_BATTLE"
+msgid "BATTLE CARDS"
+msgstr "CARTES DE BATAILLE"
+
+#: UI.CARDCOMPENDIUM.FILTER_MINIGAME_TITLE_NEGOTIATION
+msgctxt "UI.CARDCOMPENDIUM.FILTER_MINIGAME_TITLE_NEGOTIATION"
+msgid "NEGOTIATION CARDS"
+msgstr "CARTES DE NÉGOCIATION"
+
+#: UI.CARDCOMPENDIUM.FILTER_MINIGAME_SUBTITLE
+msgctxt "UI.CARDCOMPENDIUM.FILTER_MINIGAME_SUBTITLE"
+msgid "Unlocked"
+msgstr "Déverrouillé"
+
+#: UI.CARDCOMPENDIUM.FILTER_MINIGAME_PROGRESS
+msgctxt "UI.CARDCOMPENDIUM.FILTER_MINIGAME_PROGRESS"
+msgid "<b>{1}</>/{2}"
+msgstr "<b>{1}</>{2}"
+
+#: UI.CARDCOMPENDIUM.FILTER_RARITY
+msgctxt "UI.CARDCOMPENDIUM.FILTER_RARITY"
+msgid "CARD RARITY"
+msgstr "Rareté de la carte"
+
+#: UI.CARDCOMPENDIUM.FILTER_RARITY_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_RARITY_TT"
+msgid "<b><#TITLE>{1} cards</></b>\n{2}"
+msgstr "<b><#TITLE>{1} cartes</b>\n{2}"
+
+#: UI.CARDCOMPENDIUM.FILTER_RARITY_BASIC_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_RARITY_BASIC_TT"
+msgid "Cards you start a run with"
+msgstr "Cartes avec lesquelles vous commencez"
+
+#: UI.CARDCOMPENDIUM.FILTER_RARITY_COMMON_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_RARITY_COMMON_TT"
+msgid "Cards you are likely to get through a run"
+msgstr "Cartes que vous êtes susceptible de rencontrer"
+
+#: UI.CARDCOMPENDIUM.FILTER_RARITY_UNCOMMON_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_RARITY_UNCOMMON_TT"
+msgid "Cards you're less likely to get through a run"
+msgstr "Les cartes que vous êtes moins susceptible de rencontrer"
+
+#: UI.CARDCOMPENDIUM.FILTER_RARITY_RARE_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_RARITY_RARE_TT"
+msgid "Cards you'll rarely get through a run"
+msgstr "Des cartes que vous rencontrerez rarement"
+
+#: UI.CARDCOMPENDIUM.FILTER_RARITY_UNIQUE_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_RARITY_UNIQUE_TT"
+msgid "Cards you're given through a run based on your actions, or that are spawned by other cards"
+msgstr "Les cartes qui vous sont distribuées en fonction de vos actions ou qui sont générées par d'autres cartes"
+
+#: UI.CARDCOMPENDIUM.FILTER_TYPE
+msgctxt "UI.CARDCOMPENDIUM.FILTER_TYPE"
+msgid "CARD TYPE"
+msgstr "TYPE DE CARTE"
+
+#: UI.CARDCOMPENDIUM.FILTER_TYPE_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_TYPE_TT"
+msgid "<b><#TITLE>{1} cards</></b>\n{2}"
+msgstr "<b><#TITLE>{1} cartes</></b>\n{2}"
+
+#: UI.CARDCOMPENDIUM.FILTER_TYPE_NEGOTIATION_HOSTILE_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_TYPE_NEGOTIATION_HOSTILE_TT"
+msgid "Cards that use more aggressive posture in negotiations"
+msgstr "Cartes qui utilisent une posture plus agressive dans les négociations"
+
+#: UI.CARDCOMPENDIUM.FILTER_TYPE_NEGOTIATION_DIPLOMACY_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_TYPE_NEGOTIATION_DIPLOMACY_TT"
+msgid "Cards that use finesse and poise in negotiations"
+msgstr "Cartes qui utilisent finesse et calme dans les négociations"
+
+#: UI.CARDCOMPENDIUM.FILTER_TYPE_NEGOTIATION_MANIPULATE_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_TYPE_NEGOTIATION_MANIPULATE_TT"
+msgid "Cards that create arguments or influence negotiations in different ways"
+msgstr "Des cartes qui créent des arguments ou influencent les négociations de différentes manières"
+
+#: UI.CARDCOMPENDIUM.FILTER_TYPE_NEGOTIATION_STATUS_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_TYPE_NEGOTIATION_STATUS_TT"
+msgid "Cards that are applied to your character when they become injured, tired, or inebriated"
+msgstr "Les cartes qui sont appliquées à votre personnage lorsqu'ils deviennent blessées, fatiguées ou en état d'ébriété"
+
+#: UI.CARDCOMPENDIUM.FILTER_TYPE_FIGHT_MELEE_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_TYPE_FIGHT_MELEE_TT"
+msgid "Cards that deal damage"
+msgstr "Cartes qui infligent des dégâts"
+
+#: UI.CARDCOMPENDIUM.FILTER_TYPE_FIGHT_SKILL_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_TYPE_FIGHT_SKILL_TT"
+msgid "Cards that create buffs or defense"
+msgstr "Cartes qui créent des buffs ou de la défense"
+
+#: UI.CARDCOMPENDIUM.FILTER_TYPE_ITEM_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_TYPE_ITEM_TT"
+msgid "Special cards that usually have limited uses before being destroyed"
+msgstr "Cartes spéciales qui ont généralement des utilisations limitées avant d'être détruites"
+
+#: UI.CARDCOMPENDIUM.FILTER_TYPE_FIGHT_STATUS_TT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_TYPE_FIGHT_STATUS_TT"
+msgid "Cards that are applied to your character when they become injured, tired, or inebriated"
+msgstr "Cartes qui sont appliquées à votre personnage lorsqu'ils deviennent blessés, fatigués ou en ébriété"
+
+#: UI.CARDCOMPENDIUM.FILTER_SORT
+msgctxt "UI.CARDCOMPENDIUM.FILTER_SORT"
+msgid "CARD SORTING"
+msgstr "TRIER LES CARTE PAR"
+
+#: UI.CARDCOMPENDIUM.SORT_OPTION_NAME
+msgctxt "UI.CARDCOMPENDIUM.SORT_OPTION_NAME"
+msgid "Card Name"
+msgstr "Nom"
+
+#: UI.CARDCOMPENDIUM.SORT_OPTION_COST_DES
+msgctxt "UI.CARDCOMPENDIUM.SORT_OPTION_COST_DES"
+msgid "Card Cost Descending"
+msgstr "Coût décroissant"
+
+#: UI.CARDCOMPENDIUM.SORT_OPTION_COST_ASC
+msgctxt "UI.CARDCOMPENDIUM.SORT_OPTION_COST_ASC"
+msgid "Card Cost Ascending"
+msgstr "Coût croissant"
+
+#: UI.CARDCOMPENDIUM.SORT_OPTION_DAMAGE_DES
+msgctxt "UI.CARDCOMPENDIUM.SORT_OPTION_DAMAGE_DES"
+msgid "Card Damage Descending"
+msgstr "Dégâts Décroissant"
+
+#: UI.CARDCOMPENDIUM.SORT_OPTION_DAMAGE_ASC
+msgctxt "UI.CARDCOMPENDIUM.SORT_OPTION_DAMAGE_ASC"
+msgid "Card Damage Ascending"
+msgstr "Dégâts Croissant"
+
+#: UI.CARDCOMPENDIUM.SORT_OPTION_TYPE
+msgctxt "UI.CARDCOMPENDIUM.SORT_OPTION_TYPE"
+msgid "Card Type"
+msgstr "Type de carte"
+
+#: UI.CARDCOMPENDIUM.SORT_OPTION_RARITY
+msgctxt "UI.CARDCOMPENDIUM.SORT_OPTION_RARITY"
+msgid "Card Rarity"
+msgstr "Rareté"
+
+#: UI.CARDCOMPENDIUM.PEOPLE_SORT
+#, fuzzy
+msgctxt "UI.CARDCOMPENDIUM.PEOPLE_SORT"
+msgid "PEOPLE SORTING"
+msgstr "TRI PAR PERSONNES"
+
+#: UI.CARDCOMPENDIUM.SORT_OPTION_AGENT_NAME
+msgctxt "UI.CARDCOMPENDIUM.SORT_OPTION_AGENT_NAME"
+msgid "Agent Name"
+msgstr "Nom de l’agent"
+
+#: UI.CARDCOMPENDIUM.SORT_OPTION_AGENT_TITLE
+msgctxt "UI.CARDCOMPENDIUM.SORT_OPTION_AGENT_TITLE"
+msgid "Agent Title"
+msgstr "Titre de l'agent"
+
+#: UI.CARDCOMPENDIUM.SORT_OPTION_AGENT_FACTION
+msgctxt "UI.CARDCOMPENDIUM.SORT_OPTION_AGENT_FACTION"
+msgid "Agent Faction"
+msgstr "Faction agent"
+
+#: UI.CARDCOMPENDIUM.FILTER_FACTION
+msgctxt "UI.CARDCOMPENDIUM.FILTER_FACTION"
+msgid "FACTION"
+msgstr "FACTION"
+
+#: UI.CARDCOMPENDIUM.FILTER_FACTION_PLAYER
+msgctxt "UI.CARDCOMPENDIUM.FILTER_FACTION_PLAYER"
+msgid "Playable characters"
+msgstr "Personnages jouables"
+
+#: UI.CARDCOMPENDIUM.AGENT_FILTER_OTHER
+msgctxt "UI.CARDCOMPENDIUM.AGENT_FILTER_OTHER"
+msgid "OTHER"
+msgstr "AUTRE"
+
+#: UI.CARDCOMPENDIUM.AGENT_FILTER_BOSS
+msgctxt "UI.CARDCOMPENDIUM.AGENT_FILTER_BOSS"
+msgid "Show bosses"
+msgstr "Afficher les boss"
+
+#: UI.CARDCOMPENDIUM.AGENT_FILTER_NONBOSS
+msgctxt "UI.CARDCOMPENDIUM.AGENT_FILTER_NONBOSS"
+msgid "Show regular people"
+msgstr "Montrer les gens ordinaires"
