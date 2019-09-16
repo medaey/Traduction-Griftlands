@@ -2938,7 +2938,7 @@ msgstr "{INCEPT} une carte {destroyer}"
 #: CARD.LOW_BLOW.NAME
 msgctxt "CARD.LOW_BLOW.NAME"
 msgid "Low Blow"
-msgstr "Coup bas"
+msgstr "Coup Bas"
 
 #: CARD.LOW_BLOW_PLUS.DESC
 msgctxt "CARD.LOW_BLOW_PLUS.DESC"
@@ -39520,3 +39520,103 @@ msgstr "{1}/{2} EMPLACEMENT UTILISÉS"
 msgctxt "UI.SLOT_SELECT_SCREEN.ADVANCEMENT_TT"
 msgid "<#ADVANCEMENT>PRESTIGE</>\nLevel {1}"
 msgstr "<#ADVANCEMENT>PRESTIGE</>\nNiveau {1}"
+
+#: ATTACK.ELBOW_STRIKE.NAME
+msgctxt "ATTACK.ELBOW_STRIKE.NAME"
+msgid "Elbow Strike"
+msgstr "Coup de coude"
+
+#: ATTACK.ELBOW_STRIKE.NAME
+msgctxt "ATTACK.ELBOW_STRIKE.NAME"
+msgid "Elbow Strike"
+msgstr "Coup de coude"
+
+#: ATTACK.STAB.NAME
+msgctxt "ATTACK.STAB.NAME"
+msgid "Stab"
+msgstr "Poignarder"
+
+#: ATTACK.FIGHTDIRTY.NAME
+msgctxt "ATTACK.FIGHTDIRTY.NAME"
+msgid "Fight Dirty"
+msgstr "Coup Bas"
+
+#: ATTACK.FIGHTDIRTY.DESC
+msgctxt "ATTACK.FIGHTDIRTY.DESC"
+msgid "{IMPROVISE} a card from a pool of special cards."
+msgstr "Improvise une carte à partir d'un groupe de cartes spéciales.."
+
+#: ATTACK.FIGHTDIRTY.FLAVOUR
+msgctxt "ATTACK.FIGHTDIRTY.FLAVOUR"
+msgid "'I fight to win, not to make friends.'"
+msgstr "'Je me bats pour gagner, pas pour me faire des amis.'"
+
+#: ATTACK.FEINT.NAME
+msgctxt "ATTACK.FEINT.NAME"
+msgid "Feint"
+msgstr "Feinte"
+
+#: ATTACK.FEINT.DESC
+msgctxt "ATTACK.FEINT.DESC"
+msgid "Apply {1} {DEFEND}."
+msgstr "Applique {1} {DEFEND}."
+
+#: ATTACK.FEINT.FLAVOUR
+msgctxt "ATTACK.FEINT.FLAVOUR"
+msgid "'The best way to take a hit is to be in another place when it comes in.'"
+msgstr "'La meilleure façon de prendre un coup est d'être à un autre endroit quand il arrive.'"
+
+#: ATTACK.SALS_DAGGERS.NAME
+msgctxt "ATTACK.SALS_DAGGERS.NAME"
+msgid "Sal's daggers"
+msgstr "Dagues de Sal"
+
+#: ATTACK.SALS_DAGGERS.DESC
+msgctxt "ATTACK.SALS_DAGGERS.DESC"
+msgid "Insert {hammer_grip} or {saber_grip} into your hand."
+msgstr "Insérez {hammer_grip} ou {saber_grip} dans votre main."
+
+#: ATTACK.SALS_DAGGERS.FLAVOUR
+msgctxt "ATTACK.SALS_DAGGERS.FLAVOUR"
+msgid "'This one's called Dag. The other one's Gurr.\nYeah? Well I don't like <b>your</> name, either, pal."
+msgstr "'Celle-ci s'appelle Dag. L'autre, c'est Gurr.\nOuais ? Je n'aime pas non plus <b>ton</> nom, mon pote."
+
+#: BATTLE_FEATURE.DEFEND.NAME
+msgctxt "BATTLE_FEATURE.DEFEND.NAME"
+msgid "Defense"
+msgstr "Défense"
+
+#: BATTLE_FEATURE.DEFEND.FEATURE_DESC
+msgctxt "BATTLE_FEATURE.DEFEND.FEATURE_DESC"
+msgid "Gain {1} {DEFEND}."
+msgstr "Gagnez {1} {DEFEND}"
+
+#: ATTACK.HAMMER_GRIP.NAME
+msgctxt "ATTACK.HAMMER_GRIP.NAME"
+msgid "Hammer Grip"
+msgstr "Prise du Marteau"
+
+#: ATTACK.HAMMER_GRIP.DESC
+msgctxt "ATTACK.HAMMER_SMASH.DESC"
+msgid "Gain 2 {COMBO}.\n{EXPEND}."
+msgstr "Gagne 2 {COMBO}.\n{EXPEND}"
+
+#: ATTACK.HAMMER_GRIP.FLAVOUR
+msgctxt "ATTACK.HAMMER_SMASH.FLAVOUR"
+msgid "'It's a simple plan. I'm going to hit you, and then hit you again, but harder.'"
+msgstr "'C'est un plan simple. Je vais te frapper, puis te frapper encore, mais plus fort'"
+
+#: ATTACK.SABER_GRIP.NAME
+msgctxt "ATTACK.SABER_GRIP.NAME"
+msgid "Saber Grip"
+msgstr "Prise du Sabre"
+
+#: ATTACK.SABER_GRIP.DESC
+msgctxt "ATTACK.SABER_GRIP.DESC"
+msgid "Apply 2 {BLEED}.\n{EXPEND}."
+msgstr "Appliquer 2 {BLEED}.\n{EXPEND}"
+
+#: ATTACK.SABER_GRIP.FLAVOUR
+msgctxt "ATTACK.SABER_GRIP.FLAVOUR"
+msgid "'You seem to be having trouble keeping your insides in, friend.'"
+msgstr "'Tu sembles avoir du mal à garder tes entrailles en toi, mon ami.'"
