@@ -36811,43 +36811,6 @@ msgctxt "UI.OVERLAYS.FORWARD"
 msgid "Forward"
 msgstr "En avant"
 
-#: UI.PAUSEMENU.EXIT
-#, fuzzy
-msgctxt "UI.PAUSEMENU.EXIT"
-msgid "EXIT"
-msgstr "EXIT"
-
-#: UI.PAUSEMENU.LOAD
-#, fuzzy
-msgctxt "UI.PAUSEMENU.LOAD"
-msgid "LOAD"
-msgstr "LOAD"
-
-#: UI.PAUSEMENU.OPTIONS
-msgctxt "UI.PAUSEMENU.OPTIONS"
-msgid "OPTIONS"
-msgstr "OPTIONS"
-
-#: UI.PAUSEMENU.RESUME
-msgctxt "UI.PAUSEMENU.RESUME"
-msgid "RESUME"
-msgstr "REPRENDRE"
-
-#: UI.PAUSEMENU.SAVE
-msgctxt "UI.PAUSEMENU.SAVE"
-msgid "SAVE"
-msgstr "SAUVEGARDER"
-
-#: UI.PAUSEMENU.SAVEANDEXIT
-msgctxt "UI.PAUSEMENU.SAVEANDEXIT"
-msgid "SAVE AND EXIT"
-msgstr "SAUVEGARDER ET QUITER"
-
-#: UI.PAUSEMENU.TITLE
-msgctxt "UI.PAUSEMENU.TITLE"
-msgid "PAUSED"
-msgstr "PAUSE"
-
 #: UI.PHASES_SUMMARY_SCREEN.NEW
 #, fuzzy
 msgctxt "UI.PHASES_SUMMARY_SCREEN.NEW"
