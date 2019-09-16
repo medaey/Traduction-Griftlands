@@ -38551,31 +38551,6 @@ msgctxt "UI.LANGUAGES_SCREEN.CHANGE_LANGUAGE_TARGET"
 msgid ""
 msgstr "Êtes-vous sûr de vouloir changer la langue en:\n{1}\n\nCela redémarre le jeu!"
 
-#: UI.SLOT_SELECT_SCREEN.TITLE
-msgctxt "UI.SLOT_SELECT_SCREEN.TITLE"
-msgid "CURRENTLY ACTIV RUNS"
-msgstr "PARTIE EN COUR"
-
-#: UI.SLOT_SELECT_SCREEN.SUBTITLE
-msgctxt "UI.SLOT_SELECT_SCREEN.SUBTITLE"
-msgid "{1}/{2} SLOTS USED"
-msgstr "{1}/{2} SAUVEGARDE UTILISÉE"
-
-#: UI.SLOT_SELECT_SCREEN.EMPTYSLOT_TITLE
-msgctxt "UI.SLOT_SELECT_SCREEN.EMPTYSLOT_TITLE"
-msgid "EMPTY RUN SLOT"
-msgstr "EMPLACEMENT VIDE"
-
-#: UI.SLOT_SELECT_SCREEN.EMPTYSLOT_DESC
-msgctxt "UI.SLOT_SELECT_SCREEN.EMPTYSLOT_DESC"
-msgid "Start a new run"
-msgstr "Démarrer une nouvelle partie"
-
-#: UI.SLOT_SELECT_SCREEN.BACK
-msgctxt "UI.SLOT_SELECT_SCREEN.BACK"
-msgid "Back"
-msgstr "Retour"
-
 #: UI.OPTIONS_SCREEN.TAB_OTHER
 msgctxt "UI.OPTIONS_SCREEN.TAB_OTHER"
 msgid "OTHER"
@@ -39542,3 +39517,43 @@ msgstr "Afficher les boss"
 msgctxt "UI.CARDCOMPENDIUM.AGENT_FILTER_NONBOSS"
 msgid "Show regular people"
 msgstr "Montrer les gens ordinaires"
+
+#: UI.SLOT_SELECT_SCREEN.BACK
+msgctxt "UI.SLOT_SELECT_SCREEN.BACK"
+msgid "Back"
+msgstr "Retour"
+
+#: UI.SLOT_SELECT_SCREEN.CONTINUE
+msgctxt "UI.SLOT_SELECT_SCREEN.CONTINUE"
+msgid "Continue"
+msgstr "Continuer"
+
+#: UI.SLOT_SELECT_SCREEN.ABANDON
+msgctxt "UI.SLOT_SELECT_SCREEN.ABANDON"
+msgid "Abandon"
+msgstr "Abandonner"
+
+#: UI.SLOT_SELECT_SCREEN.EMPTYSLOT_TITLE
+msgctxt "UI.SLOT_SELECT_SCREEN.EMPTYSLOT_TITLE"
+msgid "EMPTY RUN SLOT"
+msgstr "EMPLACEMENT VIDE"
+
+#: UI.SLOT_SELECT_SCREEN.EMPTYSLOT_DESC
+msgctxt "UI.SLOT_SELECT_SCREEN.EMPTYSLOT_DESC"
+msgid "Start a new run"
+msgstr "Démarrer une nouvelle partie"
+
+#: UI.SLOT_SELECT_SCREEN.TITLE
+msgctxt "UI.SLOT_SELECT_SCREEN.TITLE"
+msgid "CURRENTLY ACTIVE RUNS"
+msgstr "PARTIE EN COUR"
+
+#: UI.SLOT_SELECT_SCREEN.SUBTITLE
+msgctxt "UI.SLOT_SELECT_SCREEN.SUBTITLE"
+msgid "{1}/{2} SLOTS USED"
+msgstr "{1}/{2} EMPLACEMENT UTILISÉS"
+
+#: UI.SLOT_SELECT_SCREEN.ADVANCEMENT_TT
+msgctxt "UI.SLOT_SELECT_SCREEN.ADVANCEMENT_TT"
+msgid "<#ADVANCEMENT>PRESTIGE</>\nLevel {1}"
+msgstr "<#ADVANCEMENT>PRESTIGE</>\nNiveau {1}"
