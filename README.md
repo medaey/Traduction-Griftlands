@@ -2,7 +2,7 @@
 <p align="center">Traduction en Français pour le jeu vidéo Griftlands.</p>
 <p align="center">
 <a href=https://github.com/leghort/Traduction-Griftlands/releases><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands?include_prereleases">
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/traduction-18%25-red"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/traduction-20%25-red"></a>
 </p>
 
 ```lua
