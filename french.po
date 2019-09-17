@@ -33496,7 +33496,7 @@ msgstr "Meet me at the Crossroads"
 #, fuzzy
 msgctxt "QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.DESC"
 msgid "{giver} is looking for a business partner amongst the Spark Barons. Help them realize their financial dreams, or report their disloyalty to the Rise leadership."
-msgstr "{giver} is looking for a business partner amongst the Spark Barons. Help them realize their financial dreams, or report their disloyalty to the Rise leadership."
+msgstr "{giver} est à la recherche d'un partenaire d'affaires parmi les Spark Barons. Aidez-les à réaliser leurs rêves financiers, ou signalez leur déloyauté à la direction de Rise."
 
 #: QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.ATTEND_MEETING.DESC
 #, fuzzy
@@ -33529,10 +33529,9 @@ msgid "{handler} wants you to lure {giver} to the ambush point for a little disc
 msgstr "{handler} wants you to lure {giver} to the ambush point for a little disciplinary 'reeducation'. Convince them to follow you."
 
 #: QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.LURE_GIVER.TITLE
-#, fuzzy
 msgctxt "QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.LURE_GIVER.TITLE"
 msgid "Convince {giver} to come with you"
-msgstr "Convince {giver} to come with you"
+msgstr "Convaincre {giver} de venir avec vous"
 
 #: QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.RAT_OUT_GIVER.DESC
 #, fuzzy
@@ -33580,7 +33579,7 @@ msgstr "Talk to {target}"
 #, fuzzy
 msgctxt "QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.TITLE"
 msgid "Back Channel Negotiations"
-msgstr "Back Channel Negotiations"
+msgstr "Négociations en coulisse"
 
 #: QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.DESC
 #, fuzzy
@@ -34012,7 +34011,7 @@ msgstr "Report your findings to {giver}"
 #, fuzzy
 msgctxt "QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.OBJECTIVE.REPORT_BACK_TO_GIVER.TITLE"
 msgid "Return to {giver}"
-msgstr "Return to {giver}"
+msgstr "Retourner à {giver}"
 
 #: QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.OBJECTIVE.SCOUT_THE_POINT.DESC
 #, fuzzy
@@ -35642,113 +35641,6 @@ msgstr ""
 "<b>Defend</>\n"
 "Damage is removed from <b>Defend</> before health."
 
-#: UI.DIALOGS.ACCEPT
-#, fuzzy
-msgctxt "UI.DIALOGS.ACCEPT"
-msgid "Accept"
-msgstr "Accept"
-
-#: UI.DIALOGS.BACK
-#, fuzzy
-msgctxt "UI.DIALOGS.BACK"
-msgid "Back"
-msgstr "Back"
-
-#: UI.DIALOGS.CANCEL
-#, fuzzy
-msgctxt "UI.DIALOGS.CANCEL"
-msgid "Cancel"
-msgstr "Annuler"
-
-#: UI.DIALOGS.CANCEL_TIMEOUT
-#, fuzzy
-msgctxt "UI.DIALOGS.CANCEL_TIMEOUT"
-msgid "Cancel (%d)"
-msgstr "Cancel (%d)"
-
-#: UI.DIALOGS.CONFIRM
-#, fuzzy
-msgctxt "UI.DIALOGS.CONFIRM"
-msgid "Confirm"
-msgstr "Confirm"
-
-#: UI.DIALOGS.CONTINUE
-#, fuzzy
-msgctxt "UI.DIALOGS.CONTINUE"
-msgid "Continue"
-msgstr "Continue"
-
-#: UI.DIALOGS.DELETE_BODY
-#, fuzzy
-msgctxt "UI.DIALOGS.DELETE_BODY"
-msgid "Are you sure?"
-msgstr "Are you sure?"
-
-#: UI.DIALOGS.DELETE_TITLE
-#, fuzzy
-msgctxt "UI.DIALOGS.DELETE_TITLE"
-msgid "DELETE SAVE GAME"
-msgstr "DELETE SAVE GAME"
-
-#: UI.DIALOGS.EXIT_BODY
-#, fuzzy
-msgctxt "UI.DIALOGS.EXIT_BODY"
-msgid "Return to the main menu? Your progress will be saved."
-msgstr "Return to the main menu? Your progress will be saved."
-
-#: UI.DIALOGS.EXIT_LOAD_TITLE
-#, fuzzy
-msgctxt "UI.DIALOGS.EXIT_LOAD_TITLE"
-msgid "LOAD GAME"
-msgstr "LOAD GAME"
-
-#: UI.DIALOGS.EXIT_TITLE
-#, fuzzy
-msgctxt "UI.DIALOGS.EXIT_TITLE"
-msgid "QUIT TO MAIN MENU"
-msgstr "QUIT TO MAIN MENU"
-
-#: UI.DIALOGS.NO
-#, fuzzy
-msgctxt "UI.DIALOGS.NO"
-msgid "No"
-msgstr "Non"
-
-#: UI.DIALOGS.OK
-#, fuzzy
-msgctxt "UI.DIALOGS.OK"
-msgid "OK"
-msgstr "OK"
-
-#: UI.DIALOGS.OVERWRITESAVE_BODY
-#, fuzzy
-msgctxt "UI.DIALOGS.OVERWRITESAVE_BODY"
-msgid "Are you sure you want to overwrite this save file?"
-msgstr "Are you sure you want to overwrite this save file?"
-
-#: UI.DIALOGS.OVERWRITESAVE_TITLE
-#, fuzzy
-msgctxt "UI.DIALOGS.OVERWRITESAVE_TITLE"
-msgid "SAVE GAME"
-msgstr "SAVE GAME"
-
-#: UI.DIALOGS.QUIT_BODY
-msgctxt "UI.DIALOGS.QUIT_BODY"
-msgid "Leaving so soon?"
-msgstr "Vous partez déja?"
-
-#: UI.DIALOGS.QUIT_TITLE
-#, fuzzy
-msgctxt "UI.DIALOGS.QUIT_TITLE"
-msgid "QUIT"
-msgstr "QUITTER"
-
-#: UI.DIALOGS.YES
-#, fuzzy
-msgctxt "UI.DIALOGS.YES"
-msgid "Yes"
-msgstr "Oui"
-
 #: UI.FIGHTER_PREVIEW.ARRIVES_TOOLTIP
 #, fuzzy
 msgctxt "UI.FIGHTER_PREVIEW.ARRIVES_TOOLTIP"
@@ -36137,7 +36029,7 @@ msgstr "<b>Health</>\n"
 #, fuzzy
 msgctxt "UI.HEALTH_TOOLTIP"
 msgid "If you run out of Health, you will die."
-msgstr "If you run out of Health, you will die."
+msgstr "Si vous n'avez plus la Santé, vous mourrez."
 
 #: UI.ILLEGAL_GOODS_TT
 #, fuzzy
@@ -36368,12 +36260,8 @@ msgstr "You are carrying too many items. Trash or use some items before leaving 
 #: UI.LOCATION_SCREEN.RENOWN_LEVEL
 #, fuzzy
 msgctxt "UI.LOCATION_SCREEN.RENOWN_LEVEL"
-msgid ""
-"\n"
-"Renown Level: {1}"
-msgstr ""
-"\n"
-"Renown Level: {1}"
+msgid "\nRenown Level: {1}"
+msgstr "\nRenown Level: {1}"
 
 #: UI.LOCATION_SCREEN.UNFRIENDLY_WITH
 #, fuzzy
@@ -36405,65 +36293,11 @@ msgctxt "UI.LOCATION_TOOLTIP.OPEN_HOURS_SCHEDULE"
 msgid "Open Hours: {1#schedule}"
 msgstr "Open Hours: {1#schedule}"
 
-#: UI.LOOT_SCREEN.LEAVE
-#, fuzzy
-msgctxt "UI.LOOT_SCREEN.LEAVE"
-msgid "Leave"
-msgstr "Leave"
-
-#: UI.LOOT_SCREEN.MONEY_TAKEN
-#, fuzzy
-msgctxt "UI.LOOT_SCREEN.MONEY_TAKEN"
-msgid "You took {1#money}"
-msgstr "You took {1#money}"
-
-#: UI.LOOT_SCREEN.NO_ITEMS_TOOLTIP
-#, fuzzy
-msgctxt "UI.LOOT_SCREEN.NO_ITEMS_TOOLTIP"
-msgid "No items can be looted."
-msgstr "No items can be looted."
-
-#: UI.LOOT_SCREEN.TAKE_ALL
-#, fuzzy
-msgctxt "UI.LOOT_SCREEN.TAKE_ALL"
-msgid "Take All"
-msgstr "Take All"
-
-#: UI.LOOT_SCREEN.TAKE_ALL_TOOLTIP
-#, fuzzy
-msgctxt "UI.LOOT_SCREEN.TAKE_ALL_TOOLTIP"
-msgid "Take as much as possible."
-msgstr "Take as much as possible."
-
 #: UI.MAINMENU.QUICKPLAY_2
 #, fuzzy
 msgctxt "UI.MAINMENU.QUICKPLAY_2"
 msgid "JUMP INTO ACT 2 (DEBUG)"
 msgstr "JUMP INTO ACT 2 (DEBUG)"
-
-#: UI.MAIN_OVERLAY.HOTKEY_BINDING
-#, fuzzy
-msgctxt "UI.MAIN_OVERLAY.HOTKEY_BINDING"
-msgid "\nHotkey: {1#binding}"
-msgstr "\nHotkey: {1#binding}"
-
-#: UI.MAIN_OVERLAY.VIEW_BATTLE_DECK
-#, fuzzy
-msgctxt "UI.MAIN_OVERLAY.VIEW_BATTLE_DECK"
-msgid "View Battle Deck"
-msgstr "Voir le deck de combat"
-
-#: UI.MAIN_OVERLAY.VIEW_NEGOTIATION_DECK
-#, fuzzy
-msgctxt "UI.MAIN_OVERLAY.VIEW_NEGOTIATION_DECK"
-msgid "View Negotiation Deck"
-msgstr "Voir le deck de négociation"
-
-#: UI.MAIN_OVERLAY.VIEW_QUEST
-#, fuzzy
-msgctxt "UI.MAIN_OVERLAY.VIEW_QUEST"
-msgid "View Active Contracts"
-msgstr "Voir les contrats en cour"
 
 #: UI.MINIMAP.CENTER
 #, fuzzy
@@ -36498,12 +36332,8 @@ msgstr "Zoom moins"
 #: UI.MONEY_INDICATOR.TOOLTIP
 #, fuzzy
 msgctxt "UI.MONEY_INDICATOR.TOOLTIP"
-msgid ""
-"<b>Shills Available</b>\n"
-"The currency of Havaria."
-msgstr ""
-"<b>Shills Available</b>\n"
-"The currency of Havaria."
+msgid "<b>Shills Available</b>\nThe currency of Havaria."
+msgstr "<b>Shills disponibles</b>\nLa monnaie de La Havane."
 
 #: UI.MOVIE_SCREEN.SKIP
 msgctxt "UI.MOVIE_SCREEN.SKIP"
@@ -36694,20 +36524,20 @@ msgctxt "UI.OPTIONS_SCREEN.DOWNSCALE"
 msgid "Downscale"
 msgstr "Downscale"
 
-#: UI.OPTIONS_SCREEN.FULLSCREEN
-msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN"
-msgid "FULLSCREEN"
-msgstr "PLEIN ÉCRAN"
-
 #: UI.OPTIONS_SCREEN.FX
 msgctxt "UI.OPTIONS_SCREEN.FX"
-msgid "FX"
+msgid "Sound Effects Volume"
 msgstr "EFFECT SONORES"
 
 #: UI.OPTIONS_SCREEN.MUSIC
 msgctxt "UI.OPTIONS_SCREEN.MUSIC"
-msgid "Music"
+msgid "Music Volume"
 msgstr "MUSIQUE"
+
+#: UI.OPTIONS_SCREEN.MUSIC_DESC
+msgctxt "UI.OPTIONS_SCREEN.MUSIC_DESC"
+msgid "The volume of music in the game."
+msgstr "Volume de la musique du jeu"
 
 #: UI.OPTIONS_SCREEN.REFRESH_RATE
 msgctxt "UI.OPTIONS_SCREEN.REFRESH_RATE"
@@ -36747,8 +36577,13 @@ msgstr "Option"
 
 #: UI.OPTIONS_SCREEN.VOICE
 msgctxt "UI.OPTIONS_SCREEN.VOICE"
-msgid "Voice"
+msgid "Voice Volume"
 msgstr "VOIX"
+
+#: UI.OPTIONS_SCREEN.VOICE_DESC
+msgctxt "UI.OPTIONS_SCREEN.VOICE_DESC"
+msgid "The volume of character and narrator voices."
+msgstr "Volume des voix des personnage et du narrateur"
 
 #: UI.OPTIONS_SCREEN.VSYNC
 msgctxt "UI.OPTIONS_SCREEN.VSYNC"
@@ -37006,7 +36841,7 @@ msgstr "<b>Détermination</>\n"
 #, fuzzy
 msgctxt "UI.RESOLVE_TOOLTIP"
 msgid "Amount of Resolve you have when negotiating."
-msgstr "Amount of Resolve you have when negotiating."
+msgstr "Montant de détermination dont vous disposez lors de la négociation."
 
 #: UI.REWARDS_WIDGET.BATTLE_ADDCARD_SUBTITLE
 #, fuzzy
@@ -38616,32 +38451,22 @@ msgstr "Sera dans la baie du meurtre"
 
 #: UI.OPTIONS_SCREEN.MASTER
 msgctxt "UI.OPTIONS_SCREEN.MASTER"
-msgid "MASTER VOLUME"
+msgid "Master Volume"
 msgstr "VOLUME PRINCIPAL"
 
 #: UI.OPTIONS_SCREEN.MASTER_DESC
 msgctxt "UI.OPTIONS_SCREEN.MASTER_DESC"
-msgid "The overall sound volume of the game"
+msgid "The overall sound volume of the game."
 msgstr "Volume général du jeu"
-
-#: UI.OPTIONS_SCREEN.MUSIC_DESC
-msgctxt "UI.OPTIONS_SCREEN.MUSIC_DESC"
-msgid "The volume of music in the game."
-msgstr "Volume de la musique du jeu"
-
-#: UI.OPTIONS_SCREEN.VOICE_DESC
-msgctxt "UI.OPTIONS_SCREEN.VOICE_DESC"
-msgid "The volume of character and narrator voices."
-msgstr "Volume des voix des personnage et du narrateur"
 
 #: UI.OPTIONS_SCREEN.FX_DESC
 msgctxt "UI.OPTIONS_SCREEN.FX_DESC"
-msgid "The volume of sounf effects."
+msgid "The volume of sound effects."
 msgstr "Volume des éffets sonores"
 
 #: UI.OPTIONS_SCREEN.METRICS
 msgctxt "UI.OPTIONS_SCREEN.METRICS"
-msgid "METRICS"
+msgid "Metrics"
 msgstr "TÉLÉMÉTRIE"
 
 #: UI.OPTIONS_SCREEN.METRICS_DISABLED
@@ -38652,7 +38477,7 @@ msgstr "DÉSACTIVÉ"
 #: UI.OPTIONS_SCREEN.METRICS_DISABLED_DESC
 msgctxt "UI.OPTIONS_SCREEN.METRICS_DISABLED_DESC"
 msgid "The game won't upload any gameplay data to Klei's servers."
-msgstr "Le jeu n'enverra aucune donnée de jeu sur les serveurs de Klei."
+msgstr "The game won't upload any gameplay data to Klei's servers."
 
 #: UI.OPTIONS_SCREEN.METRICS_ENABLED
 msgctxt "UI.OPTIONS_SCREEN.METRICS_ENABLED"
@@ -38661,8 +38486,13 @@ msgstr "ACTIVÉE"
 
 #: UI.OPTIONS_SCREEN.METRICS_ENABLED_DESC
 msgctxt "UI.OPTIONS_SCREEN.METRICS_ENABLED_DESC"
-msgid "the game will send gameplay data to Klei's server, to help us improve the game."
+msgid "The game will send gameplay data to Klei's servers, to help us improve the game."
 msgstr "le jeu enverra des données de jeu au serveur de Klei, pour nous aider à améliorer le jeu."
+
+#: UI.OPTIONS_SCREEN.FULLSCREEN
+msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN"
+msgid "FULLSCREEN"
+msgstr "PLEIN ÉCRAN"
 
 #: UI.OPTIONS_SCREEN.FULLSCREEN_OFF
 msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_OFF"
@@ -38791,7 +38621,7 @@ msgstr "Performances accrues grâce à l'abaissement de la qualité du brouillar
 
 #: UI.OPTIONS_SCREEN.FX_AMBIENCE
 msgctxt "UI.OPTIONS_SCREEN.FX_AMBIENCE"
-msgid "AMBIENT SOUNDS"
+msgid "Ambient Sounds"
 msgstr "BRUITs AMBIANTS"
 
 #: UI.OPTIONS_SCREEN.FX_AMBIENCE_DESC
@@ -38801,17 +38631,17 @@ msgstr "Le volume des sons ambiant"
 
 #: UI.OPTIONS_SCREEN.FX_ACTIONS
 msgctxt "UI.OPTIONS_SCREEN.FX_ACTIONS"
-msgid "ACTION SOUNDS"
+msgid "Action Sounds"
 msgstr "SON ACTION"
 
 #: UI.OPTIONS_SCREEN.FX_ACTIONS_DESC
 msgctxt "UI.OPTIONS_SCREEN.FX_ACTIONS_DESC"
-msgid "The volume of action sounds (characters moving,weapons, hit, etc)."
+msgid "The volume of action sounds (characters moving, weapons, hits, etc)."
 msgstr "Le volume des sons d’action (personnages en mouvement, armes, coups, etc.)"
 
 #: UI.OPTIONS_SCREEN.FX_CARDS
 msgctxt "UI.OPTIONS_SCREEN.FX_CARDS"
-msgid "CARD SOUNDS"
+msgid "Card Sounds"
 msgstr "CARTES"
 
 #: UI.OPTIONS_SCREEN.FX_CARDS_DESC
@@ -38821,13 +38651,18 @@ msgstr "Le volume des effets sonores de cartes."
 
 #: UI.OPTIONS_SCREEN.FX_UI
 msgctxt "UI.OPTIONS_SCREEN.FX_UI"
-msgid "UI SOUNDS"
+msgid "UI Sounds"
 msgstr "INTERFACE UTILISATEUR"
 
 #: UI.OPTIONS_SCREEN.FX_UI_DESC
 msgctxt "UI.OPTIONS_SCREEN.FX_UI_DESC"
 msgid "The volume of user interface sounds (clicks, mouse hovers, transitions, etc)."
 msgstr "Le volume des sons de l'interface utilisateur (clics, survol de la souris, transitions, etc.)"
+
+#: UI.OPTIONS_SCREEN.DISABLED_TT
+msgctxt "UI.OPTIONS_SCREEN.DISABLED_TT"
+msgid "Not implemented yet"
+msgstr "Pas encore mis en œuvre"
 
 #: UI.OPTIONS_SCREEN.FX_DROPDOWN_TT
 msgctxt "UI.OPTIONS_SCREEN.FX_DROPDOWN_TT"
@@ -39620,3 +39455,444 @@ msgstr "Appliquer 2 {BLEED}.\n{EXPEND}"
 msgctxt "ATTACK.SABER_GRIP.FLAVOUR"
 msgid "'You seem to be having trouble keeping your insides in, friend.'"
 msgstr "'Tu sembles avoir du mal à garder tes entrailles en toi, mon ami.'"
+
+#: UI.DIALOGS.ABANDON_TITLE
+msgctxt "UI.DIALOGS.ABANDON_TITLE"
+msgid "Abandon Run?"
+msgstr "Abandonner la partie?"
+
+#: UI.DIALOGS.ABANDON_BODY
+msgctxt "UI.DIALOGS.ABANDON_BODY"
+msgid "This will delete the save file associated with this run. Are you sure you want to do this?"
+msgstr "Cela supprimera le fichier de sauvegarde associé à cette partie. Est-tu sûr de vouloir faire ça?"
+
+#: UI.DIALOGS.OVERWRITESAVE_TITLE
+msgctxt "UI.DIALOGS.OVERWRITESAVE_TITLE"
+msgid "SAVE GAME"
+msgstr "SAUVEGARDER LA PARTIE"
+
+#: UI.DIALOGS.OVERWRITESAVE_BODY
+msgctxt "UI.DIALOGS.OVERWRITESAVE_BODY"
+msgid "Are you sure you want to overwrite this save file?"
+msgstr "Êtes-vous sûr de vouloir écraser ce fichier de sauvegarde?"
+
+#: UI.DIALOGS.EXIT_LOAD_TITLE
+msgctxt "UI.DIALOGS.EXIT_LOAD_TITLE"
+msgid "LOAD GAME"
+msgstr "CHARGEMENT DU JEU"
+
+#: UI.DIALOGS.EXIT_TITLE
+msgctxt "UI.DIALOGS.EXIT_TITLE"
+msgid "QUIT TO MAIN MENU"
+msgstr "RETOUR AU MENU PRINCIPAL"
+
+#: UI.DIALOGS.EXIT_BODY
+msgctxt "UI.DIALOGS.EXIT_BODY"
+msgid "Return to the main menu?"
+msgstr "Retour au menu principal?"
+
+#: UI.DIALOGS.EXIT_BODY_IN_CONVO
+msgctxt "UI.DIALOGS.EXIT_BODY_IN_CONVO"
+msgid "Return to the main menu?\n\n<#PENALTY>You will lose some progress if you quit during conversation.</>"
+msgstr "Revenez au menu principal?\n\n<#PENALTY> Vous perdrez un peu de votre progression si vous quittez pendant la conversation.</>"
+
+#: UI.DIALOGS.DELETE_TITLE
+msgctxt "UI.DIALOGS.DELETE_TITLE"
+msgid "DELETE SAVE GAME"
+msgstr "SUPPRIMER LA SAUVEGARDE"
+
+#: UI.DIALOGS.DELETE_BODY
+msgctxt "UI.DIALOGS.DELETE_BODY"
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr?"
+
+#: UI.DIALOGS.QUIT_TITLE
+msgctxt "UI.DIALOGS.QUIT_TITLE"
+msgid "QUIT"
+msgstr "QUITTER"
+
+#: UI.DIALOGS.QUIT_BODY
+msgctxt "UI.DIALOGS.QUIT_BODY"
+msgid "Leaving so soon?"
+msgstr "Vous partez déja?"
+
+#: UI.DIALOGS.ACCEPT
+msgctxt "UI.DIALOGS.ACCEPT"
+msgid "Accept"
+msgstr "Accepter"
+
+#: UI.DIALOGS.BACK
+msgctxt "UI.DIALOGS.BACK"
+msgid "Back"
+msgstr "Retour"
+
+#: UI.DIALOGS.YES
+msgctxt "UI.DIALOGS.YES"
+msgid "Yes"
+msgstr "Oui"
+
+#: UI.DIALOGS.NO
+msgctxt "UI.DIALOGS.NO"
+msgid "No"
+msgstr "Non"
+
+#: UI.DIALOGS.OK
+msgctxt "UI.DIALOGS.OK"
+msgid "OK"
+msgstr "OK"
+
+#: UI.DIALOGS.CANCEL
+msgctxt "UI.DIALOGS.CANCEL"
+msgid "Cancel"
+msgstr "Cancel"
+
+#: UI.DIALOGS.CANCEL_TIMEOUT
+msgctxt "UI.DIALOGS.CANCEL_TIMEOUT"
+msgid "Cancel ({1})"
+msgstr "Annuler ({1})"
+
+#: UI.DIALOGS.CONTINUE
+msgctxt "UI.DIALOGS.CONTINUE"
+msgid "Continue"
+msgstr "Continuer"
+
+#: UI.DIALOGS.CONFIRM
+msgctxt "UI.DIALOGS.CONFIRM"
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: UI.MAIN_OVERLAY.VIEW_RELATIONSHIPS
+msgctxt "UI.MAIN_OVERLAY.VIEW_RELATIONSHIPS"
+msgid "View Relationships"
+msgstr "Afficher les relations"
+
+#: UI.MAIN_OVERLAY.VIEW_NEGOTIATION_DECK
+msgctxt "UI.MAIN_OVERLAY.VIEW_NEGOTIATION_DECK"
+msgid "View Negotiation Deck"
+msgstr "Voir deck de négotiation"
+
+#: UI.MAIN_OVERLAY.VIEW_BATTLE_DECK
+msgctxt "UI.MAIN_OVERLAY.VIEW_BATTLE_DECK"
+msgid "View Battle Deck"
+msgstr "Voir deck de combat"
+
+#: UI.MAIN_OVERLAY.VIEW_GRAFTS
+msgctxt "UI.MAIN_OVERLAY.VIEW_GRAFTS"
+#, fuzzy
+msgid "View Grafts"
+msgstr "Voir les Grafts"
+
+#: UI.MAIN_OVERLAY.PAUSE
+msgctxt "UI.MAIN_OVERLAY.PAUSE"
+msgid "Show Pause Menu\nHotkey: {1#binding}"
+msgstr "Afficher le menu de pause \nRaccourci: {1#binding}"
+
+#: UI.MAIN_OVERLAY.HOTKEY_BINDING
+msgctxt "UI.MAIN_OVERLAY.HOTKEY_BINDING"
+msgid "\nHotkey: {1#binding}"
+msgstr "\nRaccourci: {1#binding}"
+
+#: UI.MAIN_OVERLAY.FEEDBACK
+msgctxt "UI.MAIN_OVERLAY.FEEDBACK"
+msgid "Send Us Feedback!\nHotkey: {1#binding}"
+msgstr "Envoyez-nous vos commentaires!\nRaccourci: {1#binding}"
+
+#: UI.RELATIONSHIP_SCREEN.TAB_HATED
+msgctxt "UI.RELATIONSHIP_SCREEN.TAB_HATED"
+msgid "HATE\n{1}"
+msgstr "DÉTESTER\n{1}"
+
+#: UI.RELATIONSHIP_SCREEN.TAB_DISLIKED
+msgctxt "UI.RELATIONSHIP_SCREEN.TAB_DISLIKED"
+msgid "DISLIKE\n{1}"
+msgstr "N'AIME PAS\n{1}"
+
+#: UI.RELATIONSHIP_SCREEN.TAB_LIKED
+msgctxt "UI.RELATIONSHIP_SCREEN.TAB_LIKED"
+msgid "LIKE\n{1}"
+msgstr "APPRÉCIE\n{1}"
+
+#: UI.RELATIONSHIP_SCREEN.TAB_LOVED
+msgctxt "UI.RELATIONSHIP_SCREEN.TAB_LOVED"
+msgid "LOVE\n{1}"
+msgstr "AIME\n{1}"
+
+#: UI.RELATIONSHIP_SCREEN.BOON_TITLE
+msgctxt "UI.RELATIONSHIP_SCREEN.BOON_TITLE"
+msgid "BOON"
+msgstr "AUBAINE"
+
+#: UI.RELATIONSHIP_SCREEN.BANE_TITLE
+msgctxt "UI.RELATIONSHIP_SCREEN.BANE_TITLE"
+msgid "BANE"
+msgstr "FLÉAU"
+
+#: UI.RELATIONSHIP_SCREEN.BOON_UNKNOWN_NAME
+msgctxt "UI.RELATIONSHIP_SCREEN.BOON_UNKNOWN_NAME"
+#: UI.RELATIONSHIP_SCREEN.BANE_UNKNOWN_NAME
+msgctxt "UI.RELATIONSHIP_SCREEN.BANE_UNKNOWN_NAME"
+msgid "UNKNOWN"
+msgstr "INCONNU"
+
+#: UI.RELATIONSHIP_SCREEN.BOON_UNKNOWN_DESC
+msgctxt "UI.RELATIONSHIP_SCREEN.BOON_UNKNOWN_DESC"
+msgid "Will become active if this person loves you"
+msgstr "Deviendra actif si cette personne vous aime"
+
+#: UI.RELATIONSHIP_SCREEN.BANE_UNKNOWN_DESC
+msgctxt "UI.RELATIONSHIP_SCREEN.BANE_UNKNOWN_DESC"
+msgid "Will become active if this person hates you"
+msgstr "Deviendra actif si cette personne vous déteste"
+
+#: UI.RELATIONSHIP_SCREEN.EMPTY_TITLE
+msgctxt "UI.RELATIONSHIP_SCREEN.EMPTY_TITLE"
+msgid "NONE"
+msgstr "AUCUN"
+
+#: UI.RELATIONSHIP_SCREEN.EMPTY_SUBTITLE
+msgctxt "UI.RELATIONSHIP_SCREEN.EMPTY_SUBTITLE"
+msgid "Nobody selected"
+msgstr "Personne n'a été sélectionné"
+
+#: UI.RELATIONSHIP_SCREEN.EMPTY_DESC_HATED
+msgctxt "UI.RELATIONSHIP_SCREEN.EMPTY_DESC_HATED"
+msgid "People who hate you will show up here."
+msgstr "Les gens qui te détestent vont apparaitre ici."
+
+#: UI.RELATIONSHIP_SCREEN.EMPTY_DESC_DISLIKED
+msgctxt "UI.RELATIONSHIP_SCREEN.EMPTY_DESC_DISLIKED"
+msgid "People who dislike you will show up here."
+msgstr "Les gens qui ne vous aiment pas apparait ici."
+
+#: UI.RELATIONSHIP_SCREEN.EMPTY_DESC_LIKED
+msgctxt "UI.RELATIONSHIP_SCREEN.EMPTY_DESC_LIKED"
+msgid "People who like you will show up here."
+msgstr "Les gens qui t'apprécie vont apparaitre ici."
+
+#: UI.RELATIONSHIP_SCREEN.EMPTY_DESC_LOVED
+msgctxt "UI.RELATIONSHIP_SCREEN.EMPTY_DESC_LOVED"
+msgid "People who love you will show up here."
+msgstr "Les gens qui t'aiment apparait ici."
+
+#: UI.RELATIONSHIP_SCREEN.REASON
+msgctxt "UI.RELATIONSHIP_SCREEN.REASON"
+msgid "{1}\n<#TITLE>Reason:</> {2}"
+msgstr "{1}\n<#TITLE>RAISON:</> {2}"
+
+#: UI.LOOT_SCREEN.TITLE_FOUND
+msgctxt "UI.LOOT_SCREEN.TITLE_FOUND"
+msgid "FOUND LOOT!"
+msgstr "BUTIN TROUVÉ!"
+
+#: UI.LOOT_SCREEN.TITLE_NEGOTIATION_VICTORY
+msgctxt "UI.LOOT_SCREEN.TITLE_NEGOTIATION_VICTORY"
+msgid "NEGOTIATION SUCCESSFUL!"
+msgstr "NÉGOCIATION RÉUSSIE!"
+
+#: UI.LOOT_SCREEN.TITLE_NEGOTIATION_DEFEAT
+msgctxt "UI.LOOT_SCREEN.TITLE_NEGOTIATION_DEFEAT"
+msgid "NEGOTIATION FAILED"
+msgstr "ÉCHEC DE LA NÉGOCIATION"
+
+#: UI.LOOT_SCREEN.TITLE_BATTLE
+msgctxt "UI.LOOT_SCREEN.TITLE_BATTLE"
+msgid "BATTLE WON!"
+msgstr "BATAILLE GAGNÉE !"
+
+#: UI.LOOT_SCREEN.SUBTITLE
+msgctxt "UI.LOOT_SCREEN.SUBTITLE"
+msgid "Pick the loot you want to keep"
+msgstr "Choisissez le butin que vous voulez garder"
+
+#: UI.LOOT_SCREEN.LOOT_TITLE
+msgctxt "UI.LOOT_SCREEN.LOOT_TITLE"
+msgid "LOOT"
+msgstr "BUTIN"
+
+#: UI.LOOT_SCREEN.UPGRADES_TITLE
+msgctxt "UI.LOOT_SCREEN.UPGRADES_TITLE"
+msgid "UPGRADES AVAILABLE"
+msgstr "AMÉLIORATION DISPONIBLES"
+
+#: UI.LOOT_SCREEN.CARD_NEGOTIATION_TITLE
+msgctxt "UI.LOOT_SCREEN.CARD_NEGOTIATION_TITLE"
+msgid "New Negotiation Card"
+msgstr "Nouvelle carte de négociation"
+
+#: UI.LOOT_SCREEN.MANDATORY_CARD_NEGOTIATION_TITLE
+msgctxt "UI.LOOT_SCREEN.MANDATORY_CARD_NEGOTIATION_TITLE"
+msgid "New <b>Mandatory</> Negotiation Card"
+msgstr "Nouvelle carte de négociation <b>obligatoire</>"
+
+#: UI.LOOT_SCREEN.CARD_BATTLE_TITLE
+msgctxt "UI.LOOT_SCREEN.CARD_BATTLE_TITLE"
+msgid "New Battle Card"
+msgstr "Nouvelle carte de combat"
+
+#: UI.LOOT_SCREEN.MANDATORY_CARD_BATTLE_TITLE
+msgctxt "UI.LOOT_SCREEN.MANDATORY_CARD_BATTLE_TITLE"
+msgid "New <b>Mandatory</> Battle Card"
+msgstr "Nouvelle carte de combat <b>obligatoire</>"
+
+#: UI.LOOT_SCREEN.GRAFT_NEGOTIATION_TITLE
+#, fuzzy
+msgctxt "UI.LOOT_SCREEN.GRAFT_NEGOTIATION_TITLE"
+msgid "New Negotiation Graft"
+msgstr "Nouvelle Graft de négociation"
+
+#: UI.LOOT_SCREEN.GRAFT_BATTLE_TITLE
+#, fuzzy
+msgctxt "UI.LOOT_SCREEN.GRAFT_BATTLE_TITLE"
+msgid "New Battle Graft"
+msgstr "Nouvelle Graft de bataille"
+
+#: UI.LOOT_SCREEN.CARDS_NEGOTIATION_TITLE
+msgctxt "UI.LOOT_SCREEN.CARDS_NEGOTIATION_TITLE"
+msgid "Pick a Negotiation Card"
+msgstr "Choisissez une carte de négociation"
+
+#: UI.LOOT_SCREEN.CARDS_NEGOTIATION_SUBTITLE
+msgctxt "UI.LOOT_SCREEN.CARDS_NEGOTIATION_SUBTITLE"
+msgid "Choose one of {1} negotiation cards"
+msgstr "Choisissez l'une des {1} cartes de négociation"
+
+#: UI.LOOT_SCREEN.CARDS_BATTLE_TITLE
+msgctxt "UI.LOOT_SCREEN.CARDS_BATTLE_TITLE"
+msgid "Pick a Battle Card"
+msgstr "Choisissez une carte de combat"
+
+#: UI.LOOT_SCREEN.CARDS_BATTLE_SUBTITLE
+msgctxt "UI.LOOT_SCREEN.CARDS_BATTLE_SUBTITLE"
+msgid "Choose one of {1} battle cards"
+msgstr "Choisissez l'une des {1} cartes de combat"
+
+#: UI.LOOT_SCREEN.MONEY_TITLE
+msgctxt "UI.LOOT_SCREEN.MONEY_TITLE"
+msgid "Collect Money"
+msgstr "Collecter de l'argent"
+
+#: UI.LOOT_SCREEN.RESOLVE_TITLE
+#, fuzzy
+msgctxt "UI.LOOT_SCREEN.RESOLVE_TITLE"
+msgid "Restore Resolve"
+msgstr "Restaure la Détermination"
+
+#: UI.LOOT_SCREEN.RESOLVE_SUBTITLE
+msgctxt "UI.LOOT_SCREEN.RESOLVE_SUBTITLE"
+msgid "Winning a battle has restored <b>{1} Resolve</>"
+msgstr "Gagner une bataille a restauré la <b>{1} Détermination</>"
+
+#: UI.LOOT_SCREEN.HEALTH_TITLE
+msgctxt "UI.LOOT_SCREEN.HEALTH_TITLE"
+msgid "Restore Health"
+msgstr "Restaurer la santé"
+
+#: UI.LOOT_SCREEN.HEALTH_SUBTITLE
+msgctxt "UI.LOOT_SCREEN.HEALTH_SUBTITLE"
+msgid "You rest and recover <b>{1} Health</>"
+msgstr "Vous vous reposez et récupérez <b>{1} Santé</>"
+
+#: UI.LOOT_SCREEN.CARDS_UPGRADE_BATTLE_TITLE
+msgctxt "UI.LOOT_SCREEN.CARDS_UPGRADE_BATTLE_TITLE"
+msgid "Battle {1*Upgrade|Upgrades} Available"
+msgstr "Combat {1}Amélioration(s) Disponible"
+
+#: UI.LOOT_SCREEN.CARDS_UPGRADE_BATTLE_SUBTITLE
+msgctxt "UI.LOOT_SCREEN.CARDS_UPGRADE_BATTLE_SUBTITLE"
+msgid "{1#listing}"
+msgstr "{1#listing}"
+
+#: UI.LOOT_SCREEN.CARDS_UPGRADE_NEGOTIATION_TITLE
+msgctxt "UI.LOOT_SCREEN.CARDS_UPGRADE_NEGOTIATION_TITLE"
+msgid "Negotiation {1*Upgrade|Upgrades} Available"
+msgstr "Negotiation {1} Amélioration(s) Disponible"
+
+#: UI.LOOT_SCREEN.CARDS_UPGRADE_NEGOTIATION_SUBTITLE
+msgctxt "UI.LOOT_SCREEN.CARDS_UPGRADE_NEGOTIATION_SUBTITLE"
+msgid "{1#listing}"
+msgstr "{1#listing}"
+
+#: UI.LOOT_SCREEN.LOOT_REMAINING
+msgctxt "UI.LOOT_SCREEN.LOOT_REMAINING"
+msgid "Collect all mandatory loot items before leaving."
+msgstr "Ramassez tous les objets de butin obligatoires avant de partir."
+
+#: UI.LOOT_SCREEN.LEAVE
+msgctxt "UI.LOOT_SCREEN.LEAVE"
+msgid "Leave the rest"
+msgstr "Laisser le reste"
+
+#: UI.PAUSEMENU.TITLE
+msgctxt "UI.PAUSEMENU.TITLE"
+msgid "PAUSED"
+msgstr "PAUSE"
+
+#: UI.PAUSEMENU.RETURNTOMAINMENU
+msgctxt "UI.PAUSEMENU.RETURNTOMAINMENU"
+msgid "RETURN TO MAIN MENU"
+msgstr "RETOUR AU MENU PRINCIPAL"
+
+#: UI.PAUSEMENU.ABANDONRUN
+msgctxt "UI.PAUSEMENU.ABANDONRUN"
+msgid "ABANDON THIS RUN"
+msgstr "ABANDONNER CETTE PATIE"
+
+#: UI.PAUSEMENU.TUTORIALS
+msgctxt "UI.PAUSEMENU.TUTORIALS"
+msgid "TUTORIALS"
+msgstr "TUTORIELS"
+
+#: UI.PAUSEMENU.CARDCOMPENDIUM
+msgctxt "UI.PAUSEMENU.CARDCOMPENDIUM"
+msgid "CARDS"
+msgstr "CARTES"
+
+#: UI.PAUSEMENU.NEGOTIATION
+msgctxt "UI.PAUSEMENU.NEGOTIATION"
+msgid "NEGOTIATION"
+msgstr "NÉOCIATION"
+
+#: UI.PAUSEMENU.BATTLE
+msgctxt "UI.PAUSEMENU.BATTLE"
+msgid "BATTLE"
+msgstr "BATAILLE"
+
+#: UI.PAUSEMENU.BACK
+msgctxt "UI.PAUSEMENU.BACK"
+msgid "BACK"
+msgstr "RETOUR"
+
+#: UI.PAUSEMENU.ABANDONRUN_TITLE
+msgctxt "UI.PAUSEMENU.ABANDONRUN_TITLE"
+msgid "Abandon this run"
+msgstr "Abandonner cette partie"
+
+#: UI.PAUSEMENU.ABANDONRUN_BODY
+msgctxt "UI.PAUSEMENU.ABANDONRUN_BODY"
+msgid "Abandoning this run will end your game in a loss. You will gain XP rewards based on your actions so far, but your current run will be deleted.\n\nAre you sure you want to do this?"
+msgstr "L'abandon de cette partie mettra fin à votre progression. Vous gagnerez des récompenses et de l'XP en fonction des actions que vous avait fait jusqu'à présent, mais votre partie actuelle sera supprimée.\n\nTu es sûr de vouloir faire ça ?"
+
+#: UI.PAUSEMENU.OPTIONS
+msgctxt "UI.PAUSEMENU.OPTIONS"
+msgid "OPTIONS"
+msgstr "OPTIONS"
+
+#: UI.PAUSEMENU.RESUME
+msgctxt "UI.PAUSEMENU.RESUME"
+msgid "RESUME"
+msgstr "REPRENDRE"
+
+#: UI.PAUSEMENU.SAVE
+msgctxt "UI.PAUSEMENU.SAVE"
+msgid "SAVE"
+msgstr "SAUVEGARDER"
+
+#: UI.PAUSEMENU.EXIT
+msgctxt "UI.PAUSEMENU.EXIT"
+msgid "EXIT"
+msgstr "SORTIE"
+
+#: UI.PAUSEMENU.LOAD
+msgctxt "UI.PAUSEMENU.LOAD"
+msgid "LOAD"
+msgstr "CHARGER"
