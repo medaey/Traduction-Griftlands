@@ -14,7 +14,6 @@ Statistique:
 | Non traduit                   ‪|  2085 (40 %) | 43087 |     371461 |
 | Total                         |  5240(100 %) | 67558 |     538919 |
 ```
-
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
 ## Installation:
