@@ -5,6 +5,8 @@
 <a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/traduction-20%25-red"></a>
 </p>
 
+![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
+
 ```lua
 Statistique:
 | Statistique sur la Traduction | Éléments     | Mots  | Caractères |
@@ -14,8 +16,6 @@ Statistique:
 | Non traduit                   ‪|  2085 (40 %) | 43087 |     371461 |
 | Total                         |  5240(100 %) | 67558 |     538919 |
 ```
-
-![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
 ## Installation:
 1) Pour le moment il n'y a pas de méthode d'installation avec la version alpha du jeux
