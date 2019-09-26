@@ -4653,7 +4653,7 @@ msgstr "<i>Fourni par {1#agent}</>"
 #: CARD_ENGINE.CHOOSE_EXPEND_CARDS
 msgctxt "CARD_ENGINE.CHOOSE_EXPEND_CARDS"
 msgid "Choose {1} cards to expend"
-msgstr "Choisie {1} {1*carte|cartes} à dépenser"
+msgstr "Choisie {1} {1*carte|cartes} à épuisée"
 
 #: CARD_PLAY_REASONS.INVALID_TARGET
 msgctxt "CARD_PLAY_REASONS.INVALID_TARGET"
@@ -10998,1457 +10998,1457 @@ msgstr "Spark Barons"
 
 #: NEGOTIATION_FEATURE.ADMIRALTY_ALLIANCE.DESC
 #, fuzzy
-msgctxt "FEATURE.ADMIRALTY_ALLIANCE.DESC"
+msgctxt "NEGOTIATION_FEATURE.ADMIRALTY_ALLIANCE.DESC"
 msgid "When negotiating with Feud Citizenry, -1 {INFLUENCE} and +1 {DOMINANCE}"
 msgstr "When negotiating with Feud Citizenry, -1 {INFLUENCE} and +1 {DOMINANCE}"
 
 #: NEGOTIATION_FEATURE.ADMIRALTY_ALLIANCE.NAME
 #, fuzzy
-msgctxt "FEATURE.ADMIRALTY_ALLIANCE.NAME"
+msgctxt "NEGOTIATION_FEATURE.ADMIRALTY_ALLIANCE.NAME"
 msgid "Admiralty Alliance"
 msgstr "Admiralty Alliance"
 
 #: NEGOTIATION_FEATURE.AI_DRONE_CHARGE.DESC
 #, fuzzy
-msgctxt "FEATURE.AI_DRONE_CHARGE.DESC"
+msgctxt "NEGOTIATION_FEATURE.AI_DRONE_CHARGE.DESC"
 msgid "Attacks after 3 Charges"
 msgstr "Attacks after 3 Charges"
 
 #: NEGOTIATION_FEATURE.AI_DRONE_CHARGE.NAME
 #, fuzzy
-msgctxt "FEATURE.AI_DRONE_CHARGE.NAME"
+msgctxt "NEGOTIATION_FEATURE.AI_DRONE_CHARGE.NAME"
 msgid "Electro-Charge"
 msgstr "Electro-Charge"
 
 #: NEGOTIATION_FEATURE.ALL_IN.DESC
 #, fuzzy
-msgctxt "FEATURE.ALL_IN.DESC"
+msgctxt "NEGOTIATION_FEATURE.ALL_IN.DESC"
 msgid "Hostile cards cost 0 this turn\nDraw 3 cards"
 msgstr "Hostile cards cost 0 this turn\nDraw 3 cards"
 
 #: NEGOTIATION_FEATURE.ALL_IN.NAME
 #, fuzzy
-msgctxt "FEATURE.ALL_IN.NAME"
+msgctxt "NEGOTIATION_FEATURE.ALL_IN.NAME"
 msgid "All In"
 msgstr "All In"
 
 #: NEGOTIATION_FEATURE.AMBUSH.DESC
 #, fuzzy
-msgctxt "FEATURE.AMBUSH.DESC"
+msgctxt "NEGOTIATION_FEATURE.AMBUSH.DESC"
 msgid "Automatically placed in your hand if you start battle with Advantage."
 msgstr "Automatically placed in your hand if you start battle with Advantage."
 
 #: NEGOTIATION_FEATURE.AMBUSH.NAME
 #, fuzzy
-msgctxt "FEATURE.AMBUSH.NAME"
+msgctxt "NEGOTIATION_FEATURE.AMBUSH.NAME"
 msgid "Ambush"
 msgstr "Ambush"
 
 #: NEGOTIATION_FEATURE.ARMOR_OF_HESH.DESC
 #, fuzzy
-msgctxt "FEATURE.ARMOR_OF_HESH.DESC"
+msgctxt "NEGOTIATION_FEATURE.ARMOR_OF_HESH.DESC"
 msgid "Any damage sustained reduces morale before reducing health."
 msgstr "Any damage sustained reduces morale before reducing health."
 
 #: NEGOTIATION_FEATURE.ARMOR_OF_HESH.NAME
 #, fuzzy
-msgctxt "FEATURE.ARMOR_OF_HESH.NAME"
+msgctxt "NEGOTIATION_FEATURE.ARMOR_OF_HESH.NAME"
 msgid "Armor of Hesh"
 msgstr "Armor of Hesh"
 
 #: NEGOTIATION_FEATURE.AUTOPLAY.DESC
 #, fuzzy
-msgctxt "FEATURE.AUTOPLAY.DESC"
+msgctxt "NEGOTIATION_FEATURE.AUTOPLAY.DESC"
 msgid "This card cannot be played, and resolves automatically at the end of your turn"
 msgstr "This card cannot be played, and resolves automatically at the end of your turn"
 
 #: NEGOTIATION_FEATURE.AUTOPLAY.NAME
 #, fuzzy
-msgctxt "FEATURE.AUTOPLAY.NAME"
+msgctxt "NEGOTIATION_FEATURE.AUTOPLAY.NAME"
 msgid "Autoplay"
 msgstr "Autoplay"
 
 #: NEGOTIATION_FEATURE.AWKWARD.DESC
 #, fuzzy
-msgctxt "FEATURE.AWKWARD.DESC"
+msgctxt "NEGOTIATION_FEATURE.AWKWARD.DESC"
 msgid "Diplomacy is 50% less effective. Awkward decreases by 1 at the end of the turn."
 msgstr "Diplomacy is 50% less effective. Awkward decreases by 1 at the end of the turn."
 
 #: NEGOTIATION_FEATURE.AWKWARD.NAME
 #, fuzzy
-msgctxt "FEATURE.AWKWARD.NAME"
+msgctxt "NEGOTIATION_FEATURE.AWKWARD.NAME"
 msgid "Awkward"
 msgstr "Awkward"
 
 #: NEGOTIATION_FEATURE.BANDAGE.DESC
 #, fuzzy
-msgctxt "FEATURE.BANDAGE.DESC"
+msgctxt "NEGOTIATION_FEATURE.BANDAGE.DESC"
 msgid "Removes bleed, wound, and restores health up to starting health"
 msgstr "Removes bleed, wound, and restores health up to starting health"
 
 #: NEGOTIATION_FEATURE.BANDAGE.NAME
 #, fuzzy
-msgctxt "FEATURE.BANDAGE.NAME"
+msgctxt "NEGOTIATION_FEATURE.BANDAGE.NAME"
 msgid "Bandage"
 msgstr "Bandage"
 
 #: NEGOTIATION_FEATURE.BASIC_RUN.NAME
 #, fuzzy
-msgctxt "FEATURE.BASIC_RUN.NAME"
+msgctxt "NEGOTIATION_FEATURE.BASIC_RUN.NAME"
 msgid "Running"
 msgstr "Running"
 
 #: NEGOTIATION_FEATURE.BETTER_FRIEND.DESC
 #, fuzzy
-msgctxt "FEATURE.BETTER_FRIEND.DESC"
+msgctxt "NEGOTIATION_FEATURE.BETTER_FRIEND.DESC"
 msgid "+1 resolve damage for all Support cards"
 msgstr "+1 resolve damage for all Support cards"
 
 #: NEGOTIATION_FEATURE.BETTER_FRIEND.NAME
 #, fuzzy
-msgctxt "FEATURE.BETTER_FRIEND.NAME"
+msgctxt "NEGOTIATION_FEATURE.BETTER_FRIEND.NAME"
 msgid "Better Friend"
 msgstr "Better Friend"
 
 #: NEGOTIATION_FEATURE.BLEED.DESC
 #, fuzzy
-msgctxt "FEATURE.BLEED.DESC"
+msgctxt "NEGOTIATION_FEATURE.BLEED.DESC"
 msgid "At the beginning of their turn, take 2 damage then reduce <b>Bleed</b> by 1"
 msgstr "At the beginning of their turn, take 2 damage then reduce <b>Bleed</b> by 1"
 
 #: NEGOTIATION_FEATURE.BLEED.NAME
 #, fuzzy
-msgctxt "FEATURE.BLEED.NAME"
+msgctxt "NEGOTIATION_FEATURE.BLEED.NAME"
 msgid "Bleed"
 msgstr "Bleed"
 
 #: NEGOTIATION_FEATURE.BREAKING.DESC
 #, fuzzy
-msgctxt "FEATURE.BREAKING.DESC"
+msgctxt "NEGOTIATION_FEATURE.BREAKING.DESC"
 msgid "Whenever you take damage, take an additional {1} damage"
 msgstr "Whenever you take damage, take an additional {1} damage"
 
 #: NEGOTIATION_FEATURE.BREAKING.NAME
 #, fuzzy
-msgctxt "FEATURE.BREAKING.NAME"
+msgctxt "NEGOTIATION_FEATURE.BREAKING.NAME"
 msgid "Breaking"
 msgstr "Breaking"
 
 #: NEGOTIATION_FEATURE.BRIBE.DESC
 #, fuzzy
-msgctxt "FEATURE.BRIBE.DESC"
+msgctxt "NEGOTIATION_FEATURE.BRIBE.DESC"
 msgid "This card cost money to play"
 msgstr "This card cost money to play"
 
 #: NEGOTIATION_FEATURE.BRIBE.NAME
 #, fuzzy
-msgctxt "FEATURE.BRIBE.NAME"
+msgctxt "NEGOTIATION_FEATURE.BRIBE.NAME"
 msgid "Bribe"
 msgstr "Bribe"
 
 #: NEGOTIATION_FEATURE.BRUTAL_EFFICIENCY.DESC
 #, fuzzy
-msgctxt "FEATURE.BRUTAL_EFFICIENCY.DESC"
+msgctxt "NEGOTIATION_FEATURE.BRUTAL_EFFICIENCY.DESC"
 msgid "Resolve damage dealt next turn is doubled (both parties)."
 msgstr "Resolve damage dealt next turn is doubled (both parties)."
 
 #: NEGOTIATION_FEATURE.BRUTAL_EFFICIENCY.NAME
 #, fuzzy
-msgctxt "FEATURE.BRUTAL_EFFICIENCY.NAME"
+msgctxt "NEGOTIATION_FEATURE.BRUTAL_EFFICIENCY.NAME"
 msgid "Brutal Efficiency"
 msgstr "Brutal Efficiency"
 
 #: NEGOTIATION_FEATURE.BUTTERED_UP.DESC
 #, fuzzy
-msgctxt "FEATURE.BUTTERED_UP.DESC"
+msgctxt "NEGOTIATION_FEATURE.BUTTERED_UP.DESC"
 msgid "Gain +{1} {negotiation.INFLUENCE} per stack"
 msgstr "Gagne +{1} {negotiation.INFLUENCE} per stack"
 
 #: NEGOTIATION_FEATURE.BUTTERED_UP.NAME
 #, fuzzy
-msgctxt "FEATURE.BUTTERED_UP.NAME"
+msgctxt "NEGOTIATION_FEATURE.BUTTERED_UP.NAME"
 msgid "Buttered Up"
 msgstr "Buttered Up"
 
 #: NEGOTIATION_FEATURE.CALM_DEMEANOR.DESC
 #, fuzzy
-msgctxt "FEATURE.CALM_DEMEANOR.DESC"
+msgctxt "NEGOTIATION_FEATURE.CALM_DEMEANOR.DESC"
 msgid "At the beginning of your turn, reduce {HOSTILITY 1}"
 msgstr "At the beginning of your turn, reduce {HOSTILITY 1}"
 
 #: NEGOTIATION_FEATURE.CALM_DEMEANOR.NAME
 #, fuzzy
-msgctxt "FEATURE.CALM_DEMEANOR.NAME"
+msgctxt "NEGOTIATION_FEATURE.CALM_DEMEANOR.NAME"
 msgid "Calm Demeanor"
 msgstr "Calm Demeanor"
 
 #: NEGOTIATION_FEATURE.CAVE_CLUE.DESC
 #, fuzzy
-msgctxt "FEATURE.CAVE_CLUE.DESC"
+msgctxt "NEGOTIATION_FEATURE.CAVE_CLUE.DESC"
 msgid "Discovered clues about the cave's layout.\nYou have {1} / {2} required to uncover the Spree hideout."
 msgstr "Discovered clues about the cave's layout.\nYou have {1} / {2} required to uncover the Spree hideout."
 
 #: NEGOTIATION_FEATURE.CAVE_CLUE.NAME
 #, fuzzy
-msgctxt "FEATURE.CAVE_CLUE.NAME"
+msgctxt "NEGOTIATION_FEATURE.CAVE_CLUE.NAME"
 msgid "Cave Clue"
 msgstr "Cave Clue"
 
 #: NEGOTIATION_FEATURE.COMBAT_ACTION.DESC
 #, fuzzy
-msgctxt "FEATURE.COMBAT_ACTION.DESC"
+msgctxt "NEGOTIATION_FEATURE.COMBAT_ACTION.DESC"
 msgid "{1} extra {1*action|actions} per turn"
 msgstr "{1} extra {1*action|actions} per turn"
 
 #: NEGOTIATION_FEATURE.COMBAT_ACTION.NAME
 #, fuzzy
-msgctxt "FEATURE.COMBAT_ACTION.NAME"
+msgctxt "NEGOTIATION_FEATURE.COMBAT_ACTION.NAME"
 msgid "Pumped Up"
 msgstr "Pumped Up"
 
 #: NEGOTIATION_FEATURE.COMBAT_DRAW.DESC
 #, fuzzy
-msgctxt "FEATURE.COMBAT_DRAW.DESC"
+msgctxt "NEGOTIATION_FEATURE.COMBAT_DRAW.DESC"
 msgid "Draw {1} extra {1*card|cards} per turn"
 msgstr "Pioche {1} extra {1*carte|cartes} per turn"
 
 #: NEGOTIATION_FEATURE.COMBAT_DRAW.NAME
-msgctxt "FEATURE.COMBAT_DRAW.NAME"
+msgctxt "NEGOTIATION_FEATURE.COMBAT_DRAW.NAME"
 msgid "Card Draw"
 msgstr "Carte retirer"
 
 #: NEGOTIATION_FEATURE.COMBO.DESC
 #, fuzzy
-msgctxt "FEATURE.COMBO.DESC"
+msgctxt "NEGOTIATION_FEATURE.COMBO.DESC"
 msgid "Played at least 2 cards this turn"
 msgstr "Played at least 2 cards this turn"
 
 #: NEGOTIATION_FEATURE.COMBO.NAME
 #, fuzzy
-msgctxt "FEATURE.COMBO.NAME"
+msgctxt "NEGOTIATION_FEATURE.COMBO.NAME"
 msgid "Flurry"
 msgstr "Flurry"
 
 #: NEGOTIATION_FEATURE.COMPOSURE.DESC
 #, fuzzy
-msgctxt "FEATURE.COMPOSURE.DESC"
+msgctxt "NEGOTIATION_FEATURE.COMPOSURE.DESC"
 msgid "Reduce incoming resolve damage by {1}"
 msgstr "Reduce incoming resolve damage by {1}"
 
 #: NEGOTIATION_FEATURE.COMPOSURE.NAME
 #, fuzzy
-msgctxt "FEATURE.COMPOSURE.NAME"
+msgctxt "NEGOTIATION_FEATURE.COMPOSURE.NAME"
 msgid "Composure"
-msgstr "Composure"
+msgstr "Calme"
 
 #: NEGOTIATION_FEATURE.CONCENTRATION.DESC
 #, fuzzy
-msgctxt "FEATURE.CONCENTRATION.DESC"
+msgctxt "NEGOTIATION_FEATURE.CONCENTRATION.DESC"
 msgid "Receive +1 damage from attacks.\nAt the beginning of their turn, reduce <b>Wound</b> by 1"
 msgstr "Receive +1 damage from attacks.\nAt the beginning of their turn, reduce <b>Wound</b> by 1"
 
 #: NEGOTIATION_FEATURE.CONCENTRATION.NAME
 #, fuzzy
-msgctxt "FEATURE.CONCENTRATION.NAME"
+msgctxt "NEGOTIATION_FEATURE.CONCENTRATION.NAME"
 msgid "Concentration"
 msgstr "Concentration"
 
 #: NEGOTIATION_FEATURE.CONFUSION.DESC
 #, fuzzy
-msgctxt "FEATURE.CONFUSION.DESC"
+msgctxt "NEGOTIATION_FEATURE.CONFUSION.DESC"
 msgid "Mitigate is 50% less effective. Confusion decreases by 1 at the end of the turn."
 msgstr "Mitigate is 50% less effective. Confusion decreases by 1 at the end of the turn."
 
 #: NEGOTIATION_FEATURE.CONFUSION.NAME
 #, fuzzy
-msgctxt "FEATURE.CONFUSION.NAME"
+msgctxt "NEGOTIATION_FEATURE.CONFUSION.NAME"
 msgid "Confusion"
 msgstr "Confusion"
 
 #: NEGOTIATION_FEATURE.CONSUME.DESC
 #, fuzzy
-msgctxt "FEATURE.CONSUME.DESC"
+msgctxt "NEGOTIATION_FEATURE.CONSUME.DESC"
 msgid "Remove this card permanently"
 msgstr "Remove this card permanently"
 
 #: NEGOTIATION_FEATURE.CONSUME.NAME
 #, fuzzy
-msgctxt "FEATURE.CONSUME.NAME"
+msgctxt "NEGOTIATION_FEATURE.CONSUME.NAME"
 msgid "Consume"
 msgstr "Consume"
 
 #: NEGOTIATION_FEATURE.COUNTERFEIT_COIN.DESC
 #, fuzzy
-msgctxt "FEATURE.COUNTERFEIT_COIN.DESC"
+msgctxt "NEGOTIATION_FEATURE.COUNTERFEIT_COIN.DESC"
 msgid "Every 3rd bribe card played is free."
 msgstr "Every 3rd bribe card played is free."
 
 #: NEGOTIATION_FEATURE.COUNTERFEIT_COIN.NAME
 #, fuzzy
-msgctxt "FEATURE.COUNTERFEIT_COIN.NAME"
+msgctxt "NEGOTIATION_FEATURE.COUNTERFEIT_COIN.NAME"
 msgid "Counterfeit Coin"
 msgstr "Counterfeit Coin"
 
 #: NEGOTIATION_FEATURE.COWARDLY.DESC
-msgctxt "FEATURE.COWARDLY.DESC"
+msgctxt "NEGOTIATION_FEATURE.COWARDLY.DESC"
 msgid "+2 {DOMINANCE}"
 msgstr "+2 {DOMINANCE}"
 
 #: NEGOTIATION_FEATURE.COWARDLY.NAME
 #, fuzzy
-msgctxt "FEATURE.COWARDLY.NAME"
+msgctxt "NEGOTIATION_FEATURE.COWARDLY.NAME"
 msgid "Cowardly"
 msgstr "Cowardly"
 
 #: NEGOTIATION_FEATURE.CRAFTY.DESC
 #, fuzzy
-msgctxt "FEATURE.CRAFTY.DESC"
+msgctxt "NEGOTIATION_FEATURE.CRAFTY.DESC"
 msgid "Drawn cards automatically receive {VEILED}."
 msgstr "Piochen cards automatically receive {VEILED}."
 
 #: NEGOTIATION_FEATURE.CRAFTY.NAME
 #, fuzzy
-msgctxt "FEATURE.CRAFTY.NAME"
+msgctxt "NEGOTIATION_FEATURE.CRAFTY.NAME"
 msgid "Crafty"
 msgstr "Crafty"
 
 #: NEGOTIATION_FEATURE.CRIPPLE.DESC
 #, fuzzy
-msgctxt "FEATURE.CRIPPLE.DESC"
+msgctxt "NEGOTIATION_FEATURE.CRIPPLE.DESC"
 msgid "Attack damage reduced by 33%"
 msgstr "Dégâts d'attaque réduits de 33%"
 
 #: NEGOTIATION_FEATURE.CRIPPLE.NAME
 #, fuzzy
-msgctxt "FEATURE.CRIPPLE.NAME"
+msgctxt "NEGOTIATION_FEATURE.CRIPPLE.NAME"
 msgid "Cripple"
 msgstr "Cripple"
 
 #: NEGOTIATION_FEATURE.DEFEND.DESC
 #, fuzzy
-msgctxt "FEATURE.DEFEND.DESC"
+msgctxt "NEGOTIATION_FEATURE.DEFEND.DESC"
 msgid "Prevent damage equal to the Defend amount."
 msgstr "Prevent damage equal to the Defend amount."
 
 #: NEGOTIATION_FEATURE.DEFEND.NAME
-msgctxt "FEATURE.DEFEND.NAME"
+msgctxt "NEGOTIATION_FEATURE.DEFEND.NAME"
 msgid "Defend"
 msgstr "Défense"
 
 #: NEGOTIATION_FEATURE.DISTRACTED.DESC
 #, fuzzy
-msgctxt "FEATURE.DISTRACTED.DESC"
+msgctxt "NEGOTIATION_FEATURE.DISTRACTED.DESC"
 msgid "Target loses {1} Resolve whenever you play a card."
 msgstr "Target loses {1} Resolve whenever you play a card."
 
 #: NEGOTIATION_FEATURE.DISTRACTED.NAME
-msgctxt "FEATURE.DISTRACTED.NAME"
+msgctxt "NEGOTIATION_FEATURE.DISTRACTED.NAME"
 msgid "Distracted"
 msgstr "Distrait"
 
 #: NEGOTIATION_FEATURE.DOMINANCE.DESC
 #, fuzzy
-msgctxt "FEATURE.DOMINANCE.DESC"
+msgctxt "NEGOTIATION_FEATURE.DOMINANCE.DESC"
 msgid "{1%+d} resolve damage for all Hostile cards"
 msgstr "{1%+d} resolve damage for all Hostile cards"
 
 #: NEGOTIATION_FEATURE.DOMINANCE.FEATURE_DESC
-msgctxt "FEATURE.DOMINANCE.FEATURE_DESC"
+msgctxt "NEGOTIATION_FEATURE.DOMINANCE.FEATURE_DESC"
 msgid "{DOMINANCE {1}}"
 msgstr "{DOMINANCE {1}}"
 
 #: NEGOTIATION_FEATURE.DOMINANCE.NAME
-msgctxt "FEATURE.DOMINANCE.NAME"
+msgctxt "NEGOTIATION_FEATURE.DOMINANCE.NAME"
 msgid "Dominance"
 msgstr "Domination"
 
 #: NEGOTIATION_FEATURE.DOUBT.DESC
 #, fuzzy
-msgctxt "FEATURE.DOUBT.DESC"
+msgctxt "NEGOTIATION_FEATURE.DOUBT.DESC"
 msgid "At the start of the opponent's turn, they remove {1} random {1*modifier|modifiers} and reduce <b>Doubt</b> by 1."
 msgstr "At the start of the opponent's turn, they remove {1} random {1*modifier|modifiers} and reduce <b>Doubt</b> by 1."
 
 #: NEGOTIATION_FEATURE.DOUBT.NAME
-msgctxt "FEATURE.DOUBT.NAME"
+msgctxt "NEGOTIATION_FEATURE.DOUBT.NAME"
 msgid "Doubt"
 msgstr "Doute"
 
 #: NEGOTIATION_FEATURE.DRUNK.DESC
 #, fuzzy
-msgctxt "FEATURE.DRUNK.DESC"
+msgctxt "NEGOTIATION_FEATURE.DRUNK.DESC"
 msgid "Reduce minimum damage of all attacks by 1."
 msgstr "Reduce minimum damage of all attacks by 1."
 
 #: NEGOTIATION_FEATURE.DRUNK.NAME
-msgctxt "FEATURE.DRUNK.NAME"
+msgctxt "NEGOTIATION_FEATURE.DRUNK.NAME"
 msgid "Drunk"
 msgstr "Ivre"
 
 #: NEGOTIATION_FEATURE.DUPLICITY.DESC
 #, fuzzy
-msgctxt "FEATURE.DUPLICITY.DESC"
+msgctxt "NEGOTIATION_FEATURE.DUPLICITY.DESC"
 msgid "The next card played this turn is played twice."
 msgstr "The next card played this turn is played twice."
 
 #: NEGOTIATION_FEATURE.DUPLICITY.NAME
 #, fuzzy
-msgctxt "FEATURE.DUPLICITY.NAME"
+msgctxt "NEGOTIATION_FEATURE.DUPLICITY.NAME"
 msgid "Duplicity"
 msgstr "Duplicity"
 
 #: NEGOTIATION_FEATURE.EMPATHY.DESC
 #, fuzzy
-msgctxt "FEATURE.EMPATHY.DESC"
+msgctxt "NEGOTIATION_FEATURE.EMPATHY.DESC"
 msgid "At the beginning of your turn, lose {INFLUENCE {1}}"
 msgstr "At the beginning of your turn, lose {INFLUENCE {1}}"
 
 #: NEGOTIATION_FEATURE.EMPATHY.NAME
 #, fuzzy
-msgctxt "FEATURE.EMPATHY.NAME"
+msgctxt "NEGOTIATION_FEATURE.EMPATHY.NAME"
 msgid "Empathy"
 msgstr "Empathy"
 
 #: NEGOTIATION_FEATURE.EMPHASIS.DESC
 #, fuzzy
-msgctxt "FEATURE.EMPHASIS.DESC"
+msgctxt "NEGOTIATION_FEATURE.EMPHASIS.DESC"
 msgid "Triggers an <b>Emphasis</> effect when reaching a threshold number."
 msgstr "Triggers an <b>Emphasis</> effect when reaching a threshold number."
 
 #: NEGOTIATION_FEATURE.EMPHASIS.NAME
 #, fuzzy
-msgctxt "FEATURE.EMPHASIS.NAME"
+msgctxt "NEGOTIATION_FEATURE.EMPHASIS.NAME"
 msgid "Emphasis"
 msgstr "Emphasis"
 
 #: NEGOTIATION_FEATURE.EXERT.DESC
 #, fuzzy
-msgctxt "FEATURE.EXERT.DESC"
+msgctxt "NEGOTIATION_FEATURE.EXERT.DESC"
 msgid "Next turn, gain {1} less Action"
 msgstr "Next turn, gain {1} less Action"
 
 #: NEGOTIATION_FEATURE.EXERT.NAME
 #, fuzzy
-msgctxt "FEATURE.EXERT.NAME"
+msgctxt "NEGOTIATION_FEATURE.EXERT.NAME"
 msgid "Exert"
 msgstr "Exert"
 
 #: NEGOTIATION_FEATURE.EXPEND.DESC
 #, fuzzy
-msgctxt "FEATURE.EXPEND.DESC"
+msgctxt "NEGOTIATION_FEATURE.EXPEND.DESC"
 msgid "Remove this card for the rest of this negotiation"
 msgstr "Remove this card for the rest of this negotiation"
 
 #: NEGOTIATION_FEATURE.EXPEND.NAME
 #, fuzzy
-msgctxt "FEATURE.EXPEND.NAME"
+msgctxt "NEGOTIATION_FEATURE.EXPEND.NAME"
 msgid "Expend"
-msgstr "Expend"
+msgstr "Épuisement"
 
 #: NEGOTIATION_FEATURE.FEARLESS.DESC
 #, fuzzy
-msgctxt "FEATURE.FEARLESS.DESC"
+msgctxt "NEGOTIATION_FEATURE.FEARLESS.DESC"
 msgid "-2 {DOMINANCE}"
 msgstr "-2 {DOMINANCE}"
 
 #: NEGOTIATION_FEATURE.FEARLESS.NAME
 #, fuzzy
-msgctxt "FEATURE.FEARLESS.NAME"
+msgctxt "NEGOTIATION_FEATURE.FEARLESS.NAME"
 msgid "Fearless"
 msgstr "Fearless"
 
 #: NEGOTIATION_FEATURE.FIELD_NOTES.DESC
 #, fuzzy
-msgctxt "FEATURE.FIELD_NOTES.DESC"
+msgctxt "NEGOTIATION_FEATURE.FIELD_NOTES.DESC"
 msgid "Gain 2 resolve for every 4 cards played"
 msgstr "Gagne 2 resolve for every 4 cards played"
 
 #: NEGOTIATION_FEATURE.FIELD_NOTES.NAME
 #, fuzzy
-msgctxt "FEATURE.FIELD_NOTES.NAME"
+msgctxt "NEGOTIATION_FEATURE.FIELD_NOTES.NAME"
 msgid "Field Notes"
 msgstr "Field Notes"
 
 #: NEGOTIATION_FEATURE.FUMING.DESC
 #, fuzzy
-msgctxt "FEATURE.FUMING.DESC"
+msgctxt "NEGOTIATION_FEATURE.FUMING.DESC"
 msgid "This character is fuming beneath the surface!"
 msgstr "This character is fuming beneath the surface!"
 
 #: NEGOTIATION_FEATURE.FUMING.FEATURE_DESC
 #, fuzzy
-msgctxt "FEATURE.FUMING.FEATURE_DESC"
+msgctxt "NEGOTIATION_FEATURE.FUMING.FEATURE_DESC"
 msgid "Applies {FUMING {1}}"
 msgstr "Applies {FUMING {1}}"
 
 #: NEGOTIATION_FEATURE.FUMING.NAME
 #, fuzzy
-msgctxt "FEATURE.FUMING.NAME"
+msgctxt "NEGOTIATION_FEATURE.FUMING.NAME"
 msgid "Fuming!"
 msgstr "Fuming!"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_ACTIVE_DEFENSE_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_ACTIVE_DEFENSE_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_ACTIVE_DEFENSE_GRAFT.DESC"
 msgid "Whenever you attack, gain {RIPOSTE 1}"
 msgstr "Whenever you attack, gain {RIPOSTE 1}"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_ACTIVE_DEFENSE_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_ACTIVE_DEFENSE_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_ACTIVE_DEFENSE_GRAFT.NAME"
 msgid "Active Defense"
 msgstr "Active Defense"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BLOODY_MESS_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_BLOODY_MESS_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BLOODY_MESS_GRAFT.DESC"
 msgid "Whenever your attacks apply {BLEED}, apply another {BLEED}"
 msgstr "Whenever your attacks apply {BLEED}, apply another {BLEED}"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BLOODY_MESS_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_BLOODY_MESS_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BLOODY_MESS_GRAFT.NAME"
 msgid "Bloody Mess"
 msgstr "Bloody Mess"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BOTTOM_EDGE_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_BOTTOM_EDGE_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BOTTOM_EDGE_GRAFT.DESC"
 msgid "All attacks gain +{1} to minimum damage, up to their maximum damage"
 msgstr "All attacks gain +{1} to minimum damage, up to their maximum damage"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BOTTOM_EDGE_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_BOTTOM_EDGE_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BOTTOM_EDGE_GRAFT.NAME"
 msgid "Bottom Edge"
 msgstr "Bottom Edge"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BUSTER_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_BUSTER_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BUSTER_GRAFT.DESC"
 msgid "Whenever you break {PROTECT} with an attack, draw a card"
 msgstr "Whenever you break {PROTECT} with an attack, draw a card"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BUSTER_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_BUSTER_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_BUSTER_GRAFT.NAME"
 msgid "Buster"
 msgstr "Buster"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_CREEPING_DREAD_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_CREEPING_DREAD_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_CREEPING_DREAD_GRAFT.DESC"
 msgid "At the end of your first turn, deal {1} morale damage to all enemies"
 msgstr "At the end of your first turn, deal {1} morale damage to all enemies"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_CREEPING_DREAD_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_CREEPING_DREAD_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_CREEPING_DREAD_GRAFT.NAME"
 msgid "Creeping Dread"
 msgstr "Creeping Dread"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_DYNAMO_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_DYNAMO_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_DYNAMO_GRAFT.DESC"
 msgid "Whenever you shuffle your deck, gain {POWER {1}}"
 msgstr "Whenever you shuffle your deck, gain {POWER {1}}"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_DYNAMO_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_DYNAMO_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_DYNAMO_GRAFT.NAME"
 msgid "Dynamo"
 msgstr "Dynamo"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FEAR_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_FEAR_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FEAR_GRAFT.DESC"
 msgid "A random enemy loses {1} morale at the beginning of your turn"
 msgstr "A random enemy loses {1} morale at the beginning of your turn"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FEAR_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_FEAR_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FEAR_GRAFT.NAME"
 msgid "Body Piercings"
 msgstr "Body Piercings"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FEEDBACK_LOOP_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_FEEDBACK_LOOP_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FEEDBACK_LOOP_GRAFT.DESC"
 msgid "Your first attack does x{1} damage."
 msgstr "Your first attack does x{1} damage."
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FEEDBACK_LOOP_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_FEEDBACK_LOOP_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FEEDBACK_LOOP_GRAFT.NAME"
 msgid "Feedback Loop"
 msgstr "Feedback Loop"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FIRST_BLOOD_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_FIRST_BLOOD_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FIRST_BLOOD_GRAFT.DESC"
 msgid "Your first attack each combat deals an extra +2 Bleed"
 msgstr "Your first attack each combat deals an extra +2 Bleed"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FIRST_BLOOD_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_FIRST_BLOOD_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_FIRST_BLOOD_GRAFT.NAME"
 msgid "First Blood"
 msgstr "First Blood"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_PRACTICTIONER_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_PRACTICTIONER_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_PRACTICTIONER_GRAFT.DESC"
 msgid "At the end of battle, all allies gain {BANDAGE {1}}"
 msgstr "At the end of battle, all allies gain {BANDAGE {1}}"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_PRACTICTIONER_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_PRACTICTIONER_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_PRACTICTIONER_GRAFT.NAME"
 msgid "Practictioner"
 msgstr "Practictioner"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_REPLENISH_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_REPLENISH_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_REPLENISH_GRAFT.DESC"
 msgid "Whenever you {EXPEND} a card in battle, draw a card"
 msgstr "Whenever you {EXPEND} a card in battle, draw a card"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_REPLENISH_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_REPLENISH_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_REPLENISH_GRAFT.NAME"
 msgid "Replenish"
 msgstr "Replenish"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_SHELL_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_SHELL_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_SHELL_GRAFT.DESC"
 msgid "If you are outnumbered, gain {DEFEND 3}, then remove 1 Shell."
 msgstr "If you are outnumbered, gain {DEFEND 3}, then remove 1 Shell."
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_SHELL_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_SHELL_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_SHELL_GRAFT.NAME"
 msgid "Shell"
 msgstr "Shell"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_SPREE_ALLIANCE.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_SPREE_ALLIANCE.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_SPREE_ALLIANCE.DESC"
 msgid "Adds {MENACE 1} in combat"
 msgstr "Adds {MENACE 1} in combat"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_SPREE_ALLIANCE.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_SPREE_ALLIANCE.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_SPREE_ALLIANCE.NAME"
 msgid "Smells of Spree"
 msgstr "Smells of Spree"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_THICKSKIN_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_THICKSKIN_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_THICKSKIN_GRAFT.DESC"
 msgid "Gain {PROTECT {1}} at the end of your turn"
 msgstr "Gagne {PROTECT {1}} at the end of your turn"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_THICKSKIN_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_THICKSKIN_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_THICKSKIN_GRAFT.NAME"
 msgid "Thick Skin"
 msgstr "Thick Skin"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_WOUNDING_BARBS_GRAFT.DESC
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_WOUNDING_BARBS_GRAFT.DESC"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_WOUNDING_BARBS_GRAFT.DESC"
 msgid "Your first attack each combat applies {WOUND 2}"
 msgstr "Your first attack each combat applies {WOUND 2}"
 
 #: NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_WOUNDING_BARBS_GRAFT.NAME
 #, fuzzy
-msgctxt "FEATURE.GRAFT_BATTLE_CONDITION_WOUNDING_BARBS_GRAFT.NAME"
+msgctxt "NEGOTIATION_FEATURE.GRAFT_BATTLE_CONDITION_WOUNDING_BARBS_GRAFT.NAME"
 msgid "Wounding Barbs"
 msgstr "Wounding Barbs"
 
 #: NEGOTIATION_FEATURE.GREEDY.DESC
 #, fuzzy
-msgctxt "FEATURE.GREEDY.DESC"
+msgctxt "NEGOTIATION_FEATURE.GREEDY.DESC"
 msgid "{BRIBE} cards cost twice as much"
 msgstr "{BRIBE} cards cost twice as much"
 
 #: NEGOTIATION_FEATURE.GREEDY.NAME
 #, fuzzy
-msgctxt "FEATURE.GREEDY.NAME"
+msgctxt "NEGOTIATION_FEATURE.GREEDY.NAME"
 msgid "Greedy"
 msgstr "Greedy"
 
 #: NEGOTIATION_FEATURE.GUNSHA_POWDER.DESC
 #, fuzzy
-msgctxt "FEATURE.GUNSHA_POWDER.DESC"
+msgctxt "NEGOTIATION_FEATURE.GUNSHA_POWDER.DESC"
 msgid "Draw one less card per turn"
 msgstr "Pioche one less card per turn"
 
 #: NEGOTIATION_FEATURE.GUNSHA_POWDER.NAME
 #, fuzzy
-msgctxt "FEATURE.GUNSHA_POWDER.NAME"
+msgctxt "NEGOTIATION_FEATURE.GUNSHA_POWDER.NAME"
 msgid "Stinging Eyes"
 msgstr "Stinging Eyes"
 
 #: NEGOTIATION_FEATURE.HARD_FACTS.DESC
 #, fuzzy
-msgctxt "FEATURE.HARD_FACTS.DESC"
+msgctxt "NEGOTIATION_FEATURE.HARD_FACTS.DESC"
 msgid "Every card played this turn generates 2 {DOUBT}"
 msgstr "Every card played this turn generates 2 {DOUBT}"
 
 #: NEGOTIATION_FEATURE.HARD_FACTS.NAME
 #, fuzzy
-msgctxt "FEATURE.HARD_FACTS.NAME"
+msgctxt "NEGOTIATION_FEATURE.HARD_FACTS.NAME"
 msgid "Hard Facts"
 msgstr "Hard Facts"
 
 #: NEGOTIATION_FEATURE.HAVARIAN_CODEX.DESC
 #, fuzzy
-msgctxt "FEATURE.HAVARIAN_CODEX.DESC"
+msgctxt "NEGOTIATION_FEATURE.HAVARIAN_CODEX.DESC"
 msgid "Deal 1 resolve damage at the beginning of your turn"
 msgstr "Deal 1 resolve damage at the beginning of your turn"
 
 #: NEGOTIATION_FEATURE.HAVARIAN_CODEX.NAME
 #, fuzzy
-msgctxt "FEATURE.HAVARIAN_CODEX.NAME"
+msgctxt "NEGOTIATION_FEATURE.HAVARIAN_CODEX.NAME"
 msgid "Havarian Codex"
 msgstr "Havarian Codex"
 
 #: NEGOTIATION_FEATURE.HEAL.DESC
 #, fuzzy
-msgctxt "FEATURE.HEAL.DESC"
+msgctxt "NEGOTIATION_FEATURE.HEAL.DESC"
 msgid "Removes bleed, wound, and restores health"
 msgstr "Removes bleed, wound, and restores health"
 
 #: NEGOTIATION_FEATURE.HEAL.NAME
 #, fuzzy
-msgctxt "FEATURE.HEAL.NAME"
+msgctxt "NEGOTIATION_FEATURE.HEAL.NAME"
 msgid "Heal"
 msgstr "Heal"
 
 #: NEGOTIATION_FEATURE.HEAVY_ORDERS.DESC
 #, fuzzy
-msgctxt "FEATURE.HEAVY_ORDERS.DESC"
+msgctxt "NEGOTIATION_FEATURE.HEAVY_ORDERS.DESC"
 msgid "All \"Order\" cards deal {1%+d} resolve damage"
 msgstr "All \"Order\" cards deal {1%+d} resolve damage"
 
 #: NEGOTIATION_FEATURE.HEAVY_ORDERS.NAME
 #, fuzzy
-msgctxt "FEATURE.HEAVY_ORDERS.NAME"
+msgctxt "NEGOTIATION_FEATURE.HEAVY_ORDERS.NAME"
 msgid "Heavy Orders"
 msgstr "Heavy Orders"
 
 #: NEGOTIATION_FEATURE.HEMOPHAGE.DESC
 #, fuzzy
-msgctxt "FEATURE.HEMOPHAGE.DESC"
+msgctxt "NEGOTIATION_FEATURE.HEMOPHAGE.DESC"
 msgid "Whenever you apply {BLEED}, {BANDAGE {1}}"
 msgstr "Whenever you apply {BLEED}, {BANDAGE {1}}"
 
 #: NEGOTIATION_FEATURE.HEMOPHAGE.NAME
 #, fuzzy
-msgctxt "FEATURE.HEMOPHAGE.NAME"
+msgctxt "NEGOTIATION_FEATURE.HEMOPHAGE.NAME"
 msgid "Hemophage"
 msgstr "Hemophage"
 
 #: NEGOTIATION_FEATURE.HONEST.DESC
 #, fuzzy
-msgctxt "FEATURE.HONEST.DESC"
+msgctxt "NEGOTIATION_FEATURE.HONEST.DESC"
 msgid "{BRIBE} cards are 50% less effective"
 msgstr "{BRIBE} cards are 50% less effective"
 
 #: NEGOTIATION_FEATURE.HONEST.NAME
 #, fuzzy
-msgctxt "FEATURE.HONEST.NAME"
+msgctxt "NEGOTIATION_FEATURE.HONEST.NAME"
 msgid "Honest"
 msgstr "Honest"
 
 #: NEGOTIATION_FEATURE.HOSTILE_NEGOTIATION.DESC
 #, fuzzy
-msgctxt "FEATURE.HOSTILE_NEGOTIATION.DESC"
+msgctxt "NEGOTIATION_FEATURE.HOSTILE_NEGOTIATION.DESC"
 msgid "Lose 1 {INFLUENCE}. Gain 4 {HOSTILITY}."
 msgstr "Perd 1 {INFLUENCE}. Gagne 4 {HOSTILITY}."
 
 #: NEGOTIATION_FEATURE.HOSTILE_NEGOTIATION.NAME
 #, fuzzy
-msgctxt "FEATURE.HOSTILE_NEGOTIATION.NAME"
+msgctxt "NEGOTIATION_FEATURE.HOSTILE_NEGOTIATION.NAME"
 msgid "Hostile Negotiation"
 msgstr "Negociation Hostile"
 
 #: NEGOTIATION_FEATURE.HOSTILITY.DESC
 #, fuzzy
-msgctxt "FEATURE.HOSTILITY.DESC"
+msgctxt "NEGOTIATION_FEATURE.HOSTILITY.DESC"
 msgid "If you end the negotiation with Hostility, the opponent will dislike you. Hostility decreases by 1 at the end of the turn."
 msgstr "Si vous terminer la négociation avec Hostilité, l'adversaire ne vous appréciera pas. L'Hostilité est réduite de 1 en fin de tour."
 
 #: NEGOTIATION_FEATURE.HOSTILITY.FEATURE_DESC
 #, fuzzy
-msgctxt "FEATURE.HOSTILITY.FEATURE_DESC"
+msgctxt "NEGOTIATION_FEATURE.HOSTILITY.FEATURE_DESC"
 msgid "{HOSTILITY {1}}"
 msgstr "{HOSTILITY {1}}"
 
 #: NEGOTIATION_FEATURE.HOSTILITY.NAME
 #, fuzzy
-msgctxt "FEATURE.HOSTILITY.NAME"
+msgctxt "NEGOTIATION_FEATURE.HOSTILITY.NAME"
 msgid "Hostility"
 msgstr "Hostilité"
 
 #: NEGOTIATION_FEATURE.IMPROVISE.DESC
 #, fuzzy
-msgctxt "FEATURE.IMPROVISE.DESC"
+msgctxt "NEGOTIATION_FEATURE.IMPROVISE.DESC"
 msgid "Choose one of two cards to put your hand"
 msgstr "Choisissez une des deux cartes et mettez la dans votre main"
 
 #: NEGOTIATION_FEATURE.IMPROVISE.NAME
 #, fuzzy
-msgctxt "FEATURE.IMPROVISE.NAME"
+msgctxt "NEGOTIATION_FEATURE.IMPROVISE.NAME"
 msgid "Improvise"
 msgstr "Improvise"
 
 #: NEGOTIATION_FEATURE.INCEPT.DESC
 #, fuzzy
-msgctxt "FEATURE.INCEPT.DESC"
+msgctxt "NEGOTIATION_FEATURE.INCEPT.DESC"
 msgid "Insert cards into your opponent's deck"
 msgstr "Ajoute des cartes dans la  pioche de votre adversaire"
 
 #: NEGOTIATION_FEATURE.INCEPT.NAME
 #, fuzzy
-msgctxt "FEATURE.INCEPT.NAME"
+msgctxt "NEGOTIATION_FEATURE.INCEPT.NAME"
 msgid "Incept"
 msgstr "Incept"
 
 #: NEGOTIATION_FEATURE.INCEPTED.DESC
 #, fuzzy
-msgctxt "FEATURE.INCEPTED.DESC"
+msgctxt "NEGOTIATION_FEATURE.INCEPTED.DESC"
 msgid "Incepted cards are inserted into decks by the opponent."
 msgstr "Incepted cards are inserted into decks by the opponent."
 
 #: NEGOTIATION_FEATURE.INCEPTED.NAME
 #, fuzzy
-msgctxt "FEATURE.INCEPTED.NAME"
+msgctxt "NEGOTIATION_FEATURE.INCEPTED.NAME"
 msgid "Incepted"
 msgstr "Incepted"
 
 #: NEGOTIATION_FEATURE.INDOCTRINATE.DESC
 #, fuzzy
-msgctxt "FEATURE.INDOCTRINATE.DESC"
+msgctxt "NEGOTIATION_FEATURE.INDOCTRINATE.DESC"
 msgid "Gain: Whenever you {INCEPT}, {INCEPT} another copy."
 msgstr "Gagne: Whenever you {INCEPT}, {INCEPT} another copy."
 
 #: NEGOTIATION_FEATURE.INDOCTRINATE.NAME
 #, fuzzy
-msgctxt "FEATURE.INDOCTRINATE.NAME"
+msgctxt "NEGOTIATION_FEATURE.INDOCTRINATE.NAME"
 msgid "Indoctrinate"
 msgstr "Endoctrine"
 
 #: NEGOTIATION_FEATURE.INFLUENCE.DESC
 #, fuzzy
-msgctxt "FEATURE.INFLUENCE.DESC"
+msgctxt "NEGOTIATION_FEATURE.INFLUENCE.DESC"
 msgid "{1%+d} resolve damage for all Diplomacy cards"
 msgstr "{1%+d} dégats de détermination par carte de Diplomatie"
 
 #: NEGOTIATION_FEATURE.INFLUENCE.FEATURE_DESC
 #, fuzzy
-msgctxt "FEATURE.INFLUENCE.FEATURE_DESC"
+msgctxt "NEGOTIATION_FEATURE.INFLUENCE.FEATURE_DESC"
 msgid "{INFLUENCE {1}}"
 msgstr "{INFLUENCE {1}}"
 
 #: NEGOTIATION_FEATURE.INFLUENCE.NAME
 #, fuzzy
-msgctxt "FEATURE.INFLUENCE.NAME"
+msgctxt "NEGOTIATION_FEATURE.INFLUENCE.NAME"
 msgid "Influence"
 msgstr "Influence"
 
 #: NEGOTIATION_FEATURE.INTIMIDATED.DESC
 #, fuzzy
-msgctxt "FEATURE.INTIMIDATED.DESC"
+msgctxt "NEGOTIATION_FEATURE.INTIMIDATED.DESC"
 msgid "Gain +4 Dominance per stack"
 msgstr "Gagne +4 Dominance par stack"
 
 #: NEGOTIATION_FEATURE.INTIMIDATED.NAME
 #, fuzzy
-msgctxt "FEATURE.INTIMIDATED.NAME"
+msgctxt "NEGOTIATION_FEATURE.INTIMIDATED.NAME"
 msgid "Intimidated"
 msgstr "Intimidé"
 
 #: NEGOTIATION_FEATURE.IRRITABLE.DESC
 #, fuzzy
-msgctxt "FEATURE.IRRITABLE.DESC"
+msgctxt "NEGOTIATION_FEATURE.IRRITABLE.DESC"
 msgid "Diplomacy cards create {HOSTILITY 1} when played."
 msgstr "Les cartes de Diplomacie créent {HOSTILITY 1} lorsqu'elles sont jouées."
 
 #: NEGOTIATION_FEATURE.IRRITABLE.NAME
 #, fuzzy
-msgctxt "FEATURE.IRRITABLE.NAME"
+msgctxt "NEGOTIATION_FEATURE.IRRITABLE.NAME"
 msgid "Irritable"
 msgstr "Irritable"
 
 #: NEGOTIATION_FEATURE.KNIFE_IMPROVE_ACCURACY.DESC
 #, fuzzy
-msgctxt "FEATURE.KNIFE_IMPROVE_ACCURACY.DESC"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_IMPROVE_ACCURACY.DESC"
 msgid "Your attacks this turn deal max damage"
 msgstr "Vos attaques font le maximum de dégats"
 
 #: NEGOTIATION_FEATURE.KNIFE_IMPROVE_ACCURACY.NAME
 #, fuzzy
-msgctxt "FEATURE.KNIFE_IMPROVE_ACCURACY.NAME"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_IMPROVE_ACCURACY.NAME"
 msgid "Improve Accuracy"
 msgstr "Améliore la précision"
 
 #: NEGOTIATION_FEATURE.KNIFE_IMPROVE_ACCURACY_PLUS.DESC
 #, fuzzy
-msgctxt "FEATURE.KNIFE_IMPROVE_ACCURACY_PLUS.DESC"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_IMPROVE_ACCURACY_PLUS.DESC"
 msgid "Your attacks this turn deal max damage"
 msgstr "Vos attaques ce tour font le maximum de dégats"
 
 #: NEGOTIATION_FEATURE.KNIFE_IMPROVE_ACCURACY_PLUS.NAME
 #, fuzzy
-msgctxt "FEATURE.KNIFE_IMPROVE_ACCURACY_PLUS.NAME"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_IMPROVE_ACCURACY_PLUS.NAME"
 msgid "Improve Accuracy"
 msgstr "Améliore la précision"
 
 #: NEGOTIATION_FEATURE.KNIFE_SHADOW_MASTERY.DESC
 #, fuzzy
-msgctxt "FEATURE.KNIFE_SHADOW_MASTERY.DESC"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_SHADOW_MASTERY.DESC"
 msgid "Gain: Whenever you discard a card, draw a card"
 msgstr "Gagne: Lorsque vous défaussez une carte, piochez une carte"
 
 #: NEGOTIATION_FEATURE.KNIFE_SHADOW_MASTERY.NAME
 #, fuzzy
-msgctxt "FEATURE.KNIFE_SHADOW_MASTERY.NAME"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_SHADOW_MASTERY.NAME"
 msgid "Shadow Mastery"
 msgstr "Maîrise des Ombres"
 
 #: NEGOTIATION_FEATURE.KNIFE_SHADOW_MASTERY_PLUS.DESC
 #, fuzzy
-msgctxt "FEATURE.KNIFE_SHADOW_MASTERY_PLUS.DESC"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_SHADOW_MASTERY_PLUS.DESC"
 msgid "Gain: Whenever you discard a card, draw a card"
 msgstr "Gagne: Lorsque vous défaussez une carte, piochez une carte"
 
 #: NEGOTIATION_FEATURE.KNIFE_SHADOW_MASTERY_PLUS.NAME
 #, fuzzy
-msgctxt "FEATURE.KNIFE_SHADOW_MASTERY_PLUS.NAME"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_SHADOW_MASTERY_PLUS.NAME"
 msgid "Shadow Mastery"
 msgstr "Maîrise des Ombres"
 
 #: NEGOTIATION_FEATURE.KNIFE_SHARPEN.DESC
 #, fuzzy
-msgctxt "FEATURE.KNIFE_SHARPEN.DESC"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_SHARPEN.DESC"
 msgid "Apply {BLEED 1} whenever you play a Melee attack for the rest of the turn"
 msgstr "Apply {BLEED 1} whenever you play a Melee attack for the rest of the turn"
 
 #: NEGOTIATION_FEATURE.KNIFE_SHARPEN.NAME
 #, fuzzy
-msgctxt "FEATURE.KNIFE_SHARPEN.NAME"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_SHARPEN.NAME"
 msgid "Sharpen"
 msgstr "Aiguise"
 
 #: NEGOTIATION_FEATURE.KNIFE_SHARPEN_PLUS.DESC
 #, fuzzy
-msgctxt "FEATURE.KNIFE_SHARPEN_PLUS.DESC"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_SHARPEN_PLUS.DESC"
 msgid "Apply {BLEED 1} whenever you play a Melee attack for the rest of the turn"
 msgstr "Apply {BLEED 1} whenever you play a Melee attack for the rest of the turn"
 
 #: NEGOTIATION_FEATURE.KNIFE_SHARPEN_PLUS.NAME
 #, fuzzy
-msgctxt "FEATURE.KNIFE_SHARPEN_PLUS.NAME"
+msgctxt "NEGOTIATION_FEATURE.KNIFE_SHARPEN_PLUS.NAME"
 msgid "Sharpen"
 msgstr "Aiguise"
 
 #: NEGOTIATION_FEATURE.LEADER.DESC
 #, fuzzy
-msgctxt "FEATURE.LEADER.DESC"
+msgctxt "NEGOTIATION_FEATURE.LEADER.DESC"
 msgid "Allies suffer 2 additional morale damage if the leader dies or surrenders."
 msgstr "Allies suffer 2 additional morale damage if the leader dies or surrenders."
 
 #: NEGOTIATION_FEATURE.LEADER.NAME
 #, fuzzy
-msgctxt "FEATURE.LEADER.NAME"
+msgctxt "NEGOTIATION_FEATURE.LEADER.NAME"
 msgid "Leader"
 msgstr "Leader"
 
 #: NEGOTIATION_FEATURE.MARKED.DESC
 #, fuzzy
-msgctxt "FEATURE.MARKED.DESC"
+msgctxt "NEGOTIATION_FEATURE.MARKED.DESC"
 msgid "Some attacks require a target to be Marked"
 msgstr "Some attacks require a target to be Marked"
 
 #: NEGOTIATION_FEATURE.MARKED.NAME
 #, fuzzy
-msgctxt "FEATURE.MARKED.NAME"
+msgctxt "NEGOTIATION_FEATURE.MARKED.NAME"
 msgid "Marked"
 msgstr "Marqué"
 
 #: NEGOTIATION_FEATURE.MECH.DESC
 #, fuzzy
-msgctxt "FEATURE.MECH.DESC"
+msgctxt "NEGOTIATION_FEATURE.MECH.DESC"
 msgid "Immune to <b>Bleed</b> and <b>Stun</b>"
 msgstr "Immunisé contre <b>Saignement</b> et <b>Etourdissement</b>"
 
 #: NEGOTIATION_FEATURE.MECH.NAME
 #, fuzzy
-msgctxt "FEATURE.MECH.NAME"
+msgctxt "NEGOTIATION_FEATURE.MECH.NAME"
 msgid "Mech"
 msgstr "Machine"
 
 #: NEGOTIATION_FEATURE.MENACE.DESC
 #, fuzzy
-msgctxt "FEATURE.MENACE.DESC"
+msgctxt "NEGOTIATION_FEATURE.MENACE.DESC"
 msgid "Add +{1} morale damage to cards that deal morale damage"
 msgstr "Add +{1} morale damage to cards that deal morale damage"
 
 #: NEGOTIATION_FEATURE.MENACE.NAME
 #, fuzzy
-msgctxt "FEATURE.MENACE.NAME"
+msgctxt "NEGOTIATION_FEATURE.MENACE.NAME"
 msgid "Menace"
 msgstr "Menace"
 
 #: NEGOTIATION_FEATURE.MITIGATE.DESC
 #, fuzzy
-msgctxt "FEATURE.MITIGATE.DESC"
+msgctxt "NEGOTIATION_FEATURE.MITIGATE.DESC"
 msgid "Restores resolve lost this turn"
 msgstr "Restores resolve lost this turn"
 
 #: NEGOTIATION_FEATURE.MITIGATE.FEATURE_DESC
 #, fuzzy
-msgctxt "FEATURE.MITIGATE.FEATURE_DESC"
+msgctxt "NEGOTIATION_FEATURE.MITIGATE.FEATURE_DESC"
 msgid "{MITIGATE {1}}"
 msgstr "{MITIGATE {1}}"
 
 #: NEGOTIATION_FEATURE.MITIGATE.NAME
 #, fuzzy
-msgctxt "FEATURE.MITIGATE.NAME"
+msgctxt "NEGOTIATION_FEATURE.MITIGATE.NAME"
 msgid "Mitigate"
 msgstr "Atténue"
 
 #: NEGOTIATION_FEATURE.MONEY_HUNGRY.DESC
 #, fuzzy
-msgctxt "FEATURE.MONEY_HUNGRY.DESC"
+msgctxt "NEGOTIATION_FEATURE.MONEY_HUNGRY.DESC"
 msgid "Bribes are 2X effective"
 msgstr "Les pot-de-vin sont 2X plus efficaces"
 
 #: NEGOTIATION_FEATURE.MONEY_HUNGRY.NAME
 #, fuzzy
-msgctxt "FEATURE.MONEY_HUNGRY.NAME"
+msgctxt "NEGOTIATION_FEATURE.MONEY_HUNGRY.NAME"
 msgid "Underpaid"
 msgstr "Sous-payés"
 
 #: NEGOTIATION_FEATURE.MULTISHOT.DESC
 #, fuzzy
-msgctxt "FEATURE.MULTISHOT.DESC"
+msgctxt "NEGOTIATION_FEATURE.MULTISHOT.DESC"
 msgid "This card can be played multiple times per turn"
 msgstr "Cette carte peut être jouée plusieurs fois par tour"
 
 #: NEGOTIATION_FEATURE.MULTISHOT.NAME
 #, fuzzy
-msgctxt "FEATURE.MULTISHOT.NAME"
+msgctxt "NEGOTIATION_FEATURE.MULTISHOT.NAME"
 msgid "Multishot"
 msgstr "Tir Multiple"
 
 #: NEGOTIATION_FEATURE.OBSERVE.DESC
 #, fuzzy
-msgctxt "FEATURE.OBSERVE.DESC"
+msgctxt "NEGOTIATION_FEATURE.OBSERVE.DESC"
 msgid "Add {EXPEND} to the next opponent card played."
 msgstr "Ajoute {EXPEND} à la prochaine carte jouée par l'adversaire."
 
 #: NEGOTIATION_FEATURE.OBSERVE.NAME
 #, fuzzy
-msgctxt "FEATURE.OBSERVE.NAME"
+msgctxt "NEGOTIATION_FEATURE.OBSERVE.NAME"
 msgid "Observe"
 msgstr "Observer"
 
 #: NEGOTIATION_FEATURE.OPPORTUNISTIC.DESC
 #, fuzzy
-msgctxt "FEATURE.OPPORTUNISTIC.DESC"
+msgctxt "NEGOTIATION_FEATURE.OPPORTUNISTIC.DESC"
 msgid "Gain {POWER 1} when an attack does any damage. Otherwise, loses 1 morale."
 msgstr "Gagne {POWER 1} when an attack does any damage. Otherwise, loses 1 morale."
 
 #: NEGOTIATION_FEATURE.OPPORTUNISTIC.NAME
 #, fuzzy
-msgctxt "FEATURE.OPPORTUNISTIC.NAME"
+msgctxt "NEGOTIATION_FEATURE.OPPORTUNISTIC.NAME"
 msgid "Opportunistic"
 msgstr "Opportuniste"
 
 #: NEGOTIATION_FEATURE.ORGANIZER.DESC
 #, fuzzy
-msgctxt "FEATURE.ORGANIZER.DESC"
+msgctxt "NEGOTIATION_FEATURE.ORGANIZER.DESC"
 msgid "{SPENT} cards can be played as: \"Cost 1: Expend and draw a card\""
 msgstr "{SPENT} cards can be played as: \"Cost 1: Expend and draw a card\""
 
 #: NEGOTIATION_FEATURE.ORGANIZER.NAME
 #, fuzzy
-msgctxt "FEATURE.ORGANIZER.NAME"
+msgctxt "NEGOTIATION_FEATURE.ORGANIZER.NAME"
 msgid "Organizer"
 msgstr "Organisateur"
 
 #: NEGOTIATION_FEATURE.PALM_GREASE.DESC
 #, fuzzy
-msgctxt "FEATURE.PALM_GREASE.DESC"
+msgctxt "NEGOTIATION_FEATURE.PALM_GREASE.DESC"
 msgid "The next card played deals double resolve damage"
 msgstr "The next card played deals double resolve damage"
 
 #: NEGOTIATION_FEATURE.PALM_GREASE.NAME
 #, fuzzy
-msgctxt "FEATURE.PALM_GREASE.NAME"
+msgctxt "NEGOTIATION_FEATURE.PALM_GREASE.NAME"
 msgid "Palm Grease"
 msgstr "Palm Grease"
 
 #: NEGOTIATION_FEATURE.PICKPOCKET.DESC
 #, fuzzy
-msgctxt "FEATURE.PICKPOCKET.DESC"
+msgctxt "NEGOTIATION_FEATURE.PICKPOCKET.DESC"
 msgid "Steal an item if you win this negotiation"
 msgstr "Steal an item if you win this negotiation"
 
 #: NEGOTIATION_FEATURE.PICKPOCKET.NAME
 #, fuzzy
-msgctxt "FEATURE.PICKPOCKET.NAME"
+msgctxt "NEGOTIATION_FEATURE.PICKPOCKET.NAME"
 msgid "Pickpocket"
 msgstr "Pickpocket"
 
 #: NEGOTIATION_FEATURE.POCKET_JOURNAL.DESC
 #, fuzzy
-msgctxt "FEATURE.POCKET_JOURNAL.DESC"
+msgctxt "NEGOTIATION_FEATURE.POCKET_JOURNAL.DESC"
 msgid "Draw 1 card for every 3 cards played."
 msgstr "Pioche 1 card for every 3 cards played."
 
 #: NEGOTIATION_FEATURE.POCKET_JOURNAL.NAME
 #, fuzzy
-msgctxt "FEATURE.POCKET_JOURNAL.NAME"
+msgctxt "NEGOTIATION_FEATURE.POCKET_JOURNAL.NAME"
 msgid "Pocket Journal"
 msgstr "Pocket Journal"
 
 #: NEGOTIATION_FEATURE.POWER.DESC
 #, fuzzy
-msgctxt "FEATURE.POWER.DESC"
+msgctxt "NEGOTIATION_FEATURE.POWER.DESC"
 msgid "Whenever you inflict damage, inflict an additional {1} damage"
 msgstr "Whenever you inflict damage, inflict an additional {1} damage"
 
 #: NEGOTIATION_FEATURE.POWER.NAME
 #, fuzzy
-msgctxt "FEATURE.POWER.NAME"
+msgctxt "NEGOTIATION_FEATURE.POWER.NAME"
 msgid "Power"
 msgstr "Puissance"
 
 #: NEGOTIATION_FEATURE.PREPARATION.DESC
 #, fuzzy
-msgctxt "FEATURE.PREPARATION.DESC"
+msgctxt "NEGOTIATION_FEATURE.PREPARATION.DESC"
 msgid "At the beginning of your turn, {MITIGATE {1}}."
 msgstr "Au début de votre tour, {MITIGATE {1}}."
 
 #: NEGOTIATION_FEATURE.PREPARATION.NAME
 #, fuzzy
-msgctxt "FEATURE.PREPARATION.NAME"
+msgctxt "NEGOTIATION_FEATURE.PREPARATION.NAME"
 msgid "Preparation"
 msgstr "Préparation"
 
 #: NEGOTIATION_FEATURE.PROTECT.DESC
 #, fuzzy
-msgctxt "FEATURE.PROTECT.DESC"
+msgctxt "NEGOTIATION_FEATURE.PROTECT.DESC"
 msgid "Opponents must target enemies that have <b>Protect</>. Remove <b>Protect</> at the start of next turn, or when receiving damage."
 msgstr "Opponents must target enemies that have <b>Protect</>. Remove <b>Protect</> at the start of next turn, or when receiving damage."
 
 #: NEGOTIATION_FEATURE.PROTECT.NAME
 #, fuzzy
-msgctxt "FEATURE.PROTECT.NAME"
+msgctxt "NEGOTIATION_FEATURE.PROTECT.NAME"
 msgid "Protect"
 msgstr "Protège"
 
 #: NEGOTIATION_FEATURE.RECALL.DESC
 #, fuzzy
-msgctxt "FEATURE.RECALL.DESC"
+msgctxt "NEGOTIATION_FEATURE.RECALL.DESC"
 msgid "Gain: Whenever you {EXPEND} a card, draw a card"
 msgstr "Gagne: Whenever you {EXPEND} a card, draw a card"
 
 #: NEGOTIATION_FEATURE.RECALL.NAME
 #, fuzzy
-msgctxt "FEATURE.RECALL.NAME"
+msgctxt "NEGOTIATION_FEATURE.RECALL.NAME"
 msgid "Recall"
 msgstr "Recall"
 
 #: NEGOTIATION_FEATURE.RECALL_PLUS.DESC
 #, fuzzy
-msgctxt "FEATURE.RECALL_PLUS.DESC"
+msgctxt "NEGOTIATION_FEATURE.RECALL_PLUS.DESC"
 msgid "Gain: Whenever you {EXPEND} a card, draw 2 cards"
 msgstr "Gagne: Whenever you {EXPEND} a card, draw 2 cards"
 
 #: NEGOTIATION_FEATURE.RECALL_PLUS.NAME
 #, fuzzy
-msgctxt "FEATURE.RECALL_PLUS.NAME"
+msgctxt "NEGOTIATION_FEATURE.RECALL_PLUS.NAME"
 msgid "Recall+"
 msgstr "Recall+"
 
 #: NEGOTIATION_FEATURE.REVUP.DESC
 #, fuzzy
-msgctxt "FEATURE.REVUP.DESC"
+msgctxt "NEGOTIATION_FEATURE.REVUP.DESC"
 msgid "Attacks deal {BLEED 1}"
 msgstr "Attacks deal {BLEED 1}"
 
 #: NEGOTIATION_FEATURE.REVUP.NAME
 #, fuzzy
-msgctxt "FEATURE.REVUP.NAME"
+msgctxt "NEGOTIATION_FEATURE.REVUP.NAME"
 msgid "Revved Up"
 msgstr "Revved Up"
 
 #: NEGOTIATION_FEATURE.RIPOSTE.DESC
 #, fuzzy
-msgctxt "FEATURE.RIPOSTE.DESC"
+msgctxt "NEGOTIATION_FEATURE.RIPOSTE.DESC"
 msgid "Cause {1} damage when melee attacked"
 msgstr "Cause {1} damage when melee attacked"
 
 #: NEGOTIATION_FEATURE.RIPOSTE.NAME
 #, fuzzy
-msgctxt "FEATURE.RIPOSTE.NAME"
+msgctxt "NEGOTIATION_FEATURE.RIPOSTE.NAME"
 msgid "Riposte"
 msgstr "Riposte"
 
 #: NEGOTIATION_FEATURE.SEASONED.DESC
 #, fuzzy
-msgctxt "FEATURE.SEASONED.DESC"
+msgctxt "NEGOTIATION_FEATURE.SEASONED.DESC"
 msgid "Gain {POWER 3} after an attack damages a target."
 msgstr "Gagne {POWER 3} after an attack damages a target."
 
 #: NEGOTIATION_FEATURE.SEASONED.NAME
 #, fuzzy
-msgctxt "FEATURE.SEASONED.NAME"
+msgctxt "NEGOTIATION_FEATURE.SEASONED.NAME"
 msgid "Seasoned"
 msgstr "Seasoned"
 
 #: NEGOTIATION_FEATURE.SETUP.DESC
 #, fuzzy
-msgctxt "FEATURE.SETUP.DESC"
+msgctxt "NEGOTIATION_FEATURE.SETUP.DESC"
 msgid "At the end of the turn, lose {INFLUENCE {1}}."
 msgstr "At the end of the turn, lose {INFLUENCE {1}}."
 
 #: NEGOTIATION_FEATURE.SETUP.NAME
 #, fuzzy
-msgctxt "FEATURE.SETUP.NAME"
+msgctxt "NEGOTIATION_FEATURE.SETUP.NAME"
 msgid "Setup"
 msgstr "Setup"
 
 #: NEGOTIATION_FEATURE.SHADOW.DESC
 #, fuzzy
-msgctxt "FEATURE.SHADOW.DESC"
+msgctxt "NEGOTIATION_FEATURE.SHADOW.DESC"
 msgid "Cannot be targetted. Ignore if all team members have Shadow."
 msgstr "Cannot be targetted. Ignore if all team members have Shadow."
 
 #: NEGOTIATION_FEATURE.SHADOW.NAME
 #, fuzzy
-msgctxt "FEATURE.SHADOW.NAME"
+msgctxt "NEGOTIATION_FEATURE.SHADOW.NAME"
 msgid "Shadow"
 msgstr "Shadow"
 
 #: NEGOTIATION_FEATURE.SHATTER.DESC
 #, fuzzy
-msgctxt "FEATURE.SHATTER.DESC"
+msgctxt "NEGOTIATION_FEATURE.SHATTER.DESC"
 msgid "Deal 2x damage to enemies with {DEFEND}"
 msgstr "Deal 2x damage to enemies with {DEFEND}"
 
 #: NEGOTIATION_FEATURE.SHATTER.NAME
 #, fuzzy
-msgctxt "FEATURE.SHATTER.NAME"
+msgctxt "NEGOTIATION_FEATURE.SHATTER.NAME"
 msgid "Shatter"
 msgstr "Shatter"
 
 #: NEGOTIATION_FEATURE.SICKENED.DESC
 #, fuzzy
-msgctxt "FEATURE.SICKENED.DESC"
+msgctxt "NEGOTIATION_FEATURE.SICKENED.DESC"
 msgid "Whenever you take damage, take an additional {1} damage"
 msgstr "Whenever you take damage, take an additional {1} damage"
 
 #: NEGOTIATION_FEATURE.SICKENED.NAME
 #, fuzzy
-msgctxt "FEATURE.SICKENED.NAME"
+msgctxt "NEGOTIATION_FEATURE.SICKENED.NAME"
 msgid "Sickened"
 msgstr "Sickened"
 
 #: NEGOTIATION_FEATURE.SNOOP.DESC
 #, fuzzy
-msgctxt "FEATURE.SNOOP.DESC"
+msgctxt "NEGOTIATION_FEATURE.SNOOP.DESC"
 msgid "You've discovered {1} rumors about {2#agent}."
 msgstr "You've discovered {1} rumors about {2#agent}."
 
 #: NEGOTIATION_FEATURE.SNOOP.NAME
 #, fuzzy
-msgctxt "FEATURE.SNOOP.NAME"
+msgctxt "NEGOTIATION_FEATURE.SNOOP.NAME"
 msgid "Snoop"
 msgstr "Snoop"
 
 #: NEGOTIATION_FEATURE.SPENT.DESC
 #, fuzzy
-msgctxt "FEATURE.SPENT.DESC"
+msgctxt "NEGOTIATION_FEATURE.SPENT.DESC"
 msgid "Cards with no remaining charges are considered <b>Spent</b>"
 msgstr "Cards with no remaining charges are considered <b>Spent</b>"
 
 #: NEGOTIATION_FEATURE.SPENT.NAME
 #, fuzzy
-msgctxt "FEATURE.SPENT.NAME"
+msgctxt "NEGOTIATION_FEATURE.SPENT.NAME"
 msgid "Spent"
 msgstr "Spent"
 
 #: NEGOTIATION_FEATURE.STUN.DESC
 #, fuzzy
-msgctxt "FEATURE.STUN.DESC"
+msgctxt "NEGOTIATION_FEATURE.STUN.DESC"
 msgid "Can't act this turn. Remove 1 Stun at the end of the turn."
 msgstr "Can't act this turn. Remove 1 Stun at the end of the turn."
 
 #: NEGOTIATION_FEATURE.STUN.NAME
 #, fuzzy
-msgctxt "FEATURE.STUN.NAME"
+msgctxt "NEGOTIATION_FEATURE.STUN.NAME"
 msgid "Stun"
 msgstr "Stun"
 
 #: NEGOTIATION_FEATURE.SURRENDER.DESC
 #, fuzzy
-msgctxt "FEATURE.SURRENDER.DESC"
+msgctxt "NEGOTIATION_FEATURE.SURRENDER.DESC"
 msgid "Surrendered. Takes no actions. Takes triple damage."
 msgstr "Surrendered. Takes no actions. Takes triple damage."
 
 #: NEGOTIATION_FEATURE.SURRENDER.NAME
 #, fuzzy
-msgctxt "FEATURE.SURRENDER.NAME"
+msgctxt "NEGOTIATION_FEATURE.SURRENDER.NAME"
 msgid "Surrendered"
 msgstr "Surrendered"
 
 #: NEGOTIATION_FEATURE.SWORD_COMBAT_FORMATION.DESC
 #, fuzzy
-msgctxt "FEATURE.SWORD_COMBAT_FORMATION.DESC"
+msgctxt "NEGOTIATION_FEATURE.SWORD_COMBAT_FORMATION.DESC"
 msgid "For {1} turns, whenever you gain {PROTECT}, also {PROTECT} all companions."
 msgstr "For {1} turns, whenever you gain {PROTECT}, also {PROTECT} all companions."
 
 #: NEGOTIATION_FEATURE.SWORD_COMBAT_FORMATION.NAME
 #, fuzzy
-msgctxt "FEATURE.SWORD_COMBAT_FORMATION.NAME"
+msgctxt "NEGOTIATION_FEATURE.SWORD_COMBAT_FORMATION.NAME"
 msgid "Combat Formation"
 msgstr "Combat Formation"
 
 #: NEGOTIATION_FEATURE.SWORD_DISCIPLINE.DESC
 #, fuzzy
-msgctxt "FEATURE.SWORD_DISCIPLINE.DESC"
+msgctxt "NEGOTIATION_FEATURE.SWORD_DISCIPLINE.DESC"
 msgid "Gain: Whenever you play a card, gain {PROTECT {1}}."
 msgstr "Gagne: Whenever you play a card, gain {PROTECT {1}}."
 
 #: NEGOTIATION_FEATURE.SWORD_DISCIPLINE.NAME
 #, fuzzy
-msgctxt "FEATURE.SWORD_DISCIPLINE.NAME"
+msgctxt "NEGOTIATION_FEATURE.SWORD_DISCIPLINE.NAME"
 msgid "Discipline"
 msgstr "Discipline"
 
 #: NEGOTIATION_FEATURE.SWORD_EMBOLDEN.DESC
 #, fuzzy
-msgctxt "FEATURE.SWORD_EMBOLDEN.DESC"
+msgctxt "NEGOTIATION_FEATURE.SWORD_EMBOLDEN.DESC"
 msgid "Companions receive +2 attack to next card played"
 msgstr "Companions receive +2 attack to next card played"
 
 #: NEGOTIATION_FEATURE.SWORD_EMBOLDEN.NAME
 #, fuzzy
-msgctxt "FEATURE.SWORD_EMBOLDEN.NAME"
+msgctxt "NEGOTIATION_FEATURE.SWORD_EMBOLDEN.NAME"
 msgid "Embolden"
 msgstr "Embolden"
 
 #: NEGOTIATION_FEATURE.TENACIOUS.DESC
 #, fuzzy
-msgctxt "FEATURE.TENACIOUS.DESC"
+msgctxt "NEGOTIATION_FEATURE.TENACIOUS.DESC"
 msgid "Gain {1} Resolve at the start of your turn"
 msgstr "Gagne {1} Resolve at the start of your turn"
 
 #: NEGOTIATION_FEATURE.TENACIOUS.NAME
 #, fuzzy
-msgctxt "FEATURE.TENACIOUS.NAME"
+msgctxt "NEGOTIATION_FEATURE.TENACIOUS.NAME"
 msgid "Tenacious"
 msgstr "Tenacious"
 
 #: NEGOTIATION_FEATURE.THE_EDITOR.DESC
 #, fuzzy
-msgctxt "FEATURE.THE_EDITOR.DESC"
+msgctxt "NEGOTIATION_FEATURE.THE_EDITOR.DESC"
 msgid "Whenever you expend a card, {MITIGATE 1}"
 msgstr "Whenever you expend a card, {MITIGATE 1}"
 
 #: NEGOTIATION_FEATURE.THE_EDITOR.NAME
 #, fuzzy
-msgctxt "FEATURE.THE_EDITOR.NAME"
+msgctxt "NEGOTIATION_FEATURE.THE_EDITOR.NAME"
 msgid "The Editor"
 msgstr "The Editor"
 
 #: NEGOTIATION_FEATURE.TOXIC.DESC
 #, fuzzy
-msgctxt "FEATURE.TOXIC.DESC"
+msgctxt "NEGOTIATION_FEATURE.TOXIC.DESC"
 msgid "Gain {biowaste} when melee attacked."
 msgstr "Gagne {biowaste} when melee attacked."
 
 #: NEGOTIATION_FEATURE.TOXIC.NAME
 #, fuzzy
-msgctxt "FEATURE.TOXIC.NAME"
+msgctxt "NEGOTIATION_FEATURE.TOXIC.NAME"
 msgid "Toxic"
 msgstr "Toxic"
 
 #: NEGOTIATION_FEATURE.TRANSFORMS.DESC
 #, fuzzy
-msgctxt "FEATURE.TRANSFORMS.DESC"
+msgctxt "NEGOTIATION_FEATURE.TRANSFORMS.DESC"
 msgid "This card transforms into another card when played"
 msgstr "This card transforms into another card when played"
 
 #: NEGOTIATION_FEATURE.TRANSFORMS.NAME
 #, fuzzy
-msgctxt "FEATURE.TRANSFORMS.NAME"
+msgctxt "NEGOTIATION_FEATURE.TRANSFORMS.NAME"
 msgid "Transforms"
 msgstr "Transforms"
 
 #: NEGOTIATION_FEATURE.UNPLAYABLE.DESC
 #, fuzzy
-msgctxt "FEATURE.UNPLAYABLE.DESC"
+msgctxt "NEGOTIATION_FEATURE.UNPLAYABLE.DESC"
 msgid "This card cannot be played"
 msgstr "This card cannot be played"
 
 #: NEGOTIATION_FEATURE.UNPLAYABLE.NAME
 #, fuzzy
-msgctxt "FEATURE.UNPLAYABLE.NAME"
+msgctxt "NEGOTIATION_FEATURE.UNPLAYABLE.NAME"
 msgid "Unplayable"
 msgstr "Unplayable"
 
 #: NEGOTIATION_FEATURE.VEILED.DESC
 #, fuzzy
-msgctxt "FEATURE.VEILED.DESC"
+msgctxt "NEGOTIATION_FEATURE.VEILED.DESC"
 msgid "Veiled cards cannot be seen until played."
 msgstr "Veiled cards cannot be seen until played."
 
 #: NEGOTIATION_FEATURE.VEILED.NAME
 #, fuzzy
-msgctxt "FEATURE.VEILED.NAME"
+msgctxt "NEGOTIATION_FEATURE.VEILED.NAME"
 msgid "Veiled"
 msgstr "Veiled"
 
 #: NEGOTIATION_FEATURE.VENGEFUL.DESC
 #, fuzzy
-msgctxt "FEATURE.VENGEFUL.DESC"
+msgctxt "NEGOTIATION_FEATURE.VENGEFUL.DESC"
 msgid "When attacked, gain {RIPOSTE 3}."
 msgstr "When attacked, gain {RIPOSTE 3}."
 
 #: NEGOTIATION_FEATURE.VENGEFUL.NAME
 #, fuzzy
-msgctxt "FEATURE.VENGEFUL.NAME"
+msgctxt "NEGOTIATION_FEATURE.VENGEFUL.NAME"
 msgid "Vengeful"
 msgstr "Vengeful"
 
 #: NEGOTIATION_FEATURE.WAVERING.DESC
 #, fuzzy
-msgctxt "FEATURE.WAVERING.DESC"
+msgctxt "NEGOTIATION_FEATURE.WAVERING.DESC"
 msgid "Whenever you take damage, take an additional {1} damage"
 msgstr "Whenever you take damage, take an additional {1} damage"
 
 #: NEGOTIATION_FEATURE.WAVERING.NAME
 #, fuzzy
-msgctxt "FEATURE.WAVERING.NAME"
+msgctxt "NEGOTIATION_FEATURE.WAVERING.NAME"
 msgid "Wavering"
 msgstr "Wavering"
 
 #: NEGOTIATION_FEATURE.WOUND.DESC
 #, fuzzy
-msgctxt "FEATURE.WOUND.DESC"
+msgctxt "NEGOTIATION_FEATURE.WOUND.DESC"
 msgid "Receive +1 damage from attacks.\nAt the beginning of their turn, reduce <b>Wound</b> by 1"
 msgstr "Receive +1 damage from attacks.\nAt the beginning of their turn, reduce <b>Wound</b> by 1"
 
 #: NEGOTIATION_FEATURE.WOUND.NAME
 #, fuzzy
-msgctxt "FEATURE.WOUND.NAME"
+msgctxt "NEGOTIATION_FEATURE.WOUND.NAME"
 msgid "Wound"
 msgstr "Wound"
 
@@ -26890,3 +26890,2173 @@ msgstr "Get work from {agent}"
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.OPT_REMIND_ME"
 msgid "Let`s chat"
 msgstr "Let`s chat"
+
+#: CARD.FAST_TALK.NAME
+msgctxt "CARD.FAST_TALK.NAME"
+msgid "Fast Talk"
+msgstr "Fast Talk"
+
+#: CARD.FAST_TALK.FLAVOUR
+msgctxt "CARD.FAST_TALK.FLAVOUR"
+msgid "'You're just looking at it wrong. Here, let me step you through it...'"
+msgstr "'You're just looking at it wrong. Here, let me step you through it...'"
+
+#: CARD.FAST_TALK_PLUS2A.NAME
+msgctxt "CARD.FAST_TALK_PLUS2A.NAME"
+msgid "Clarity Fast Talk"
+msgstr "Clarity Fast Talk"
+
+#: CARD.FAST_TALK_PLUS2A.DESC
+msgctxt "CARD.FAST_TALK_PLUS2A.DESC"
+msgid "<#UPGRADE>{CONSUME}</>"
+msgstr "<#UPGRADE>{CONSUME}</>"
+
+#: CARD.FAST_TALK_PLUS2B.NAME
+msgctxt "CARD.FAST_TALK_PLUS2B.NAME"
+msgid "Pale Fast Talk"
+msgstr "Pale Fast Talk"
+
+#: CARD.FAST_TALK_PLUS2B.DESC
+msgctxt "CARD.FAST_TALK_PLUS2B.DESC"
+msgid "<#UPGRADE>Spend {INFLUENCE {1}}: This card costs 0 to play.</>"
+msgstr "<#UPGRADE>Spend {INFLUENCE {1}}: This card costs 0 to play.</>"
+
+#: CARD.FAST_TALK_PLUS2C.NAME
+msgctxt "CARD.FAST_TALK_PLUS2C.NAME"
+msgid "Visionary Fast Talk"
+msgstr "Visionary Fast Talk"
+
+#: CARD.FAST_TALK_PLUS2C.DESC
+msgctxt "CARD.FAST_TALK_PLUS2C.DESC"
+msgid "<#UPGRADE> Draw a card.</>"
+msgstr "<#UPGRADE> Draw a card.</>"
+
+#: CARD.FAST_TALK_PLUS2F.NAME
+msgctxt "CARD.FAST_TALK_PLUS2F.NAME"
+msgid "Inspirational Talk"
+msgstr "Inspirational Talk"
+
+#: CARD.FAST_TALK_PLUS2F.DESC
+msgctxt "CARD.FAST_TALK_PLUS2F.DESC"
+msgid "<#UPGRADE>Gain {INFLUENCE 1}.</>"
+msgstr "<#UPGRADE>Gain {INFLUENCE 1}.</>"
+
+#: CARD.FAST_TALK_PLUS2H.NAME
+msgctxt "CARD.FAST_TALK_PLUS2H.NAME"
+msgid "Stony Fast Talk"
+msgstr "Stony Fast Talk"
+
+#: CARD.FAST_TALK_PLUS2H.DESC
+msgctxt "CARD.FAST_TALK_PLUS2H.DESC"
+msgid "<#UPGRADE>Gain {1} {COMPOSURE}.</>"
+msgstr "<#UPGRADE>Gain {1} {COMPOSURE}.</>"
+
+#: CARD.DEFLECTION.NAME
+msgctxt "CARD.DEFLECTION.NAME"
+msgid "Deflection"
+msgstr "Deflection"
+
+#: CARD.DEFLECTION.DESC
+msgctxt "CARD.DEFLECTION.DESC"
+msgid "Apply {1} {COMPOSURE}."
+msgstr "Apply {1} {COMPOSURE}."
+
+#: CARD.DEFLECTION.FLAVOUR
+msgctxt "CARD.DEFLECTION.FLAVOUR"
+msgid "'I'm not even going to address that'"
+msgstr "'I'm not even going to address that'"
+
+#: CARD.DEFLECTION_PLUS2B.NAME
+msgctxt "CARD.DEFLECTION_PLUS2B.NAME"
+msgid "Boosted Deflection"
+msgstr "Boosted Deflection"
+
+#: CARD.DEFLECTION_PLUS2B.DESC
+msgctxt "CARD.DEFLECTION_PLUS2B.DESC"
+msgid "Apply <#UPGRADE>{1} {COMPOSURE}</>."
+msgstr "Apply <#UPGRADE>{1} {COMPOSURE}</>."
+
+#: CARD.DEFLECTION_PLUS2C.NAME
+msgctxt "CARD.DEFLECTION_PLUS2C.NAME"
+msgid "Visionary Deflection"
+msgstr "Visionary Deflection"
+
+#: CARD.DEFLECTION_PLUS2C.DESC
+msgctxt "CARD.DEFLECTION_PLUS2C.DESC"
+msgid "Apply {1} {COMPOSURE}\n<#UPGRADE>Draw a card.</>"
+msgstr "Apply {1} {COMPOSURE}\n<#UPGRADE>Draw a card.</>"
+
+#: CARD.DEFLECTION_PLUS2D.NAME
+msgctxt "CARD.DEFLECTION_PLUS2D.NAME"
+msgid "Wide Deflection"
+msgstr "Wide Deflection"
+
+#: CARD.DEFLECTION_PLUS2D.DESC
+msgctxt "CARD.DEFLECTION_PLUS2D.DESC"
+msgid "<#UPGRADE>Apply {1} {COMPOSURE} to all your arguments.\n{EXPEND}</>"
+msgstr "<#UPGRADE>Apply {1} {COMPOSURE} to all your arguments.\n{EXPEND}</>"
+
+#: CARD.DEFLECTION_PLUS2E.NAME
+msgctxt "CARD.DEFLECTION_PLUS2E.NAME"
+msgid "Deflection of Clarity"
+msgstr "Deflection of Clarity"
+
+#: CARD.DEFLECTION_PLUS2E.DESC
+msgctxt "CARD.DEFLECTION_PLUS2E.DESC"
+msgid "<#UPGRADE>Restore 5 resolve and gain {1} {COMPOSURE}.\n{CONSUME}</>"
+msgstr "<#UPGRADE>Restore 5 resolve and gain {1} {COMPOSURE}.\n{CONSUME}</>"
+
+#: CARD.DEFLECTION_PLUS2F.NAME
+msgctxt "CARD.DEFLECTION_PLUS2F.NAME"
+msgid "Lucid Deflection"
+msgstr "Lucid Deflection"
+
+#: CARD.DEFLECTION_PLUS2F.DESC
+msgctxt "CARD.DEFLECTION_PLUS2F.DESC"
+msgid "<#UPGRADE>Apply {1} {COMPOSURE}.\n{EXPEND}</>"
+msgstr "<#UPGRADE>Apply {1} {COMPOSURE}.\n{EXPEND}</>"
+
+#: CARD.THREATEN.NAME
+msgctxt "CARD.THREATEN.NAME"
+msgid "Threaten"
+msgstr "Threaten"
+
+#: CARD.THREATEN.FLAVOUR
+msgctxt "CARD.THREATEN.FLAVOUR"
+msgid "'I don't want to have to hurt you, but I will if I have to.'"
+msgstr "'I don't want to have to hurt you, but I will if I have to.'"
+
+#: CARD.THREATEN_PLUS2A.NAME
+msgctxt "CARD.THREATEN_PLUS2A.NAME"
+msgid "Threaten of Clarity"
+msgstr "Threaten of Clarity"
+
+#: CARD.THREATEN_PLUS2A.DESC
+msgctxt "CARD.THREATEN_PLUS2A.DESC"
+msgid "<#UPGRADE>{CONSUME}</>"
+msgstr "<#UPGRADE>{CONSUME}</>"
+
+#: CARD.THREATEN_PLUS2C.NAME
+msgctxt "CARD.THREATEN_PLUS2C.NAME"
+msgid "Mirrored Threaten"
+msgstr "Mirrored Threaten"
+
+#: CARD.THREATEN_PLUS2C.DESC
+msgctxt "CARD.THREATEN_PLUS2C.DESC"
+msgid "<#UPGRADE>Play this card twice.</>"
+msgstr "<#UPGRADE>Play this card twice.</>"
+
+#: CARD.THREATEN_PLUS2D.NAME
+msgctxt "CARD.THREATEN_PLUS2D.NAME"
+msgid "Visionary Threaten"
+msgstr "Visionary Threaten"
+
+#: CARD.THREATEN_PLUS2D.DESC
+msgctxt "CARD.THREATEN_PLUS2D.DESC"
+msgid "<#UPGRADE>Draw a card.</>"
+msgstr "<#UPGRADE>Draw a card.</>"
+
+#: CARD.THREATEN_PLUS2E.NAME
+msgctxt "CARD.THREATEN_PLUS2E.NAME"
+msgid "Boosted Threaten"
+msgstr "Boosted Threaten"
+
+#: CARD.THREATEN_PLUS2F.NAME
+msgctxt "CARD.THREATEN_PLUS2F.NAME"
+msgid "Lucid Threaten"
+msgstr "Lucid Threaten"
+
+#: CARD.ELUCIDATE.NAME
+msgctxt "CARD.ELUCIDATE.NAME"
+msgid "Elucidate"
+msgstr "Elucidate"
+
+#: CARD.ELUCIDATE.DESC
+msgctxt "CARD.ELUCIDATE.DESC"
+msgid "Duplicate one of your arguments at random."
+msgstr "Duplicate one of your arguments at random."
+
+#: CARD.ELUCIDATE_PLUS.NAME
+msgctxt "CARD.ELUCIDATE_PLUS.NAME"
+msgid "Focused Elucidate"
+msgstr "Focused Elucidate"
+
+#: CARD.ELUCIDATE_PLUS.DESC
+msgctxt "CARD.ELUCIDATE_PLUS.DESC"
+msgid "Duplicate a <#UPGRADE>chosen</> argument."
+msgstr "Duplicate a <#UPGRADE>chosen</> argument."
+
+#: CARD.ELUCIDATE_PLUS2.NAME
+msgctxt "CARD.ELUCIDATE_PLUS2.NAME"
+msgid "Enduring Elucidate"
+msgstr "Enduring Elucidate"
+
+#: CARD.KEEP_COOL.NAME
+msgctxt "CARD.KEEP_COOL.NAME"
+msgid "Keep Cool"
+msgstr "Keep Cool"
+
+#: CARD.KEEP_COOL.DESC
+msgctxt "CARD.KEEP_COOL.DESC"
+msgid "Double {COMPOSURE} on all arguments."
+msgstr "Double {COMPOSURE} on all arguments."
+
+#: CARD.KEEP_COOL_PLUS.NAME
+msgctxt "CARD.KEEP_COOL_PLUS.NAME"
+msgid "Keep Composed"
+msgstr "Keep Composed"
+
+#: CARD.KEEP_COOL_PLUS.DESC
+msgctxt "CARD.KEEP_COOL_PLUS.DESC"
+msgid "<#UPGRADE>Apply {1} {COMPOSURE}.</>\nDouble {COMPOSURE} on all arguments."
+msgstr "<#UPGRADE>Apply {1} {COMPOSURE}.</>\nDouble {COMPOSURE} on all arguments."
+
+#: CARD.BEGUILE.NAME
+msgctxt "CARD.BEGUILE.NAME"
+msgid "Beguile"
+msgstr "Beguile"
+
+#: CARD.BEGUILE.DESC
+msgctxt "CARD.BEGUILE.DESC"
+msgid "Gains {1} damage each time this is drawn while you have {INFLUENCE}."
+msgstr "Gains {1} damage each time this is drawn while you have {INFLUENCE}."
+
+#: CARD.BEGUILE_PLUS.NAME
+msgctxt "CARD.BEGUILE_PLUS.NAME"
+msgid "Tall Beguile"
+msgstr "Tall Beguile"
+
+#: CARD.BEGUILE_PLUS.DESC
+msgctxt "CARD.BEGUILE_PLUS.DESC"
+msgid "Gains <#UPGRADE>{1}</> damage each time this is drawn while you have {INFLUENCE}."
+msgstr "Gains <#UPGRADE>{1}</> damage each time this is drawn while you have {INFLUENCE}."
+
+#: CARD.BEGUILE_PLUS2.NAME
+msgctxt "CARD.BEGUILE_PLUS2.NAME"
+msgid "Short Beguile"
+msgstr "Short Beguile"
+
+#: CARD.EVIL_EYE.NAME
+msgctxt "CARD.EVIL_EYE.NAME"
+msgid "Evil Eye"
+msgstr "Evil Eye"
+
+#: CARD.EVIL_EYE.DESC
+msgctxt "CARD.EVIL_EYE.DESC"
+msgid "The damage of the next card played is doubled. Expires at the end of the turn."
+msgstr "The damage of the next card played is doubled. Expires at the end of the turn."
+
+#: CARD.EVIL_EYE_PLUS.NAME
+msgctxt "CARD.EVIL_EYE_PLUS.NAME"
+msgid "Pale Evil Eye"
+msgstr "Pale Evil Eye"
+
+#: CARD.EVIL_EYE_PLUS2.NAME
+msgctxt "CARD.EVIL_EYE_PLUS2.NAME"
+msgid "Boosted Evil Eye"
+msgstr "Boosted Evil Eye"
+
+#: CARD.EVIL_EYE_PLUS2.DESC
+msgctxt "CARD.EVIL_EYE_PLUS2.DESC"
+msgid "The damage of the next <#UPGRADE>two cards</> played is doubled. Expires at the end of the turn."
+msgstr "The damage of the next <#UPGRADE>two cards</> played is doubled. Expires at the end of the turn."
+
+#: CARD.INVECTIVE.NAME
+msgctxt "CARD.INVECTIVE.NAME"
+msgid "Invective"
+msgstr "Invective"
+
+#: CARD.INVECTIVE.DESC
+msgctxt "CARD.INVECTIVE.DESC"
+msgid "Gain {HEATED 1}\n{EVOKE}: Play {1} Hostile cards in a single turn. {2}\n{EXPEND}, {UNPLAYABLE}"
+msgstr "Gain {HEATED 1}\n{EVOKE}: Play {1} Hostile cards in a single turn. {2}\n{EXPEND}, {UNPLAYABLE}"
+
+#: CARD.INVECTIVE_PLUS.NAME
+msgctxt "CARD.INVECTIVE_PLUS.NAME"
+msgid "Boosted Invective"
+msgstr "Boosted Invective"
+
+#: CARD.INVECTIVE_PLUS.DESC
+msgctxt "CARD.INVECTIVE_PLUS.DESC"
+msgid "Gain <#UPGRADE>{HEATED 2}</>\n{EVOKE}: Play {1} Hostile cards in a single turn. {2}\n{EXPEND}, {UNPLAYABLE}"
+msgstr "Gain <#UPGRADE>{HEATED 2}</>\n{EVOKE}: Play {1} Hostile cards in a single turn. {2}\n{EXPEND}, {UNPLAYABLE}"
+
+#: CARD.INVECTIVE_PLUS2.NAME
+msgctxt "CARD.INVECTIVE_PLUS2.NAME"
+msgid "Enduring Invective"
+msgstr "Enduring Invective"
+
+#: CARD.INVECTIVE_PLUS2.DESC
+msgctxt "CARD.INVECTIVE_PLUS2.DESC"
+msgid "Gain {HEATED 1}\n{EVOKE}: Play {1} Hostile cards in a single turn. {2}\n{UNPLAYABLE}"
+msgstr "Gain {HEATED 1}\n{EVOKE}: Play {1} Hostile cards in a single turn. {2}\n{UNPLAYABLE}"
+
+#: CARD.CAPRICE.NAME
+msgctxt "CARD.CAPRICE.NAME"
+msgid "Caprice"
+msgstr "Caprice"
+
+#: CARD.CAPRICE.DESC
+msgctxt "CARD.CAPRICE.DESC"
+msgid "Improvise {1} random Hostile {1*card|cards} to your hand. {1*It costs|They cost} 0 until played."
+msgstr "Improvise {1} random Hostile {1*card|cards} to your hand. {1*It costs|They cost} 0 until played."
+
+#: CARD.CAPRICE_PLUS.NAME
+msgctxt "CARD.CAPRICE_PLUS.NAME"
+msgid "Mirrored Caprice"
+msgstr "Mirrored Caprice"
+
+#: CARD.CAPRICE_PLUS2.NAME
+msgctxt "CARD.CAPRICE_PLUS2.NAME"
+msgid "Boosted Caprice"
+msgstr "Boosted Caprice"
+
+#: CARD.CAPRICE_PLUS2.DESC
+msgctxt "CARD.CAPRICE_PLUS2.DESC"
+msgid "Improvise {1} random <#UPGRADE>upgraded</> hostile {1*card|cards} to your hand. {1*It costs|They cost} 0 until played."
+msgstr "Improvise {1} random <#UPGRADE>upgraded</> hostile {1*card|cards} to your hand. {1*It costs|They cost} 0 until played."
+
+#: CARD.CLEAN_SLATE.NAME
+msgctxt "CARD.CLEAN_SLATE.NAME"
+msgid "Clean Slate"
+msgstr "Clean Slate"
+
+#: CARD.CLEAN_SLATE.DESC
+msgctxt "CARD.CLEAN_SLATE.DESC"
+msgid "Remove all arguments in play."
+msgstr "Remove all arguments in play."
+
+#: CARD.CLEAN_SLATE_PLUS.NAME
+msgctxt "CARD.CLEAN_SLATE_PLUS.NAME"
+msgid "Boosted Slate"
+msgstr "Boosted Slate"
+
+#: CARD.CLEAN_SLATE_PLUS.DESC
+msgctxt "CARD.CLEAN_SLATE_PLUS.DESC"
+msgid "Remove all arguments in play.\n<#UPGRADE>Dismiss all opponent intents.</>"
+msgstr "Remove all arguments in play.\n<#UPGRADE>Dismiss all opponent intents.</>"
+
+#: CARD.CLEAN_SLATE_PLUS2.NAME
+msgctxt "CARD.CLEAN_SLATE_PLUS2.NAME"
+msgid "Pale Slate"
+msgstr "Pale Slate"
+
+#: CARD.RECONSIDER.NAME
+msgctxt "CARD.RECONSIDER.NAME"
+msgid "Reconsider"
+msgstr "Reconsider"
+
+#: CARD.RECONSIDER.DESC
+msgctxt "CARD.RECONSIDER.DESC"
+msgid "Remove one of your arguments, inceptions, or bounties.\nGain {1} actions."
+msgstr "Remove one of your arguments, inceptions, or bounties.\nGain {1} actions."
+
+#: CARD.RECONSIDER_PLUS.NAME
+msgctxt "CARD.RECONSIDER_PLUS.NAME"
+msgid "Pale Reconsider"
+msgstr "Pale Reconsider"
+
+#: CARD.RECONSIDER_PLUS2.NAME
+msgctxt "CARD.RECONSIDER_PLUS2.NAME"
+msgid "Visionary Reconsider"
+msgstr "Visionary Reconsider"
+
+#: CARD.RECONSIDER_PLUS2.DESC
+msgctxt "CARD.RECONSIDER_PLUS2.DESC"
+msgid "Remove one of your arguments, inceptions, or bounties.\nGain {1} actions.\n<#UPGRADE>Draw a Card.</>"
+msgstr "Remove one of your arguments, inceptions, or bounties.\nGain {1} actions.\n<#UPGRADE>Draw a Card.</>"
+
+#: CARD.BACK_PEDAL.NAME
+msgctxt "CARD.BACK_PEDAL.NAME"
+msgid "Back pedal"
+msgstr "Back pedal"
+
+#: CARD.BACK_PEDAL.DESC
+msgctxt "CARD.BACK_PEDAL.DESC"
+msgid "Expend {1} chosen {1*card|cards} in your hand.\nGain {2} {COMPOSURE}."
+msgstr "Expend {1} chosen {1*card|cards} in your hand.\nGain {2} {COMPOSURE}."
+
+#: CARD.BACK_PEDAL_PLUS.NAME
+msgctxt "CARD.BACK_PEDAL_PLUS.NAME"
+msgid "Boosted Pedal"
+msgstr "Boosted Pedal"
+
+#: CARD.BACK_PEDAL_PLUS.DESC
+msgctxt "CARD.BACK_PEDAL_PLUS.DESC"
+msgid "Expend {1} chosen {1*card|cards} in your hand.\nGain <#UPGRADE>{2}</> {COMPOSURE}."
+msgstr "Expend {1} chosen {1*card|cards} in your hand.\nGain <#UPGRADE>{2}</> {COMPOSURE}."
+
+#: CARD.BACK_PEDAL_PLUS2.NAME
+msgctxt "CARD.BACK_PEDAL_PLUS2.NAME"
+msgid "Lucid Pedal"
+msgstr "Lucid Pedal"
+
+#: CARD.BACK_PEDAL_PLUS2.DESC
+msgctxt "CARD.BACK_PEDAL_PLUS2.DESC"
+msgid "Expend <#UPGRADE>up to {1}</> chosen {1*card|cards} in your hand.\nGain {2} {COMPOSURE}."
+msgstr "Expend <#UPGRADE>up to {1}</> chosen {1*card|cards} in your hand.\nGain {2} {COMPOSURE}."
+
+#: CARD.SETUP.NAME
+msgctxt "CARD.SETUP.NAME"
+msgid "Setup"
+msgstr "Setup"
+
+#: CARD.SETUP.DESC
+msgctxt "CARD.SETUP.DESC"
+msgid "Gain {INFLUENCE {1}}. At the end of your turn, lose {2} {INFLUENCE}."
+msgstr "Gain {INFLUENCE {1}}. At the end of your turn, lose {2} {INFLUENCE}."
+
+#: CARD.MODIFIER.DESC
+msgctxt "CARD.MODIFIER.DESC"
+msgid "At the end of your turn, lose {1} {INFLUENCE}, then remove this argument."
+msgstr "At the end of your turn, lose {1} {INFLUENCE}, then remove this argument."
+
+#: CARD.SETUP_PLUS.NAME
+msgctxt "CARD.SETUP_PLUS.NAME"
+msgid "Boosted Setup"
+msgstr "Boosted Setup"
+
+#: CARD.SETUP_PLUS.DESC
+msgctxt "CARD.SETUP_PLUS.DESC"
+msgid "Gain <#UPGRADE>{INFLUENCE {1}}</>. At the end of your turn, lose {2} {INFLUENCE}."
+msgstr "Gain <#UPGRADE>{INFLUENCE {1}}</>. At the end of your turn, lose {2} {INFLUENCE}."
+
+#: CARD.SETUP_PLUS2.NAME
+msgctxt "CARD.SETUP_PLUS2.NAME"
+msgid "Visionary Setup"
+msgstr "Visionary Setup"
+
+#: CARD.SETUP_PLUS2.DESC
+msgctxt "CARD.SETUP_PLUS2.DESC"
+msgid "Gain {INFLUENCE {1}}. At the end of your turn, lose {2} {INFLUENCE}.\nDraw a card."
+msgstr "Gain {INFLUENCE {1}}. At the end of your turn, lose {2} {INFLUENCE}.\nDraw a card."
+
+#: CARD.PLEAD.NAME
+msgctxt "CARD.PLEAD.NAME"
+msgid "Plead"
+msgstr "Plead"
+
+#: CARD.PLEAD.DESC
+msgctxt "CARD.PLEAD.DESC"
+msgid "Lose {INFLUENCE 1}."
+msgstr "Lose {INFLUENCE 1}."
+
+#: CARD.PLEAD_PLUS.NAME
+msgctxt "CARD.PLEAD_PLUS.NAME"
+msgid "Mirrored Plead"
+msgstr "Mirrored Plead"
+
+#: CARD.PLEAD_PLUS.DESC
+msgctxt "CARD.PLEAD_PLUS.DESC"
+msgid "Lose {INFLUENCE 1}.\n<#UPGRADE>Play this card twice.</>"
+msgstr "Lose {INFLUENCE 1}.\n<#UPGRADE>Play this card twice.</>"
+
+#: CARD.PLEAD_PLUS2.NAME
+msgctxt "CARD.PLEAD_PLUS2.NAME"
+msgid "Tall Plead"
+msgstr "Tall Plead"
+
+#: CARD.INTRIGUE.NAME
+msgctxt "CARD.INTRIGUE.NAME"
+msgid "Intrigue"
+msgstr "Intrigue"
+
+#: CARD.INTRIGUE.DESC
+msgctxt "CARD.INTRIGUE.DESC"
+msgid "Spend {INFLUENCE {1}}: Deal {2} bonus damage."
+msgstr "Spend {INFLUENCE {1}}: Deal {2} bonus damage."
+
+#: CARD.INTRIGUE_PLUS.NAME
+msgctxt "CARD.INTRIGUE_PLUS.NAME"
+msgid "Boosted Intrigue"
+msgstr "Boosted Intrigue"
+
+#: CARD.INTRIGUE_PLUS.DESC
+msgctxt "CARD.INTRIGUE_PLUS.DESC"
+msgid "Spend {INFLUENCE {1}}: Deal<#UPGRADE> {2} bonus damage</>."
+msgstr "Spend {INFLUENCE {1}}: Deal<#UPGRADE> {2} bonus damage</>."
+
+#: CARD.INTRIGUE_PLUS2.NAME
+msgctxt "CARD.INTRIGUE_PLUS2.NAME"
+msgid "Pale Intrigue"
+msgstr "Pale Intrigue"
+
+#: CARD.INTRIGUE_PLUS2.DESC
+msgctxt "CARD.INTRIGUE_PLUS2.DESC"
+msgid "Spend <#UPGRADE>{INFLUENCE {1}}</>: Deal {2} bonus damage."
+msgstr "Spend <#UPGRADE>{INFLUENCE {1}}</>: Deal {2} bonus damage."
+
+#: CARD.CALLING_IN_ALL_FAVORS.NAME
+msgctxt "CARD.CALLING_IN_ALL_FAVORS.NAME"
+msgid "Calling in all Favors"
+msgstr "Calling in all Favors"
+
+#: CARD.CALLING_IN_ALL_FAVORS.DESC
+msgctxt "CARD.CALLING_IN_ALL_FAVORS.DESC"
+msgid "Double your {INFLUENCE}.\nGain {1} {VULNERABILITY}."
+msgstr "Double your {INFLUENCE}.\nGain {1} {VULNERABILITY}."
+
+#: CARD.THIS_ENDS_NOW.NAME
+msgctxt "CARD.THIS_ENDS_NOW.NAME"
+msgid "This Ends Now"
+msgstr "This Ends Now"
+
+#: CARD.THIS_ENDS_NOW.DESC
+msgctxt "CARD.THIS_ENDS_NOW.DESC"
+msgid "Spend all {DOMINANCE}: Gain 1 action and draw a card for each {DOMINANCE}."
+msgstr "Spend all {DOMINANCE}: Gain 1 action and draw a card for each {DOMINANCE}."
+
+#: CARD.THIS_ENDS_NOW_PLUS.NAME
+msgctxt "CARD.THIS_ENDS_NOW_PLUS.NAME"
+msgid "Pale This Ends Now"
+msgstr "Pale This Ends Now"
+
+#: CARD.THIS_ENDS_NOW_PLUS2.NAME
+msgctxt "CARD.THIS_ENDS_NOW_PLUS2.NAME"
+msgid "Enduring This Ends Now"
+msgstr "Enduring This Ends Now"
+
+#: CARD.HEAVY_HANDED.NAME
+msgctxt "CARD.HEAVY_HANDED.NAME"
+msgid "Heavy Handed"
+msgstr "Heavy Handed"
+
+#: CARD.HEAVY_HANDED.DESC
+msgctxt "CARD.HEAVY_HANDED.DESC"
+msgid "Spend {DOMINANCE 1}: Destroy an enemy argument or bounty."
+msgstr "Spend {DOMINANCE 1}: Destroy an enemy argument or bounty."
+
+#: CARD.HEAVY_HANDED_PLUS.NAME
+msgctxt "CARD.HEAVY_HANDED_PLUS.NAME"
+msgid "Enhanced Heavy Handed"
+msgstr "Enhanced Heavy Handed"
+
+#: CARD.HEAVY_HANDED_PLUS.DESC
+msgctxt "CARD.HEAVY_HANDED_PLUS.DESC"
+msgid "Spend <#UPGRADE>{DOMINANCE 3}</>: Destroy <#UPGRADE>ALL</> enemy arguments and bounties."
+msgstr "Spend <#UPGRADE>{DOMINANCE 3}</>: Destroy <#UPGRADE>ALL</> enemy arguments and bounties."
+
+#: CARD.HEAVY_HANDED_PLUS2.NAME
+msgctxt "CARD.HEAVY_HANDED_PLUS2.NAME"
+msgid "Pale Heavy Handed"
+msgstr "Pale Heavy Handed"
+
+#: CARD.OVERBEAR.NAME
+msgctxt "CARD.OVERBEAR.NAME"
+msgid "Overbear"
+msgstr "Overbear"
+
+#: CARD.OVERBEAR.DESC
+msgctxt "CARD.OVERBEAR.DESC"
+msgid "Target a random argument. Repeat for each valid target."
+msgstr "Target a random argument. Repeat for each valid target."
+
+#: CARD.OVERBEAR_PLUS.NAME
+msgctxt "CARD.OVERBEAR_PLUS.NAME"
+msgid "Tall Overbear"
+msgstr "Tall Overbear"
+
+#: CARD.OVERBEAR_PLUS2.NAME
+msgctxt "CARD.OVERBEAR_PLUS2.NAME"
+msgid "Enhanced Overbear"
+msgstr "Enhanced Overbear"
+
+#: CARD.OVERBEAR_PLUS2.DESC
+msgctxt "CARD.OVERBEAR_PLUS2.DESC"
+msgid "Target a random argument. Repeat for each valid target.\n<#UPGRADE>Draw a card for each target.</>"
+msgstr "Target a random argument. Repeat for each valid target.\n<#UPGRADE>Draw a card for each target.</>"
+
+#: CARD.SUBTLETY.NAME
+msgctxt "CARD.SUBTLETY.NAME"
+msgid "Subtlety"
+msgstr "Subtlety"
+
+#: CARD.SUBTLETY.DESC
+msgctxt "CARD.SUBTLETY.DESC"
+msgid "Spend {INFLUENCE {1}}: Draw {2} cards."
+msgstr "Spend {INFLUENCE {1}}: Draw {2} cards."
+
+#: CARD.SUBTLETY_PLUS.NAME
+msgctxt "CARD.SUBTLETY_PLUS.NAME"
+msgid "Rooted Subtlety"
+msgstr "Rooted Subtlety"
+
+#: CARD.SUBTLETY_PLUS2.NAME
+msgctxt "CARD.SUBTLETY_PLUS2.NAME"
+msgid "Boosted Subtlety"
+msgstr "Boosted Subtlety"
+
+#: CARD.SUBTLETY_PLUS2.DESC
+msgctxt "CARD.SUBTLETY_PLUS2.DESC"
+msgid "Spend {INFLUENCE {1}}: Draw <#UPGRADE>{2}</> cards."
+msgstr "Spend {INFLUENCE {1}}: Draw <#UPGRADE>{2}</> cards."
+
+#: CARD.BUYING_TIME.NAME
+msgctxt "CARD.BUYING_TIME.NAME"
+msgid "Buying Time"
+msgstr "Buying Time"
+
+#: CARD.BUYING_TIME.DESC
+msgctxt "CARD.BUYING_TIME.DESC"
+msgid "Spend {INFLUENCE {1}}: Gain {2} actions."
+msgstr "Spend {INFLUENCE {1}}: Gain {2} actions."
+
+#: CARD.BUYING_TIME_PLUS.NAME
+msgctxt "CARD.BUYING_TIME_PLUS.NAME"
+msgid "Lean Time"
+msgstr "Lean Time"
+
+#: CARD.BUYING_TIME_PLUS.DESC
+msgctxt "CARD.BUYING_TIME_PLUS.DESC"
+msgid "Spend <#UPGRADE>{INFLUENCE {1}}</>: Gain {2} actions."
+msgstr "Spend <#UPGRADE>{INFLUENCE {1}}</>: Gain {2} actions."
+
+#: CARD.BUYING_TIME_PLUS2.NAME
+msgctxt "CARD.BUYING_TIME_PLUS2.NAME"
+msgid "Boosted Time"
+msgstr "Boosted Time"
+
+#: CARD.BUYING_TIME_PLUS2.DESC
+msgctxt "CARD.BUYING_TIME_PLUS2.DESC"
+msgid "Spend {INFLUENCE {1}}: Gain <#UPGRADE>{2} actions.</>"
+msgstr "Spend {INFLUENCE {1}}: Gain <#UPGRADE>{2} actions.</>"
+
+#: CARD.NONSEQUITUR.NAME
+msgctxt "CARD.NONSEQUITUR.NAME"
+msgid "Non Sequitur"
+msgstr "Non Sequitur"
+
+#: CARD.NONSEQUITUR.DESC
+msgctxt "CARD.NONSEQUITUR.DESC"
+msgid "Your next card this turn costs 0 actions."
+msgstr "Your next card this turn costs 0 actions."
+
+#: CARD.NONSEQUITUR_PLUS.NAME
+msgctxt "CARD.NONSEQUITUR_PLUS.NAME"
+msgid "Enduring Non Sequitur"
+msgstr "Enduring Non Sequitur"
+
+#: CARD.NONSEQUITUR_PLUS2.NAME
+msgctxt "CARD.NONSEQUITUR_PLUS2.NAME"
+msgid "Pale Non Sequitur"
+msgstr "Pale Non Sequitur"
+
+#: CARD.BUILD_RAPPORT.NAME
+msgctxt "CARD.BUILD_RAPPORT.NAME"
+msgid "Build Rapport"
+msgstr "Build Rapport"
+
+#: CARD.BUILD_RAPPORT.DESC
+msgctxt "CARD.BUILD_RAPPORT.DESC"
+msgid "Gain 2 {INFLUENCE} and apply {1} {COMPOSURE} to your {INFLUENCE}."
+msgstr "Gain 2 {INFLUENCE} and apply {1} {COMPOSURE} to your {INFLUENCE}."
+
+#: CARD.BUILD_RAPPORT_PLUS.NAME
+msgctxt "CARD.BUILD_RAPPORT_PLUS.NAME"
+msgid "Initial Rapport"
+msgstr "Initial Rapport"
+
+#: CARD.BUILD_RAPPORT_PLUS.DESC
+msgctxt "CARD.BUILD_RAPPORT_PLUS.DESC"
+msgid "Gain 2 {INFLUENCE} and apply {1} {COMPOSURE} to your {INFLUENCE}.\n<#UPGRADE>{AMBUSH}.</>"
+msgstr "Gain 2 {INFLUENCE} and apply {1} {COMPOSURE} to your {INFLUENCE}.\n<#UPGRADE>{AMBUSH}.</>"
+
+#: CARD.BUILD_RAPPORT_PLUS2.NAME
+msgctxt "CARD.BUILD_RAPPORT_PLUS2.NAME"
+msgid "Boosted Rapport"
+msgstr "Boosted Rapport"
+
+#: CARD.BUILD_RAPPORT_PLUS2.DESC
+msgctxt "CARD.BUILD_RAPPORT_PLUS2.DESC"
+msgid "Gain <#UPGRADE>3 {INFLUENCE}</> and apply {1} {COMPOSURE} to your {INFLUENCE}."
+msgstr "Gain <#UPGRADE>3 {INFLUENCE}</> and apply {1} {COMPOSURE} to your {INFLUENCE}."
+
+#: CARD.TYRANNIZE.NAME
+msgctxt "CARD.TYRANNIZE.NAME"
+msgid "Tyrannize"
+msgstr "Tyrannize"
+
+#: CARD.TYRANNIZE.DESC
+msgctxt "CARD.TYRANNIZE.DESC"
+msgid "Spend {INFLUENCE {1}}: Gain {DOMINANCE {2}}."
+msgstr "Spend {INFLUENCE {1}}: Gain {DOMINANCE {2}}."
+
+#: CARD.TYRANNIZE_PLUS.NAME
+msgctxt "CARD.TYRANNIZE_PLUS.NAME"
+msgid "Pale Tyrannize"
+msgstr "Pale Tyrannize"
+
+#: CARD.TYRANNIZE_PLUS2.NAME
+msgctxt "CARD.TYRANNIZE_PLUS2.NAME"
+msgid "Enhanced Tyrannize"
+msgstr "Enhanced Tyrannize"
+
+#: CARD.TYRANNIZE_PLUS2.DESC
+msgctxt "CARD.TYRANNIZE_PLUS2.DESC"
+msgid "Spend {INFLUENCE {1}}: Gain <#UPGRADE>{DOMINANCE {2}}</>."
+msgstr "Spend {INFLUENCE {1}}: Gain <#UPGRADE>{DOMINANCE {2}}</>."
+
+#: CARD.SEGUE.NAME
+msgctxt "CARD.SEGUE.NAME"
+msgid "Segue"
+msgstr "Segue"
+
+#: CARD.SEGUE.DESC
+msgctxt "CARD.SEGUE.DESC"
+msgid "Draw {1} {1*card|cards}.\nReturn the next card you play to your draw pile."
+msgstr "Draw {1} {1*card|cards}.\nReturn the next card you play to your draw pile."
+
+#: CARD.SEGUE_PLUS.NAME
+msgctxt "CARD.SEGUE_PLUS.NAME"
+msgid "Enhanced Segue"
+msgstr "Enhanced Segue"
+
+#: CARD.SEGUE_PLUS.DESC
+msgctxt "CARD.SEGUE_PLUS.DESC"
+msgid "Draw {1} {1*card|cards}.\nReturn the next <#UPGRADE>2</> cards you play to your draw pile."
+msgstr "Draw {1} {1*card|cards}.\nReturn the next <#UPGRADE>2</> cards you play to your draw pile."
+
+#: CARD.SEGUE_PLUS2.NAME
+msgctxt "CARD.SEGUE_PLUS2.NAME"
+msgid "Visionary Segue"
+msgstr "Visionary Segue"
+
+#: CARD.SEGUE_PLUS2.DESC
+msgctxt "CARD.SEGUE_PLUS2.DESC"
+msgid "Draw <#UPGRADE>{1}</> {1*card|cards}.\nReturn the next card you play to your draw pile."
+msgstr "Draw <#UPGRADE>{1}</> {1*card|cards}.\nReturn the next card you play to your draw pile."
+
+#: CARD.AIRTIGHT.NAME
+msgctxt "CARD.AIRTIGHT.NAME"
+msgid "Airtight"
+msgstr "Airtight"
+
+#: CARD.AIRTIGHT.DESC
+msgctxt "CARD.AIRTIGHT.DESC"
+msgid "Gain: Whenever you play a diplomacy card, apply 2 {COMPOSURE} to a random argument."
+msgstr "Gain: Whenever you play a diplomacy card, apply 2 {COMPOSURE} to a random argument."
+
+#: CARD.MODIFIER.DESC
+msgctxt "CARD.MODIFIER.DESC"
+msgid "Whenever you play a diplomacy card, apply {1} {COMPOSURE} to a random friendly argument."
+msgstr "Whenever you play a diplomacy card, apply {1} {COMPOSURE} to a random friendly argument."
+
+#: CARD.AIRTIGHT_PLUS.NAME
+msgctxt "CARD.AIRTIGHT_PLUS.NAME"
+msgid "Initial Airtight"
+msgstr "Initial Airtight"
+
+#: CARD.AIRTIGHT_PLUS.DESC
+msgctxt "CARD.AIRTIGHT_PLUS.DESC"
+msgid "Gain: Whenever you play a diplomacy card, apply 2 {COMPOSURE} to a random argument.\n<#UPGRADE>{AMBUSH}</>"
+msgstr "Gain: Whenever you play a diplomacy card, apply 2 {COMPOSURE} to a random argument.\n<#UPGRADE>{AMBUSH}</>"
+
+#: CARD.AIRTIGHT_PLUS2.NAME
+msgctxt "CARD.AIRTIGHT_PLUS2.NAME"
+msgid "Pale Airtight"
+msgstr "Pale Airtight"
+
+#: CARD.QUICK_THINKING.NAME
+msgctxt "CARD.QUICK_THINKING.NAME"
+msgid "Quick Thinking"
+msgstr "Quick Thinking"
+
+#: CARD.QUICK_THINKING.DESC
+msgctxt "CARD.QUICK_THINKING.DESC"
+msgid "{IMPROVISE} a card from a pool of special cards."
+msgstr "{IMPROVISE} a card from a pool of special cards."
+
+#: CARD.QUICK_THINKING.FLAVOUR
+msgctxt "CARD.QUICK_THINKING.FLAVOUR"
+msgid "'Some of my best ideas come at the last possible moment.'"
+msgstr "'Some of my best ideas come at the last possible moment.'"
+
+#: CARD.QUICK_THINKING_PLUS.NAME
+msgctxt "CARD.QUICK_THINKING_PLUS.NAME"
+msgid "Promoted Thinking"
+msgstr "Promoted Thinking"
+
+#: CARD.QUICK_THINKING_PLUS.DESC
+msgctxt "CARD.QUICK_THINKING_PLUS.DESC"
+msgid "{IMPROVISE} a card from a pool of <#UPGRADE>upgraded</> special cards."
+msgstr "{IMPROVISE} a card from a pool of <#UPGRADE>upgraded</> special cards."
+
+#: CARD.QUICK_THINKING_PLUS2.NAME
+msgctxt "CARD.QUICK_THINKING_PLUS2.NAME"
+msgid "Boosted Thinking"
+msgstr "Boosted Thinking"
+
+#: CARD.QUICK_THINKING_PLUS2.DESC
+msgctxt "CARD.QUICK_THINKING_PLUS2.DESC"
+msgid "{IMPROVISE} a card from a pool of <#UPGRADE>5</> special cards."
+msgstr "{IMPROVISE} a card from a pool of <#UPGRADE>5</> special cards."
+
+#: CARD.IMPROVISE_GRUFF.NAME
+msgctxt "CARD.IMPROVISE_GRUFF.NAME"
+msgid "Gruff"
+msgstr "Gruff"
+
+#: CARD.IMPROVISE_GRUFF.DESC
+msgctxt "CARD.IMPROVISE_GRUFF.DESC"
+msgid "{INCEPT} 1 {FLUSTERED}."
+msgstr "{INCEPT} 1 {FLUSTERED}."
+
+#: CARD.IMPROVISE_GRUFF_UPGRADED.NAME
+msgctxt "CARD.IMPROVISE_GRUFF_UPGRADED.NAME"
+msgid "Boosted Gruff"
+msgstr "Boosted Gruff"
+
+#: CARD.IMPROVISE_GRUFF_UPGRADED.DESC
+msgctxt "CARD.IMPROVISE_GRUFF_UPGRADED.DESC"
+msgid "{INCEPT} 2 {FLUSTERED}."
+msgstr "{INCEPT} 2 {FLUSTERED}."
+
+#: CARD.IMPROVISE_CARRY_OVER.NAME
+msgctxt "CARD.IMPROVISE_CARRY_OVER.NAME"
+msgid "Carry Over"
+msgstr "Carry Over"
+
+#: CARD.IMPROVISE_CARRY_OVER_UPGRADED.NAME
+msgctxt "CARD.IMPROVISE_CARRY_OVER_UPGRADED.NAME"
+msgid "Boosted Carry Over"
+msgstr "Boosted Carry Over"
+
+#: CARD.IMPROVISE_OPTIONS.NAME
+msgctxt "CARD.IMPROVISE_OPTIONS.NAME"
+msgid "Options"
+msgstr "Options"
+
+#: CARD.IMPROVISE_OPTIONS.DESC
+msgctxt "CARD.IMPROVISE_OPTIONS.DESC"
+msgid "Draw 2 cards."
+msgstr "Draw 2 cards."
+
+#: CARD.IMPROVISE_OPTIONS_UPGRADED.NAME
+msgctxt "CARD.IMPROVISE_OPTIONS_UPGRADED.NAME"
+msgid "Boosted Options"
+msgstr "Boosted Options"
+
+#: CARD.IMPROVISE_OPTIONS_UPGRADED.DESC
+msgctxt "CARD.IMPROVISE_OPTIONS_UPGRADED.DESC"
+msgid "Draw 3 cards."
+msgstr "Draw 3 cards."
+
+#: CARD.IMPROVISE_WITHDRAWN.NAME
+msgctxt "CARD.IMPROVISE_WITHDRAWN.NAME"
+msgid "Withdrawn"
+msgstr "Withdrawn"
+
+#: CARD.IMPROVISE_WITHDRAWN_UPGRADED.NAME
+msgctxt "CARD.IMPROVISE_WITHDRAWN_UPGRADED.NAME"
+msgid "Boosted Withdrawn"
+msgstr "Boosted Withdrawn"
+
+#: CARD.IMPROVISE_VULNERABILITY.NAME
+msgctxt "CARD.IMPROVISE_VULNERABILITY.NAME"
+msgid "Stammer"
+msgstr "Stammer"
+
+#: CARD.IMPROVISE_VULNERABILITY.DESC
+msgctxt "CARD.IMPROVISE_VULNERABILITY.DESC"
+msgid "{INCEPT} 2 {VULNERABILITY}."
+msgstr "{INCEPT} 2 {VULNERABILITY}."
+
+#: CARD.IMPROVISE_VULNERABILITY_UPGRADED.NAME
+msgctxt "CARD.IMPROVISE_VULNERABILITY_UPGRADED.NAME"
+msgid "Boosted Stammer"
+msgstr "Boosted Stammer"
+
+#: CARD.IMPROVISE_VULNERABILITY_UPGRADED.DESC
+msgctxt "CARD.IMPROVISE_VULNERABILITY_UPGRADED.DESC"
+msgid "{INCEPT} 3 {VULNERABILITY}."
+msgstr "{INCEPT} 3 {VULNERABILITY}."
+
+#: CARD.IMPROVISE_DIPLOMACY.NAME
+msgctxt "CARD.IMPROVISE_DIPLOMACY.NAME"
+msgid "Observation"
+msgstr "Observation"
+
+#: CARD.IMPROVISE_DIPLOMACY_UPGRADED.NAME
+msgctxt "CARD.IMPROVISE_DIPLOMACY_UPGRADED.NAME"
+msgid "Tall Observation"
+msgstr "Tall Observation"
+
+#: CARD.IMPROVISE_HOSTILE.NAME
+msgctxt "CARD.IMPROVISE_HOSTILE.NAME"
+msgid "Debate"
+msgstr "Debate"
+
+#: CARD.IMPROVISE_HOSTILE_UPGRADED.NAME
+msgctxt "CARD.IMPROVISE_HOSTILE_UPGRADED.NAME"
+msgid "Boosted Debate"
+msgstr "Boosted Debate"
+
+#: CARD.IMPROVISE_WIDE_COMPOSURE.NAME
+msgctxt "CARD.IMPROVISE_WIDE_COMPOSURE.NAME"
+msgid "Consideration"
+msgstr "Consideration"
+
+#: CARD.IMPROVISE_WIDE_COMPOSURE.DESC
+msgctxt "CARD.IMPROVISE_WIDE_COMPOSURE.DESC"
+msgid "Apply {1} {COMPOSURE} on 2 random friendly arguments.\n{EXPEND}"
+msgstr "Apply {1} {COMPOSURE} on 2 random friendly arguments.\n{EXPEND}"
+
+#: CARD.IMPROVISE_WIDE_COMPOSURE_UPGRADED.NAME
+msgctxt "CARD.IMPROVISE_WIDE_COMPOSURE_UPGRADED.NAME"
+msgid "Boosted Consideration"
+msgstr "Boosted Consideration"
+
+#: CARD.IMPROVISE_WIDE_COMPOSURE_UPGRADED.DESC
+msgctxt "CARD.IMPROVISE_WIDE_COMPOSURE_UPGRADED.DESC"
+msgid "Apply {1} {COMPOSURE} on 2 random friendly arguments.\n{EXPEND}"
+msgstr "Apply {1} {COMPOSURE} on 2 random friendly arguments.\n{EXPEND}"
+
+#: CARD.IMPROVISE_BAIT.NAME
+msgctxt "CARD.IMPROVISE_BAIT.NAME"
+msgid "Gossip"
+msgstr "Gossip"
+
+#: CARD.IMPROVISE_BAIT.DESC
+msgctxt "CARD.IMPROVISE_BAIT.DESC"
+msgid "Deploy an argument with 2 resolve and {BAIT}."
+msgstr "Deploy an argument with 2 resolve and {BAIT}."
+
+#: CARD.MODIFIER.NAME
+msgctxt "CARD.MODIFIER.NAME"
+msgid "Gossip"
+msgstr "Gossip"
+
+#: CARD.MODIFIER.DESC
+msgctxt "CARD.MODIFIER.DESC"
+msgid "{BAIT}"
+msgstr "{BAIT}"
+
+#: CARD.IMPROVISE_BAIT_UPGRADED.NAME
+msgctxt "CARD.IMPROVISE_BAIT_UPGRADED.NAME"
+msgid "Boosted Gossip"
+msgstr "Boosted Gossip"
+
+#: CARD.IMPROVISE_BAIT_UPGRADED.DESC
+msgctxt "CARD.IMPROVISE_BAIT_UPGRADED.DESC"
+msgid "Deploy an argument with 4 resolve and {BAIT}."
+msgstr "Deploy an argument with 4 resolve and {BAIT}."
+
+#: CARD.MODIFIER.NAME
+msgctxt "CARD.MODIFIER.NAME"
+msgid "Gossip"
+msgstr "Gossip"
+
+#: CARD.MODIFIER.DESC
+msgctxt "CARD.MODIFIER.DESC"
+msgid "{BAIT}"
+msgstr "{BAIT}"
+
+#: CARD.SALS_INSTINCTS.NAME
+msgctxt "CARD.SALS_INSTINCTS.NAME"
+msgid "Sal's Instincts"
+msgstr "Sal's Instincts"
+
+#: CARD.SALS_INSTINCTS.DESC
+msgctxt "CARD.SALS_INSTINCTS.DESC"
+msgid "Insert {inspiration} or {attitude} into your hand."
+msgstr "Insert {inspiration} or {attitude} into your hand."
+
+#: CARD.SALS_INSTINCTS.FLAVOUR
+msgctxt "CARD.SALS_INSTINCTS.FLAVOUR"
+msgid "'Consistency is just going to get you dead. If something's not working, it's time to try the opposite.'"
+msgstr "'Consistency is just going to get you dead. If something's not working, it's time to try the opposite.'"
+
+#: CARD.INSPIRATION.NAME
+msgctxt "CARD.INSPIRATION.NAME"
+msgid "Inspiration"
+msgstr "Inspiration"
+
+#: CARD.INSPIRATION.FLAVOUR
+msgctxt "CARD.INSPIRATION.FLAVOUR"
+msgid "'Let's look at what we have in common, then.'"
+msgstr "'Let's look at what we have in common, then.'"
+
+#: CARD.ATTITUDE.NAME
+msgctxt "CARD.ATTITUDE.NAME"
+msgid "Attitude"
+msgstr "Attitude"
+
+#: CARD.ATTITUDE.FLAVOUR
+msgctxt "CARD.ATTITUDE.FLAVOUR"
+msgid "'You're lucky I'm even talking to you'"
+msgstr "'You're lucky I'm even talking to you'"
+
+#: CARD.SALS_INSTINCTS_PLUS2.NAME
+msgctxt "CARD.SALS_INSTINCTS_PLUS2.NAME"
+msgid "Diplomatic Instincts"
+msgstr "Diplomatic Instincts"
+
+#: CARD.SALS_INSTINCTS_PLUS2.DESC
+msgctxt "CARD.SALS_INSTINCTS_PLUS2.DESC"
+msgid "Insert {flatter}, {compliment} or {attitude} into your hand."
+msgstr "Insert {flatter}, {compliment} or {attitude} into your hand."
+
+#: CARD.FLATTER.NAME
+msgctxt "CARD.FLATTER.NAME"
+msgid "Flatter"
+msgstr "Flatter"
+
+#: CARD.FLATTER.DESC
+msgctxt "CARD.FLATTER.DESC"
+msgid "Spend 1 {INFLUENCE}: deals 2 bonus damage and hits all opponent arguments."
+msgstr "Spend 1 {INFLUENCE}: deals 2 bonus damage and hits all opponent arguments."
+
+#: CARD.COMPLIMENT.NAME
+msgctxt "CARD.COMPLIMENT.NAME"
+msgid "Compliment"
+msgstr "Compliment"
+
+#: CARD.COMPLIMENT.DESC
+msgctxt "CARD.COMPLIMENT.DESC"
+msgid "Gain 2 {INFLUENCE}, then deal damage equal to half your {INFLUENCE} to a random opponent argument.\n{EXPEND}"
+msgstr "Gain 2 {INFLUENCE}, then deal damage equal to half your {INFLUENCE} to a random opponent argument.\n{EXPEND}"
+
+#: CARD.SALS_INSTINCTS_PLUS.NAME
+msgctxt "CARD.SALS_INSTINCTS_PLUS.NAME"
+msgid "Hostile Instincts"
+msgstr "Hostile Instincts"
+
+#: CARD.SALS_INSTINCTS_PLUS.DESC
+msgctxt "CARD.SALS_INSTINCTS_PLUS.DESC"
+msgid "Insert {obtuse}, {mean} or {inspiration} into your hand."
+msgstr "Insert {obtuse}, {mean} or {inspiration} into your hand."
+
+#: CARD.OBTUSE.NAME
+msgctxt "CARD.OBTUSE.NAME"
+msgid "Obtuse"
+msgstr "Obtuse"
+
+#: CARD.MEAN.NAME
+msgctxt "CARD.MEAN.NAME"
+msgid "Mean"
+msgstr "Mean"
+
+#: CARD.EMPATHY.NAME
+msgctxt "CARD.EMPATHY.NAME"
+msgid "Empathy"
+msgstr "Empathy"
+
+#: CARD.EMPATHY.DESC
+msgctxt "CARD.EMPATHY.DESC"
+msgid "Gain: Retain any unused actions at the end of your turn."
+msgstr "Gain: Retain any unused actions at the end of your turn."
+
+#: CARD.MODIFIER.DESC
+msgctxt "CARD.MODIFIER.DESC"
+msgid "Retain any unused actions at the end of your turn."
+msgstr "Retain any unused actions at the end of your turn."
+
+#: CARD.EMPATHY_PLUS.NAME
+msgctxt "CARD.EMPATHY_PLUS.NAME"
+msgid "Initial Empathy"
+msgstr "Initial Empathy"
+
+#: CARD.EMPATHY_PLUS.DESC
+msgctxt "CARD.EMPATHY_PLUS.DESC"
+msgid "Gain: Retain any unused actions at the end of your turn.\n<#UPGRADE>{AMBUSH}</>"
+msgstr "Gain: Retain any unused actions at the end of your turn.\n<#UPGRADE>{AMBUSH}</>"
+
+#: CARD.EMPATHY_PLUS2.NAME
+msgctxt "CARD.EMPATHY_PLUS2.NAME"
+msgid "Visionary Empathy"
+msgstr "Visionary Empathy"
+
+#: CARD.EMPATHY_PLUS2.DESC
+msgctxt "CARD.EMPATHY_PLUS2.DESC"
+msgid "<#UPGRADE>Draw a card.</>\nGain: Retain any unused actions at the end of your turn."
+msgstr "<#UPGRADE>Draw a card.</>\nGain: Retain any unused actions at the end of your turn."
+
+#: CARD.DUPLICITY.NAME
+msgctxt "CARD.DUPLICITY.NAME"
+msgid "Duplicity"
+msgstr "Duplicity"
+
+#: CARD.DUPLICITY.DESC
+msgctxt "CARD.DUPLICITY.DESC"
+msgid "The next card played this turn is played twice."
+msgstr "The next card played this turn is played twice."
+
+#: CARD.DUPLICITY_PLUS .NAME
+msgctxt "CARD.DUPLICITY_PLUS .NAME"
+msgid "Enduring Duplicity"
+msgstr "Enduring Duplicity"
+
+#: CARD.DUPLICITY_PLUS2.NAME
+msgctxt "CARD.DUPLICITY_PLUS2.NAME"
+msgid "Pale Duplicity"
+msgstr "Pale Duplicity"
+
+#: CARD.RECALL.NAME
+msgctxt "CARD.RECALL.NAME"
+msgid "Recall"
+msgstr "Recall"
+
+#: CARD.RECALL.DESC
+msgctxt "CARD.RECALL.DESC"
+msgid "Gain: Whenever you {EXPEND} a card, draw {1} {1*card|cards}."
+msgstr "Gain: Whenever you {EXPEND} a card, draw {1} {1*card|cards}."
+
+#: CARD.RECALL_PLUS.NAME
+msgctxt "CARD.RECALL_PLUS.NAME"
+msgid "Boosted Recall"
+msgstr "Boosted Recall"
+
+#: CARD.RECALL_PLUS.DESC
+msgctxt "CARD.RECALL_PLUS.DESC"
+msgid "Gain: Whenever you {EXPEND} a card, draw <#UPGRADE>{1}</> {1*card|cards}."
+msgstr "Gain: Whenever you {EXPEND} a card, draw <#UPGRADE>{1}</> {1*card|cards}."
+
+#: CARD.RECALL_PLUS2.NAME
+msgctxt "CARD.RECALL_PLUS2.NAME"
+msgid "Pale Recall"
+msgstr "Pale Recall"
+
+#: CARD.BLUSTER.NAME
+msgctxt "CARD.BLUSTER.NAME"
+msgid "Bluster"
+msgstr "Bluster"
+
+#: CARD.BLUSTER.DESC
+msgctxt "CARD.BLUSTER.DESC"
+msgid "{INCEPT} 1 {FLUSTERED} per {DOMINANCE}."
+msgstr "{INCEPT} 1 {FLUSTERED} per {DOMINANCE}."
+
+#: CARD.BLUSTER_PLUS.NAME
+msgctxt "CARD.BLUSTER_PLUS.NAME"
+msgid "Pale Bluster"
+msgstr "Pale Bluster"
+
+#: CARD.BLUSTER_PLUS2.NAME
+msgctxt "CARD.BLUSTER_PLUS2.NAME"
+msgid "Boosted Bluster"
+msgstr "Boosted Bluster"
+
+#: CARD.BLUSTER_PLUS2.DESC
+msgctxt "CARD.BLUSTER_PLUS2.DESC"
+msgid "{INCEPT} 1 {FLUSTERED} per {DOMINANCE} <#UPGRADE> + 1</>."
+msgstr "{INCEPT} 1 {FLUSTERED} per {DOMINANCE} <#UPGRADE> + 1</>."
+
+#: CARD.RAPID_FIRE.NAME
+msgctxt "CARD.RAPID_FIRE.NAME"
+msgid "Rapid Fire"
+msgstr "Rapid Fire"
+
+#: CARD.RAPID_FIRE.DESC
+msgctxt "CARD.RAPID_FIRE.DESC"
+msgid "Target a random argument.\nSpend all {INFLUENCE}: Repeat this card for every {INFLUENCE} spent."
+msgstr "Target a random argument.\nSpend all {INFLUENCE}: Repeat this card for every {INFLUENCE} spent."
+
+#: CARD.RAPID_FIRE_PLUS.NAME
+msgctxt "CARD.RAPID_FIRE_PLUS.NAME"
+msgid "Maintained Fire"
+msgstr "Maintained Fire"
+
+#: CARD.RAPID_FIRE_PLUS.DESC
+msgctxt "CARD.RAPID_FIRE_PLUS.DESC"
+msgid "Target a random argument.\nSpend all {INFLUENCE}: Repeat this card for every {INFLUENCE} spent.\n<#UPGRADE> Gain 1 {INFLUENCE}"
+msgstr "Target a random argument.\nSpend all {INFLUENCE}: Repeat this card for every {INFLUENCE} spent.\n<#UPGRADE> Gain 1 {INFLUENCE}"
+
+#: CARD.RAPID_FIRE_PLUS2.NAME
+msgctxt "CARD.RAPID_FIRE_PLUS2.NAME"
+msgid "Boosted Fire"
+msgstr "Boosted Fire"
+
+#: CARD.SEEDS_OF_DOUBT.NAME
+msgctxt "CARD.SEEDS_OF_DOUBT.NAME"
+msgid "Seeds of Doubt"
+msgstr "Seeds of Doubt"
+
+#: CARD.SEEDS_OF_DOUBT.DESC
+msgctxt "CARD.SEEDS_OF_DOUBT.DESC"
+msgid "{INCEPT} {DOUBT {1}}."
+msgstr "{INCEPT} {DOUBT {1}}."
+
+#: CARD.SEEDS_OF_DOUBT_PLUS.NAME
+msgctxt "CARD.SEEDS_OF_DOUBT_PLUS.NAME"
+msgid "Boosted Doubt"
+msgstr "Boosted Doubt"
+
+#: CARD.SEEDS_OF_DOUBT_PLUS.DESC
+msgctxt "CARD.SEEDS_OF_DOUBT_PLUS.DESC"
+msgid "{INCEPT} <#UPGRADE>{DOUBT {1}}.</>"
+msgstr "{INCEPT} <#UPGRADE>{DOUBT {1}}.</>"
+
+#: CARD.SEEDS_OF_DOUBT_PLUS2.NAME
+msgctxt "CARD.SEEDS_OF_DOUBT_PLUS2.NAME"
+msgid "Visionary Doubt"
+msgstr "Visionary Doubt"
+
+#: CARD.SEEDS_OF_DOUBT_PLUS2.DESC
+msgctxt "CARD.SEEDS_OF_DOUBT_PLUS2.DESC"
+msgid "{INCEPT} {DOUBT {1}}.\n<#UPGRADE>Draw a Card.</>"
+msgstr "{INCEPT} {DOUBT {1}}.\n<#UPGRADE>Draw a Card.</>"
+
+#: CARD.LEVEL_PLAYING_FIELD.NAME
+msgctxt "CARD.LEVEL_PLAYING_FIELD.NAME"
+msgid "Level Playing Field"
+msgstr "Level Playing Field"
+
+#: CARD.LEVEL_PLAYING_FIELD.DESC
+msgctxt "CARD.LEVEL_PLAYING_FIELD.DESC"
+msgid "Gain {INFLUENCE {1}} and {VULNERABILITY 2}."
+msgstr "Gain {INFLUENCE {1}} and {VULNERABILITY 2}."
+
+#: CARD.LEVEL_PLAYING_FIELD_PLUS.NAME
+msgctxt "CARD.LEVEL_PLAYING_FIELD_PLUS.NAME"
+msgid "Purified Playing Field"
+msgstr "Purified Playing Field"
+
+#: CARD.LEVEL_PLAYING_FIELD_PLUS.DESC
+msgctxt "CARD.LEVEL_PLAYING_FIELD_PLUS.DESC"
+msgid "Gain {INFLUENCE {1}} and <#UPGRADE>{VULNERABILITY 1}</>."
+msgstr "Gain {INFLUENCE {1}} and <#UPGRADE>{VULNERABILITY 1}</>."
+
+#: CARD.LEVEL_PLAYING_FIELD_PLUS2.NAME
+msgctxt "CARD.LEVEL_PLAYING_FIELD_PLUS2.NAME"
+msgid "Boosted Playing Field"
+msgstr "Boosted Playing Field"
+
+#: CARD.LEVEL_PLAYING_FIELD_PLUS2.DESC
+msgctxt "CARD.LEVEL_PLAYING_FIELD_PLUS2.DESC"
+msgid "<#UPGRADE>{INFLUENCE {1}}</> and {VULNERABILITY 2}."
+msgstr "<#UPGRADE>{INFLUENCE {1}}</> and {VULNERABILITY 2}."
+
+#: CARD.APPEAL_TO_REASON.NAME
+msgctxt "CARD.APPEAL_TO_REASON.NAME"
+msgid "Appeal to Reason"
+msgstr "Appeal to Reason"
+
+#: CARD.APPEAL_TO_REASON.DESC
+msgctxt "CARD.APPEAL_TO_REASON.DESC"
+msgid "Costs 1 less for each {INFLUENCE} you have.\nLose {INFLUENCE {1}}."
+msgstr "Costs 1 less for each {INFLUENCE} you have.\nLose {INFLUENCE {1}}."
+
+#: CARD.APPEAL_TO_REASON_PLUS.NAME
+msgctxt "CARD.APPEAL_TO_REASON_PLUS.NAME"
+msgid "Boosted Appeal"
+msgstr "Boosted Appeal"
+
+#: CARD.APPEAL_TO_REASON_PLUS2.NAME
+msgctxt "CARD.APPEAL_TO_REASON_PLUS2.NAME"
+msgid "Pale Appeal"
+msgstr "Pale Appeal"
+
+#: CARD.SECOND_WIND.NAME
+msgctxt "CARD.SECOND_WIND.NAME"
+msgid "Second Wind"
+msgstr "Second Wind"
+
+#: CARD.SECOND_WIND.DESC
+msgctxt "CARD.SECOND_WIND.DESC"
+msgid "Gain 1 action for every 3 cards in your discard."
+msgstr "Gain 1 action for every 3 cards in your discard."
+
+#: CARD.SECOND_WIND_PLUS.NAME
+msgctxt "CARD.SECOND_WIND_PLUS.NAME"
+msgid "Pale Wind"
+msgstr "Pale Wind"
+
+#: CARD.SECOND_WIND_PLUS2.NAME
+msgctxt "CARD.SECOND_WIND_PLUS2.NAME"
+msgid "Visionary Wind"
+msgstr "Visionary Wind"
+
+#: CARD.SECOND_WIND_PLUS2.DESC
+msgctxt "CARD.SECOND_WIND_PLUS2.DESC"
+msgid "Gain 1 action for every 3 cards in your discard.\n<#UPGRADE>Draw a card.</>"
+msgstr "Gain 1 action for every 3 cards in your discard.\n<#UPGRADE>Draw a card.</>"
+
+#: CARD.SCORCHED_EARTH.NAME
+msgctxt "CARD.SCORCHED_EARTH.NAME"
+msgid "Scorched Earth"
+msgstr "Scorched Earth"
+
+#: CARD.SCORCHED_EARTH.DESC
+msgctxt "CARD.SCORCHED_EARTH.DESC"
+msgid "{EXPEND} all non-hostile cards in your discard pile.\nDeal {1} damage to a random target for every card expended."
+msgstr "{EXPEND} all non-hostile cards in your discard pile.\nDeal {1} damage to a random target for every card expended."
+
+#: CARD.SCORCHED_EARTH_PLUS.NAME
+msgctxt "CARD.SCORCHED_EARTH_PLUS.NAME"
+msgid "Pale Scorched Earth"
+msgstr "Pale Scorched Earth"
+
+#: CARD.SCORCHED_EARTH_PLUS2.NAME
+msgctxt "CARD.SCORCHED_EARTH_PLUS2.NAME"
+msgid "Boosted Scorched Earth"
+msgstr "Boosted Scorched Earth"
+
+#: CARD.SCORCHED_EARTH_PLUS2.DESC
+msgctxt "CARD.SCORCHED_EARTH_PLUS2.DESC"
+msgid "{EXPEND} all non-hostile cards in your discard pile.\nDeal <#UPGRADE>{1}</> damage to a random target for every card expended.\nGain 3 {ANIMOSITY}."
+msgstr "{EXPEND} all non-hostile cards in your discard pile.\nDeal <#UPGRADE>{1}</> damage to a random target for every card expended.\nGain 3 {ANIMOSITY}."
+
+#: CARD.SOLID_POINT.NAME
+msgctxt "CARD.SOLID_POINT.NAME"
+msgid "Solid Point"
+msgstr "Solid Point"
+
+#: CARD.SOLID_POINT.DESC
+msgctxt "CARD.SOLID_POINT.DESC"
+msgid "When this card is drawn, deal {1} damage to a random target and gain {INFLUENCE {2}}."
+msgstr "When this card is drawn, deal {1} damage to a random target and gain {INFLUENCE {2}}."
+
+#: CARD.SOLID_POINT_PLUS.NAME
+msgctxt "CARD.SOLID_POINT_PLUS.NAME"
+msgid "Strong Point"
+msgstr "Strong Point"
+
+#: CARD.SOLID_POINT_PLUS.DESC
+msgctxt "CARD.SOLID_POINT_PLUS.DESC"
+msgid "When this card is drawn, deal <#UPGRADE>{1} damage</> to a random target and gain {INFLUENCE {2}}."
+msgstr "When this card is drawn, deal <#UPGRADE>{1} damage</> to a random target and gain {INFLUENCE {2}}."
+
+#: CARD.SOLID_POINT_PLUS2.NAME
+msgctxt "CARD.SOLID_POINT_PLUS2.NAME"
+msgid "Visionary Point"
+msgstr "Visionary Point"
+
+#: CARD.SOLID_POINT_PLUS2.DESC
+msgctxt "CARD.SOLID_POINT_PLUS2.DESC"
+msgid "When this card is drawn, deal {1} damage to a random target and gain <#UPGRADE>{INFLUENCE 2}</>."
+msgstr "When this card is drawn, deal {1} damage to a random target and gain <#UPGRADE>{INFLUENCE 2}</>."
+
+#: CARD.CALM.NAME
+msgctxt "CARD.CALM.NAME"
+msgid "Calm"
+msgstr "Calm"
+
+#: CARD.CALM.DESC
+msgctxt "CARD.CALM.DESC"
+msgid "Apply {1} {COMPOSURE} to all your arguments."
+msgstr "Apply {1} {COMPOSURE} to all your arguments."
+
+#: CARD.CALM_PLUS.NAME
+msgctxt "CARD.CALM_PLUS.NAME"
+msgid "Boosted Calm"
+msgstr "Boosted Calm"
+
+#: CARD.CALM_PLUS.DESC
+msgctxt "CARD.CALM_PLUS.DESC"
+msgid "Apply <#UPGRADE>{1} {COMPOSURE}</> to all your arguments."
+msgstr "Apply <#UPGRADE>{1} {COMPOSURE}</> to all your arguments."
+
+#: CARD.CALM_PLUS2.NAME
+msgctxt "CARD.CALM_PLUS2.NAME"
+msgid "Pale Calm"
+msgstr "Pale Calm"
+
+#: CARD.CALM_PLUS2.DESC
+msgctxt "CARD.CALM_PLUS2.DESC"
+msgid "Apply <#UPGRADE>{1} {COMPOSURE}</> to all your arguments."
+msgstr "Apply <#UPGRADE>{1} {COMPOSURE}</> to all your arguments."
+
+#: CARD.PLANNING.NAME
+msgctxt "CARD.PLANNING.NAME"
+msgid "Planning"
+msgstr "Planning"
+
+#: CARD.PLANNING.DESC
+msgctxt "CARD.PLANNING.DESC"
+msgid "Draw {1} card. Choose a card from your hand to place on top of your draw pile."
+msgstr "Draw {1} card. Choose a card from your hand to place on top of your draw pile."
+
+#: CARD.PLANNING_PLUS.NAME
+msgctxt "CARD.PLANNING_PLUS.NAME"
+msgid "Boosted Planning"
+msgstr "Boosted Planning"
+
+#: CARD.PLANNING_PLUS.DESC
+msgctxt "CARD.PLANNING_PLUS.DESC"
+msgid "Draw <#UPGRADE>{1}</> cards. Choose a card from your hand to place on top of your draw pile."
+msgstr "Draw <#UPGRADE>{1}</> cards. Choose a card from your hand to place on top of your draw pile."
+
+#: CARD.PLANNING_PLUS2.NAME
+msgctxt "CARD.PLANNING_PLUS2.NAME"
+msgid "Improvised Planning"
+msgstr "Improvised Planning"
+
+#: CARD.PLANNING_PLUS2.DESC
+msgctxt "CARD.PLANNING_PLUS2.DESC"
+msgid "{IMPROVISE} {1} card from your draw pile. Choose a card from your hand to place on top of your draw pile."
+msgstr "{IMPROVISE} {1} card from your draw pile. Choose a card from your hand to place on top of your draw pile."
+
+#: CARD.KNOW_IT_ALL.NAME
+msgctxt "CARD.KNOW_IT_ALL.NAME"
+msgid "Know It All"
+msgstr "Know It All"
+
+#: CARD.KNOW_IT_ALL.DESC
+msgctxt "CARD.KNOW_IT_ALL.DESC"
+msgid "Gain {SMARTS {1}} and {VULNERABILITY {2}}."
+msgstr "Gain {SMARTS {1}} and {VULNERABILITY {2}}."
+
+#: CARD.KNOW_IT_ALL_PLUS.NAME
+msgctxt "CARD.KNOW_IT_ALL_PLUS.NAME"
+msgid "Boosted Know it All"
+msgstr "Boosted Know it All"
+
+#: CARD.KNOW_IT_ALL_PLUS.DESC
+msgctxt "CARD.KNOW_IT_ALL_PLUS.DESC"
+msgid "Gain <#UPGRADE>{SMARTS {1}}</> and {VULNERABILITY {2}}."
+msgstr "Gain <#UPGRADE>{SMARTS {1}}</> and {VULNERABILITY {2}}."
+
+#: CARD.KNOW_IT_ALL_PLUS2.NAME
+msgctxt "CARD.KNOW_IT_ALL_PLUS2.NAME"
+msgid "Purified Know it All"
+msgstr "Purified Know it All"
+
+#: CARD.KNOW_IT_ALL_PLUS2.DESC
+msgctxt "CARD.KNOW_IT_ALL_PLUS2.DESC"
+msgid "Gain {SMARTS {1}} and <#UPGRADE>{VULNERABILITY {2}}</>."
+msgstr "Gain {SMARTS {1}} and <#UPGRADE>{VULNERABILITY {2}}</>."
+
+#: CARD.JUST_THE_FACTS.NAME
+msgctxt "CARD.JUST_THE_FACTS.NAME"
+msgid "Just the Facts"
+msgstr "Just the Facts"
+
+#: CARD.JUST_THE_FACTS.DESC
+msgctxt "CARD.JUST_THE_FACTS.DESC"
+msgid "{EXPEND} any number of cards.\nGain 1 {SMARTS} for each card expended."
+msgstr "{EXPEND} any number of cards.\nGain 1 {SMARTS} for each card expended."
+
+#: CARD.JUST_THE_FACTS_PLUS.NAME
+msgctxt "CARD.JUST_THE_FACTS_PLUS.NAME"
+msgid "The Pale Facts"
+msgstr "The Pale Facts"
+
+#: CARD.JUST_THE_FACTS_PLUS2.NAME
+msgctxt "CARD.JUST_THE_FACTS_PLUS2.NAME"
+msgid "The Visionary Facts"
+msgstr "The Visionary Facts"
+
+#: CARD.JUST_THE_FACTS_PLUS2.DESC
+msgctxt "CARD.JUST_THE_FACTS_PLUS2.DESC"
+msgid "{EXPEND} any number of cards.\nGain 1 {SMARTS} for each card expended.\n<#UPGRADE> Draw 1 card.</>"
+msgstr "{EXPEND} any number of cards.\nGain 1 {SMARTS} for each card expended.\n<#UPGRADE> Draw 1 card.</>"
+
+#: CARD.HARD_FACTS.NAME
+msgctxt "CARD.HARD_FACTS.NAME"
+msgid "Hard Facts"
+msgstr "Hard Facts"
+
+#: CARD.HARD_FACTS.DESC
+msgctxt "CARD.HARD_FACTS.DESC"
+msgid "Gain {1} {COMPOSURE}. Increase by {2} for each card played this turn.\n{3}"
+msgstr "Gain {1} {COMPOSURE}. Increase by {2} for each card played this turn.\n{3}"
+
+#: CARD.HARD_FACTS_PLUS.NAME
+msgctxt "CARD.HARD_FACTS_PLUS.NAME"
+msgid "Boosted Facts"
+msgstr "Boosted Facts"
+
+#: CARD.HARD_FACTS_PLUS.DESC
+msgctxt "CARD.HARD_FACTS_PLUS.DESC"
+msgid "Gain {1} {COMPOSURE}. Increase by <#UPGRADE>{2}</> for each card played this turn.\n{3}"
+msgstr "Gain {1} {COMPOSURE}. Increase by <#UPGRADE>{2}</> for each card played this turn.\n{3}"
+
+#: CARD.HARD_FACTS_PLUS2.NAME
+msgctxt "CARD.HARD_FACTS_PLUS2.NAME"
+msgid "Focused Facts"
+msgstr "Focused Facts"
+
+#: CARD.HARD_FACTS_PLUS2.DESC
+msgctxt "CARD.HARD_FACTS_PLUS2.DESC"
+msgid "<#UPGRADE>Apply</> {1} {COMPOSURE}. Increase by <#UPGRADE>{2}</> for each card played this turn.\n{3}"
+msgstr "<#UPGRADE>Apply</> {1} {COMPOSURE}. Increase by <#UPGRADE>{2}</> for each card played this turn.\n{3}"
+
+#: CARD.ENTRAPMENT.NAME
+msgctxt "CARD.ENTRAPMENT.NAME"
+msgid "Entrapment"
+msgstr "Entrapment"
+
+#: CARD.ENTRAPMENT.DESC
+msgctxt "CARD.ENTRAPMENT.DESC"
+msgid "Add an argument with {1} resolve and {BAIT}."
+msgstr "Add an argument with {1} resolve and {BAIT}."
+
+#: CARD.ENTRAPMENT_PLUS.NAME
+msgctxt "CARD.ENTRAPMENT_PLUS.NAME"
+msgid "Boosted Entrapment"
+msgstr "Boosted Entrapment"
+
+#: CARD.ENTRAPMENT_PLUS.DESC
+msgctxt "CARD.ENTRAPMENT_PLUS.DESC"
+msgid "Add an argument with <#UPGRADE>{1}</> resolve and {BAIT}."
+msgstr "Add an argument with <#UPGRADE>{1}</> resolve and {BAIT}."
+
+#: CARD.ENTRAPMENT_PLUS2.NAME
+msgctxt "CARD.ENTRAPMENT_PLUS2.NAME"
+msgid "Pale Entrapment"
+msgstr "Pale Entrapment"
+
+#: CARD.WHITE_LIE.NAME
+msgctxt "CARD.WHITE_LIE.NAME"
+msgid "White Lie"
+msgstr "White Lie"
+
+#: CARD.WHITE_LIE.DESC
+msgctxt "CARD.WHITE_LIE.DESC"
+msgid "Add a copy of this card to your discards.\nWhen drawn, {INCEPT} {DOUBT {1}}."
+msgstr "Add a copy of this card to your discards.\nWhen drawn, {INCEPT} {DOUBT {1}}."
+
+#: CARD.WHITE_LIE_PLUS.NAME
+msgctxt "CARD.WHITE_LIE_PLUS.NAME"
+msgid "Boosted Lie"
+msgstr "Boosted Lie"
+
+#: CARD.WHITE_LIE_PLUS2.NAME
+msgctxt "CARD.WHITE_LIE_PLUS2.NAME"
+msgid "Pale Lie"
+msgstr "Pale Lie"
+
+#: CARD.PURE_STYLE.NAME
+msgctxt "CARD.PURE_STYLE.NAME"
+msgid "Pure Style"
+msgstr "Pure Style"
+
+#: CARD.PURE_STYLE.DESC
+msgctxt "CARD.PURE_STYLE.DESC"
+msgid "All your cards deal maximum damage this turn."
+msgstr "All your cards deal maximum damage this turn."
+
+#: CARD.PURE_STYLE_PLUS.NAME
+msgctxt "CARD.PURE_STYLE_PLUS.NAME"
+msgid "Enduring Style"
+msgstr "Enduring Style"
+
+#: CARD.PURE_STYLE_PLUS2.NAME
+msgctxt "CARD.PURE_STYLE_PLUS2.NAME"
+msgid "Pale Style"
+msgstr "Pale Style"
+
+#: CARD.DECEIVE.NAME
+msgctxt "CARD.DECEIVE.NAME"
+msgid "Deceive"
+msgstr "Deceive"
+
+#: CARD.DECEIVE.DESC
+msgctxt "CARD.DECEIVE.DESC"
+msgid "Double the count of all inceptions in play."
+msgstr "Double the count of all inceptions in play."
+
+#: CARD.EXPLOIT_WEAKNESS.NAME
+msgctxt "CARD.EXPLOIT_WEAKNESS.NAME"
+msgid "Exploit Weakness"
+msgstr "Exploit Weakness"
+
+#: CARD.EXPLOIT_WEAKNESS.DESC
+msgctxt "CARD.EXPLOIT_WEAKNESS.DESC"
+msgid "Duplicate target bounty or inception."
+msgstr "Duplicate target bounty or inception."
+
+#: CARD.EXPLOIT_WEAKNESS_PLUS.NAME
+msgctxt "CARD.EXPLOIT_WEAKNESS_PLUS.NAME"
+msgid "Pale Weakness"
+msgstr "Pale Weakness"
+
+#: CARD.EXPLOIT_WEAKNESS_PLUS2.NAME
+msgctxt "CARD.EXPLOIT_WEAKNESS_PLUS2.NAME"
+msgid "Enduring Weakness"
+msgstr "Enduring Weakness"
+
+#: CARD.DRAIN_RESOLVE.NAME
+msgctxt "CARD.DRAIN_RESOLVE.NAME"
+msgid "Drain Resolve"
+msgstr "Drain Resolve"
+
+#: CARD.DRAIN_RESOLVE.DESC
+msgctxt "CARD.DRAIN_RESOLVE.DESC"
+msgid "Target argument loses {1} resolve. You gain {2} resolve."
+msgstr "Target argument loses {1} resolve. You gain {2} resolve."
+
+#: CARD.DRAIN_RESOLVE_PLUS.NAME
+msgctxt "CARD.DRAIN_RESOLVE_PLUS.NAME"
+msgid "Boosted Drain"
+msgstr "Boosted Drain"
+
+#: CARD.DRAIN_RESOLVE_PLUS.DESC
+msgctxt "CARD.DRAIN_RESOLVE_PLUS.DESC"
+msgid "Target argument loses <#UPGRADE>{1}</> resolve. You gain {2} resolve."
+msgstr "Target argument loses <#UPGRADE>{1}</> resolve. You gain {2} resolve."
+
+#: CARD.DRAIN_RESOLVE_PLUS2.NAME
+msgctxt "CARD.DRAIN_RESOLVE_PLUS2.NAME"
+msgid "Mending Drain"
+msgstr "Mending Drain"
+
+#: CARD.DRAIN_RESOLVE_PLUS2.DESC
+msgctxt "CARD.DRAIN_RESOLVE_PLUS2.DESC"
+msgid "Target argument loses {1} resolve. You gain <#UPGRADE>{2}</> resolve."
+msgstr "Target argument loses {1} resolve. You gain <#UPGRADE>{2}</> resolve."
+
+#: CARD.CALLING_IN_ALL_FAVORS_PLUS.NAME
+msgctxt "CARD.CALLING_IN_ALL_FAVORS_PLUS.NAME"
+msgid "Tall Favors"
+msgstr "Tall Favors"
+
+#: CARD.CALLING_IN_ALL_FAVORS_PLUS.DESC
+msgctxt "CARD.CALLING_IN_ALL_FAVORS_PLUS.DESC"
+msgid "<#UPGRADE>Gain 1 {INFLUENCE} then</> Double your {INFLUENCE}.\nGain {1} {VULNERABILITY}."
+msgstr "<#UPGRADE>Gain 1 {INFLUENCE} then</> Double your {INFLUENCE}.\nGain {1} {VULNERABILITY}."
+
+#: CARD.CALLING_IN_ALL_FAVORS_PLUS2.NAME
+msgctxt "CARD.CALLING_IN_ALL_FAVORS_PLUS2.NAME"
+msgid "Short Favors"
+msgstr "Short Favors"
+
+#: CARD.CALLING_IN_ALL_FAVORS_PLUS2.DESC
+msgctxt "CARD.CALLING_IN_ALL_FAVORS_PLUS2.DESC"
+msgid "Double your {INFLUENCE}.\nGain <#UPGRADE>{1}</> {VULNERABILITY}."
+msgstr "Double your {INFLUENCE}.\nGain <#UPGRADE>{1}</> {VULNERABILITY}."
+
+#: CARD.MAGNETIC_CHARM.NAME
+msgctxt "CARD.MAGNETIC_CHARM.NAME"
+msgid "Magnetic Charm"
+msgstr "Magnetic Charm"
+
+#: CARD.MAGNETIC_CHARM.DESC
+msgctxt "CARD.MAGNETIC_CHARM.DESC"
+msgid "Draw {1} cards. Gain {INFLUENCE 1} for each diplomacy card drawn."
+msgstr "Draw {1} cards. Gain {INFLUENCE 1} for each diplomacy card drawn."
+
+#: CARD.MAGNETIC_CHARM_PLUS.NAME
+msgctxt "CARD.MAGNETIC_CHARM_PLUS.NAME"
+msgid "Enhanced Charm"
+msgstr "Enhanced Charm"
+
+#: CARD.MAGNETIC_CHARM_PLUS.DESC
+msgctxt "CARD.MAGNETIC_CHARM_PLUS.DESC"
+msgid "Draw <#UPGRADE>{1}</> cards. Gain {INFLUENCE 1} for each diplomacy card drawn."
+msgstr "Draw <#UPGRADE>{1}</> cards. Gain {INFLUENCE 1} for each diplomacy card drawn."
+
+#: CARD.MAGNETIC_CHARM_PLUS2.NAME
+msgctxt "CARD.MAGNETIC_CHARM_PLUS2.NAME"
+msgid "Boosted Charm"
+msgstr "Boosted Charm"
+
+#: CARD.MAGNETIC_CHARM_PLUS2.DESC
+msgctxt "CARD.MAGNETIC_CHARM_PLUS2.DESC"
+msgid "Draw {1} cards. Gain {INFLUENCE 1} for each diplomacy card drawn <#UPGRADE>+ 1</>."
+msgstr "Draw {1} cards. Gain {INFLUENCE 1} for each diplomacy card drawn <#UPGRADE>+ 1</>."
+
+#: CARD.APLOMB.NAME
+msgctxt "CARD.APLOMB.NAME"
+msgid "Aplomb"
+msgstr "Aplomb"
+
+#: CARD.APLOMB.DESC
+msgctxt "CARD.APLOMB.DESC"
+msgid "Spend {INFLUENCE {1}}: Gain {2} {COMPOSURE}."
+msgstr "Spend {INFLUENCE {1}}: Gain {2} {COMPOSURE}."
+
+#: CARD.APLOMB_PLUS.NAME
+msgctxt "CARD.APLOMB_PLUS.NAME"
+msgid "Boosted Aplomb"
+msgstr "Boosted Aplomb"
+
+#: CARD.APLOMB_PLUS.DESC
+msgctxt "CARD.APLOMB_PLUS.DESC"
+msgid "Spend {INFLUENCE {1}}: Gain <#UPGRADE>{2} {COMPOSURE}.</>"
+msgstr "Spend {INFLUENCE {1}}: Gain <#UPGRADE>{2} {COMPOSURE}.</>"
+
+#: CARD.APLOMB_PLUS2.NAME
+msgctxt "CARD.APLOMB_PLUS2.NAME"
+msgid "Pale Aplomb"
+msgstr "Pale Aplomb"
+
+#: CARD.APLOMB_PLUS2.DESC
+msgctxt "CARD.APLOMB_PLUS2.DESC"
+msgid "Spend <#UPGRADE>{INFLUENCE {1}}</>: Gain {2} {COMPOSURE}."
+msgstr "Spend <#UPGRADE>{INFLUENCE {1}}</>: Gain {2} {COMPOSURE}."
+
+#: CARD.TACTICAL_MIND.NAME
+msgctxt "CARD.TACTICAL_MIND.NAME"
+msgid "Tactical Mind"
+msgstr "Tactical Mind"
+
+#: CARD.TACTICAL_MIND.DESC
+msgctxt "CARD.TACTICAL_MIND.DESC"
+msgid "Gain: Draw {1} extra card at the start of your turn."
+msgstr "Gain: Draw {1} extra card at the start of your turn."
+
+#: CARD.MODIFIER.DESC
+msgctxt "CARD.MODIFIER.DESC"
+msgid "Draw {1} extra {1*card|cards} at the start of your turn."
+msgstr "Draw {1} extra {1*card|cards} at the start of your turn."
+
+#: CARD.TACTICAL_MIND_PLUS.NAME
+msgctxt "CARD.TACTICAL_MIND_PLUS.NAME"
+msgid "Pale Tactical Mind"
+msgstr "Pale Tactical Mind"
+
+#: CARD.TACTICAL_MIND_PLUS2.NAME
+msgctxt "CARD.TACTICAL_MIND_PLUS2.NAME"
+msgid "Boosted Tactical Mind"
+msgstr "Boosted Tactical Mind"
+
+#: CARD.TACTICAL_MIND_PLUS2.DESC
+msgctxt "CARD.TACTICAL_MIND_PLUS2.DESC"
+msgid "Gain: Draw <#UPGRADE>{1}</> extra cards at the start of your turn."
+msgstr "Gain: Draw <#UPGRADE>{1}</> extra cards at the start of your turn."
+
+#: CARD.GOOD_IMPRESSION.NAME
+msgctxt "CARD.GOOD_IMPRESSION.NAME"
+msgid "Good Impression"
+msgstr "Good Impression"
+
+#: CARD.GOOD_IMPRESSION.DESC
+msgctxt "CARD.GOOD_IMPRESSION.DESC"
+msgid "This card loses 1 damage each time you end your turn."
+msgstr "This card loses 1 damage each time you end your turn."
+
+#: CARD.GOOD_IMPRESSION_PLUS.NAME
+msgctxt "CARD.GOOD_IMPRESSION_PLUS.NAME"
+msgid "Boosted Impression"
+msgstr "Boosted Impression"
+
+#: CARD.GOOD_IMPRESSION_PLUS2.NAME
+msgctxt "CARD.GOOD_IMPRESSION_PLUS2.NAME"
+msgid "Pale Impression"
+msgstr "Pale Impression"
+
+#: CARD.COLLECTED.NAME
+msgctxt "CARD.COLLECTED.NAME"
+msgid "Collected"
+msgstr "Collected"
+
+#: CARD.COLLECTED.DESC
+msgctxt "CARD.COLLECTED.DESC"
+msgid "Gain: {COOL_HEAD}.\n{EVOKE}: play {1} Diplomacy cards in a row."
+msgstr "Gain: {COOL_HEAD}.\n{EVOKE}: play {1} Diplomacy cards in a row."
+
+#: CARD.COLLECTED.ALT_DESC
+msgctxt "CARD.COLLECTED.ALT_DESC"
+msgid "Gain: {COOL_HEAD}.\n{EVOKE}: play {1} Diplomacy cards in a row. ({2} played)"
+msgstr "Gain: {COOL_HEAD}.\n{EVOKE}: play {1} Diplomacy cards in a row. ({2} played)"
+
+#: CARD.COLLECTED_PLUS.NAME
+msgctxt "CARD.COLLECTED_PLUS.NAME"
+msgid "Pale Collected"
+msgstr "Pale Collected"
+
+#: CARD.COLLECTED_PLUS.DESC
+msgctxt "CARD.COLLECTED_PLUS.DESC"
+msgid "Gain: {COOL_HEAD}.\n{EVOKE}: play <#UPGRADE>{1}</> Diplomacy cards in a row."
+msgstr "Gain: {COOL_HEAD}.\n{EVOKE}: play <#UPGRADE>{1}</> Diplomacy cards in a row."
+
+#: CARD.COLLECTED_PLUS.ALT_DESC
+msgctxt "CARD.COLLECTED_PLUS.ALT_DESC"
+msgid "Gain: {COOL_HEAD}.\n{EVOKE}: play <#UPGRADE>{1}</> Diplomacy cards in a row. ({2} played)"
+msgstr "Gain: {COOL_HEAD}.\n{EVOKE}: play <#UPGRADE>{1}</> Diplomacy cards in a row. ({2} played)"
+
+#: CARD.COLLECTED_PLUS2.NAME
+msgctxt "CARD.COLLECTED_PLUS2.NAME"
+msgid "Enduring Collected"
+msgstr "Enduring Collected"
+
+#: CARD.VEILED_ANGER.NAME
+msgctxt "CARD.VEILED_ANGER.NAME"
+msgid "Veiled Anger"
+msgstr "Veiled Anger"
+
+#: CARD.VEILED_ANGER_PLUS.NAME
+msgctxt "CARD.VEILED_ANGER_PLUS.NAME"
+msgid "Tall Veiled Anger"
+msgstr "Tall Veiled Anger"
+
+#: CARD.VEILED_ANGER_PLUS2.NAME
+msgctxt "CARD.VEILED_ANGER_PLUS2.NAME"
+msgid "Mirrored Anger"
+msgstr "Mirrored Anger"
+
+#: CARD.VEILED_ANGER_PLUS2.DESC
+msgctxt "CARD.VEILED_ANGER_PLUS2.DESC"
+msgid "Spend {DOMINANCE 1}: Play this card twice."
+msgstr "Spend {DOMINANCE 1}: Play this card twice."
+
+#: CARD.SWIFT_REBUTTAL.NAME
+msgctxt "CARD.SWIFT_REBUTTAL.NAME"
+msgid "Swift Rebuttal"
+msgstr "Swift Rebuttal"
+
+#: CARD.SWIFT_REBUTTAL.DESC
+msgctxt "CARD.SWIFT_REBUTTAL.DESC"
+msgid "{IMPROVISE} a 0 cost card from your discard pile."
+msgstr "{IMPROVISE} a 0 cost card from your discard pile."
+
+#: CARD.SWIFT_REBUTTAL_PLUS.NAME
+msgctxt "CARD.SWIFT_REBUTTAL_PLUS.NAME"
+msgid "Boosted Rebuttal"
+msgstr "Boosted Rebuttal"
+
+#: CARD.SWIFT_REBUTTAL_PLUS2.NAME
+msgctxt "CARD.SWIFT_REBUTTAL_PLUS2.NAME"
+msgid "Visionary Rebuttal"
+msgstr "Visionary Rebuttal"
+
+#: CARD.SWIFT_REBUTTAL_PLUS2.DESC
+msgctxt "CARD.SWIFT_REBUTTAL_PLUS2.DESC"
+msgid "{IMPROVISE} <#UPGRADE>two</> 0 cost cards from your discard pile."
+msgstr "{IMPROVISE} <#UPGRADE>two</> 0 cost cards from your discard pile."
+
+#: CARD.BRAINSTORM.NAME
+msgctxt "CARD.BRAINSTORM.NAME"
+msgid "Brainstorm"
+msgstr "Brainstorm"
+
+#: CARD.BRAINSTORM.DESC
+msgctxt "CARD.BRAINSTORM.DESC"
+msgid "Draw {1} cards."
+msgstr "Draw {1} cards."
+
+#: CARD.BRAINSTORM_PLUS.NAME
+msgctxt "CARD.BRAINSTORM_PLUS.NAME"
+msgid "Boosted Brainstorm"
+msgstr "Boosted Brainstorm"
+
+#: CARD.BRAINSTORM_PLUS.DESC
+msgctxt "CARD.BRAINSTORM_PLUS.DESC"
+msgid "Draw <#UPGRADE>{1}</> cards."
+msgstr "Draw <#UPGRADE>{1}</> cards."
+
+#: CARD.BRAINSTORM_PLUS2.NAME
+msgctxt "CARD.BRAINSTORM_PLUS2.NAME"
+msgid "Stone Brainstorm"
+msgstr "Stone Brainstorm"
+
+#: CARD.BRAINSTORM_PLUS2.DESC
+msgctxt "CARD.BRAINSTORM_PLUS2.DESC"
+msgid "Draw {1} cards, \n<#UPGRADE>Gain {2} {COMPOSURE}.</>"
+msgstr "Draw {1} cards, \n<#UPGRADE>Gain {2} {COMPOSURE}.</>"
+
+#: CARD.ERGO.NAME
+msgctxt "CARD.ERGO.NAME"
+msgid "Ergo..."
+msgstr "Ergo..."
+
+#: CARD.ERGO.DESC
+msgctxt "CARD.ERGO.DESC"
+msgid "{IMPROVISE} a card from your discards."
+msgstr "{IMPROVISE} a card from your discards."
+
+#: CARD.ERGO_PLUS.NAME
+msgctxt "CARD.ERGO_PLUS.NAME"
+msgid "Pale Ergo"
+msgstr "Pale Ergo"
+
+#: CARD.ERGO_PLUS2.NAME
+msgctxt "CARD.ERGO_PLUS2.NAME"
+msgid "Boosted Ergo"
+msgstr "Boosted Ergo"
+
+#: CARD.ERGO_PLUS2.DESC
+msgctxt "CARD.ERGO_PLUS2.DESC"
+msgid "{IMPROVISE} <#UPGRADE>two</> cards from your discards."
+msgstr "{IMPROVISE} <#UPGRADE>two</> cards from your discards."
+
+#: CARD.BROWBEAT.NAME
+msgctxt "CARD.BROWBEAT.NAME"
+msgid "Browbeat"
+msgstr "Browbeat"
+
+#: CARD.BROWBEAT.DESC
+msgctxt "CARD.BROWBEAT.DESC"
+msgid "Play once for each action available."
+msgstr "Play once for each action available."
+
+#: CARD.BROWBEAT_PLUS.NAME
+msgctxt "CARD.BROWBEAT_PLUS.NAME"
+msgid "Boosted Browbeat"
+msgstr "Boosted Browbeat"
+
+#: CARD.BROWBEAT_PLUS2.NAME
+msgctxt "CARD.BROWBEAT_PLUS2.NAME"
+msgid "Extended Browbeat"
+msgstr "Extended Browbeat"
+
+#: CARD.BROWBEAT_PLUS2.DESC
+msgctxt "CARD.BROWBEAT_PLUS2.DESC"
+msgid "Play once for each action available <#UPGRADE>+ 1</>."
+msgstr "Play once for each action available <#UPGRADE>+ 1</>."
+
+#: CARD.IPSO_FACTO.NAME
+msgctxt "CARD.IPSO_FACTO.NAME"
+msgid "Ipso Facto"
+msgstr "Ipso Facto"
+
+#: CARD.IPSO_FACTO.DESC
+msgctxt "CARD.IPSO_FACTO.DESC"
+msgid "Gain {INFLUENCE {1}}.\n{EVOKE}: An opponent's argument or bounty is removed."
+msgstr "Gain {INFLUENCE {1}}.\n{EVOKE}: An opponent's argument or bounty is removed."
+
+#: CARD.IPSO_FACTO_PLUS.NAME
+msgctxt "CARD.IPSO_FACTO_PLUS.NAME"
+msgid "Boosted Facto"
+msgstr "Boosted Facto"
+
+#: CARD.IPSO_FACTO_PLUS.DESC
+msgctxt "CARD.IPSO_FACTO_PLUS.DESC"
+msgid "Gain <#UPGRADE>{INFLUENCE {1}}.</>\n{EVOKE}: An opponent's argument is removed."
+msgstr "Gain <#UPGRADE>{INFLUENCE {1}}.</>\n{EVOKE}: An opponent's argument is removed."
+
+#: CARD.IPSO_FACTO_PLUS2.NAME
+msgctxt "CARD.IPSO_FACTO_PLUS2.NAME"
+msgid "Flexible Facto"
+msgstr "Flexible Facto"
+
+#: CARD.OPPRESS.NAME
+msgctxt "CARD.OPPRESS.NAME"
+msgid "Oppress"
+msgstr "Oppress"
+
+#: CARD.OPPRESS.DESC
+msgctxt "CARD.OPPRESS.DESC"
+msgid "If this card dismisses an argument, gain {DOMINANCE 1}."
+msgstr "If this card dismisses an argument, gain {DOMINANCE 1}."
+
+#: CARD.OPPRESS_PLUS.NAME
+msgctxt "CARD.OPPRESS_PLUS.NAME"
+msgid "Twisted Oppress"
+msgstr "Twisted Oppress"
+
+#: CARD.OPPRESS_PLUS.DESC
+msgctxt "CARD.OPPRESS_PLUS.DESC"
+msgid "If this card dismisses an argument, gain <#UPGRADE>{DOMINANCE 2}</>."
+msgstr "If this card dismisses an argument, gain <#UPGRADE>{DOMINANCE 2}</>."
+
+#: CARD.OPPRESS_PLUS2.NAME
+msgctxt "CARD.OPPRESS_PLUS2.NAME"
+msgid "Tall Oppress"
+msgstr "Tall Oppress"
+
+#: CARD.DOMINEER.NAME
+msgctxt "CARD.DOMINEER.NAME"
+msgid "Domineer"
+msgstr "Domineer"
+
+#: CARD.DOMINEER.DESC
+msgctxt "CARD.DOMINEER.DESC"
+msgid "Spend {1} {DOMINANCE}: Gain 2 actions."
+msgstr "Spend {1} {DOMINANCE}: Gain 2 actions."
+
+#: CARD.DOMINEER_PLUS.NAME
+msgctxt "CARD.DOMINEER_PLUS.NAME"
+msgid "Pale Domineer"
+msgstr "Pale Domineer"
+
+#: CARD.DOMINEER_PLUS.DESC
+msgctxt "CARD.DOMINEER_PLUS.DESC"
+msgid "Spend <#UPGRADE>{1}</> {DOMINANCE}: Gain 2 actions."
+msgstr "Spend <#UPGRADE>{1}</> {DOMINANCE}: Gain 2 actions."
+
+#: CARD.DOMINEER_PLUS2.NAME
+msgctxt "CARD.DOMINEER_PLUS2.NAME"
+msgid "Visionary Domineer"
+msgstr "Visionary Domineer"
+
+#: CARD.DOMINEER_PLUS2.DESC
+msgctxt "CARD.DOMINEER_PLUS2.DESC"
+msgid "Spend {1} {DOMINANCE}: Gain 2 actions and <#UPGRADE>draw 2 cards</>."
+msgstr "Spend {1} {DOMINANCE}: Gain 2 actions and <#UPGRADE>draw 2 cards</>."
+
+#: CARD.MENACING_AIR.NAME
+msgctxt "CARD.MENACING_AIR.NAME"
+msgid "Menacing Air"
+msgstr "Menacing Air"
+
+#: CARD.MENACING_AIR.DESC
+msgctxt "CARD.MENACING_AIR.DESC"
+msgid "Gain: At the beginning of your turn, gain {DOMINANCE 1}."
+msgstr "Gain: At the beginning of your turn, gain {DOMINANCE 1}."
+
+#: CARD.MODIFIER.DESC
+msgctxt "CARD.MODIFIER.DESC"
+msgid "At the beginning of your turn, gain {DOMINANCE {1}}."
+msgstr "At the beginning of your turn, gain {DOMINANCE {1}}."
+
+#: CARD.MENACING_AIR_PLUS.NAME
+msgctxt "CARD.MENACING_AIR_PLUS.NAME"
+msgid "Boosted Menacing Air"
+msgstr "Boosted Menacing Air"
+
+#: CARD.MENACING_AIR_PLUS.DESC
+msgctxt "CARD.MENACING_AIR_PLUS.DESC"
+msgid "<#UPGRADE>Gain {DOMINANCE 1}</>\nGain: At the beginning of your turn, gain {DOMINANCE 1}.\n{EXPEND}"
+msgstr "<#UPGRADE>Gain {DOMINANCE 1}</>\nGain: At the beginning of your turn, gain {DOMINANCE 1}.\n{EXPEND}"
+
+#: CARD.MENACING_AIR_PLUS2.NAME
+msgctxt "CARD.MENACING_AIR_PLUS2.NAME"
+msgid "Initial Menacing Air"
+msgstr "Initial Menacing Air"
+
+#: CARD.MENACING_AIR_PLUS2.DESC
+msgctxt "CARD.MENACING_AIR_PLUS2.DESC"
+msgid "Gain: At the beginning of your turn, gain {DOMINANCE 1}.\n<#UPGRADE>{AMBUSH}</>, {EXPEND}."
+msgstr "Gain: At the beginning of your turn, gain {DOMINANCE 1}.\n<#UPGRADE>{AMBUSH}</>, {EXPEND}."
+
+#: CARD.ABRUPT_REMARK.NAME
+msgctxt "CARD.ABRUPT_REMARK.NAME"
+msgid "Abrupt Remark"
+msgstr "Abrupt Remark"
+
+#: CARD.ABRUPT_REMARK.DESC
+msgctxt "CARD.ABRUPT_REMARK.DESC"
+msgid "Draw 1 card.\n{EVOKE}: An opponent argument or bounty is dismissed."
+msgstr "Draw 1 card.\n{EVOKE}: An opponent argument or bounty is dismissed."
+
+#: CARD.ABRUPT_REMARK_PLUS.NAME
+msgctxt "CARD.ABRUPT_REMARK_PLUS.NAME"
+msgid "Visionary Remark"
+msgstr "Visionary Remark"
+
+#: CARD.ABRUPT_REMARK_PLUS.DESC
+msgctxt "CARD.ABRUPT_REMARK_PLUS.DESC"
+msgid "Draw <#UPGRADE>2 cards</>.\n{EVOKE}: An opponent argument or bounty is dismissed."
+msgstr "Draw <#UPGRADE>2 cards</>.\n{EVOKE}: An opponent argument or bounty is dismissed."
+
+#: CARD.ABRUPT_REMARK_PLUS2.NAME
+msgctxt "CARD.ABRUPT_REMARK_PLUS2.NAME"
+msgid "Wide Remark"
+msgstr "Wide Remark"
+
+#: CARD.ABRUPT_REMARK_PLUS2.DESC
+msgctxt "CARD.ABRUPT_REMARK_PLUS2.DESC"
+msgid "Draw 1 card.\n{EVOKE}: <#UPGRADE>Any argument or bounty</> is dismissed."
+msgstr "Draw 1 card.\n{EVOKE}: <#UPGRADE>Any argument or bounty</> is dismissed."
+
+#: CARD.ERUPT.NAME
+msgctxt "CARD.ERUPT.NAME"
+msgid "Erupt"
+msgstr "Erupt"
+
+#: CARD.ERUPT.DESC
+msgctxt "CARD.ERUPT.DESC"
+msgid "Attack a random argument.\n{EVOKE}: Play 4 Hostile cards in a single turn.\n{1}"
+msgstr "Attack a random argument.\n{EVOKE}: Play 4 Hostile cards in a single turn.\n{1}"
+
+#: CARD.ERUPT_PLUS.NAME
+msgctxt "CARD.ERUPT_PLUS.NAME"
+msgid "Boosted Erupt"
+msgstr "Boosted Erupt"
+
+#: CARD.ERUPT_PLUS2.NAME
+msgctxt "CARD.ERUPT_PLUS2.NAME"
+msgid "Pale Erupt"
+msgstr "Pale Erupt"
+
+#: CARD.ERUPT_PLUS2.DESC
+msgctxt "CARD.ERUPT_PLUS2.DESC"
+msgid "Attack a random argument.\n{EVOKE}: Play <#UPGRADE>3</> Hostile cards in a single turn.\n{1}"
+msgstr "Attack a random argument.\n{EVOKE}: Play <#UPGRADE>3</> Hostile cards in a single turn.\n{1}"
+
+#: CARD.AGITATION.NAME
+msgctxt "CARD.AGITATION.NAME"
+msgid "Agitation"
+msgstr "Agitation"
+
+#: CARD.AGITATION.DESC
+msgctxt "CARD.AGITATION.DESC"
+msgid "Add 3 {HEATED} arguments."
+msgstr "Add 3 {HEATED} arguments."
+
+#: CARD.AGITATION_PLUS.NAME
+msgctxt "CARD.AGITATION_PLUS.NAME"
+msgid "Pale Agitation" 
+msgstr "Pale Agitation" 
+
+#: CARD.AGITATION_PLUS2.NAME
+msgctxt "CARD.AGITATION_PLUS2.NAME"
+msgid "Boosted Agitation" 
+msgstr "Boosted Agitation" 
+
+#: CARD.AGITATION_PLUS2.DESC
+msgctxt "CARD.AGITATION_PLUS2.DESC"
+msgid "<#UPGRADE>Add 4</> {HEATED} arguments."
+msgstr "<#UPGRADE>Add 4</> {HEATED} arguments."
+
+#: CARD.BULLDOZE.NAME
+msgctxt "CARD.BULLDOZE.NAME"
+msgid "Bulldoze"
+msgstr "Bulldoze"
+
+#: CARD.BULLDOZE.DESC
+msgctxt "CARD.BULLDOZE.DESC"
+msgid "Gain: Whenever you play a hostile card, draw a card.\n{EXPEND}"
+msgstr "Gain: Whenever you play a hostile card, draw a card.\n{EXPEND}"
+
+#: CARD.MODIFIER.DESC
+msgctxt "CARD.MODIFIER.DESC"
+msgid "Whenever you play a hostile card, draw {1} {1*card|cards}."
+msgstr "Whenever you play a hostile card, draw {1} {1*card|cards}."
+
+#: CARD.BULLDOZE_PLUS.NAME
+msgctxt "CARD.BULLDOZE_PLUS.NAME"
+msgid "Dominant Bulldoze"
+msgstr "Dominant Bulldoze"
+
+#: CARD.BULLDOZE_PLUS.DESC
+msgctxt "CARD.BULLDOZE_PLUS.DESC"
+msgid "<#UPGRADE>Gain {DOMINANCE 1}.</>\nGain: Whenever you play a hostile card, draw a card\n{EXPEND}."
+msgstr "<#UPGRADE>Gain {DOMINANCE 1}.</>\nGain: Whenever you play a hostile card, draw a card\n{EXPEND}."
+
+#: CARD.BULLDOZE_PLUS2.NAME
+msgctxt "CARD.BULLDOZE_PLUS2.NAME"
+msgid "Stone Bulldoze"
+msgstr "Stone Bulldoze"
+
+#: CARD.BULLDOZE_PLUS2.DESC
+msgctxt "CARD.BULLDOZE_PLUS2.DESC"
+msgid "<#UPGRADE>Gain {1} {COMPOSURE}.</>\nGain: Whenever you play a hostile card, draw a card.\n{EXPEND}"
+msgstr "<#UPGRADE>Gain {1} {COMPOSURE}.</>\nGain: Whenever you play a hostile card, draw a card.\n{EXPEND}"
+
+#: CARD.LOW_BLOW.NAME
+msgctxt "CARD.LOW_BLOW.NAME"
+msgid "Low Blow"
+msgstr "Low Blow"
+
+#: CARD.LOW_BLOW.DESC
+msgctxt "CARD.LOW_BLOW.DESC"
+msgid "Remove target's {COMPOSURE}."
+msgstr "Remove target's {COMPOSURE}."
+
+#: CARD.LOW_BLOW_PLUS.NAME
+msgctxt "CARD.LOW_BLOW_PLUS.NAME"
+msgid "Thief's Low Blow"
+msgstr "Thief's Low Blow"
+
+#: CARD.LOW_BLOW_PLUS.DESC
+msgctxt "CARD.LOW_BLOW_PLUS.DESC"
+msgid "Steal target's {COMPOSURE}."
+msgstr "Steal target's {COMPOSURE}."
+
+#: CARD.LOW_BLOW_PLUS2.NAME
+msgctxt "CARD.LOW_BLOW_PLUS2.NAME"
+msgid "Boosted Low Blow"
+msgstr "Boosted Low Blow"
+
+#: CARD.BELLOW.NAME
+msgctxt "CARD.BELLOW.NAME"
+msgid "Bellow"
+msgstr "Bellow"
+
+#: CARD.BELLOW.DESC
+msgctxt "CARD.BELLOW.DESC"
+msgid "Deal 1 bonus damage for every other Hostile card in your hand."
+msgstr "Deal 1 bonus damage for every other Hostile card in your hand."
+
+#: CARD.BELLOW_PLUS.NAME
+msgctxt "CARD.BELLOW_PLUS.NAME"
+msgid "Tall Bellow"
+msgstr "Tall Bellow"
+
+#: CARD.BELLOW_PLUS2.NAME
+msgctxt "CARD.BELLOW_PLUS2.NAME"
+msgid "Rooted Bellow"
+msgstr "Rooted Bellow"
