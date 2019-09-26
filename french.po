@@ -4800,6 +4800,624 @@ msgctxt "CHARACTER.SPARK_BARON_PROFESSIONAL.TITLE"
 msgid "Professional"
 msgstr "Professionnel"
 
+#: CHARACTER_SKIN.ADMIRALTY_CLERK.1B9682DC-56EB-40DE-9FF4-6ED867030EFB.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_CLERK.1B9682DC-56EB-40DE-9FF4-6ED867030EFB.CUSTOM_BIO"
+msgid "When you need the fastest pencil pusher in the West, you need Yunni."
+msgstr "When you need the fastest pencil pusher in the West, you need Yunni."
+
+#: CHARACTER_SKIN.ADMIRALTY_CLERK.54C3A8F4-5511-4BED-BEA1-4D7EC7F81752.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_CLERK.54C3A8F4-5511-4BED-BEA1-4D7EC7F81752.CUSTOM_BIO"
+msgid "As with most Admiralty, Lasquo is only hard on crime that doesn't pay."
+msgstr "As with most Admiralty, Lasquo is only hard on crime that doesn't pay."
+
+#: CHARACTER_SKIN.ADMIRALTY_CLERK.9AFB3E3A-DDC1-42FE-9A09-8BAE30643B87.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_CLERK.9AFB3E3A-DDC1-42FE-9A09-8BAE30643B87.CUSTOM_BIO"
+msgid "Shroke aren't usually drawn to bureaucracy but then, who is?"
+msgstr "Shroke aren't usually drawn to bureaucracy but then, who is?"
+
+#: CHARACTER_SKIN.ADMIRALTY_CLERK.ADAEEF86-D12E-4BEA-9A6F-04A604F0AD55.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_CLERK.ADAEEF86-D12E-4BEA-9A6F-04A604F0AD55.CUSTOM_BIO"
+msgid "What Rudana has sacrificed in scruples he's made up for in passive aggression."
+msgstr "What Rudana has sacrificed in scruples he's made up for in passive aggression."
+
+#: CHARACTER_SKIN.ADMIRALTY_CLERK.C5B0ECCC-8193-4230-B817-EA3482910E33.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_CLERK.C5B0ECCC-8193-4230-B817-EA3482910E33.CUSTOM_BIO"
+msgid "The name 'Cadwa' comes from an old folk story about outsmarting a cruel foreman, but as a bureaucrat <i>this</i> Cadwa definitely has the upper hand."
+msgstr "The name 'Cadwa' comes from an old folk story about outsmarting a cruel foreman, but as a bureaucrat <i>this</i> Cadwa definitely has the upper hand."
+
+#: CHARACTER_SKIN.ADMIRALTY_CLERK.EF537DE0-4843-4FF4-96B9-5CA0FA24B2ED.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_CLERK.EF537DE0-4843-4FF4-96B9-5CA0FA24B2ED.CUSTOM_BIO"
+msgid "Sandrano chose his career based off the assumption that desk jockeys get the best desk tchochkes."
+msgstr "Sandrano chose his career based off the assumption that desk jockeys get the best desk tchochkes."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.00856D6C-452C-4EDA-983D-65B9D7F51727.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.00856D6C-452C-4EDA-983D-65B9D7F51727.CUSTOM_BIO"
+msgid "It's clear that Efi is difficult to get along with. But aren't the most challenging conquests often the most rewarding?"
+msgstr "It's clear that Efi is difficult to get along with. But aren't the most challenging conquests often the most rewarding?"
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.16414171-C7CA-4BE3-AD32-505CC39725B3.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.16414171-C7CA-4BE3-AD32-505CC39725B3.CUSTOM_BIO"
+msgid "Like many of the rank and file, Rorok finds it easier to enforce the laws she makes up on the spot."
+msgstr "Like many of the rank and file, Rorok finds it easier to enforce the laws she makes up on the spot."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.1660ACED-2A8A-45AD-BD2D-B8446A4C8EE2.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.1660ACED-2A8A-45AD-BD2D-B8446A4C8EE2.CUSTOM_BIO"
+msgid "Surviving Admiralty bootcamp requires either the very cunning or the very resilient. It is unclear if Cobb is either of these."
+msgstr "Surviving Admiralty bootcamp requires either the very cunning or the very resilient. It is unclear if Cobb is either of these."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.18644FCF-43A6-43EC-9708-91FC1A059B33.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.18644FCF-43A6-43EC-9708-91FC1A059B33.CUSTOM_BIO"
+msgid "Fanda can often be heard muttering a prayer under her breath, even while she's making life difficult for others."
+msgstr "Fanda can often be heard muttering a prayer under her breath, even while she's making life difficult for others."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.451655B3-2DF4-4871-B191-5DD9684B672D.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.451655B3-2DF4-4871-B191-5DD9684B672D.CUSTOM_BIO"
+msgid "Fizluck prides himself on work well done, even if it's work that never needed doing."
+msgstr "Fizluck prides himself on work well done, even if it's work that never needed doing."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.7B270AB5-8C96-475D-BFE1-787D3E115B34.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.7B270AB5-8C96-475D-BFE1-787D3E115B34.CUSTOM_BIO"
+msgid "Some folks believe the Admiralty brings order to the Griftlands. Clove knows that if that's true, it's a tall one."
+msgstr "Some folks believe the Admiralty brings order to the Griftlands. Clove knows that if that's true, it's a tall one."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.7CA07166-2F62-4B24-9A99-4A541E77DFE0.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.7CA07166-2F62-4B24-9A99-4A541E77DFE0.CUSTOM_BIO"
+msgid "Ceni's squint suggests that he might be a slow reader. Best not to ask him about it, though."
+msgstr "Ceni's squint suggests that he might be a slow reader. Best not to ask him about it, though."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.8886E80F-6791-416E-A9A3-64492319A65E.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.8886E80F-6791-416E-A9A3-64492319A65E.CUSTOM_BIO"
+msgid "It's easy to recognize the rodent-like cunning in Zex's eyes: it's a key survival trait in the griftlands."
+msgstr "It's easy to recognize the rodent-like cunning in Zex's eyes: it's a key survival trait in the griftlands."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.8A82941F-D96F-4958-A950-270BBA1AD202.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.8A82941F-D96F-4958-A950-270BBA1AD202.CUSTOM_BIO"
+msgid "Where there's a Teema, there's a way. Unfortunately the way might just be closed to you."
+msgstr "Where there's a Teema, there's a way. Unfortunately the way might just be closed to you."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.8EEDA253-7D89-4AA7-BA87-4E94D44B6CBB.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.8EEDA253-7D89-4AA7-BA87-4E94D44B6CBB.CUSTOM_BIO"
+msgid "When you want to put a wall between yourself and the world, you could do worse than Riito."
+msgstr "When you want to put a wall between yourself and the world, you could do worse than Riito."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.A2C01E4F-8F96-4DD4-B657-1EEC078DD6C1.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.A2C01E4F-8F96-4DD4-B657-1EEC078DD6C1.CUSTOM_BIO"
+msgid "Dony believes the Admiralty is doing Hesh's work. Maybe someone should tell the cult that."
+msgstr "Dony believes the Admiralty is doing Hesh's work. Maybe someone should tell the cult that."
+
+#: CHARACTER_SKIN.ADMIRALTY_GOON.CFB571E2-DAC9-408A-B773-98E1DBE67882.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GOON.CFB571E2-DAC9-408A-B773-98E1DBE67882.CUSTOM_BIO"
+msgid "Peri is rumored to be engaged in criminal activity on the side. Regardless of if it's true, you'd hate to be the one who started the rumor."
+msgstr "Peri is rumored to be engaged in criminal activity on the side. Regardless of if it's true, you'd hate to be the one who started the rumor."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.06F576A5-1AC9-4094-8A81-5BC3AFB87EED.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.06F576A5-1AC9-4094-8A81-5BC3AFB87EED.CUSTOM_BIO"
+msgid "Oso has been in the griftlands for only a year, but he seems to be fitting in well."
+msgstr "Oso has been in the griftlands for only a year, but he seems to be fitting in well."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.0BDAF6F8-537B-4ECA-AD82-B186F5E745A2.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.0BDAF6F8-537B-4ECA-AD82-B186F5E745A2.CUSTOM_BIO"
+msgid "Monid supposedly knows the entire Heshian tract by heart, but since she's the only one that does you'll just have to take her word for it."
+msgstr "Monid supposedly knows the entire Heshian tract by heart, but since she's the only one that does you'll just have to take her word for it."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.11EBFDD0-E82B-4D8D-A690-C36947A9013D.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.11EBFDD0-E82B-4D8D-A690-C36947A9013D.CUSTOM_BIO"
+msgid "Rumor has it Nand has been thinking about running for leadership. It's unfortunate that he doesn't live in a democracy."
+msgstr "Rumor has it Nand has been thinking about running for leadership. It's unfortunate that he doesn't live in a democracy."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.2BD9F006-0293-4671-B657-71DD5BF94CBB.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.2BD9F006-0293-4671-B657-71DD5BF94CBB.CUSTOM_BIO"
+msgid "It's easy to feel sorry for someone with a face like Grex's. At least, Grex thinks it should be."
+msgstr "It's easy to feel sorry for someone with a face like Grex's. At least, Grex thinks it should be."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.42F6D40C-25DB-48A6-85C2-C438C27E5183.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.42F6D40C-25DB-48A6-85C2-C438C27E5183.CUSTOM_BIO"
+msgid "Ruck's bar brawls and raucous laughter alike have earned her a reputation she doesn't seem quick to dispel."
+msgstr "Ruck's bar brawls and raucous laughter alike have earned her a reputation she doesn't seem quick to dispel."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.444C2494-38D1-44FC-AA1F-2621F6D9154B.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.444C2494-38D1-44FC-AA1F-2621F6D9154B.CUSTOM_BIO"
+msgid "It's hard to believe Heleet has a reputation for being a bit of a Casanova, but then you always were immune to such charms."
+msgstr "It's hard to believe Heleet has a reputation for being a bit of a Casanova, but then you always were immune to such charms."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.4BB8AC3E-0E43-4BDF-BCC8-675BF0321AED.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.4BB8AC3E-0E43-4BDF-BCC8-675BF0321AED.CUSTOM_BIO"
+msgid "In the grand scheme of things, Ton does pretty well for themselves. On the day to day, though, he usually comes up short."
+msgstr "In the grand scheme of things, Ton does pretty well for themselves. On the day to day, though, he usually comes up short."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.56454A18-6158-49B3-884E-46F568661A39.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.56454A18-6158-49B3-884E-46F568661A39.CUSTOM_BIO"
+msgid "It's clear at a glance that Alo dislikes her job. Maybe making it a little more pleasant might earn you some traction."
+msgstr "It's clear at a glance that Alo dislikes her job. Maybe making it a little more pleasant might earn you some traction."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.7F058754-A9DD-4F4E-A726-A1910E98264D.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.7F058754-A9DD-4F4E-A726-A1910E98264D.CUSTOM_BIO"
+msgid "Folks often look to Aweir as a natural leader, even if the hierarchy doesn't necessarily agree."
+msgstr "Folks often look to Aweir as a natural leader, even if the hierarchy doesn't necessarily agree."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.80F2BC8D-AA60-4F9C-9728-0A1200C1477F.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.80F2BC8D-AA60-4F9C-9728-0A1200C1477F.CUSTOM_BIO"
+msgid "Sometimes when you stare into the void, Feporo stares back."
+msgstr "Sometimes when you stare into the void, Feporo stares back."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.A0360255-9228-46EE-A847-AC8130818590.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.A0360255-9228-46EE-A847-AC8130818590.CUSTOM_BIO"
+msgid "For a person who has friends, Zita hasn't always been known to treat them very well."
+msgstr "For a person who has friends, Zita hasn't always been known to treat them very well."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.A7936CC7-FA9D-4E3D-9C17-94EED8F19274.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.A7936CC7-FA9D-4E3D-9C17-94EED8F19274.CUSTOM_BIO"
+msgid "Gao has one of those faces you love to hate. Or hate to love? It's interchangeable, really."
+msgstr "Gao has one of those faces you love to hate. Or hate to love? It's interchangeable, really."
+
+#: CHARACTER_SKIN.ADMIRALTY_GUARD.ABF62AE8-6F10-4F7E-9C6E-084D2C7E9747.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_GUARD.ABF62AE8-6F10-4F7E-9C6E-084D2C7E9747.CUSTOM_BIO"
+msgid "Word is Dano spends her downtime knitting and her uptime hitting. Best to approach her when her hands are empty, either way."
+msgstr "Word is Dano spends her downtime knitting and her uptime hitting. Best to approach her when her hands are empty, either way."
+
+#: CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.42E62AC8-3DAD-41E1-BC4D-EA89E94C52D6.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.42E62AC8-3DAD-41E1-BC4D-EA89E94C52D6.CUSTOM_BIO"
+msgid "With a name like Ashgora it's clear he comes from pedigree. No doubt his parents wish he'd stop drowning in the gene pool."
+msgstr "With a name like Ashgora it's clear he comes from pedigree. No doubt his parents wish he'd stop drowning in the gene pool."
+
+#: CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.49A76143-7799-4E8A-8B7A-A4C6AAA595D1.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.49A76143-7799-4E8A-8B7A-A4C6AAA595D1.CUSTOM_BIO"
+msgid "Cambury has a reputation for eloquence and poise in difficult situations. It'd be fun to see if it holds up."
+msgstr "Cambury has a reputation for eloquence and poise in difficult situations. It'd be fun to see if it holds up."
+
+#: CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.5051C89D-6B28-40B7-9346-19FD9BDFF78A.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.5051C89D-6B28-40B7-9346-19FD9BDFF78A.CUSTOM_BIO"
+msgid "You've heard Ebbe has a steel gut, a steel toe, and a steely eye.So don't punch him in any of those places."
+msgstr "You've heard Ebbe has a steel gut, a steel toe, and a steely eye.So don't punch him in any of those places."
+
+#: CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.8CB5729F-8DA6-426C-A7E0-BFE09106E7B9.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.8CB5729F-8DA6-426C-A7E0-BFE09106E7B9.CUSTOM_BIO"
+msgid "There's a curl to Winnie's lip that might suggest a sense of humor buried deep down inside—or maybe just a bad smell."
+msgstr "There's a curl to Winnie's lip that might suggest a sense of humor buried deep down inside—or maybe just a bad smell."
+
+#: CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.D16BF3BF-CCC0-4CB4-A018-7349CBC33863.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.D16BF3BF-CCC0-4CB4-A018-7349CBC33863.CUSTOM_BIO"
+msgid "Feldspar has a reputation for fixing difficult problems, when he's not making problems <i>more</i> difficult, first."
+msgstr "Feldspar has a reputation for fixing difficult problems, when he's not making problems <i>more</i> difficult, first."
+
+#: CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.DB443310-7594-4050-91DB-918F41159E90.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.DB443310-7594-4050-91DB-918F41159E90.CUSTOM_BIO"
+msgid "Asnitho likes to spend her time off walking in nature. And she's got the yote scars to prove it."
+msgstr "Asnitho likes to spend her time off walking in nature. And she's got the yote scars to prove it."
+
+#: CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.E6338B8F-D48B-4236-9DA7-F3B7C83E9771.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.E6338B8F-D48B-4236-9DA7-F3B7C83E9771.CUSTOM_BIO"
+msgid "Phinoon is often seen killing it on the dance floor, but it's unclear if this means she's a good dancer or a terrible hunter."
+msgstr "Phinoon is often seen killing it on the dance floor, but it's unclear if this means she's a good dancer or a terrible hunter."
+
+#: CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.ED2F9063-6599-4CDC-8D86-DEC98F7BA6A5.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.ED2F9063-6599-4CDC-8D86-DEC98F7BA6A5.CUSTOM_BIO"
+msgid "Folks say Gen has been seen talking to revolutionary types, but how would anyone know? It's not like they wear a uniform."
+msgstr "Folks say Gen has been seen talking to revolutionary types, but how would anyone know? It's not like they wear a uniform."
+
+#: CHARACTER_SKIN.BANDIT_CAPTAIN.9D224F13-55F3-4278-A251-5DEC375478A0.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_CAPTAIN.9D224F13-55F3-4278-A251-5DEC375478A0.CUSTOM_BIO"
+msgid "You haven't heard much about Tarq, but you're pretty sure you saw his name carved into a table at the Grog n' Dog. Someone else's name was carved under it—and then gouged out. \n\nEven bandits get the blues."
+msgstr "You haven't heard much about Tarq, but you're pretty sure you saw his name carved into a table at the Grog n' Dog. Someone else's name was carved under it—and then gouged out. \n\nEven bandits get the blues."
+
+#: CHARACTER_SKIN.BANDIT_CAPTAIN.AEE58920-E2D5-4C6D-8C83-42EF23034015.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_CAPTAIN.AEE58920-E2D5-4C6D-8C83-42EF23034015.CUSTOM_BIO"
+msgid "As her name suggests, Justice is firm, ruthless, and has very little sense of irony."
+msgstr "As her name suggests, Justice is firm, ruthless, and has very little sense of irony."
+
+#: CHARACTER_SKIN.BANDIT_CAPTAIN.CA54502A-8AE4-49AE-994B-F6BFE0D92823.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_CAPTAIN.CA54502A-8AE4-49AE-994B-F6BFE0D92823.CUSTOM_BIO"
+msgid "Ferg has a reputation for doing business fast and cutthroat. Better to be holding the knife rather than under it."
+msgstr "Ferg has a reputation for doing business fast and cutthroat. Better to be holding the knife rather than under it."
+
+#: CHARACTER_SKIN.BANDIT_CAPTAIN.FEAC1FA4-C431-4A8D-A780-5666278A3273.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_CAPTAIN.FEAC1FA4-C431-4A8D-A780-5666278A3273.CUSTOM_BIO"
+msgid "Bandits don't generally take to leadership, unless it's as tough and ruthless as Nup."
+msgstr "Bandits don't generally take to leadership, unless it's as tough and ruthless as Nup."
+
+#: CHARACTER_SKIN.BANDIT_GOON.0E632EBA-C6AC-49DA-AEBE-32DF85A8CD08.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_GOON.0E632EBA-C6AC-49DA-AEBE-32DF85A8CD08.CUSTOM_BIO"
+msgid "When push comes to shove, Tiq pushes and shoves. And punches. And maybe even bites."
+msgstr "When push comes to shove, Tiq pushes and shoves. And punches. And maybe even bites."
+
+#: CHARACTER_SKIN.BANDIT_GOON.258373AB-3CFE-49B3-874E-E11E5E41816D.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_GOON.258373AB-3CFE-49B3-874E-E11E5E41816D.CUSTOM_BIO"
+msgid "The scars on her hands suggest Prekt is no stranger to a stacked fight."
+msgstr "The scars on her hands suggest Prekt is no stranger to a stacked fight."
+
+#: CHARACTER_SKIN.BANDIT_GOON.95CF259E-8D1E-42FD-A228-86CE04FFB8AA.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_GOON.95CF259E-8D1E-42FD-A228-86CE04FFB8AA.CUSTOM_BIO"
+msgid "The only thing more menacing than Lux's reputation is her laugh."
+msgstr "The only thing more menacing than Lux's reputation is her laugh."
+
+#: CHARACTER_SKIN.BANDIT_GOON.C2D248A1-7131-4CCA-AFB2-3501FFC2D35B.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_GOON.C2D248A1-7131-4CCA-AFB2-3501FFC2D35B.CUSTOM_BIO"
+msgid "If you had to get robbed, it wouldn't be too bad to get robbed by a face like Goni's."
+msgstr "If you had to get robbed, it wouldn't be too bad to get robbed by a face like Goni's."
+
+#: CHARACTER_SKIN.BANDIT_GOON.DCDDD0F1-70DC-4E56-BDE8-8B352192351C.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_GOON.DCDDD0F1-70DC-4E56-BDE8-8B352192351C.CUSTOM_BIO"
+msgid "Bax is dangerously predictable: he'll sell you out for a hit of slurry, then break your heart when he feels bad about it."
+msgstr "Bax is dangerously predictable: he'll sell you out for a hit of slurry, then break your heart when he feels bad about it."
+
+#: CHARACTER_SKIN.BANDIT_GOON2.489E75ED-4AF7-4625-93D4-B087D6E676C0.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_GOON2.489E75ED-4AF7-4625-93D4-B087D6E676C0.CUSTOM_BIO"
+msgid "Apparently Blane once dreamed of being a monster hunter, so his life satisfaction is undoubtedly not high."
+msgstr "Apparently Blane once dreamed of being a monster hunter, so his life satisfaction is undoubtedly not high."
+
+#: CHARACTER_SKIN.BANDIT_GOON2.70D6FC42-1491-4684-A3C5-D309E9ABB860.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_GOON2.70D6FC42-1491-4684-A3C5-D309E9ABB860.CUSTOM_BIO"
+msgid "There are plenty of jobs for the adventurous type in Havaria, but it takes a special kind of nerve to cut purses, and Dauler has it in spades."
+msgstr "There are plenty of jobs for the adventurous type in Havaria, but it takes a special kind of nerve to cut purses, and Dauler has it in spades."
+
+#: CHARACTER_SKIN.BANDIT_GOON2.9A869D0E-B558-451E-8F7A-C022D122534D.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_GOON2.9A869D0E-B558-451E-8F7A-C022D122534D.CUSTOM_BIO"
+msgid "For a criminal, Murk is pretty weak in resolve—but he makes up for it by being quick on his feet."
+msgstr "For a criminal, Murk is pretty weak in resolve—but he makes up for it by being quick on his feet."
+
+#: CHARACTER_SKIN.BANDIT_GOON2.F16D05EB-4E13-47B7-819D-6B5A130F3491.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_GOON2.F16D05EB-4E13-47B7-819D-6B5A130F3491.CUSTOM_BIO"
+msgid "Hest might be intimidating if she didn't have a habit of chewing her nails to the quick. "
+msgstr "Hest might be intimidating if she didn't have a habit of chewing her nails to the quick. "
+
+#: CHARACTER_SKIN.BANDIT_RAIDER.43B2E056-E375-4D73-9E60-FA92558206C9.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_RAIDER.43B2E056-E375-4D73-9E60-FA92558206C9.CUSTOM_BIO"
+msgid "It's hard work being a bandit—even harder when you're hooked on the slurry. But Ash gets the job done."
+msgstr "It's hard work being a bandit—even harder when you're hooked on the slurry. But Ash gets the job done."
+
+#: CHARACTER_SKIN.BANDIT_RAIDER.43D1336B-E04C-4FEF-A036-1E8400F34FCF.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_RAIDER.43D1336B-E04C-4FEF-A036-1E8400F34FCF.CUSTOM_BIO"
+msgid "Rather than a bad side, Kuga seems to have a bad continent. Best to stay off it."
+msgstr "Rather than a bad side, Kuga seems to have a bad continent. Best to stay off it."
+
+#: CHARACTER_SKIN.BANDIT_RAIDER.A972959F-3F58-4911-82B5-C50387C2AF3A.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_RAIDER.A972959F-3F58-4911-82B5-C50387C2AF3A.CUSTOM_BIO"
+msgid "Hiqu's mysterious poetry has been found scribbled in privies from Murder Bay to the Bread Fields."
+msgstr "Hiqu's mysterious poetry has been found scribbled in privies from Murder Bay to the Bread Fields."
+
+#: CHARACTER_SKIN.BANDIT_RAIDER.C5637358-6E28-4BF1-88EA-4129079F47EC.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BANDIT_RAIDER.C5637358-6E28-4BF1-88EA-4129079F47EC.CUSTOM_BIO"
+msgid "Good bandits are hard to come by. Fortunately, there's Durno."
+msgstr "Good bandits are hard to come by. Fortunately, there's Durno."
+
+#: CHARACTER_SKIN.BARTENDER.3771AFBB-FE1D-4B01-BC7F-59342B27C6F6.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BARTENDER.3771AFBB-FE1D-4B01-BC7F-59342B27C6F6.CUSTOM_BIO"
+msgid "The Heshians say good food brings you closer to the divine. Koqy could be a priest."
+msgstr "The Heshians say good food brings you closer to the divine. Koqy could be a priest."
+
+#: CHARACTER_SKIN.BARTENDER.4B36014F-DC5F-40BA-B3EB-6E727F9ED755.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BARTENDER.4B36014F-DC5F-40BA-B3EB-6E727F9ED755.CUSTOM_BIO"
+msgid "A good bartender knows how to mix a drink. The better bartenders know how to fix a fight. Irkrow does both."
+msgstr "A good bartender knows how to mix a drink. The better bartenders know how to fix a fight. Irkrow does both."
+
+#: CHARACTER_SKIN.BARTENDER.C919F55E-2FF9-450F-B887-1312C6935B71.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.BARTENDER.C919F55E-2FF9-450F-B887-1312C6935B71.CUSTOM_BIO"
+msgid "Wrux has never met a paying customer he didn't have patience for."
+msgstr "Wrux has never met a paying customer he didn't have patience for."
+
+#: CHARACTER_SKIN.CHEMIST.AF48DCAB-A73F-4E75-B6D0-CA80113C5A03.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.CHEMIST.AF48DCAB-A73F-4E75-B6D0-CA80113C5A03.CUSTOM_BIO"
+msgid "It's unclear whether Leesha's easy going attitude is a result of her temperament, or the fumes radiating off her wares."
+msgstr "It's unclear whether Leesha's easy going attitude is a result of her temperament, or the fumes radiating off her wares."
+
+#: CHARACTER_SKIN.FOREMAN.448F20F8-8655-4B4E-8EEA-84989F0DC825.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.FOREMAN.448F20F8-8655-4B4E-8EEA-84989F0DC825.CUSTOM_BIO"
+msgid "Word is, Del fights for his workers. But nobody's ever really selfless in the griftlands, right?"
+msgstr "Word is, Del fights for his workers. But nobody's ever really selfless in the griftlands, right?"
+
+#: CHARACTER_SKIN.FOREMAN.525A4014-7A4C-49C7-82FA-53B1B59DE913.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.FOREMAN.525A4014-7A4C-49C7-82FA-53B1B59DE913.CUSTOM_BIO"
+msgid "Word is Jeetee's a good boss, but in Havaria that doesn't necessarily mean she's a fair one."
+msgstr "Word is Jeetee's a good boss, but in Havaria that doesn't necessarily mean she's a fair one."
+
+#: CHARACTER_SKIN.FOREMAN.770A00C5-423E-4566-A98F-1F46FCADAEA9.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.FOREMAN.770A00C5-423E-4566-A98F-1F46FCADAEA9.CUSTOM_BIO"
+msgid "Like most foremen, Gode prefers folks who can get the job done."
+msgstr "Like most foremen, Gode prefers folks who can get the job done."
+
+#: CHARACTER_SKIN.FOREMAN.86CB4126-295F-4628-A3FB-265924D4B605.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.FOREMAN.86CB4126-295F-4628-A3FB-265924D4B605.CUSTOM_BIO"
+msgid "Just because Sentru's in charge, doesn't mean the labor's any lighter. "
+msgstr "Just because Sentru's in charge, doesn't mean the labor's any lighter. "
+
+#: CHARACTER_SKIN.HEAVY_LABORER.780C0907-0F36-445E-9601-624686765FF4.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.HEAVY_LABORER.780C0907-0F36-445E-9601-624686765FF4.CUSTOM_BIO"
+msgid "Between the lumin stains and the fire in her eyes, it's easy to see a bit of yourself in Pluk."
+msgstr "Between the lumin stains and the fire in her eyes, it's easy to see a bit of yourself in Pluk."
+
+#: CHARACTER_SKIN.HEAVY_LABORER.B408BA13-DB06-4F07-A7E5-890DF187CD2C.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.HEAVY_LABORER.B408BA13-DB06-4F07-A7E5-890DF187CD2C.CUSTOM_BIO"
+msgid "It takes a real devotee to Hesh to work with the holy stuff and still find time to pray."
+msgstr "It takes a real devotee to Hesh to work with the holy stuff and still find time to pray."
+
+#: CHARACTER_SKIN.HEAVY_LABORER.F48F5592-05DD-4894-BD77-8CDD164DCE02.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.HEAVY_LABORER.F48F5592-05DD-4894-BD77-8CDD164DCE02.CUSTOM_BIO"
+msgid "You might call Erbla radiant, but that's probably just the lumin stains."
+msgstr "You might call Erbla radiant, but that's probably just the lumin stains."
+
+#: CHARACTER_SKIN.JAKES_RUNNER.3507C8CF-F635-42B8-939F-EF05B1F6CBDB.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_RUNNER.3507C8CF-F635-42B8-939F-EF05B1F6CBDB.CUSTOM_BIO"
+msgid "Most jarackles struggle to get the respect they deserve, so it says a lot that folks speak Tlok's name like he's one to watch out for."
+msgstr "Most jarackles struggle to get the respect they deserve, so it says a lot that folks speak Tlok's name like he's one to watch out for."
+
+#: CHARACTER_SKIN.JAKES_RUNNER.354404EF-B560-4FE1-86E5-DDE04F7FC1F8.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_RUNNER.354404EF-B560-4FE1-86E5-DDE04F7FC1F8.CUSTOM_BIO"
+msgid "Juke's a bit of a newcomer on the Havarian smuggling scene, but she makes up for it by charging a ruthless fee."
+msgstr "Juke's a bit of a newcomer on the Havarian smuggling scene, but she makes up for it by charging a ruthless fee."
+
+#: CHARACTER_SKIN.JAKES_RUNNER.4A11F0E4-EC9A-440B-919C-F2BAEF62D342.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_RUNNER.4A11F0E4-EC9A-440B-919C-F2BAEF62D342.CUSTOM_BIO"
+msgid "You've heard that Cwoki has a collection of trading cards depicting the upper echelon of the Heshian cult—from cardinals to arbishops. Of course, that's the Deltrean side. Unlikely Havarian clergy warrant any mention."
+msgstr "You've heard that Cwoki has a collection of trading cards depicting the upper echelon of the Heshian cult—from cardinals to arbishops. Of course, that's the Deltrean side. Unlikely Havarian clergy warrant any mention."
+
+#: CHARACTER_SKIN.JAKES_RUNNER.4EC03E7C-77AB-4FBF-981B-791C2E6EAE6B.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_RUNNER.4EC03E7C-77AB-4FBF-981B-791C2E6EAE6B.CUSTOM_BIO"
+msgid "Not all jakes do things by the book, but Queek's reputation, at least, is queeky clean."
+msgstr "Not all jakes do things by the book, but Queek's reputation, at least, is queeky clean."
+
+#: CHARACTER_SKIN.JAKES_RUNNER.6085190A-26BF-4711-A9E6-BD30C7D05B99.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_RUNNER.6085190A-26BF-4711-A9E6-BD30C7D05B99.CUSTOM_BIO"
+msgid "Creepily enough, Gree has a reputation for singing her assassin contracts to their death. "
+msgstr "Creepily enough, Gree has a reputation for singing her assassin contracts to their death. "
+
+#: CHARACTER_SKIN.JAKES_RUNNER.94CFC8F0-AE30-4ECB-9190-B1A274F0C5BB.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_RUNNER.94CFC8F0-AE30-4ECB-9190-B1A274F0C5BB.CUSTOM_BIO"
+msgid "Apparently Ronno lost all the hearing in her right earnub during a swamp gas explosion. But she hears extra-well out of the left one, so you still can't get the drop on her."
+msgstr "Apparently Ronno lost all the hearing in her right earnub during a swamp gas explosion. But she hears extra-well out of the left one, so you still can't get the drop on her."
+
+#: CHARACTER_SKIN.JAKES_RUNNER.DB1289E0-30EA-490C-BE00-3C6B9FFBE3EA.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_RUNNER.DB1289E0-30EA-490C-BE00-3C6B9FFBE3EA.CUSTOM_BIO"
+msgid "\"Pozgo\" was a name that apparently belonged to some ancient ruler of a long-forgotten planet. Clearly Pozgo's parents had aspirations that probably didn't amount to him doing somebody else's dirty work."
+msgstr "\"Pozgo\" was a name that apparently belonged to some ancient ruler of a long-forgotten planet. Clearly Pozgo's parents had aspirations that probably didn't amount to him doing somebody else's dirty work."
+
+#: CHARACTER_SKIN.JAKES_RUNNER.E314A2E6-31F4-464D-B05C-AF63FFB50E35.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_RUNNER.E314A2E6-31F4-464D-B05C-AF63FFB50E35.CUSTOM_BIO"
+msgid "Grunjax has breath so rancid you can smell it after he's left the room. But he sure does have a nice smile."
+msgstr "Grunjax has breath so rancid you can smell it after he's left the room. But he sure does have a nice smile."
+
+#: CHARACTER_SKIN.JAKES_RUNNER.EF585E8A-E238-47C6-9FC0-7D437D278327.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_RUNNER.EF585E8A-E238-47C6-9FC0-7D437D278327.CUSTOM_BIO"
+msgid "You've heard Minfen used to be an indebted worker, just like you. Most of you don't make it out."
+msgstr "You've heard Minfen used to be an indebted worker, just like you. Most of you don't make it out."
+
+#: CHARACTER_SKIN.JAKES_SMUGGLER.1156ACD1-23CB-4E69-871D-46C999CC8A22.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.1156ACD1-23CB-4E69-871D-46C999CC8A22.CUSTOM_BIO"
+msgid "This smuggler has a reputation for negotiating steep fees for his services. Perhaps the origin of the Havarian phrase \"coughing up the cash\"."
+msgstr "This smuggler has a reputation for negotiating steep fees for his services. Perhaps the origin of the Havarian phrase \"coughing up the cash\"."
+
+#: CHARACTER_SKIN.JAKES_SMUGGLER.14A31F68-6542-465F-AAB4-7E27B05FFB12.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.14A31F68-6542-465F-AAB4-7E27B05FFB12.CUSTOM_BIO"
+msgid "Ban can knock some sense into, or out of, you. Your choice."
+msgstr "Ban can knock some sense into, or out of, you. Your choice."
+
+#: CHARACTER_SKIN.JAKES_SMUGGLER.2446EF8A-1D18-4C4D-89B1-5933DF92F5A6.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.2446EF8A-1D18-4C4D-89B1-5933DF92F5A6.CUSTOM_BIO"
+msgid "Enit's success as a smuggler is nevertheless earned in spite of her being known to skim a little off the top of whatever it is she's smuggling."
+msgstr "Enit's success as a smuggler is nevertheless earned in spite of her being known to skim a little off the top of whatever it is she's smuggling."
+
+#: CHARACTER_SKIN.JAKES_SMUGGLER.253074D0-B94C-4E33-A5F0-771E9BAD8E90.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.253074D0-B94C-4E33-A5F0-771E9BAD8E90.CUSTOM_BIO"
+msgid "You have a feeling you once lost a job to this guy, but that might've been a different Alongwy. You hadn't heard he'd changed work."
+msgstr "You have a feeling you once lost a job to this guy, but that might've been a different Alongwy. You hadn't heard he'd changed work."
+
+#: CHARACTER_SKIN.JAKES_SMUGGLER.3DD1AB95-3C39-4DE0-B08C-D50C46D192CE.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.3DD1AB95-3C39-4DE0-B08C-D50C46D192CE.CUSTOM_BIO"
+msgid "Nobody in Havaria's ever heard of a smuggler with a heart of gold. And nobody in Havaria's ever heard of Topo. It's unlikely the two are related."
+msgstr "Nobody in Havaria's ever heard of a smuggler with a heart of gold. And nobody in Havaria's ever heard of Topo. It's unlikely the two are related."
+
+#: CHARACTER_SKIN.JAKES_SMUGGLER.7D17C121-94AC-4354-A6BE-F2AD927E661B.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.7D17C121-94AC-4354-A6BE-F2AD927E661B.CUSTOM_BIO"
+msgid "Folks say Xiit is a miracle worker, but the miracle is that he manages to pull himself out of the gutter each day."
+msgstr "Folks say Xiit is a miracle worker, but the miracle is that he manages to pull himself out of the gutter each day."
+
+#: CHARACTER_SKIN.JAKES_SMUGGLER.B0537542-7381-44F4-8C92-DA97EB67254A.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.B0537542-7381-44F4-8C92-DA97EB67254A.CUSTOM_BIO"
+msgid "Voh charges extra for service with a smile, but it doesn't seem worth the investment."
+msgstr "Voh charges extra for service with a smile, but it doesn't seem worth the investment."
+
+#: CHARACTER_SKIN.JAKES_SMUGGLER.C8F7D735-EBD5-4482-A48D-3244944395E5.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.C8F7D735-EBD5-4482-A48D-3244944395E5.CUSTOM_BIO"
+msgid "If this is the same Leeqi, then he shipped off on half the derrick."
+msgstr "If this is the same Leeqi, then he shipped off on half the derrick."
+
+#: CHARACTER_SKIN.JAKES_SMUGGLER.CD843338-6A66-4429-AD22-A812BBCF6F47.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.CD843338-6A66-4429-AD22-A812BBCF6F47.CUSTOM_BIO"
+msgid "You've heard Qita's name spoken like it's got a razor's edge, but you don't remember the details."
+msgstr "You've heard Qita's name spoken like it's got a razor's edge, but you don't remember the details."
+
+#: CHARACTER_SKIN.JAKES_SMUGGLER.FF8ADE03-02EE-4754-ACE0-1186169E7C97.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.FF8ADE03-02EE-4754-ACE0-1186169E7C97.CUSTOM_BIO"
+msgid "Bina comes from a long line of warriors, known for getting the job done."
+msgstr "Bina comes from a long line of warriors, known for getting the job done."
+
+#: CHARACTER_SKIN.KASHIO.C095C17D-98AC-463C-B70F-5EEDAE4A5FC3.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.KASHIO.C095C17D-98AC-463C-B70F-5EEDAE4A5FC3.CUSTOM_BIO"
+msgid "The biggest debt-broker in Murder Bay, Kashio was once an indentured laborer who earned herself a reputation as a self-made kingpin."
+msgstr "The biggest debt-broker in Murder Bay, Kashio was once an indentured laborer who earned herself a reputation as a self-made kingpin."
+
+#: CHARACTER_SKIN.LABORER.03A0184A-F084-45FC-886E-AFF564A54E5B.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.LABORER.03A0184A-F084-45FC-886E-AFF564A54E5B.CUSTOM_BIO"
+msgid "Some folks look like they can handle the rough life more than others. Pazlock? Yeah, he'll do."
+msgstr "Some folks look like they can handle the rough life more than others. Pazlock? Yeah, he'll do."
+
+#: CHARACTER_SKIN.LABORER.13EDE9E2-5E95-490C-96E9-16C6C7F00BC2.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.LABORER.13EDE9E2-5E95-490C-96E9-16C6C7F00BC2.CUSTOM_BIO"
+msgid "The hard times have taken their toll on Yibbit—but Yibbit doesn't seem to mind."
+msgstr "The hard times have taken their toll on Yibbit—but Yibbit doesn't seem to mind."
+
+#: CHARACTER_SKIN.LABORER.76FF1C88-4A52-4194-803A-31221DFB8DC2.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.LABORER.76FF1C88-4A52-4194-803A-31221DFB8DC2.CUSTOM_BIO"
+msgid "Toeren has the face of someone hard done by and almost done."
+msgstr "Toeren has the face of someone hard done by and almost done."
+
+#: CHARACTER_SKIN.LABORER.85E7AE2A-44C0-4165-B34E-4ACFA86FCF17.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.LABORER.85E7AE2A-44C0-4165-B34E-4ACFA86FCF17.CUSTOM_BIO"
+msgid "You wouldn't want Brill's job. But then, neither does Brill."
+msgstr "You wouldn't want Brill's job. But then, neither does Brill."
+
+#: CHARACTER_SKIN.LABORER.ABA8D69F-8AF4-4576-B89B-A35D5E388663.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.LABORER.ABA8D69F-8AF4-4576-B89B-A35D5E388663.CUSTOM_BIO"
+msgid "The life expectancy of the average laborer in Havaria isn't long. And Viss looks twice that old."
+msgstr "The life expectancy of the average laborer in Havaria isn't long. And Viss looks twice that old."
+
+#: CHARACTER_SKIN.LABORER.B0836631-FA4A-4401-986C-D768022EEBAE.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.LABORER.B0836631-FA4A-4401-986C-D768022EEBAE.CUSTOM_BIO"
+msgid "By the callouses on his hand and the heavy sigh on his lips, it's clear Veep has been worked to the bone."
+msgstr "By the callouses on his hand and the heavy sigh on his lips, it's clear Veep has been worked to the bone."
+
+#: CHARACTER_SKIN.LABORER.BD0D6DF6-964A-4A28-8DFA-B9C381E255E0.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.LABORER.BD0D6DF6-964A-4A28-8DFA-B9C381E255E0.CUSTOM_BIO"
+msgid "Ekel's made a reputation of keeping her chin up and taking the blows that come her way. Not sure that's a reputation anyone should want, really."
+msgstr "Ekel's made a reputation of keeping her chin up and taking the blows that come her way. Not sure that's a reputation anyone should want, really."
+
+#: CHARACTER_SKIN.LUMINARI.8750D49E-130B-4AED-9248-C8370DB9C1C6.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.LUMINARI.8750D49E-130B-4AED-9248-C8370DB9C1C6.CUSTOM_BIO"
+msgid "All Luminari are a bit stuck-up, but Mallowi's got sermons on the brain and a pike up his abyss."
+msgstr "All Luminari are a bit stuck-up, but Mallowi's got sermons on the brain and a pike up his abyss."
+
+#: CHARACTER_SKIN.LUMINARI.96F130CA-64EC-4C6F-BFB9-4BB6A7B4AB19.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.LUMINARI.96F130CA-64EC-4C6F-BFB9-4BB6A7B4AB19.CUSTOM_BIO"
+msgid "Few folks survive the rigorous training needed to become Luminari. Ionis wears it like a halo of sunshine."
+msgstr "Few folks survive the rigorous training needed to become Luminari. Ionis wears it like a halo of sunshine."
+
+#: CHARACTER_SKIN.PLOCKA.65A069BC-46A7-4206-A645-EE2EB071BBC3.CUSTOM_NICKNAME
+#, fuzzy
+msgctxt "CHARACTER_SKIN.PLOCKA.65A069BC-46A7-4206-A645-EE2EB071BBC3.CUSTOM_NICKNAME"
+msgid "*The Swab"
+msgstr "*The Swab"
+
+#: CHARACTER_SKIN.PRIEST.6CC472C9-B618-4F02-9AD8-17EC6FE89E17.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.PRIEST.6CC472C9-B618-4F02-9AD8-17EC6FE89E17.CUSTOM_BIO"
+msgid "Alta's the type who thinks the sky itself is proof of her faith—cus it hasn't fallen down, yet."
+msgstr "Alta's the type who thinks the sky itself is proof of her faith—cus it hasn't fallen down, yet."
+
+#: CHARACTER_SKIN.PRIEST.FF4DB3F2-105E-4179-A64D-81982C293496.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.PRIEST.FF4DB3F2-105E-4179-A64D-81982C293496.CUSTOM_BIO"
+msgid "Having your own parish is the closest a Deltrean can get to nobility. The rules are different in Havaria, but maybe nobody told Dellena that."
+msgstr "Having your own parish is the closest a Deltrean can get to nobility. The rules are different in Havaria, but maybe nobody told Dellena that."
+
+#: CHARACTER_SKIN.WEALTHY_MERCHANT.A053E276-41F9-48F4-B74A-642596481FDC.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.WEALTHY_MERCHANT.A053E276-41F9-48F4-B74A-642596481FDC.CUSTOM_BIO"
+msgid "Allyn's prices are fair, even when the skies aren't."
+msgstr "Allyn's prices are fair, even when the skies aren't."
+
+#: CHARACTER_SKIN.WEALTHY_MERCHANT.C20A1CD9-B06A-44FF-AA6D-20D121ADAF33.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.WEALTHY_MERCHANT.C20A1CD9-B06A-44FF-AA6D-20D121ADAF33.CUSTOM_BIO"
+msgid "You get the feeling Onnawor would do anything to turn a profit."
+msgstr "You get the feeling Onnawor would do anything to turn a profit."
+
+#: CHARACTER_SKIN.WEALTHY_MERCHANT.D2594252-7AE8-4620-8482-BE6F6EF4B8FF.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.WEALTHY_MERCHANT.D2594252-7AE8-4620-8482-BE6F6EF4B8FF.CUSTOM_BIO"
+msgid "He speaks with a Deltrean accent, implying he was born on the mainland."
+msgstr "He speaks with a Deltrean accent, implying he was born on the mainland."
+
+#: CHARACTER_SKIN.WEALTHY_MERCHANT.EDBE4545-A328-444A-A598-BEB3DFBF9FFA.CUSTOM_BIO
+#, fuzzy
+msgctxt "CHARACTER_SKIN.WEALTHY_MERCHANT.EDBE4545-A328-444A-A598-BEB3DFBF9FFA.CUSTOM_BIO"
+msgid "Word is, Lili would sell his own grandmother if he thought he could buy her back at half price next week."
+msgstr "Word is, Lili would sell his own grandmother if he thought he could buy her back at half price next week."
+
 #: CHARACTER_SKIN.ADMIRALTY_CLERK.1B9682DC-56EB-40DE-9FF4-6ED867030EFB.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.ADMIRALTY_CLERK.1B9682DC-56EB-40DE-9FF4-6ED867030EFB.CUSTOM_NAME"
 msgid "Yunni"
@@ -4995,10 +5613,25 @@ msgctxt "CHARACTER_SKIN.ADMIRALTY_PATROL_LEADER.ED2F9063-6599-4CDC-8D86-DEC98F7B
 msgid "Gen"
 msgstr "Gen"
 
+#: CHARACTER_SKIN.AUTOMECH.4B7A18AB-4201-47D1-91D5-7AA2FDD9D5FA.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.AUTOMECH.4B7A18AB-4201-47D1-91D5-7AA2FDD9D5FA.CUSTOM_NAME"
+msgid "Automech"
+msgstr "Automech"
+
+#: CHARACTER_SKIN.AUTOMECH_VENDOR.AA12474C-8FCA-42CD-9915-199E781A386F.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.AUTOMECH_VENDOR.AA12474C-8FCA-42CD-9915-199E781A386F.CUSTOM_NAME"
+msgid "Automech"
+msgstr "Automech"
+
 #: CHARACTER_SKIN.BANDIT_CAPTAIN.9D224F13-55F3-4278-A251-5DEC375478A0.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.BANDIT_CAPTAIN.9D224F13-55F3-4278-A251-5DEC375478A0.CUSTOM_NAME"
 msgid "Tarq"
 msgstr "Tarq"
+
+#: CHARACTER_SKIN.BANDIT_CAPTAIN.AEE58920-E2D5-4C6D-8C83-42EF23034015.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.BANDIT_CAPTAIN.AEE58920-E2D5-4C6D-8C83-42EF23034015.CUSTOM_NAME"
+msgid "Justice"
+msgstr "Justice"
 
 #: CHARACTER_SKIN.BANDIT_CAPTAIN.CA54502A-8AE4-49AE-994B-F6BFE0D92823.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.BANDIT_CAPTAIN.CA54502A-8AE4-49AE-994B-F6BFE0D92823.CUSTOM_NAME"
@@ -5009,6 +5642,11 @@ msgstr "Ferg"
 msgctxt "CHARACTER_SKIN.BANDIT_CAPTAIN.FEAC1FA4-C431-4A8D-A780-5666278A3273.CUSTOM_NAME"
 msgid "Nup"
 msgstr "Nup"
+
+#: CHARACTER_SKIN.BANDIT_GOON.0E632EBA-C6AC-49DA-AEBE-32DF85A8CD08.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.BANDIT_GOON.0E632EBA-C6AC-49DA-AEBE-32DF85A8CD08.CUSTOM_NAME"
+msgid "Tiq"
+msgstr "Tiq"
 
 #: CHARACTER_SKIN.BANDIT_GOON.258373AB-3CFE-49B3-874E-E11E5E41816D.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.BANDIT_GOON.258373AB-3CFE-49B3-874E-E11E5E41816D.CUSTOM_NAME"
@@ -5030,6 +5668,11 @@ msgctxt "CHARACTER_SKIN.BANDIT_GOON.DCDDD0F1-70DC-4E56-BDE8-8B352192351C.CUSTOM_
 msgid "Bax"
 msgstr "Bax"
 
+#: CHARACTER_SKIN.BANDIT_GOON2.489E75ED-4AF7-4625-93D4-B087D6E676C0.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.BANDIT_GOON2.489E75ED-4AF7-4625-93D4-B087D6E676C0.CUSTOM_NAME"
+msgid "Blane"
+msgstr "Blane"
+
 #: CHARACTER_SKIN.BANDIT_GOON2.70D6FC42-1491-4684-A3C5-D309E9ABB860.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.BANDIT_GOON2.70D6FC42-1491-4684-A3C5-D309E9ABB860.CUSTOM_NAME"
 msgid "Dauler"
@@ -5039,6 +5682,11 @@ msgstr "Dauler"
 msgctxt "CHARACTER_SKIN.BANDIT_GOON2.9A869D0E-B558-451E-8F7A-C022D122534D.CUSTOM_NAME"
 msgid "Murk"
 msgstr "Murk"
+
+#: CHARACTER_SKIN.BANDIT_GOON2.CE614289-50CF-458D-8D8D-BBCEF7EEBF8C.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.BANDIT_GOON2.CE614289-50CF-458D-8D8D-BBCEF7EEBF8C.CUSTOM_NAME"
+msgid "Thief"
+msgstr "Thief"
 
 #: CHARACTER_SKIN.BANDIT_GOON2.F16D05EB-4E13-47B7-819D-6B5A130F3491.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.BANDIT_GOON2.F16D05EB-4E13-47B7-819D-6B5A130F3491.CUSTOM_NAME"
@@ -5055,6 +5703,11 @@ msgctxt "CHARACTER_SKIN.BANDIT_RAIDER.43D1336B-E04C-4FEF-A036-1E8400F34FCF.CUSTO
 msgid "Kuga"
 msgstr "Kuga"
 
+#: CHARACTER_SKIN.BANDIT_RAIDER.A972959F-3F58-4911-82B5-C50387C2AF3A.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.BANDIT_RAIDER.A972959F-3F58-4911-82B5-C50387C2AF3A.CUSTOM_NAME"
+msgid "Hiqu"
+msgstr "Hiqu"
+
 #: CHARACTER_SKIN.BANDIT_RAIDER.C5637358-6E28-4BF1-88EA-4129079F47EC.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.BANDIT_RAIDER.C5637358-6E28-4BF1-88EA-4129079F47EC.CUSTOM_NAME"
 msgid "Durno"
@@ -5065,20 +5718,35 @@ msgctxt "CHARACTER_SKIN.BARTENDER.3771AFBB-FE1D-4B01-BC7F-59342B27C6F6.CUSTOM_NA
 msgid "Koqy"
 msgstr "Koqy"
 
-#: CHARACTER_SKIN.BARTENDER.4B36014F-DC5F-40BA-B3EB-6E727F9ED755.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.BARTENDER.4B36014F-DC5F-40BA-B3EB-6E727F9ED755.CUSTOM_NAME"
-msgid "Irkrow"
-msgstr "Irkrow"
-
 #: CHARACTER_SKIN.BARTENDER.C919F55E-2FF9-450F-B887-1312C6935B71.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.BARTENDER.C919F55E-2FF9-450F-B887-1312C6935B71.CUSTOM_NAME"
 msgid "Wrux"
 msgstr "Wrux"
 
+#: CHARACTER_SKIN.BRAVE_MERCHANT.F5C5BF85-1E7B-4F40-9AB3-5794F4D37F0A.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.BRAVE_MERCHANT.F5C5BF85-1E7B-4F40-9AB3-5794F4D37F0A.CUSTOM_NAME"
+msgid "Shel"
+msgstr "Shel"
+
 #: CHARACTER_SKIN.CHEMIST.AF48DCAB-A73F-4E75-B6D0-CA80113C5A03.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.CHEMIST.AF48DCAB-A73F-4E75-B6D0-CA80113C5A03.CUSTOM_NAME"
 msgid "Leesha"
 msgstr "Leesha"
+
+#: CHARACTER_SKIN.DANGEROUS_STRANGER.2BB88E78-038D-4F96-A146-58EC77935228.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.DANGEROUS_STRANGER.2BB88E78-038D-4F96-A146-58EC77935228.CUSTOM_NAME"
+msgid "Ximmon"
+msgstr "Ximmon"
+
+#: CHARACTER_SKIN.DRONE_GOON.6AB9AE20-EEAD-4049-BDCA-53D7EFA803EF.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.DRONE_GOON.6AB9AE20-EEAD-4049-BDCA-53D7EFA803EF.CUSTOM_NAME"
+msgid "Jeol"
+msgstr "Jeol"
+
+#: CHARACTER_SKIN.ENDO.23284A26-99BB-4197-9091-B23F703515D9.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.ENDO.23284A26-99BB-4197-9091-B23F703515D9.CUSTOM_NAME"
+msgid "Endo"
+msgstr "Endo"
 
 #: CHARACTER_SKIN.FOREMAN.448F20F8-8655-4B4E-8EEA-84989F0DC825.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.FOREMAN.448F20F8-8655-4B4E-8EEA-84989F0DC825.CUSTOM_NAME"
@@ -5100,6 +5768,21 @@ msgctxt "CHARACTER_SKIN.FOREMAN.86CB4126-295F-4628-A3FB-265924D4B605.CUSTOM_NAME
 msgid "Sentru"
 msgstr "Sentru"
 
+#: CHARACTER_SKIN.FSSH.D18E5B49-45A2-4561-AAAE-37338243C36D.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.FSSH.D18E5B49-45A2-4561-AAAE-37338243C36D.CUSTOM_NAME"
+msgid "Fssh"
+msgstr "Fssh"
+
+#: CHARACTER_SKIN.GAMBLER.754B5BFB-A24C-4803-B80B-397EEFAF8717.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.GAMBLER.754B5BFB-A24C-4803-B80B-397EEFAF8717.CUSTOM_NAME"
+msgid "Krog"
+msgstr "Krog"
+
+#: CHARACTER_SKIN.HEAVY_LABORER.35349798-27FA-44F9-A6D7-4A8C81B1D9D6.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.HEAVY_LABORER.35349798-27FA-44F9-A6D7-4A8C81B1D9D6.CUSTOM_NAME"
+msgid "Orug"
+msgstr "Orug"
+
 #: CHARACTER_SKIN.HEAVY_LABORER.780C0907-0F36-445E-9601-624686765FF4.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.HEAVY_LABORER.780C0907-0F36-445E-9601-624686765FF4.CUSTOM_NAME"
 msgid "Pluk"
@@ -5110,25 +5793,30 @@ msgctxt "CHARACTER_SKIN.HEAVY_LABORER.B408BA13-DB06-4F07-A7E5-890DF187CD2C.CUSTO
 msgid "Chake"
 msgstr "Chake"
 
+#: CHARACTER_SKIN.HEAVY_LABORER.D823FF18-9069-464A-9A24-5386907E7266.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.HEAVY_LABORER.D823FF18-9069-464A-9A24-5386907E7266.CUSTOM_NAME"
+msgid "Gura"
+msgstr "Gura"
+
 #: CHARACTER_SKIN.HEAVY_LABORER.F48F5592-05DD-4894-BD77-8CDD164DCE02.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.HEAVY_LABORER.F48F5592-05DD-4894-BD77-8CDD164DCE02.CUSTOM_NAME"
 msgid "Erbla"
 msgstr "Erbla"
 
-#: CHARACTER_SKIN.JAKES_RUNNER.00CB5AED-84D2-4317-ACAA-E53FD43D23EF.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.00CB5AED-84D2-4317-ACAA-E53FD43D23EF.CUSTOM_NAME"
-msgid "Vilt"
-msgstr "Vilt"
+#: CHARACTER_SKIN.HEBBEL.60F23D4E-9AFC-4670-998A-3F5CF8EA182F.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.HEBBEL.60F23D4E-9AFC-4670-998A-3F5CF8EA182F.CUSTOM_NAME"
+msgid "Hebbel"
+msgstr "Hebbel"
 
-#: CHARACTER_SKIN.JAKES_RUNNER.1BDFB870-5588-4B35-8F6E-5F44337FB68B.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.1BDFB870-5588-4B35-8F6E-5F44337FB68B.CUSTOM_NAME"
-msgid "Dribiko"
-msgstr "Dribiko"
+#: CHARACTER_SKIN.JAKES_ASSASSIN.2A3B810F-74D9-479E-B86F-2F6BC5D18712.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.JAKES_ASSASSIN.2A3B810F-74D9-479E-B86F-2F6BC5D18712.CUSTOM_NAME"
+msgid "Zyn"
+msgstr "Zyn"
 
-#: CHARACTER_SKIN.JAKES_RUNNER.1D016EF2-91D7-4A78-9D4B-814861C9F522.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.1D016EF2-91D7-4A78-9D4B-814861C9F522.CUSTOM_NAME"
-msgid "Mesi"
-msgstr "Mesi"
+#: CHARACTER_SKIN.JAKES_ASSASSIN2.1C78C164-EC87-45DA-B762-00CFFC40FF07.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.JAKES_ASSASSIN2.1C78C164-EC87-45DA-B762-00CFFC40FF07.CUSTOM_NAME"
+msgid "Hanbi"
+msgstr "Hanbi"
 
 #: CHARACTER_SKIN.JAKES_RUNNER.3507C8CF-F635-42B8-939F-EF05B1F6CBDB.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.JAKES_RUNNER.3507C8CF-F635-42B8-939F-EF05B1F6CBDB.CUSTOM_NAME"
@@ -5145,11 +5833,6 @@ msgctxt "CHARACTER_SKIN.JAKES_RUNNER.3C2AC7B9-BCB2-4840-B3B9-D52248AD1B9F.CUSTOM
 msgid "Brash"
 msgstr "Brash"
 
-#: CHARACTER_SKIN.JAKES_RUNNER.41238550-1C0C-492C-B9B3-8B21EAF70705.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.41238550-1C0C-492C-B9B3-8B21EAF70705.CUSTOM_NAME"
-msgid "Clell"
-msgstr "Clell"
-
 #: CHARACTER_SKIN.JAKES_RUNNER.4A11F0E4-EC9A-440B-919C-F2BAEF62D342.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.JAKES_RUNNER.4A11F0E4-EC9A-440B-919C-F2BAEF62D342.CUSTOM_NAME"
 msgid "Cwoki"
@@ -5160,35 +5843,15 @@ msgctxt "CHARACTER_SKIN.JAKES_RUNNER.4EC03E7C-77AB-4FBF-981B-791C2E6EAE6B.CUSTOM
 msgid "Queek"
 msgstr "Queek"
 
-#: CHARACTER_SKIN.JAKES_RUNNER.51D9C406-5856-4EC7-BF42-5A69919FA25D.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.51D9C406-5856-4EC7-BF42-5A69919FA25D.CUSTOM_NAME"
-msgid "Blane"
-msgstr "Blane"
-
 #: CHARACTER_SKIN.JAKES_RUNNER.6085190A-26BF-4711-A9E6-BD30C7D05B99.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.JAKES_RUNNER.6085190A-26BF-4711-A9E6-BD30C7D05B99.CUSTOM_NAME"
 msgid "Gree"
 msgstr "Gree"
 
-#: CHARACTER_SKIN.JAKES_RUNNER.75A51D2C-B84E-40E5-83BF-EF49FF9CBF76.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.75A51D2C-B84E-40E5-83BF-EF49FF9CBF76.CUSTOM_NAME"
-msgid "Umriit"
-msgstr "Umriit"
-
 #: CHARACTER_SKIN.JAKES_RUNNER.94CFC8F0-AE30-4ECB-9190-B1A274F0C5BB.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.JAKES_RUNNER.94CFC8F0-AE30-4ECB-9190-B1A274F0C5BB.CUSTOM_NAME"
 msgid "Ronno"
 msgstr "Ronno"
-
-#: CHARACTER_SKIN.JAKES_RUNNER.D45C8861-7A85-4AF4-B1C2-A6D2E5C0F415.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.D45C8861-7A85-4AF4-B1C2-A6D2E5C0F415.CUSTOM_NAME"
-msgid "Yupu"
-msgstr "Yupu"
-
-#: CHARACTER_SKIN.JAKES_RUNNER.D4CF37E7-2E9A-4472-A7DA-0D6125C33545.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.D4CF37E7-2E9A-4472-A7DA-0D6125C33545.CUSTOM_NAME"
-msgid "Tiq"
-msgstr "Tiq"
 
 #: CHARACTER_SKIN.JAKES_RUNNER.DB1289E0-30EA-490C-BE00-3C6B9FFBE3EA.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.JAKES_RUNNER.DB1289E0-30EA-490C-BE00-3C6B9FFBE3EA.CUSTOM_NAME"
@@ -5204,21 +5867,6 @@ msgstr "Grunjax"
 msgctxt "CHARACTER_SKIN.JAKES_RUNNER.EF585E8A-E238-47C6-9FC0-7D437D278327.CUSTOM_NAME"
 msgid "Minfen"
 msgstr "Minfen"
-
-#: CHARACTER_SKIN.JAKES_RUNNER.F0AC27D4-32BA-4EC0-8970-30C618E083B1.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.F0AC27D4-32BA-4EC0-8970-30C618E083B1.CUSTOM_NAME"
-msgid "Kelk"
-msgstr "Kelk"
-
-#: CHARACTER_SKIN.JAKES_RUNNER.F11F0529-1D92-43F1-BACB-DF20ED0A1B4B.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.F11F0529-1D92-43F1-BACB-DF20ED0A1B4B.CUSTOM_NAME"
-msgid "Sonna"
-msgstr "Sonna"
-
-#: CHARACTER_SKIN.JAKES_RUNNER.FE95461D-8CC2-4159-8C81-29EB579EB9F6.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.JAKES_RUNNER.FE95461D-8CC2-4159-8C81-29EB579EB9F6.CUSTOM_NAME"
-msgid "Klonni"
-msgstr "Klonni"
 
 #: CHARACTER_SKIN.JAKES_SMUGGLER.1156ACD1-23CB-4E69-871D-46C999CC8A22.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.1156ACD1-23CB-4E69-871D-46C999CC8A22.CUSTOM_NAME"
@@ -5270,10 +5918,10 @@ msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.FF8ADE03-02EE-4754-ACE0-1186169E7C97.CUST
 msgid "Bina"
 msgstr "Bina"
 
-#: CHARACTER_SKIN.KALANDRA.6E004C20-E7DA-4694-90C8-53DD2C01808A.CUSTOM_NAME
-msgctxt "CHARACTER_SKIN.KALANDRA.6E004C20-E7DA-4694-90C8-53DD2C01808A.CUSTOM_NAME"
-msgid "Kalandra"
-msgstr "Kalandra"
+#: CHARACTER_SKIN.KASHIO.C095C17D-98AC-463C-B70F-5EEDAE4A5FC3.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.KASHIO.C095C17D-98AC-463C-B70F-5EEDAE4A5FC3.CUSTOM_NAME"
+msgid "Kashio"
+msgstr "Kashio"
 
 #: CHARACTER_SKIN.LABORER.03A0184A-F084-45FC-886E-AFF564A54E5B.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.LABORER.03A0184A-F084-45FC-886E-AFF564A54E5B.CUSTOM_NAME"
@@ -5320,6 +5968,31 @@ msgctxt "CHARACTER_SKIN.LUMINARI.96F130CA-64EC-4C6F-BFB9-4BB6A7B4AB19.CUSTOM_NAM
 msgid "Ionis"
 msgstr "Ionis"
 
+#: CHARACTER_SKIN.MURDER_BAY_ADMIRALTY_CONTACT.9D52D977-B196-4877-9499-7535B191F177.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.MURDER_BAY_ADMIRALTY_CONTACT.9D52D977-B196-4877-9499-7535B191F177.CUSTOM_NAME"
+msgid "Oolo"
+msgstr "Oolo"
+
+#: CHARACTER_SKIN.MURDER_BAY_ADMIRALTY_CONTACT_SIBLING.6354C5FC-C07B-4A74-8AA6-0D987622C901.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.MURDER_BAY_ADMIRALTY_CONTACT_SIBLING.6354C5FC-C07B-4A74-8AA6-0D987622C901.CUSTOM_NAME"
+msgid "Foolo"
+msgstr "Foolo"
+
+#: CHARACTER_SKIN.MURDER_BAY_BANDIT_CONTACT.A5B0BE71-A0B1-4E73-9A6F-B303945BEC65.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.MURDER_BAY_BANDIT_CONTACT.A5B0BE71-A0B1-4E73-9A6F-B303945BEC65.CUSTOM_NAME"
+msgid "Nadan"
+msgstr "Nadan"
+
+#: CHARACTER_SKIN.PLOCKA.65A069BC-46A7-4206-A645-EE2EB071BBC3.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.PLOCKA.65A069BC-46A7-4206-A645-EE2EB071BBC3.CUSTOM_NAME"
+msgid "Plocka"
+msgstr "Plocka"
+
+#: CHARACTER_SKIN.PRIEST.12E72803-03B2-498F-BEAC-1D876E4CB4DB.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.PRIEST.12E72803-03B2-498F-BEAC-1D876E4CB4DB.CUSTOM_NAME"
+msgid "Priest"
+msgstr "Priest"
+
 #: CHARACTER_SKIN.PRIEST.6CC472C9-B618-4F02-9AD8-17EC6FE89E17.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.PRIEST.6CC472C9-B618-4F02-9AD8-17EC6FE89E17.CUSTOM_NAME"
 msgid "Alta"
@@ -5330,30 +6003,80 @@ msgctxt "CHARACTER_SKIN.PRIEST.FF4DB3F2-105E-4179-A64D-81982C293496.CUSTOM_NAME"
 msgid "Dellena"
 msgstr "Dellena"
 
+#: CHARACTER_SKIN.RAKE.59AE37E5-B503-40F5-BCA5-B0EF2C86BB15.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.RAKE.59AE37E5-B503-40F5-BCA5-B0EF2C86BB15.CUSTOM_NAME"
+msgid "Rake"
+msgstr "Rake"
+
+#: CHARACTER_SKIN.RISE_RADICAL.16F6A729-0E16-49A2-9468-35319B4BF4CE.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.RISE_RADICAL.16F6A729-0E16-49A2-9468-35319B4BF4CE.CUSTOM_NAME"
+msgid "Hamund"
+msgstr "Hamund"
+
+#: CHARACTER_SKIN.RISE_RADICAL.32A1FEBB-D8A7-4875-8BB2-D07BED4DEDC6.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.RISE_RADICAL.32A1FEBB-D8A7-4875-8BB2-D07BED4DEDC6.CUSTOM_NAME"
+msgid "Idri"
+msgstr "Idri"
+
+#: CHARACTER_SKIN.RISE_RADICAL.491D8952-5197-4521-88E0-B6CAC18D02E9.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.RISE_RADICAL.491D8952-5197-4521-88E0-B6CAC18D02E9.CUSTOM_NAME"
+msgid "Jand"
+msgstr "Jand"
+
+#: CHARACTER_SKIN.RISE_REBEL.41205C2C-4C02-4765-9777-438623729838.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.RISE_REBEL.41205C2C-4C02-4765-9777-438623729838.CUSTOM_NAME"
+msgid "Zambul"
+msgstr "Zambul"
+
+#: CHARACTER_SKIN.RISE_REBEL.42C9E551-5E47-49BB-BCEB-B7D9296E7AD2.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.RISE_REBEL.42C9E551-5E47-49BB-BCEB-B7D9296E7AD2.CUSTOM_NAME"
+msgid "Veerin"
+msgstr "Veerin"
+
+#: CHARACTER_SKIN.RISE_REBEL.F520E858-6539-4DF0-B8AA-012FE2BDF488.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.RISE_REBEL.F520E858-6539-4DF0-B8AA-012FE2BDF488.CUSTOM_NAME"
+msgid "Wade"
+msgstr "Wade"
+
+#: CHARACTER_SKIN.SAL.EF0B0A0C-9F7A-4CD2-9FD4-2A29E5D7A93B.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.SAL.EF0B0A0C-9F7A-4CD2-9FD4-2A29E5D7A93B.CUSTOM_NAME"
+msgid "Sal"
+msgstr "Sal"
+
 #: CHARACTER_SKIN.SPARK_BARON_GOON.0132EC74-E71C-417D-AA91-808B5E12C529.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.SPARK_BARON_GOON.0132EC74-E71C-417D-AA91-808B5E12C529.CUSTOM_NAME"
-msgid "Security Guard"
-msgstr "Garde de sécurité"
+msgid "Waandra"
+msgstr "Waandra"
 
 #: CHARACTER_SKIN.SPARK_BARON_GOON.1A003E71-E581-49A3-8387-F463AE4771A4.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.SPARK_BARON_GOON.1A003E71-E581-49A3-8387-F463AE4771A4.CUSTOM_NAME"
-msgid "Security Guard"
-msgstr "Garde de sécurité"
+msgid "Kheven"
+msgstr "Kheven"
 
 #: CHARACTER_SKIN.SPARK_BARON_GOON.27FFBCC6-5417-468E-A765-21FFE0C180CD.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.SPARK_BARON_GOON.27FFBCC6-5417-468E-A765-21FFE0C180CD.CUSTOM_NAME"
-msgid "Security Guard"
-msgstr "Garde de sécurité"
+msgid "Rasma"
+msgstr "Rasma"
 
 #: CHARACTER_SKIN.SPARK_BARON_PROFESSIONAL.348B9E8A-2921-489D-A6EA-E439AF31B59A.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.SPARK_BARON_PROFESSIONAL.348B9E8A-2921-489D-A6EA-E439AF31B59A.CUSTOM_NAME"
-msgid "Professional"
-msgstr "Professionnel"
+msgid "Iggory"
+msgstr "Iggory"
 
 #: CHARACTER_SKIN.SPARK_BARON_PROFESSIONAL.CA589EFE-105C-4AF6-9204-7B5BC8EB0305.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.SPARK_BARON_PROFESSIONAL.CA589EFE-105C-4AF6-9204-7B5BC8EB0305.CUSTOM_NAME"
-msgid "Professional"
-msgstr "Professionnel"
+msgid "Lopli"
+msgstr "Lopli"
+
+#: CHARACTER_SKIN.SPARK_BARON_TASKMASTER.9E7A107F-AF9A-4099-9D44-643034A10A0C.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.SPARK_BARON_TASKMASTER.9E7A107F-AF9A-4099-9D44-643034A10A0C.CUSTOM_NAME"
+msgid "Hrikit"
+msgstr "Hrikit"
+
+#: CHARACTER_SKIN.SPARK_BARON_TASKMASTER.CC570C2C-A054-4296-9AF2-E787611CD46A.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.SPARK_BARON_TASKMASTER.CC570C2C-A054-4296-9AF2-E787611CD46A.CUSTOM_NAME"
+msgid "Imiko"
+msgstr "Imiko"
 
 #: CHARACTER_SKIN.WEALTHY_MERCHANT.1DC6479D-1B6C-4BFD-A631-6CA3D0D3AB5D.CUSTOM_NAME
 msgctxt "CHARACTER_SKIN.WEALTHY_MERCHANT.1DC6479D-1B6C-4BFD-A631-6CA3D0D3AB5D.CUSTOM_NAME"
@@ -5379,6 +6102,11 @@ msgstr "Bennawem"
 msgctxt "CHARACTER_SKIN.WEALTHY_MERCHANT.EDBE4545-A328-444A-A598-BEB3DFBF9FFA.CUSTOM_NAME"
 msgid "Lili"
 msgstr "Lili"
+
+#: CHARACTER_SKIN.BARTENDER.4B36014F-DC5F-40BA-B3EB-6E727F9ED755.CUSTOM_NAME
+msgctxt "CHARACTER_SKIN.BARTENDER.4B36014F-DC5F-40BA-B3EB-6E727F9ED755.CUSTOM_NAME"
+msgid "Irkrow"
+msgstr "Irkrow"
 
 #: CHOOSE_AMOUNT_POPUP.SELECT_QUANTITY
 msgctxt "CHOOSE_AMOUNT_POPUP.SELECT_QUANTITY"
@@ -26091,21 +26819,21 @@ msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_2"
 msgid "fssh:\n!right\n* {fssh} is waiting for you, her hip cocked against the bar.\nplayer:\n!left\nfssh:\n!greeting\n$happyDefault\nLong time, Sal. But it feels like I just saw you.\nplayer:\n!bashful\n$happyResigned\nGuess I ain`t changed that much, huh?\nfssh:\n!crossed\n$neutralResigned\nSome things don`t. And knowing you, there`s one thing you`re after: that bounty.\nYou do some jobs today, and I promise I`ll help you out tomorrow.\n!give\n$neutralDirect\nFor now, take this—to welcome you home."
 msgstr "fssh:\n!right\n* {fssh} is waiting for you, her hip cocked against the bar.\nplayer:\n!left\nfssh:\n!greeting\n$happyDefault\nLong time, Sal. But it feels like I just saw you.\nplayer:\n!bashful\n$happyResigned\nGuess I ain`t changed that much, huh?\nfssh:\n!crossed\n$neutralResigned\nSome things don`t. And knowing you, there`s one thing you`re after: that bounty.\nYou do some jobs today, and I promise I`ll help you out tomorrow.\n!give\n$neutralDirect\nFor now, take this—to welcome you home."
 
-#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3a
+#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3A
 #, fuzzy
-msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3a"
+msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3A"
 msgid "fssh:\n!right\n* {fssh} welcomes you, and it`s back to the hunt for another day.\nplayer:\n!left\nfssh:\n!sigh\n$neutralResigned\nYou look like you got plans to take on the biggest crime lord in the Bay, no matter what I might say to stop you.\n!give\nJust promise me you won`t do it without help."
 msgstr "fssh:\n!right\n* {fssh} welcomes you, and it`s back to the hunt for another day.\nplayer:\n!left\nfssh:\n!sigh\n$neutralResigned\nYou look like you got plans to take on the biggest crime lord in the Bay, no matter what I might say to stop you.\n!give\nJust promise me you won`t do it without help."
 
-#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3b
+#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3B
 #, fuzzy
-msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3b"
+msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3B"
 msgid "fssh:\n!right\n* {fssh} has a drink waiting for you. Even though it`s been years, she remembered your favorite.\nplayer:\n!left\nfssh:\n!offer\n$neutralDirect\nYou`re not the only one who wants {kashio} out of the picture.\n!agree\n$happyDefault\nPlay your cards right, and that revenge you want so bad? It`ll deliver itself."
 msgstr "fssh:\n!right\n* {fssh} has a drink waiting for you. Even though it`s been years, she remembered your favorite.\nplayer:\n!left\nfssh:\n!offer\n$neutralDirect\nYou`re not the only one who wants {kashio} out of the picture.\n!agree\n$happyDefault\nPlay your cards right, and that revenge you want so bad? It`ll deliver itself."
 
-#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3c
+#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3C
 #, fuzzy
-msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3c"
+msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3C"
 msgid "fssh:\n!right\n* You`re back in Havaria, and {fssh} welcomes you like you were only gone for a wink.\nplayer:\n!left\nfssh:\n!eureka\n$neutralDirect\nWelcome back, Sal. Let`s not waste much time, huh? You got work to do, and I got things to help you do it."
 msgstr "fssh:\n!right\n* You`re back in Havaria, and {fssh} welcomes you like you were only gone for a wink.\nplayer:\n!left\nfssh:\n!eureka\n$neutralDirect\nWelcome back, Sal. Let`s not waste much time, huh? You got work to do, and I got things to help you do it."
 
