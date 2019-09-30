@@ -9583,11 +9583,6 @@ msgctxt "CONVO.WORKERS_QUARTERS_ENCOUNTER.STATE_CONFRONT.DIALOG_INTRO"
 msgid "* You find {agent}'s tent amidst the sprawl.\n"
 msgstr "* You find {agent}'s tent amidst the sprawl.\n"
 
-#: CONVO_COMMON.AGREE
-msgctxt "CONVO_COMMON.AGREE"
-msgid "Agree"
-msgstr "Accepter"
-
 #: CONVO_COMMON.BUTTER_UP_DESC
 #, fuzzy
 msgctxt "CONVO_COMMON.BUTTER_UP_DESC"
@@ -9852,11 +9847,6 @@ msgctxt "CONVO_COMMON.OFFER_UPGRADE_RESOLVE"
 msgid "Increase max resolve by {1}"
 msgstr "Augmenter la détermination maximale de {1}"
 
-#: CONVO_COMMON.OKAY
-msgctxt "CONVO_COMMON.OKAY"
-msgid "Okay"
-msgstr "D'accord"
-
 #: CONVO_COMMON.ON_COOLDOWN
 #, fuzzy
 msgctxt "CONVO_COMMON.ON_COOLDOWN"
@@ -9945,11 +9935,6 @@ msgctxt "CONVO_COMMON.OPT_FAST_TALK"
 msgid "Fast Talk"
 msgstr "Fast Talk"
 
-#: CONVO_COMMON.OPT_FIGHT
-msgctxt "CONVO_COMMON.OPT_FIGHT"
-msgid "<#PENALTY>Attack!</>"
-msgstr "<#PENALTY>Attaque!</>"
-
 #: CONVO_COMMON.OPT_FIRE_TARGET
 #, fuzzy
 msgctxt "CONVO_COMMON.OPT_FIRE_TARGET"
@@ -9967,21 +9952,11 @@ msgctxt "CONVO_COMMON.OPT_FRIEND"
 msgid "Use your friendship..."
 msgstr "Use your friendship..."
 
-#: CONVO_COMMON.OPT_HAVE_MONEY
-msgctxt "CONVO_COMMON.OPT_HAVE_MONEY"
-msgid "Pay {1#money}"
-msgstr "Payer {1#money}"
-
 #: CONVO_COMMON.OPT_HOSTILE
 #, fuzzy
 msgctxt "CONVO_COMMON.OPT_HOSTILE"
 msgid "Commit hostile action..."
 msgstr "Commit hostile action..."
-
-#: CONVO_COMMON.OPT_LEAVE
-msgctxt "CONVO_COMMON.OPT_LEAVE"
-msgid "Leave"
-msgstr "Partir"
 
 #: CONVO_COMMON.OPT_MAINPULATE
 #, fuzzy
@@ -10067,11 +10042,6 @@ msgstr "Recevoir {1#inventory_list}"
 msgctxt "CONVO_COMMON.RECEIVE_ITEM"
 msgid "Receive {1#item}"
 msgstr "Recevoir {1#item}"
-
-#: CONVO_COMMON.RECEIVE_MONEY
-msgctxt "CONVO_COMMON.RECEIVE_MONEY"
-msgid "Receive {1#money}"
-msgstr "Recevoir {1#money}"
 
 #: CONVO_COMMON.RECEIVE_MULTI_ITEM
 msgctxt "CONVO_COMMON.RECEIVE_MULTI_ITEM"
@@ -10473,11 +10443,6 @@ msgctxt "CONVO_COMMON.OPT_ASK_ABOUT"
 msgid "Ask about..."
 msgstr "Renseignez-vous sur..."
 
-#: CONVO_COMMON.OPT_BACK_BUTTON
-msgctxt "CONVO_COMMON.OPT_BACK_BUTTON"
-msgid "Back"
-msgstr "Retour"
-
 #: CONVO_COMMON.OPT_DONE
 msgctxt "CONVO_COMMON.OPT_DONE"
 msgid "Done"
@@ -10638,12 +10603,6 @@ msgctxt "CONVO_COMMON.REQ_SIDE_JOB_LIMIT"
 msgid "You are already on a job"
 msgstr "Vous êtes déjà en quête"
 
-#: CONVO_COMMON.REQUIRES_FOLLOWER
-#, fuzzy
-msgctxt "CONVO_COMMON.REQUIRES_FOLLOWER"
-msgid "{1.Who} must be a follower"
-msgstr "{1.Who} doit être un partisan"
-
 #: CONVO_COMMON.REQUIRES_MONEY
 msgctxt "CONVO_COMMON.REQUIRES_MONEY"
 msgid "Requires {1#money}"
@@ -10663,11 +10622,6 @@ msgstr "Requiert au moins une relation: {1}"
 msgctxt "CONVO_COMMON.REQUIRES_RESOLVE"
 msgid "Requires {1} resolve"
 msgstr "Requiert une résolution {1}"
-
-#: CONVO_COMMON.REQUIRES_TRAIT
-msgctxt "CONVO_COMMON.REQUIRES_TRAIT"
-msgid "Requires {1.Who} to be {2}"
-msgstr "Requiert {1.Who} pour être {2}"
 
 #: CONVO_COMMON.SAL_DREAM_TEXT.LINE_1
 msgctxt "CONVO_COMMON.SAL_DREAM_TEXT.LINE_1"
@@ -22272,16 +22226,9 @@ msgid "BOUNTY"
 msgstr "BOUNTY"
 
 #: UI.NEGOTIATION_PANEL.CHOOSE_CARDS
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.CHOOSE_CARDS"
 msgid "Choose {1} {1*card|cards}"
-msgstr "Choose {1} {1*card|cards}"
-
-#: UI.NEGOTIATION_PANEL.CHOOSE_CARDS
-#, fuzzy
-msgctxt "UI.NEGOTIATION_PANEL.CHOOSE_CARDS"
-msgid "Choose {1} {1*card|cards}"
-msgstr "Choose {1} {1*carte|cartes}"
+msgstr "Choisir {1} {1*carte|cartes}"
 
 #: UI.NEGOTIATION_PANEL.COMPOSURE_TT
 #, fuzzy
@@ -23811,11 +23758,6 @@ msgstr "<#PENALTY>ECHEC DE LA QUETE</>\n{1}"
 msgctxt "UI.QUEST_STATUS.FAILED_TYPE"
 msgid "<#PENALTY>FAILED QUEST</>"
 msgstr "<#PENALTY>ECHEC DE LA QUETE</>"
-
-#: UI.QUEST_STATUS.NEW_TYPE
-msgctxt "UI.QUEST_STATUS.NEW_TYPE"
-msgid "NEW QUEST"
-msgstr "NOUVELLE QUETE"
 
 #: UI.QUEST_STATUS.NEW_TYPE
 msgctxt "UI.QUEST_STATUS.NEW_TYPE"
