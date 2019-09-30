@@ -18,9 +18,9 @@ Statistique:
 
 ## Installation:
 1) Allez dans votre dossier d'installation du jeux par default c'est `C:\Program Files (x86)\Epic Games\Griftlands`
-2) Crée un dossier `data` puis un sous dossier `localizations`
+2) Dans le dossier `data` crée un dossier `localizations`
 3) Déplacer le fichier `english.po` dans le dossier `C:\Program Files (x86)\Epic Games\Griftlands\data\localizations`
 
 ## Désinstallation:
-1) Dans votre bibliothèque epicgame faite un clic sur l'engrenage. <img src=https://i.ibb.co/MC6C2S8/image.png>
-2) Puis un clic sur "VÉRIFIER"
+1) Aller dans le dossier `C:\Program Files (x86)\Epic Games\Griftlands\data`
+2) Supprimer le dossier `localizations`
