@@ -17,10 +17,10 @@ Statistique:
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
 ## Installation:
-1) Allez dans votre dossier d'installation du jeux par default c'est `C:\Program Files\Epic Games\Griftlands`
+1) Allez dans votre dossier d'installation du jeux par default c'est `C:\Program Files (x86)\Epic Games\Griftlands`
 2) Dans le dossier `data` crée un dossier `localizations`
-3) Déplacer le fichier `english.po` dans le dossier `C:\Program Files\Epic Games\Griftlands\data\localizations`
+3) Déplacer le fichier `english.po` dans le dossier `C:\Program Files (x86)\Epic Games\Griftlands\data\localizations`
 
 ## Désinstallation:
-1) Aller dans le dossier `C:\Program Files\Epic Games\Griftlands\data`
+1) Aller dans le dossier `C:\Program Files (x86)\Epic Games\Griftlands\data`
 2) Supprimer le dossier `localizations`
