@@ -22,5 +22,5 @@ Statistique:
 3) Déplacer le fichier `english.po` dans le dossier `C:\Program Files (x86)\Epic Games\Griftlands\data\localizations`
 
 ## Désinstallation:
-1) Dans votre bibliothèque epicgame faite un clic sur l'engrenage. <img src=https://ibb.co/P6Q6mjT>
+1) Dans votre bibliothèque epicgame faite un clic sur l'engrenage. <img src=https://i.ibb.co/MC6C2S8/image.png>
 2) Puis un clic sur "VÉRIFIER"
