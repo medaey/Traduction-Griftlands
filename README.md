@@ -17,6 +17,10 @@ Statistique:
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
 ## Installation:
-1) Pour le moment il n'y a pas de méthode d'installation avec la version alpha du jeux
+1) Allez dans votre dossier d'installation du jeux par default c'est `C:\Program Files (x86)\Epic Games\Griftlands`
+2) Crée un dossier `data` puis un sous dossier `localizations`
+3) Déplacer le fichier `english.po` dans le dossier `C:\Program Files (x86)\Epic Games\Griftlands\data\localizations`
 
 ## Désinstallation:
+1) Dans votre bibliothèque epicgame faite un clic sur l'engrenage. ![](https://ibb.co/P6Q6mjT)
+2) Puis un clic sur "VÉRIFIER"
