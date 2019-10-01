@@ -1,4 +1,3 @@
-
 #: ADVANCEMENT.ADVANCEMENT_LEVEL
 msgctxt "ADVANCEMENT.ADVANCEMENT_LEVEL"
 msgid "Level {1}"
@@ -818,37 +817,6 @@ msgctxt "ATTACK.BONDED_ELIXIR.NAME"
 msgid "Bonded Elixir"
 msgstr "Bonded Elixir"
 
-#: ATTACK.BOULDERING_CHARGE.DESC
-msgctxt "ATTACK.BOULDERING_CHARGE.DESC"
-msgid "Gain {1}{DEFEND}. Increase by {2} for each card played this turn."
-msgstr "Gagne {1}{DEFEND}. Augmente de {2} pour chaque carte jouée ce tour-ci."
-
-#: ATTACK.BOULDERING_CHARGE.NAME
-msgctxt "ATTACK.BOULDERING_CHARGE.NAME"
-msgid "Defensive Surge"
-msgstr "Surcharge Défensive"
-
-#: ATTACK.BOULDERING_CHARGE_PLUS.DESC
-msgctxt "ATTACK.BOULDERING_CHARGE_PLUS.DESC"
-msgid "Gain <#UPGRADE>{1}{DEFEND}</>. Increase by {2} for each previous card played this turn."
-msgstr "Gagnier <#UPGRADE>{1}{DEFEND}</>. Augmentez de {2} pour chaque carte précédente jouée ce tour-ci."
-
-#: ATTACK.BOULDERING_CHARGE_PLUS.NAME
-#, fuzzy
-msgctxt "ATTACK.BOULDERING_CHARGE_PLUS.NAME"
-msgid "Boosted Surge"
-msgstr "Boosted Surge"
-
-#: ATTACK.BOULDERING_CHARGE_PLUS2.DESC
-msgctxt "ATTACK.BOULDERING_CHARGE_PLUS2.DESC"
-msgid "Gain {1}{DEFEND}. Increase by <#UPGRADE>{2}</> for each previous card played this turn."
-msgstr "Gagnier {1}{DEFEND}. Augmente de <#UPGRADE>{2}</> pour chaque carte précédente jouée ce tour-ci."
-
-#: ATTACK.BOULDERING_CHARGE_PLUS2.NAME
-msgctxt "ATTACK.BOULDERING_CHARGE_PLUS2.NAME"
-msgid "Stone Surge"
-msgstr "Pierre Surcharger"
-
 #: ATTACK.BOULDER_RUSH.NAME
 msgctxt "ATTACK.BOULDER_RUSH.NAME"
 msgid "Tackle"
@@ -906,6 +874,37 @@ msgstr "{ABILITY}: Chaque fois que vous jouez une carte, gagner {DEFEND{1}}.\n <
 msgctxt "ATTACK.BOULDER_STANCE_PLUS2.NAME"
 msgid "Initial Stance"
 msgstr "Initial Stance"
+
+#: ATTACK.BOULDERING_CHARGE.DESC
+msgctxt "ATTACK.BOULDERING_CHARGE.DESC"
+msgid "Gain {1}{DEFEND}. Increase by {2} for each card played this turn."
+msgstr "Gagne {1}{DEFEND}. Augmente de {2} pour chaque carte jouée ce tour-ci."
+
+#: ATTACK.BOULDERING_CHARGE.NAME
+msgctxt "ATTACK.BOULDERING_CHARGE.NAME"
+msgid "Defensive Surge"
+msgstr "Surcharge Défensive"
+
+#: ATTACK.BOULDERING_CHARGE_PLUS.DESC
+msgctxt "ATTACK.BOULDERING_CHARGE_PLUS.DESC"
+msgid "Gain <#UPGRADE>{1}{DEFEND}</>. Increase by {2} for each previous card played this turn."
+msgstr "Gagnier <#UPGRADE>{1}{DEFEND}</>. Augmentez de {2} pour chaque carte précédente jouée ce tour-ci."
+
+#: ATTACK.BOULDERING_CHARGE_PLUS.NAME
+#, fuzzy
+msgctxt "ATTACK.BOULDERING_CHARGE_PLUS.NAME"
+msgid "Boosted Surge"
+msgstr "Boosted Surge"
+
+#: ATTACK.BOULDERING_CHARGE_PLUS2.DESC
+msgctxt "ATTACK.BOULDERING_CHARGE_PLUS2.DESC"
+msgid "Gain {1}{DEFEND}. Increase by <#UPGRADE>{2}</> for each previous card played this turn."
+msgstr "Gagnier {1}{DEFEND}. Augmente de <#UPGRADE>{2}</> pour chaque carte précédente jouée ce tour-ci."
+
+#: ATTACK.BOULDERING_CHARGE_PLUS2.NAME
+msgctxt "ATTACK.BOULDERING_CHARGE_PLUS2.NAME"
+msgid "Stone Surge"
+msgstr "Pierre Surcharger"
 
 #: ATTACK.BREATHER.DESC
 msgctxt "ATTACK.BREATHER.DESC"
@@ -1194,6 +1193,21 @@ msgctxt "ATTACK.CYNOTRAINER_PLUS2.NAME"
 msgid "Focused Cynotrainer"
 msgstr "Focused Cynotrainer"
 
+#: ATTACK.DAGGER_THROW.NAME
+msgctxt "ATTACK.DAGGER_THROW.NAME"
+msgid "Dagger Throw"
+msgstr "Lancer de dague"
+
+#: ATTACK.DAGGER_THROW_PLUS.NAME
+msgctxt "ATTACK.DAGGER_THROW_PLUS.NAME"
+msgid "Tall Dagger Throw"
+msgstr "Grand Lancer de dague"
+
+#: ATTACK.DAGGER_THROW_PLUS2.NAME
+msgctxt "ATTACK.DAGGER_THROW_PLUS2.NAME"
+msgid "Rooted Throw"
+msgstr "Lance enraciné"
+
 #: ATTACK.DAGGERSTORM.DESC
 msgctxt "ATTACK.DAGGERSTORM.DESC"
 msgid "Insert {1} {blade_flash} cards into your draw pile."
@@ -1218,21 +1232,6 @@ msgstr "Tempête du Dague renforcée"
 msgctxt "ATTACK.DAGGERSTORM_PLUS2.NAME"
 msgid "Pale Dagger Storm"
 msgstr "Tempête du Dague pâle"
-
-#: ATTACK.DAGGER_THROW.NAME
-msgctxt "ATTACK.DAGGER_THROW.NAME"
-msgid "Dagger Throw"
-msgstr "Lancer de dague"
-
-#: ATTACK.DAGGER_THROW_PLUS.NAME
-msgctxt "ATTACK.DAGGER_THROW_PLUS.NAME"
-msgid "Tall Dagger Throw"
-msgstr "Grand Lancer de dague"
-
-#: ATTACK.DAGGER_THROW_PLUS2.NAME
-msgctxt "ATTACK.DAGGER_THROW_PLUS2.NAME"
-msgid "Rooted Throw"
-msgstr "Lance enraciné"
 
 #: ATTACK.DECEPTION.DESC
 #, fuzzy
@@ -3543,18 +3542,6 @@ msgctxt "ATTACK.SPARE_BLADES_PLUS2.NAME"
 msgid "Stone Blades"
 msgstr "Lames de pierre"
 
-#: ATTACK.SPARKYS_OPPRESSOR_CELL.DESC
-#, fuzzy
-msgstr "ATTACK.SPARKYS_OPPRESSOR_CELL.DESC"
-msgid "Gain 3 {POWER} until the end of your turn."
-msgstr "Gain 3 {POWER} until the end of your turn."
-
-#: ATTACK.SPARKYS_OPPRESSOR_CELL.NAME
-#, fuzzy
-msgstr "ATTACK.SPARKYS_OPPRESSOR_CELL.NAME"
-msgid "Sparky's Oppressor Cell"
-msgstr "Sparky's Oppressor Cell"
-
 #: ATTACK.SPARK_GRENADE.DESC
 #, fuzzy
 msgctxt "ATTACK.SPARK_GRENADE.DESC"
@@ -3578,6 +3565,18 @@ msgstr "Maximum damage is increased by 2 per Charge."
 msgctxt "ATTACK.SPARK_SHOT.NAME"
 msgid "Spark Shot"
 msgstr "Spark Shot"
+
+#: ATTACK.SPARKYS_OPPRESSOR_CELL.DESC
+#, fuzzy
+msgstr "ATTACK.SPARKYS_OPPRESSOR_CELL.DESC"
+msgid "Gain 3 {POWER} until the end of your turn."
+msgstr "Gain 3 {POWER} until the end of your turn."
+
+#: ATTACK.SPARKYS_OPPRESSOR_CELL.NAME
+#, fuzzy
+msgstr "ATTACK.SPARKYS_OPPRESSOR_CELL.NAME"
+msgid "Sparky's Oppressor Cell"
+msgstr "Sparky's Oppressor Cell"
 
 #: ATTACK.SPEAR_HEAD.DESC
 #, fuzzy
@@ -3660,15 +3659,15 @@ msgctxt "ATTACK.SPINES_PLUS.DESC"
 msgid "{ABILITY}: Gain <#UPGRADE>{1}</> {RIPOSTE} whenever you gain {DEFEND}."
 msgstr "{ABILITY}: Gagner <#UPGRADE>{1}</> {RIPOSTE} à chaque fois que vous gagner {DEFEND}."
 
-#: ATTACK.SPINES_PLUS2.DESC
-msgctxt "ATTACK.SPINES_PLUS2.DESC"
-msgid "{ABILITY}: Gain <#UPGRADE>{1}</> {RIPOSTE} whenever you gain {DEFEND}."
-msgstr "{ABILITY}: Gagner <#UPGRADE>{1}</> {RIPOSTE} à chaque fois que vous gagner {DEFEND}."
-
 #: ATTACK.SPINES_PLUS.NAME
 msgctxt "ATTACK.SPINES_PLUS.NAME"
 msgid "Thorny Spines"
 msgstr "Épines épineuses"
+
+#: ATTACK.SPINES_PLUS2.DESC
+msgctxt "ATTACK.SPINES_PLUS2.DESC"
+msgid "{ABILITY}: Gain <#UPGRADE>{1}</> {RIPOSTE} whenever you gain {DEFEND}."
+msgstr "{ABILITY}: Gagner <#UPGRADE>{1}</> {RIPOSTE} à chaque fois que vous gagner {DEFEND}."
 
 #: ATTACK.SPINES_PLUS2.NAME
 msgctxt "ATTACK.SPINES_PLUS2.NAME"
@@ -4366,192 +4365,6 @@ msgstr "All of your attacks apply 1 {BLEED} while this is in your hand."
 msgstr "ATTACK.ZYNS_RAZO.NAME"
 msgid "Zyn's Razor"
 msgstr "Zyn's Razor"
-
-#: CONDITIONS.ASSASSIN_MARK_TRACKER.NAME
-#,fuzzy
-msgctxt "CONDITIONS.ASSASSIN_MARK_TRACKER.NAME"
-msgid "Assassin Mark"
-msgstr "Assassin Mark"
-
-#: CONDITIONS.BLOOD_BIND.DESC
-#,fuzzy
-msgctxt "CONDITIONS.BLOOD_BIND.DESC"
-msgid "Take 1 damage for each card played."
-msgstr "Take 1 damage for each card played."
-
-#: CONDITIONS.BLOOD_BIND.NAME
-#,fuzzy
-msgctxt "CONDITIONS.BLOOD_BIND.NAME"
-msgid "Blood-Bind"
-msgstr "Blood-Bind"
-
-#: CONDITIONS.BOMBARD.CONDITION_TYPE
-#,fuzzy
-msgctxt "CONDITIONS.BOMBARD.CONDITION_TYPE"
-msgid "def_condition"
-msgstr "def_condition"
-
-#: CONDITIONS.BOMBARD.DESC
-#,fuzzy
-msgctxt "CONDITIONS.BOMBARD.DESC"
-msgid "{1}'s attack insert a random potion into your draw pile."
-msgstr "{1}'s attack insert a random potion into your draw pile."
-
-#: CONDITIONS.BOMBARD.NAME
-#,fuzzy
-msgctxt "CONDITIONS.BOMBARD.NAME"
-msgid "Bombard"
-msgstr "Bombard"
-
-#: CONDITIONS.DRONE_SHUTDOWN.DESC
-#,fuzzy
-msgctxt "CONDITIONS.DRONE_SHUTDOWN.DESC"
-msgid "Will not act while their allies are surrendering."
-msgstr "Will not act while their allies are surrendering."
-
-#: CONDITIONS.DRONE_SHUTDOWN.NAME
-#,fuzzy
-msgctxt "CONDITIONS.DRONE_SHUTDOWN.NAME"
-msgid "Shutdown Sequence"
-msgstr "Shutdown Sequence"
-
-#: CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.DESC
-#,fuzzy
-msgctxt "CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.DESC"
-msgid "Will attack an opponent every turn with a piercing attack."
-msgstr "Will attack an opponent every turn with a piercing attack."
-
-#: CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.NAME
-#,fuzzy
-msgctxt "CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.NAME"
-msgid "Attack stance"
-msgstr "Attack stance"
-
-#: CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.DESC
-#,fuzzy
-msgctxt "CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.DESC"
-msgid "Will add {DEFEND} to all allies every turn."
-msgstr "Will add {DEFEND} to all allies every turn."
-
-#: CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.NAME
-#,fuzzy
-msgctxt "CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.NAME"
-msgid "Blocking Stance"
-msgstr "Blocking Stance"
-
-#: CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.DESC
-#,fuzzy
-msgctxt "CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.DESC"
-msgid "Will Heal Nadan every turn."
-msgstr "Will Heal Nadan every turn."
-
-#: CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.NAME
-#,fuzzy
-msgctxt "CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.NAME"
-msgid "Healing Stance"
-msgstr "Healing Stance"
-
-#: CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.DESC
-#,fuzzy
-msgctxt "CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.DESC"
-msgid "Will buff Nadan every turn."
-msgstr "Will buff Nadan every turn."
-
-#: CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.NAME
-#,fuzzy
-msgctxt "CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.NAME"
-msgid "Power Stance"
-msgstr "Power Stance"
-
-#: CONDITIONS.NADAN_FRANKEN_FLEAD.DESC
-#,fuzzy
-msgctxt "CONDITIONS.NADAN_FRANKEN_FLEAD.DESC"
-msgid "Deactivated at 1 health and is reactivated by Nadan whenever his weapons malfunction.\nChanges stance every time it is reactivated."
-msgstr "Deactivated at 1 health and is reactivated by Nadan whenever his weapons malfunction.\nChanges stance every time it is reactivated."
-
-#: CONDITIONS.NADAN_FRANKEN_FLEAD.NAME
-#,fuzzy
-msgctxt "CONDITIONS.NADAN_FRANKEN_FLEAD.NAME"
-msgid "Franken-Flead"
-msgstr "Franken-Flead"
-
-#: CONDITIONS.PICKPOCKET.CONDITION_TYPE
-#,fuzzy
-msgctxt "CONDITIONS.PICKPOCKET.CONDITION_TYPE"
-msgid "def_condition"
-msgstr "def_condition"
-
-#: CONDITIONS.PICKPOCKET.DESC
-#,fuzzy
-msgctxt "CONDITIONS.PICKPOCKET.DESC"
-msgid "{1} steals {2} shills if their attack are not defended.\nAll money is recovered if {1} is killed."
-msgstr "{1} steals {2} shills if their attack are not defended.\nAll money is recovered if {1} is killed."
-
-#: CONDITIONS.PICKPOCKET.NAME
-#,fuzzy
-msgctxt "CONDITIONS.PICKPOCKET.NAME"
-msgid "Pickpocket"
-msgstr "Pickpocket"
-
-#: CONDITIONS.POWER_BARRIER.DESC
-#,fuzzy
-msgctxt "CONDITIONS.POWER_BARRIER.DESC"
-msgid "Deal {1} bonus damage next turn. Increase by {2} when receiving attack damage. Effect is broken at {3} bonus damage"
-msgstr "Deal {1} bonus damage next turn. Increase by {2} when receiving attack damage. Effect is broken at {3} bonus damage"
-
-#: CONDITIONS.POWER_BARRIER.NAME
-#,fuzzy
-msgctxt "CONDITIONS.POWER_BARRIER.NAME"
-msgid "Power Barrier"
-msgstr "Power Barrier"
-
-#: CONDITIONS.REGENERATION_BARRIER.DESC
-#,fuzzy
-msgctxt "CONDITIONS.REGENERATION_BARRIER.DESC"
-msgid "Defending attack will heal {1} for {2} health"
-msgstr "Defending attack will heal {1} for {2} health"
-
-#: CONDITIONS.REGENERATION_BARRIER.NAME
-#,fuzzy
-msgctxt "CONDITIONS.REGENERATION_BARRIER.NAME"
-msgid "Regeneration Barrier"
-msgstr "Regeneration Barrier"
-
-#: CONDITIONS.SPARK_AURA.DESC
-#,fuzzy
-msgctxt "CONDITIONS.SPARK_AURA.DESC"
-msgid "Allied mechs deal bonus damage"
-msgstr "Allied mechs deal bonus damage"
-
-#: CONDITIONS.SPARK_AURA.NAME
-#,fuzzy
-msgctxt "CONDITIONS.SPARK_AURA.NAME"
-msgid "Spark Aura"
-msgstr "Spark Aura"
-
-#: CONDITIONS.UNSTABLE_DRONE.DESC
-#,fuzzy
-msgctxt "CONDITIONS.UNSTABLE_DRONE.DESC"
-msgid "Receiving attack reduces this by 1. Drone is destroyed at 0 stacks, dealing 5 damage to {1}."
-msgstr "Receiving attack reduces this by 1. Drone is destroyed at 0 stacks, dealing 5 damage to {1}."
-
-#: CONDITIONS.UNSTABLE_DRONE.NAME
-#,fuzzy
-msgctxt "CONDITIONS.UNSTABLE_DRONE.NAME"
-msgid "Unstable Drone"
-msgstr "Unstable Drone"
-
-#: CONDITIONS.VICIOUS.DESC
-#,fuzzy
-msgctxt "CONDITIONS.VICIOUS.DESC"
-msgid "When attacked, gain {RIPOSTE 1}."
-msgstr "When attacked, gain {RIPOSTE 1}."
-
-#: CONDITIONS.VICIOUS.NAME
-#,fuzzy
-msgctxt "CONDITIONS.VICIOUS.NAME"
-msgstr "Vicious"
-msgid "Vicious"
 
 #: BASIC_NEGOTIATION.RUMOR.BLACKMAIL
 msgctxt "BASIC_NEGOTIATION.RUMOR.BLACKMAIL"
@@ -5458,6 +5271,86 @@ msgctxt "CARD.ABRUPT_REMARK_PLUS2.NAME"
 msgid "Wide Remark"
 msgstr "Wide Remark"
 
+#: CARD.ADMIRALTY_DIPLOMACY.DESC
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_DIPLOMACY.DESC"
+msgid "Gain: At the end of your turn, deal 1 damage to a random enemy target for every {INFLUENCE} count."
+msgstr "Gain: At the end of your turn, deal 1 damage to a random enemy target for every {INFLUENCE} count."
+
+#: CARD.ADMIRALTY_DIPLOMACY.NAME
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_DIPLOMACY.NAME"
+msgid "Enforcement"
+msgstr "Enforcement"
+
+#: CARD.ADMIRALTY_DIPLOMACY2.DESC
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_DIPLOMACY2.DESC"
+msgid "Win this negotiation."
+msgstr "Win this negotiation."
+
+#: CARD.ADMIRALTY_DIPLOMACY2.NAME
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_DIPLOMACY2.NAME"
+msgid "Oolo's Requisition"
+msgstr "Oolo's Requisition"
+
+#: CARD.ADMIRALTY_HOSTILE.DESC
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_HOSTILE.DESC"
+msgid "Increase the count of your non-core arguments by 1 and add 3 resolve to them"
+msgstr "Increase the count of your non-core arguments by 1 and add 3 resolve to them"
+
+#: CARD.ADMIRALTY_HOSTILE.name  ="Bolstered"
+#, fuzzy
+#: CARD.ADMIRALTY_MANIPULATE.DESC
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_MANIPULATE.DESC"
+msgid "Gain {1#money}."
+msgstr "Gain {1#money}."
+
+#: CARD.ADMIRALTY_INTEL.NAME
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_INTEL.NAME"
+msgid "Admiralty Intel"
+msgstr "Admiralty Intel"
+
+#: CARD.ADMIRALTY_MANIPULATE.NAME
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_MANIPULATE.NAME"
+msgid "Frisk"
+msgstr "Frisk"
+
+#: CARD.ADMIRALTY_MANIPULATE2.DESC
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_MANIPULATE2.DESC"
+msgid "Gain {INFLUENCE {1}}. If your opponent is Admiralty, this card costs 0."
+msgstr "Gain {INFLUENCE {1}}. If your opponent is Admiralty, this card costs 0."
+
+#: CARD.ADMIRALTY_MANIPULATE2.NAME
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_MANIPULATE2.NAME"
+msgid "Flash Badge"
+msgstr "Flash Badge"
+
+#: CARD.ADMIRALTY_MANIPULATE3.DESC
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_MANIPULATE3.DESC"
+msgid "Draw a card.\n{EVOKE}: Receive any unmitigated damage."
+msgstr "Draw a card.\n{EVOKE}: Receive any unmitigated damage."
+
+#: CARD.ADMIRALTY_MANIPULATE3.NAME
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_MANIPULATE3.NAME"
+msgid "Resilience"
+msgstr "Resilience"
+
+#: CARD.ADMIRALTY_ORDERS.NAME
+#, fuzzy
+msgctxt "CARD.ADMIRALTY_ORDERS.NAME"
+msgid "Admiralty Orders"
+msgstr "Admiralty Orders"
+
 #: CARD.AGITATION.DESC
 msgctxt "CARD.AGITATION.DESC"
 msgid "Add 3 {HEATED} arguments."
@@ -5482,6 +5375,18 @@ msgstr "<#UPGRADE>Add 4</> {HEATED} arguments."
 msgctxt "CARD.AGITATION_PLUS2.NAME"
 msgid "Boosted Agitation" 
 msgstr "Boosted Agitation" 
+
+#: CARD.AI_DRUNK.DESC
+#, fuzzy
+msgctxt "CARD.AI_DRUNK.DESC"
+msgid "Drunk"
+msgstr "Drunk"
+
+#: CARD.AI_DRUNK.NAME
+#, fuzzy
+msgctxt "CARD.AI_DRUNK.NAME"
+msgid "Drunk"
+msgstr "Drunk"
 
 #: CARD.AIRTIGHT.DESC
 msgctxt "CARD.AIRTIGHT.DESC"
@@ -5643,6 +5548,30 @@ msgctxt "CARD.BAD_COP_PLUS.NAME"
 msgid "Bad Cop+"
 msgstr "Mauvais flic+"
 
+#: CARD.BAD_DEAL.DESC
+#, fuzzy
+msgctxt "CARD.BAD_DEAL.DESC"
+msgid "Pay {1#money}.\nIf you end your turn with this card, take {2} damage."
+msgstr "Pay {1#money}.\nIf you end your turn with this card, take {2} damage."
+
+#: CARD.BAD_DEAL.NAME
+#, fuzzy
+msgctxt "CARD.BAD_DEAL.NAME"
+msgid "Bad Deal"
+msgstr "Bad Deal"
+
+#: CARD.BAFFLED.DESC
+#, fuzzy
+msgctxt "CARD.BAFFLED.DESC"
+msgid "Lose 2 resolve"
+msgstr "Lose 2 resolve"
+
+#: CARD.BAFFLED.NAME
+#, fuzzy
+msgctxt "CARD.BAFFLED.NAME"
+msgid "Baffled"
+msgstr "Baffled"
+
 #: CARD.BEGUILE.DESC
 msgctxt "CARD.BEGUILE.DESC"
 msgid "Gains {1} damage each time this is drawn while you have {INFLUENCE}."
@@ -5722,6 +5651,42 @@ msgstr "{INCEPT} 1 {FLUSTERED} per {DOMINANCE} <#UPGRADE> + 1</>."
 msgctxt "CARD.BLUSTER_PLUS2.NAME"
 msgid "Boosted Bluster"
 msgstr "Boosted Bluster"
+
+#: CARD.BOUNTY_HUNTER.DESC
+#, fuzzy
+msgctxt "CARD.BOUNTY_HUNTER.DESC"
+msgid "{INCEPT} {1} {BOUNTY_REWARD}."
+msgstr "{INCEPT} {1} {BOUNTY_REWARD}."
+
+#: CARD.BOUNTY_HUNTER.NAME
+#, fuzzy
+msgctxt "CARD.BOUNTY_HUNTER.NAME"
+msgid "Bounty Hunter"
+msgstr "Bounty Hunter"
+
+#: CARD.BOUNTY_HUNTER_PLUS.NAME
+#, fuzzy
+msgctxt "CARD.BOUNTY_HUNTER_PLUS.NAME"
+msgid "Pale Bounty Hunter"
+msgstr "Pale Bounty Hunter"
+
+#: CARD.BOUNTY_HUNTER_PLUS2.NAME
+#, fuzzy
+msgctxt "CARD.BOUNTY_HUNTER_PLUS2.NAME"
+msgid "Double-Barreled Bounty Hunter"
+msgstr "Double-Barreled Bounty Hunter"
+
+#: CARD.BRAIN_GILLS.DESC
+#, fuzzy
+msgctxt "CARD.BRAIN_GILLS.DESC"
+msgid "The next card played this turn gains 3 additional XP."
+msgstr "The next card played this turn gains 3 additional XP."
+
+#: CARD.BRAIN_GILLS.NAME
+#, fuzzy
+msgctxt "CARD.BRAIN_GILLS.NAME"
+msgid "Brain Gills"
+msgstr "Brain Gills"
 
 #: CARD.BRAINSTORM.DESC
 msgctxt "CARD.BRAINSTORM.DESC"
@@ -6038,10 +6003,34 @@ msgctxt "CARD.COMPLIMENT.NAME"
 msgid "Compliment"
 msgstr "Compliment"
 
+#: CARD.COWARD.DESC
+#, fuzzy
+msgctxt "CARD.COWARD.DESC"
+msgid "While this is in your hand, hostile cards deal no damage."
+msgstr "Tant que c'est dans votre main, les cartes hostiles ne causent aucun dommage."
+
+#: CARD.COWARD.NAME
+#, fuzzy
+msgctxt "CARD.COWARD.NAME"
+msgid "Coward"
+msgstr "Lâche"
+
 #: CARD.CURSE_OF_HESH.DESC
 msgctxt "CARD.CURSE_OF_HESH.DESC"
 msgid "{INCEPT} {1} {tentacle} {1*card|cards}"
 msgstr "{INCEPT} {1} {tentacle} {1*card|cards}"
+
+#: CARD.DANGEROUS.DESC
+#, fuzzy
+msgctxt "CARD.DANGEROUS.DESC"
+msgid "While this is in your hand, hostile cards deal 1 bonus damage and diplomacy cards deal 1 less damage."
+msgstr "While this is in your hand, hostile cards deal 1 bonus damage and diplomacy cards deal 1 less damage."
+
+#: CARD.DANGEROUS.NAME
+#, fuzzy
+msgctxt "CARD.DANGEROUS.NAME"
+msgid "Dangerous"
+msgstr "Dangerous"
 
 #: CARD.DECEIVE.DESC
 msgctxt "CARD.DECEIVE.DESC"
@@ -6252,6 +6241,12 @@ msgstr "Mending Drain"
 msgctxt "CARD.DRUNK_NPC.NAME"
 msgid "Drunk"
 msgstr "Ivre"
+
+#: CARD.DRUNK_PLAYER.NAME
+#, fuzzy
+msgctxt "CARD.DRUNK_PLAYER.NAME"
+msgid "Slurred Speech"
+msgstr "Slurred Speech"
 
 #: CARD.DRUNK_PLAYER.NAME
 msgctxt "CARD.DRUNK_PLAYER.NAME"
@@ -6568,6 +6563,12 @@ msgctxt "CARD.FLATTERY.NAME"
 msgid "Flattery"
 msgstr "Flatterie"
 
+#: CARD.GASSY.NAME
+#, fuzzy
+msgctxt "CARD.GASSY.NAME"
+msgid "Gassy"
+msgstr "Gassy"
+
 #: CARD.GOOD_IMPRESSION.DESC
 msgctxt "CARD.GOOD_IMPRESSION.DESC"
 msgid "This card loses 1 damage each time you end your turn."
@@ -6623,6 +6624,18 @@ msgctxt "CARD.HARD_FACTS_PLUS2.NAME"
 msgid "Focused Facts"
 msgstr "Focused Facts"
 
+#: CARD.HEARTY_NOODLES.DESC
+#, fuzzy
+msgctxt "CARD.HEARTY_NOODLES.DESC"
+msgid "Gain 2 actions and draw a card."
+msgstr "Gain 2 actions and draw a card."
+
+#: CARD.HEARTY_NOODLES.NAME
+#, fuzzy
+msgctxt "CARD.HEARTY_NOODLES.NAME"
+msgid "Hearty Noodles"
+msgstr "Hearty Noodles"
+
 #: CARD.HEAVY_HANDED.DESC
 msgctxt "CARD.HEAVY_HANDED.DESC"
 msgid "Spend {DOMINANCE 1}: Destroy an enemy argument or bounty."
@@ -6647,6 +6660,12 @@ msgstr "Enhanced Heavy Handed"
 msgctxt "CARD.HEAVY_HANDED_PLUS2.NAME"
 msgid "Pale Heavy Handed"
 msgstr "Pale Heavy Handed"
+
+#: CARD.HIP_FLASK.NAME
+#, fuzzy
+msgctxt "CARD.HIP_FLASK.NAME"
+msgid "Hip Flask"
+msgstr "Hip Flask"
 
 #: CARD.IMPATIENCE.NAME
 msgctxt "CARD.IMPATIENCE.NAME"
@@ -6793,6 +6812,18 @@ msgctxt "CARD.IMPROVISE_WITHDRAWN_UPGRADED.NAME"
 msgid "Boosted Withdrawn"
 msgstr "Boosted Withdrawn"
 
+#: CARD.INSIDER_INFORMATION.DESC
+#, fuzzy
+msgctxt "CARD.INSIDER_INFORMATION.DESC"
+msgid "{IMPROVISE} a random uncommon or rare manipulate card. It costs 0 until played."
+msgstr "{IMPROVISE} a random uncommon or rare manipulate card. It costs 0 until played."
+
+#: CARD.INSIDER_INFORMATION.NAME
+#, fuzzy
+msgctxt "CARD.INSIDER_INFORMATION.NAME"
+msgid "Insider Information"
+msgstr "Insider Information"
+
 #: CARD.INSPIRATION.FLAVOUR
 msgctxt "CARD.INSPIRATION.FLAVOUR"
 msgid "'Let's look at what we have in common, then.'"
@@ -6803,6 +6834,18 @@ msgctxt "CARD.INSPIRATION.NAME"
 msgid "Inspiration"
 msgstr "Inspiration"
 
+#: CARD.INSULT.DESC
+#, fuzzy
+msgctxt "CARD.INSULT.DESC"
+msgid "{INCEPT} {1} {insulted}."
+msgstr "{INCEPT} {1} {insulted}."
+
+#: CARD.INSULT.NAME
+#, fuzzy
+msgctxt "CARD.INSULT.NAME"
+msgid "Insult"
+msgstr "Insult"
+
 #: CARD.INTERRUPT.NAME
 msgctxt "CARD.INTERRUPT.NAME"
 msgid "Interrupt"
@@ -6812,6 +6855,18 @@ msgstr "Interruption"
 msgctxt "CARD.INTERRUPT_PLUS.NAME"
 msgid "Interrupt+"
 msgstr "Interruption+"
+
+#: CARD.INTIMIDATE.DESC
+#, fuzzy
+msgctxt "CARD.INTIMIDATE.DESC"
+msgid "{INCEPT} 2 {intimidated}."
+msgstr "{INCEPT} 2 {intimidated}."
+
+#: CARD.INTIMIDATE.NAME
+#, fuzzy
+msgctxt "CARD.INTIMIDATE.NAME"
+msgid "Intimidate"
+msgstr "Intimidate"
 
 #: CARD.INTRIGUE.DESC
 msgctxt "CARD.INTRIGUE.DESC"
@@ -6953,6 +7008,30 @@ msgctxt "CARD.KEEP_COOL_PLUS.NAME"
 msgid "Keep Composed"
 msgstr "Keep Composed"
 
+#: CARD.KICKBACK.NAME
+#, fuzzy
+msgctxt "CARD.KICKBACK.NAME"
+msgid "Kickback"
+msgstr "Kickback"
+
+#: CARD.KICKBACK.QUIP
+#, fuzzy
+msgctxt "CARD.KICKBACK.QUIP"
+msgid "bribery"
+msgstr "bribery"
+
+#: CARD.KILLER.DESC
+#, fuzzy
+msgctxt "CARD.KILLER.DESC"
+msgid "Gain {DOMINANCE 1} while in hand."
+msgstr "Gain {DOMINANCE 1} while in hand."
+
+#: CARD.KILLER.NAME
+#, fuzzy
+msgctxt "CARD.KILLER.NAME"
+msgid "Killer"
+msgstr "Killer"
+
 #: CARD.KNOW_IT_ALL.DESC
 msgctxt "CARD.KNOW_IT_ALL.DESC"
 msgid "Gain {SMARTS {1}} and {VULNERABILITY {2}}."
@@ -6983,6 +7062,18 @@ msgctxt "CARD.KNOW_IT_ALL_PLUS2.NAME"
 msgid "Purified Know it All"
 msgstr "Purified Know it All"
 
+#: CARD.KNOWN_THUG.DESC
+#, fuzzy
+msgctxt "CARD.KNOWN_THUG.DESC"
+msgid "Deal 1 resolve to a random target whenever you draw a card."
+msgstr "Deal 1 resolve to a random target whenever you draw a card."
+
+#: CARD.KNOWN_THUG.NAME
+#, fuzzy
+msgctxt "CARD.KNOWN_THUG.NAME"
+msgid "Known Thug"
+msgstr "Known Thug"
+
 #: CARD.LEVEL_PLAYING_FIELD.DESC
 msgctxt "CARD.LEVEL_PLAYING_FIELD.DESC"
 msgid "Gain {INFLUENCE {1}} and {VULNERABILITY 2}."
@@ -7012,6 +7103,12 @@ msgstr "<#UPGRADE>{INFLUENCE {1}}</> and {VULNERABILITY 2}."
 msgctxt "CARD.LEVEL_PLAYING_FIELD_PLUS2.NAME"
 msgid "Boosted Playing Field"
 msgstr "Boosted Playing Field"
+
+#: CARD.LIQUID_COURAGE.NAME
+#, fuzzy
+msgctxt "CARD.LIQUID_COURAGE.NAME"
+msgid "Liquid Courage"
+msgstr "Liquid Courage"
 
 #: CARD.LOW_BLOW.DESC
 msgctxt "CARD.LOW_BLOW.DESC"
@@ -7144,6 +7241,24 @@ msgid "{INCEPT} a {{1}} card"
 msgstr "{INCEPT} une {{1}} carte"
 
 #: CARD.MODIFIER.DESC
+#, fuzzy
+msgctxt "CARD.MODIFIER.DESC"
+msgid "At the end of your turn, deal {1} damage to a random enemy target for every {INFLUENCE} count."
+msgstr "At the end of your turn, deal {1} damage to a random enemy target for every {INFLUENCE} count."
+
+#: CARD.MODIFIER.DESC
+#, fuzzy
+msgctxt "CARD.MODIFIER.DESC"
+msgid "Hostility cards deal an additional {3%+d} damage. Reduce by 1 when you play a non-Hostile card."
+msgstr "Hostility cards deal an additional {3%+d} damage. Reduce by 1 when you play a non-Hostile card."
+
+#: CARD.MODIFIER.DESC
+#, fuzzy
+msgctxt "CARD.MODIFIER.DESC"
+msgid "Reduce by 1 when you play a non-Hostile card.\nWill end the negotiation and start a fight if this argument reaches {1}"
+msgstr "Reduce by 1 when you play a non-Hostile card.\nWill end the negotiation and start a fight if this argument reaches {1}"
+
+#: CARD.MODIFIER.DESC
 msgctxt "CARD.MODIFIER.DESC"
 msgid "At the beginning of your turn, gain {DOMINANCE {1}}."
 msgstr "At the beginning of your turn, gain {DOMINANCE {1}}."
@@ -7177,6 +7292,24 @@ msgstr "Whenever you play a hostile card, draw {1} {1*card|cards}."
 msgctxt "CARD.MODIFIER.DESC"
 msgid "{BAIT}"
 msgstr "{BAIT}"
+
+#: CARD.MODIFIER.ID
+#, fuzzy
+msgctxt "CARD.MODIFIER.ID"
+msgid "intimidated"
+msgstr "intimidated"
+
+#: CARD.MODIFIER.NAME
+#, fuzzy
+msgctxt "CARD.MODIFIER.NAME"
+msgid "Insulted"
+msgstr "Insulted"
+
+#: CARD.MODIFIER.NAME
+#, fuzzy
+msgctxt "CARD.MODIFIER.NAME"
+msgid "Intimidated"
+msgstr "Intimidated"
 
 #: CARD.MODIFIER.NAME
 msgctxt "CARD.MODIFIER.NAME"
@@ -7568,6 +7701,18 @@ msgctxt "CARD.RECONSIDER_PLUS2.NAME"
 msgid "Visionary Reconsider"
 msgstr "Visionary Reconsider"
 
+#: CARD.REPUTATION_PRECEDING.DESC
+#, fuzzy
+msgctxt "CARD.REPUTATION_PRECEDING.DESC"
+msgid "When this card is drawn, gain {DOMINANCE 1}, {INFLUENCE 1} and {VULNERABILITY 2}, then {EXPEND} this card."
+msgstr "When this card is drawn, gain {DOMINANCE 1}, {INFLUENCE 1} and {VULNERABILITY 2}, then {EXPEND} this card."
+
+#: CARD.REPUTATION_PRECEDING.NAME
+#, fuzzy
+msgctxt "CARD.REPUTATION_PRECEDING.NAME"
+msgid "Reputation Preceding"
+msgstr "Reputation Preceding"
+
 #: CARD.SALS_INSTINCTS.DESC
 msgctxt "CARD.SALS_INSTINCTS.DESC"
 msgid "Insert {inspiration} or {attitude} into your hand."
@@ -7764,6 +7909,12 @@ msgid "Visionary Setup"
 msgstr "Visionary Setup"
 
 #: CARD.SILENCE.NAME
+#, fuzzy
+msgctxt "CARD.SILENCE.NAME"
+msgid "Silence"
+msgstr "Silence"
+
+#: CARD.SILENCE.NAME
 msgctxt "CARD.SILENCE.NAME"
 msgid "Silence"
 msgstr "Silence"
@@ -7807,6 +7958,18 @@ msgstr "When this card is drawn, deal {1} damage to a random target and gain <#U
 msgctxt "CARD.SOLID_POINT_PLUS2.NAME"
 msgid "Visionary Point"
 msgstr "Visionary Point"
+
+#: CARD.SPICY_NOODLES.DESC
+#, fuzzy
+msgctxt "CARD.SPICY_NOODLES.DESC"
+msgid "Gain 2 {POWER}."
+msgstr "Gain 2 {POWER}."
+
+#: CARD.SPICY_NOODLES.NAME
+#, fuzzy
+msgctxt "CARD.SPICY_NOODLES.NAME"
+msgid "Spicy Noodles"
+msgstr "Spicy Noodles"
 
 #: CARD.STABILIZE.DESC
 msgctxt "CARD.STABILIZE.DESC"
@@ -7923,6 +8086,54 @@ msgctxt "CARD.TACTICAL_MIND_PLUS2.NAME"
 msgid "Boosted Tactical Mind"
 msgstr "Boosted Tactical Mind"
 
+#: CARD.TASK_ARGUMENT.DESC
+#, fuzzy
+msgctxt "CARD.TASK_ARGUMENT.DESC"
+msgid "If any argument or bounty is removed, {CONSUME} this and draw a card."
+msgstr "If any argument or bounty is removed, {CONSUME} this and draw a card."
+
+#: CARD.TASK_ARGUMENT.NAME
+#, fuzzy
+msgctxt "CARD.TASK_ARGUMENT.NAME"
+msgid "Day Shift"
+msgstr "Day Shift"
+
+#: CARD.TASK_DIPLOMACY.DESC
+#, fuzzy
+msgctxt "CARD.TASK_DIPLOMACY.DESC"
+msgid "If you gain {INFLUENCE}, {CONSUME} this and draw a card."
+msgstr "If you gain {INFLUENCE}, {CONSUME} this and draw a card."
+
+#: CARD.TASK_DIPLOMACY.NAME
+#, fuzzy
+msgctxt "CARD.TASK_DIPLOMACY.NAME"
+msgid "Night Shift"
+msgstr "Night Shift"
+
+#: CARD.TASK_DOMINANCE.DESC
+#, fuzzy
+msgctxt "CARD.TASK_DOMINANCE.DESC"
+msgid "If you gain {DOMINANCE}, {CONSUME} this and draw a card."
+msgstr "If you gain {DOMINANCE}, {CONSUME} this and draw a card."
+
+#: CARD.TASK_DOMINANCE.NAME
+#, fuzzy
+msgctxt "CARD.TASK_DOMINANCE.NAME"
+msgid "Split Shift"
+msgstr "Split Shift"
+
+#: CARD.TASK_MANIPULATE.DESC
+#, fuzzy
+msgctxt "CARD.TASK_MANIPULATE.DESC"
+msgid "Play two Manipulate cards in one turn to {CONSUME} this and draw a card."
+msgstr "Play two Manipulate cards in one turn to {CONSUME} this and draw a card."
+
+#: CARD.TASK_MANIPULATE.NAME
+#, fuzzy
+msgctxt "CARD.TASK_MANIPULATE.NAME"
+msgid "On-Call"
+msgstr "On-Call"
+
 #: CARD.TENTACLE.NAME
 msgctxt "CARD.TENTACLE.NAME"
 msgid "Tentacle"
@@ -8033,6 +8244,18 @@ msgctxt "CARD.TYRANNIZE_PLUS2.NAME"
 msgid "Enhanced Tyrannize"
 msgstr "Enhanced Tyrannize"
 
+#: CARD.UNSTABLE.DESC
+#, fuzzy
+msgctxt "CARD.UNSTABLE.DESC"
+msgid "Draw a card.\nPlay it with a random target."
+msgstr "Draw a card.\nPlay it with a random target."
+
+#: CARD.UNSTABLE.NAME
+#, fuzzy
+msgctxt "CARD.UNSTABLE.NAME"
+msgid "Unstable"
+msgstr "Unstable"
+
 #: CARD.VEILED_ANGER.NAME
 msgctxt "CARD.VEILED_ANGER.NAME"
 msgid "Veiled Anger"
@@ -8052,6 +8275,30 @@ msgstr "Spend {DOMINANCE 1}: Play this card twice."
 msgctxt "CARD.VEILED_ANGER_PLUS2.NAME"
 msgid "Mirrored Anger"
 msgstr "Mirrored Anger"
+
+#: CARD.VERY_CONVINCING.DESC
+#, fuzzy
+msgctxt "CARD.VERY_CONVINCING.DESC"
+msgid "{IMPROVISE} a card, then {IMPROVISE} again. Gain a card that combines both and {EXPEND}s."
+msgstr "{IMPROVISE} a card, then {IMPROVISE} again. Gain a card that combines both and {EXPEND}s."
+
+#: CARD.VERY_CONVINCING.NAME
+#, fuzzy
+msgctxt "CARD.VERY_CONVINCING.NAME"
+msgid "Very Convincing"
+msgstr "Very Convincing"
+
+#: CARD.VERY_CONVINCING2.DESC
+#, fuzzy
+msgctxt "CARD.VERY_CONVINCING2.DESC"
+msgid "Play both {card.{1}} and {card.{2}} with random targets."
+msgstr "Play both {card.{1}} and {card.{2}} with random targets."
+
+#: CARD.VERY_CONVINCING2.NAME
+#, fuzzy
+msgctxt "CARD.VERY_CONVINCING2.NAME"
+msgstr "Very Much Convinced"
+msgid "Very Much Convinced"
 
 #: CARD.WHITE_LIE.DESC
 msgctxt "CARD.WHITE_LIE.DESC"
@@ -8082,6 +8329,18 @@ msgstr "{PICKPOCKET} {1#item}"
 msgctxt "CARD.YOINK.NAME"
 msgid "Yoink"
 msgstr "Yoink"
+
+#: CARD.ZESTY_NOODLES.DESC
+#, fuzzy
+msgctxt "CARD.ZESTY_NOODLES.DESC"
+msgid "Incept 2 {FLUSTERED}, draw a card."
+msgstr "Incept 2 {FLUSTERED}, draw a card."
+
+#: CARD.ZESTY_NOODLES.NAME
+#, fuzzy
+msgctxt "CARD.ZESTY_NOODLES.NAME"
+msgid "Zesty Noodles"
+msgstr "Zesty Noodles"
 
 #: CARD_DESC.KNIFE_INTO_THE_NIGHT_BATTLE
 msgctxt "CARD_DESC.KNIFE_INTO_THE_NIGHT_BATTLE"
@@ -9672,8 +9931,20 @@ msgctxt "CONDITIONS.ASSASSIN_MARK_TRACKER.NAME"
 msgid "Assassin Mark"
 msgstr "Assassin Mark"
 
+#: CONDITIONS.ASSASSIN_MARK_TRACKER.NAME
+#,fuzzy
+msgctxt "CONDITIONS.ASSASSIN_MARK_TRACKER.NAME"
+msgid "Assassin Mark"
+msgstr "Assassin Mark"
+
 #: CONDITIONS.BLOOD_BIND.DESC
 #, fuzzy
+msgctxt "CONDITIONS.BLOOD_BIND.DESC"
+msgid "Take 1 damage for each card played."
+msgstr "Take 1 damage for each card played."
+
+#: CONDITIONS.BLOOD_BIND.DESC
+#,fuzzy
 msgctxt "CONDITIONS.BLOOD_BIND.DESC"
 msgid "Take 1 damage for each card played."
 msgstr "Take 1 damage for each card played."
@@ -9684,8 +9955,20 @@ msgctxt "CONDITIONS.BLOOD_BIND.NAME"
 msgid "Blood-Bind"
 msgstr "Blood-Bind"
 
+#: CONDITIONS.BLOOD_BIND.NAME
+#,fuzzy
+msgctxt "CONDITIONS.BLOOD_BIND.NAME"
+msgid "Blood-Bind"
+msgstr "Blood-Bind"
+
 #: CONDITIONS.BOMBARD.CONDITION_TYPE
 #, fuzzy
+msgctxt "CONDITIONS.BOMBARD.CONDITION_TYPE"
+msgid "def_condition"
+msgstr "def_condition"
+
+#: CONDITIONS.BOMBARD.CONDITION_TYPE
+#,fuzzy
 msgctxt "CONDITIONS.BOMBARD.CONDITION_TYPE"
 msgid "def_condition"
 msgstr "def_condition"
@@ -9696,8 +9979,20 @@ msgctxt "CONDITIONS.BOMBARD.DESC"
 msgid "{1}'s attack insert a random potion into your draw pile."
 msgstr "{1}'s attack insert a random potion into your draw pile."
 
+#: CONDITIONS.BOMBARD.DESC
+#,fuzzy
+msgctxt "CONDITIONS.BOMBARD.DESC"
+msgid "{1}'s attack insert a random potion into your draw pile."
+msgstr "{1}'s attack insert a random potion into your draw pile."
+
 #: CONDITIONS.BOMBARD.NAME
 #, fuzzy
+msgctxt "CONDITIONS.BOMBARD.NAME"
+msgid "Bombard"
+msgstr "Bombard"
+
+#: CONDITIONS.BOMBARD.NAME
+#,fuzzy
 msgctxt "CONDITIONS.BOMBARD.NAME"
 msgid "Bombard"
 msgstr "Bombard"
@@ -9708,8 +10003,20 @@ msgctxt "CONDITIONS.DRONE_SHUTDOWN.DESC"
 msgid "Will not act while their allies are surrendering."
 msgstr "Will not act while their allies are surrendering."
 
+#: CONDITIONS.DRONE_SHUTDOWN.DESC
+#,fuzzy
+msgctxt "CONDITIONS.DRONE_SHUTDOWN.DESC"
+msgid "Will not act while their allies are surrendering."
+msgstr "Will not act while their allies are surrendering."
+
 #: CONDITIONS.DRONE_SHUTDOWN.NAME
 #, fuzzy
+msgctxt "CONDITIONS.DRONE_SHUTDOWN.NAME"
+msgid "Shutdown Sequence"
+msgstr "Shutdown Sequence"
+
+#: CONDITIONS.DRONE_SHUTDOWN.NAME
+#,fuzzy
 msgctxt "CONDITIONS.DRONE_SHUTDOWN.NAME"
 msgid "Shutdown Sequence"
 msgstr "Shutdown Sequence"
@@ -9720,8 +10027,20 @@ msgctxt "CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.DESC"
 msgid "Will attack an opponent every turn with a piercing attack."
 msgstr "Will attack an opponent every turn with a piercing attack."
 
+#: CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.DESC
+#,fuzzy
+msgctxt "CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.DESC"
+msgid "Will attack an opponent every turn with a piercing attack."
+msgstr "Will attack an opponent every turn with a piercing attack."
+
 #: CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.NAME
 #, fuzzy
+msgctxt "CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.NAME"
+msgid "Attack stance"
+msgstr "Attack stance"
+
+#: CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.NAME
+#,fuzzy
 msgctxt "CONDITIONS.FRANKEN_FLEAD_ATTACK_STANCE.NAME"
 msgid "Attack stance"
 msgstr "Attack stance"
@@ -9732,8 +10051,20 @@ msgctxt "CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.DESC"
 msgid "Will add {DEFEND} to all allies every turn."
 msgstr "Will add {DEFEND} to all allies every turn."
 
+#: CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.DESC
+#,fuzzy
+msgctxt "CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.DESC"
+msgid "Will add {DEFEND} to all allies every turn."
+msgstr "Will add {DEFEND} to all allies every turn."
+
 #: CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.NAME
 #, fuzzy
+msgctxt "CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.NAME"
+msgid "Blocking Stance"
+msgstr "Blocking Stance"
+
+#: CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.NAME
+#,fuzzy
 msgctxt "CONDITIONS.FRANKEN_FLEAD_BLOCK_STANCE.NAME"
 msgid "Blocking Stance"
 msgstr "Blocking Stance"
@@ -9744,8 +10075,20 @@ msgctxt "CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.DESC"
 msgid "Will Heal Nadan every turn."
 msgstr "Will Heal Nadan every turn."
 
+#: CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.DESC
+#,fuzzy
+msgctxt "CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.DESC"
+msgid "Will Heal Nadan every turn."
+msgstr "Will Heal Nadan every turn."
+
 #: CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.NAME
 #, fuzzy
+msgctxt "CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.NAME"
+msgid "Healing Stance"
+msgstr "Healing Stance"
+
+#: CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.NAME
+#,fuzzy
 msgctxt "CONDITIONS.FRANKEN_FLEAD_HEAL_STANCE.NAME"
 msgid "Healing Stance"
 msgstr "Healing Stance"
@@ -9756,8 +10099,20 @@ msgctxt "CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.DESC"
 msgid "Will buff Nadan every turn."
 msgstr "Will buff Nadan every turn."
 
+#: CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.DESC
+#,fuzzy
+msgctxt "CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.DESC"
+msgid "Will buff Nadan every turn."
+msgstr "Will buff Nadan every turn."
+
 #: CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.NAME
 #, fuzzy
+msgctxt "CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.NAME"
+msgid "Power Stance"
+msgstr "Power Stance"
+
+#: CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.NAME
+#,fuzzy
 msgctxt "CONDITIONS.FRANKEN_FLEAD_POWER_STANCE.NAME"
 msgid "Power Stance"
 msgstr "Power Stance"
@@ -9768,8 +10123,20 @@ msgctxt "CONDITIONS.NADAN_FRANKEN_FLEAD.DESC"
 msgid "Deactivated at 1 health and is reactivated by Nadan whenever his weapons malfunction.\nChanges stance every time it is reactivated."
 msgstr "Deactivated at 1 health and is reactivated by Nadan whenever his weapons malfunction.\nChanges stance every time it is reactivated."
 
+#: CONDITIONS.NADAN_FRANKEN_FLEAD.DESC
+#,fuzzy
+msgctxt "CONDITIONS.NADAN_FRANKEN_FLEAD.DESC"
+msgid "Deactivated at 1 health and is reactivated by Nadan whenever his weapons malfunction.\nChanges stance every time it is reactivated."
+msgstr "Deactivated at 1 health and is reactivated by Nadan whenever his weapons malfunction.\nChanges stance every time it is reactivated."
+
 #: CONDITIONS.NADAN_FRANKEN_FLEAD.NAME
 #, fuzzy
+msgctxt "CONDITIONS.NADAN_FRANKEN_FLEAD.NAME"
+msgid "Franken-Flead"
+msgstr "Franken-Flead"
+
+#: CONDITIONS.NADAN_FRANKEN_FLEAD.NAME
+#,fuzzy
 msgctxt "CONDITIONS.NADAN_FRANKEN_FLEAD.NAME"
 msgid "Franken-Flead"
 msgstr "Franken-Flead"
@@ -9780,8 +10147,20 @@ msgctxt "CONDITIONS.PICKPOCKET.CONDITION_TYPE"
 msgid "def_condition"
 msgstr "def_condition"
 
+#: CONDITIONS.PICKPOCKET.CONDITION_TYPE
+#,fuzzy
+msgctxt "CONDITIONS.PICKPOCKET.CONDITION_TYPE"
+msgid "def_condition"
+msgstr "def_condition"
+
 #: CONDITIONS.PICKPOCKET.DESC
 #, fuzzy
+msgctxt "CONDITIONS.PICKPOCKET.DESC"
+msgid "{1} steals {2} shills if their attack are not defended.\nAll money is recovered if {1} is killed."
+msgstr "{1} steals {2} shills if their attack are not defended.\nAll money is recovered if {1} is killed."
+
+#: CONDITIONS.PICKPOCKET.DESC
+#,fuzzy
 msgctxt "CONDITIONS.PICKPOCKET.DESC"
 msgid "{1} steals {2} shills if their attack are not defended.\nAll money is recovered if {1} is killed."
 msgstr "{1} steals {2} shills if their attack are not defended.\nAll money is recovered if {1} is killed."
@@ -9792,8 +10171,20 @@ msgctxt "CONDITIONS.PICKPOCKET.NAME"
 msgid "Pickpocket"
 msgstr "Pickpocket"
 
+#: CONDITIONS.PICKPOCKET.NAME
+#,fuzzy
+msgctxt "CONDITIONS.PICKPOCKET.NAME"
+msgid "Pickpocket"
+msgstr "Pickpocket"
+
 #: CONDITIONS.POWER_BARRIER.DESC
 #, fuzzy
+msgctxt "CONDITIONS.POWER_BARRIER.DESC"
+msgid "Deal {1} bonus damage next turn. Increase by {2} when receiving attack damage. Effect is broken at {3} bonus damage"
+msgstr "Deal {1} bonus damage next turn. Increase by {2} when receiving attack damage. Effect is broken at {3} bonus damage"
+
+#: CONDITIONS.POWER_BARRIER.DESC
+#,fuzzy
 msgctxt "CONDITIONS.POWER_BARRIER.DESC"
 msgid "Deal {1} bonus damage next turn. Increase by {2} when receiving attack damage. Effect is broken at {3} bonus damage"
 msgstr "Deal {1} bonus damage next turn. Increase by {2} when receiving attack damage. Effect is broken at {3} bonus damage"
@@ -9804,8 +10195,20 @@ msgctxt "CONDITIONS.POWER_BARRIER.NAME"
 msgid "Power Barrier"
 msgstr "Power Barrier"
 
+#: CONDITIONS.POWER_BARRIER.NAME
+#,fuzzy
+msgctxt "CONDITIONS.POWER_BARRIER.NAME"
+msgid "Power Barrier"
+msgstr "Power Barrier"
+
 #: CONDITIONS.REGENERATION_BARRIER.DESC
 #, fuzzy
+msgctxt "CONDITIONS.REGENERATION_BARRIER.DESC"
+msgid "Defending attack will heal {1} for {2} health"
+msgstr "Defending attack will heal {1} for {2} health"
+
+#: CONDITIONS.REGENERATION_BARRIER.DESC
+#,fuzzy
 msgctxt "CONDITIONS.REGENERATION_BARRIER.DESC"
 msgid "Defending attack will heal {1} for {2} health"
 msgstr "Defending attack will heal {1} for {2} health"
@@ -9816,8 +10219,20 @@ msgctxt "CONDITIONS.REGENERATION_BARRIER.NAME"
 msgid "Regeneration Barrier"
 msgstr "Regeneration Barrier"
 
+#: CONDITIONS.REGENERATION_BARRIER.NAME
+#,fuzzy
+msgctxt "CONDITIONS.REGENERATION_BARRIER.NAME"
+msgid "Regeneration Barrier"
+msgstr "Regeneration Barrier"
+
 #: CONDITIONS.SPARK_AURA.DESC
 #, fuzzy
+msgctxt "CONDITIONS.SPARK_AURA.DESC"
+msgid "Allied mechs deal bonus damage"
+msgstr "Allied mechs deal bonus damage"
+
+#: CONDITIONS.SPARK_AURA.DESC
+#,fuzzy
 msgctxt "CONDITIONS.SPARK_AURA.DESC"
 msgid "Allied mechs deal bonus damage"
 msgstr "Allied mechs deal bonus damage"
@@ -9828,8 +10243,20 @@ msgctxt "CONDITIONS.SPARK_AURA.NAME"
 msgid "Spark Aura"
 msgstr "Spark Aura"
 
+#: CONDITIONS.SPARK_AURA.NAME
+#,fuzzy
+msgctxt "CONDITIONS.SPARK_AURA.NAME"
+msgid "Spark Aura"
+msgstr "Spark Aura"
+
 #: CONDITIONS.UNSTABLE_DRONE.DESC
 #, fuzzy
+msgctxt "CONDITIONS.UNSTABLE_DRONE.DESC"
+msgid "Receiving attack reduces this by 1. Drone is destroyed at 0 stacks, dealing 5 damage to {1}."
+msgstr "Receiving attack reduces this by 1. Drone is destroyed at 0 stacks, dealing 5 damage to {1}."
+
+#: CONDITIONS.UNSTABLE_DRONE.DESC
+#,fuzzy
 msgctxt "CONDITIONS.UNSTABLE_DRONE.DESC"
 msgid "Receiving attack reduces this by 1. Drone is destroyed at 0 stacks, dealing 5 damage to {1}."
 msgstr "Receiving attack reduces this by 1. Drone is destroyed at 0 stacks, dealing 5 damage to {1}."
@@ -9840,14 +10267,32 @@ msgctxt "CONDITIONS.UNSTABLE_DRONE.NAME"
 msgid "Unstable Drone"
 msgstr "Unstable Drone"
 
+#: CONDITIONS.UNSTABLE_DRONE.NAME
+#,fuzzy
+msgctxt "CONDITIONS.UNSTABLE_DRONE.NAME"
+msgid "Unstable Drone"
+msgstr "Unstable Drone"
+
 #: CONDITIONS.VICIOUS.DESC
 #, fuzzy
 msgctxt "CONDITIONS.VICIOUS.DESC"
 msgid "When attacked, gain {RIPOSTE 1}."
 msgstr "When attacked, gain {RIPOSTE 1}."
 
+#: CONDITIONS.VICIOUS.DESC
+#,fuzzy
+msgctxt "CONDITIONS.VICIOUS.DESC"
+msgid "When attacked, gain {RIPOSTE 1}."
+msgstr "When attacked, gain {RIPOSTE 1}."
+
 #: CONDITIONS.VICIOUS.NAME
 #, fuzzy
+msgctxt "CONDITIONS.VICIOUS.NAME"
+msgstr "Vicious"
+msgid "Vicious"
+
+#: CONDITIONS.VICIOUS.NAME
+#,fuzzy
 msgctxt "CONDITIONS.VICIOUS.NAME"
 msgstr "Vicious"
 msgid "Vicious"
@@ -30342,449 +30787,3 @@ msgstr "Auction House"
 msgctxt "WORLDREGION.OPEN_OCEAN.NAME"
 msgid "Open Ocean"
 msgstr "Océan ouvert"
-
-#: CARD.ADMIRALTY_DIPLOMACY.DESC
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_DIPLOMACY.DESC"
-msgid "Gain: At the end of your turn, deal 1 damage to a random enemy target for every {INFLUENCE} count."
-msgstr "Gain: At the end of your turn, deal 1 damage to a random enemy target for every {INFLUENCE} count."
-
-#: CARD.ADMIRALTY_DIPLOMACY.NAME
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_DIPLOMACY.NAME"
-msgid "Enforcement"
-msgstr "Enforcement"
-
-#: CARD.ADMIRALTY_DIPLOMACY2.DESC
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_DIPLOMACY2.DESC"
-msgid "Win this negotiation."
-msgstr "Win this negotiation."
-
-#: CARD.ADMIRALTY_DIPLOMACY2.NAME
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_DIPLOMACY2.NAME"
-msgid "Oolo's Requisition"
-msgstr "Oolo's Requisition"
-
-#: CARD.ADMIRALTY_HOSTILE.DESC
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_HOSTILE.DESC"
-msgid "Increase the count of your non-core arguments by 1 and add 3 resolve to them"
-msgstr "Increase the count of your non-core arguments by 1 and add 3 resolve to them"
-
-#: CARD.ADMIRALTY_HOSTILE.name  ="Bolstered"
-#, fuzzy
-#: CARD.ADMIRALTY_MANIPULATE.DESC
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_MANIPULATE.DESC"
-msgid "Gain {1#money}."
-msgstr "Gain {1#money}."
-
-#: CARD.ADMIRALTY_MANIPULATE.NAME
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_MANIPULATE.NAME"
-msgid "Frisk"
-msgstr "Frisk"
-
-#: CARD.ADMIRALTY_MANIPULATE2.DESC
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_MANIPULATE2.DESC"
-msgid "Gain {INFLUENCE {1}}. If your opponent is Admiralty, this card costs 0."
-msgstr "Gain {INFLUENCE {1}}. If your opponent is Admiralty, this card costs 0."
-
-#: CARD.ADMIRALTY_MANIPULATE2.NAME
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_MANIPULATE2.NAME"
-msgid "Flash Badge"
-msgstr "Flash Badge"
-
-#: CARD.ADMIRALTY_MANIPULATE3.DESC
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_MANIPULATE3.DESC"
-msgid "Draw a card.\n{EVOKE}: Receive any unmitigated damage."
-msgstr "Draw a card.\n{EVOKE}: Receive any unmitigated damage."
-
-#: CARD.ADMIRALTY_MANIPULATE3.NAME
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_MANIPULATE3.NAME"
-msgid "Resilience"
-msgstr "Resilience"
-
-#: CARD.INSIDER_INFORMATION.DESC
-#, fuzzy
-msgctxt "CARD.INSIDER_INFORMATION.DESC"
-msgid "{IMPROVISE} a random uncommon or rare manipulate card. It costs 0 until played."
-msgstr "{IMPROVISE} a random uncommon or rare manipulate card. It costs 0 until played."
-
-#: CARD.INSIDER_INFORMATION.NAME
-#, fuzzy
-msgctxt "CARD.INSIDER_INFORMATION.NAME"
-msgid "Insider Information"
-msgstr "Insider Information"
-
-#: CARD.MODIFIER.DESC
-#, fuzzy
-msgctxt "CARD.MODIFIER.DESC"
-msgid "At the end of your turn, deal {1} damage to a random enemy target for every {INFLUENCE} count."
-msgstr "At the end of your turn, deal {1} damage to a random enemy target for every {INFLUENCE} count."
-
-#: CARD.VERY_CONVINCING.DESC
-#, fuzzy
-msgctxt "CARD.VERY_CONVINCING.DESC"
-msgid "{IMPROVISE} a card, then {IMPROVISE} again. Gain a card that combines both and {EXPEND}s."
-msgstr "{IMPROVISE} a card, then {IMPROVISE} again. Gain a card that combines both and {EXPEND}s."
-
-#: CARD.VERY_CONVINCING.NAME
-#, fuzzy
-msgctxt "CARD.VERY_CONVINCING.NAME"
-msgid "Very Convincing"
-msgstr "Very Convincing"
-
-#: CARD.VERY_CONVINCING2.DESC
-#, fuzzy
-msgctxt "CARD.VERY_CONVINCING2.DESC"
-msgid "Play both {card.{1}} and {card.{2}} with random targets."
-msgstr "Play both {card.{1}} and {card.{2}} with random targets."
-
-#: CARD.VERY_CONVINCING2.NAME
-#, fuzzy
-msgctxt "CARD.VERY_CONVINCING2.NAME"
-msgstr "Very Much Convinced"
-msgid "Very Much Convinced"
-
-#: CARD.BAD_DEAL.DESC
-#, fuzzy
-msgctxt "CARD.BAD_DEAL.DESC"
-msgid "Pay {1#money}.\nIf you end your turn with this card, take {2} damage."
-msgstr "Pay {1#money}.\nIf you end your turn with this card, take {2} damage."
-
-#: CARD.BAD_DEAL.NAME
-#, fuzzy
-msgctxt "CARD.BAD_DEAL.NAME"
-msgid "Bad Deal"
-msgstr "Bad Deal"
-
-#: CARD.BAFFLED.DESC
-#, fuzzy
-msgctxt "CARD.BAFFLED.DESC"
-msgid "Lose 2 resolve"
-msgstr "Lose 2 resolve"
-
-#: CARD.BAFFLED.NAME
-#, fuzzy
-msgctxt "CARD.BAFFLED.NAME"
-msgid "Baffled"
-msgstr "Baffled"
-
-#: CARD.BOUNTY_HUNTER.DESC
-#, fuzzy
-msgctxt "CARD.BOUNTY_HUNTER.DESC"
-msgid "{INCEPT} {1} {BOUNTY_REWARD}."
-msgstr "{INCEPT} {1} {BOUNTY_REWARD}."
-
-#: CARD.BOUNTY_HUNTER.NAME
-#, fuzzy
-msgctxt "CARD.BOUNTY_HUNTER.NAME"
-msgid "Bounty Hunter"
-msgstr "Bounty Hunter"
-
-#: CARD.BOUNTY_HUNTER_PLUS.NAME
-#, fuzzy
-msgctxt "CARD.BOUNTY_HUNTER_PLUS.NAME"
-msgid "Pale Bounty Hunter"
-msgstr "Pale Bounty Hunter"
-
-#: CARD.BOUNTY_HUNTER_PLUS2.NAME
-#, fuzzy
-msgctxt "CARD.BOUNTY_HUNTER_PLUS2.NAME"
-msgid "Double-Barreled Bounty Hunter"
-msgstr "Double-Barreled Bounty Hunter"
-
-#: CARD.COWARD.DESC
-#, fuzzy
-msgctxt "CARD.COWARD.DESC"
-msgid "While this is in your hand, hostile cards deal no damage."
-msgstr "Tant que c'est dans votre main, les cartes hostiles ne causent aucun dommage."
-
-#: CARD.COWARD.NAME
-#, fuzzy
-msgctxt "CARD.COWARD.NAME"
-msgid "Coward"
-msgstr "Lâche"
-
-#: CARD.DANGEROUS.DESC
-#, fuzzy
-msgctxt "CARD.DANGEROUS.DESC"
-msgid "While this is in your hand, hostile cards deal 1 bonus damage and diplomacy cards deal 1 less damage."
-msgstr "While this is in your hand, hostile cards deal 1 bonus damage and diplomacy cards deal 1 less damage."
-
-#: CARD.DANGEROUS.NAME
-#, fuzzy
-msgctxt "CARD.DANGEROUS.NAME"
-msgid "Dangerous"
-msgstr "Dangerous"
-
-#: CARD.DRUNK_PLAYER.NAME
-#, fuzzy
-msgctxt "CARD.DRUNK_PLAYER.NAME"
-msgid "Slurred Speech"
-msgstr "Slurred Speech"
-
-#: CARD.GASSY.NAME
-#, fuzzy
-msgctxt "CARD.GASSY.NAME"
-msgid "Gassy"
-msgstr "Gassy"
-
-#: CARD.INSULT.DESC
-#, fuzzy
-msgctxt "CARD.INSULT.DESC"
-msgid "{INCEPT} {1} {insulted}."
-msgstr "{INCEPT} {1} {insulted}."
-
-#: CARD.INSULT.NAME
-#, fuzzy
-msgctxt "CARD.INSULT.NAME"
-msgid "Insult"
-msgstr "Insult"
-
-#: CARD.INTIMIDATE.DESC
-#, fuzzy
-msgctxt "CARD.INTIMIDATE.DESC"
-msgid "{INCEPT} 2 {intimidated}."
-msgstr "{INCEPT} 2 {intimidated}."
-
-#: CARD.INTIMIDATE.NAME
-#, fuzzy
-msgctxt "CARD.INTIMIDATE.NAME"
-msgid "Intimidate"
-msgstr "Intimidate"
-
-#: CARD.KICKBACK.NAME
-#, fuzzy
-msgctxt "CARD.KICKBACK.NAME"
-msgid "Kickback"
-msgstr "Kickback"
-
-#: CARD.KICKBACK.QUIP
-#, fuzzy
-msgctxt "CARD.KICKBACK.QUIP"
-msgid "bribery"
-msgstr "bribery"
-
-#: CARD.KILLER.DESC
-#, fuzzy
-msgctxt "CARD.KILLER.DESC"
-msgid "Gain {DOMINANCE 1} while in hand."
-msgstr "Gain {DOMINANCE 1} while in hand."
-
-#: CARD.KILLER.NAME
-#, fuzzy
-msgctxt "CARD.KILLER.NAME"
-msgid "Killer"
-msgstr "Killer"
-
-#: CARD.KNOWN_THUG.DESC
-#, fuzzy
-msgctxt "CARD.KNOWN_THUG.DESC"
-msgid "Deal 1 resolve to a random target whenever you draw a card."
-msgstr "Deal 1 resolve to a random target whenever you draw a card."
-
-#: CARD.KNOWN_THUG.NAME
-#, fuzzy
-msgctxt "CARD.KNOWN_THUG.NAME"
-msgid "Known Thug"
-msgstr "Known Thug"
-
-#: CARD.MODIFIER.DESC
-#, fuzzy
-msgctxt "CARD.MODIFIER.DESC"
-msgid "Hostility cards deal an additional {3%+d} damage. Reduce by 1 when you play a non-Hostile card."
-msgstr "Hostility cards deal an additional {3%+d} damage. Reduce by 1 when you play a non-Hostile card."
-
-#: CARD.MODIFIER.DESC
-#, fuzzy
-msgctxt "CARD.MODIFIER.DESC"
-msgid "Reduce by 1 when you play a non-Hostile card.\nWill end the negotiation and start a fight if this argument reaches {1}"
-msgstr "Reduce by 1 when you play a non-Hostile card.\nWill end the negotiation and start a fight if this argument reaches {1}"
-
-#: CARD.MODIFIER.ID
-#, fuzzy
-msgctxt "CARD.MODIFIER.ID"
-msgid "intimidated"
-msgstr "intimidated"
-
-#: CARD.MODIFIER.NAME
-#, fuzzy
-msgctxt "CARD.MODIFIER.NAME"
-msgid "Insulted"
-msgstr "Insulted"
-
-#: CARD.MODIFIER.NAME
-#, fuzzy
-msgctxt "CARD.MODIFIER.NAME"
-msgid "Intimidated"
-msgstr "Intimidated"
-
-#: CARD.REPUTATION_PRECEDING.DESC
-#, fuzzy
-msgctxt "CARD.REPUTATION_PRECEDING.DESC"
-msgid "When this card is drawn, gain {DOMINANCE 1}, {INFLUENCE 1} and {VULNERABILITY 2}, then {EXPEND} this card."
-msgstr "When this card is drawn, gain {DOMINANCE 1}, {INFLUENCE 1} and {VULNERABILITY 2}, then {EXPEND} this card."
-
-#: CARD.REPUTATION_PRECEDING.NAME
-#, fuzzy
-msgctxt "CARD.REPUTATION_PRECEDING.NAME"
-msgid "Reputation Preceding"
-msgstr "Reputation Preceding"
-
-#: CARD.SILENCE.NAME
-#, fuzzy
-msgctxt "CARD.SILENCE.NAME"
-msgid "Silence"
-msgstr "Silence"
-
-#: CARD.UNSTABLE.DESC
-#, fuzzy
-msgctxt "CARD.UNSTABLE.DESC"
-msgid "Draw a card.\nPlay it with a random target."
-msgstr "Draw a card.\nPlay it with a random target."
-
-#: CARD.UNSTABLE.NAME
-#, fuzzy
-msgctxt "CARD.UNSTABLE.NAME"
-msgid "Unstable"
-msgstr "Unstable"
-
-#: CARD.TASK_ARGUMENT.NAME
-#, fuzzy
-msgctxt "CARD.TASK_ARGUMENT.NAME"
-msgid "Day Shift"
-msgstr "Day Shift"
-
-#: CARD.TASK_ARGUMENT.DESC
-#, fuzzy
-msgctxt "CARD.TASK_ARGUMENT.DESC"
-msgid "If any argument or bounty is removed, {CONSUME} this and draw a card."
-msgstr "If any argument or bounty is removed, {CONSUME} this and draw a card."
-
-#: CARD.TASK_DIPLOMACY.NAME
-#, fuzzy
-msgctxt "CARD.TASK_DIPLOMACY.NAME"
-msgid "Night Shift"
-msgstr "Night Shift"
-
-#: CARD.TASK_DIPLOMACY.DESC
-#, fuzzy
-msgctxt "CARD.TASK_DIPLOMACY.DESC"
-msgid "If you gain {INFLUENCE}, {CONSUME} this and draw a card."
-msgstr "If you gain {INFLUENCE}, {CONSUME} this and draw a card."
-
-#: CARD.TASK_DOMINANCE.NAME
-#, fuzzy
-msgctxt "CARD.TASK_DOMINANCE.NAME"
-msgid "Split Shift"
-msgstr "Split Shift"
-
-#: CARD.TASK_DOMINANCE.DESC
-#, fuzzy
-msgctxt "CARD.TASK_DOMINANCE.DESC"
-msgid "If you gain {DOMINANCE}, {CONSUME} this and draw a card."
-msgstr "If you gain {DOMINANCE}, {CONSUME} this and draw a card."
-
-#: CARD.TASK_MANIPULATE.NAME
-#, fuzzy
-msgctxt "CARD.TASK_MANIPULATE.NAME"
-msgid "On-Call"
-msgstr "On-Call"
-
-#: CARD.TASK_MANIPULATE.DESC
-#, fuzzy
-msgctxt "CARD.TASK_MANIPULATE.DESC"
-msgid "Play two Manipulate cards in one turn to {CONSUME} this and draw a card."
-msgstr "Play two Manipulate cards in one turn to {CONSUME} this and draw a card."
-
-#: CARD.AI_DRUNK.NAME
-#, fuzzy
-msgctxt "CARD.AI_DRUNK.NAME"
-msgid "Drunk"
-msgstr "Drunk"
-
-#: CARD.AI_DRUNK.DESC
-#, fuzzy
-msgctxt "CARD.AI_DRUNK.DESC"
-msgid "Drunk"
-msgstr "Drunk"
-
-#: CARD.HIP_FLASK.NAME
-#, fuzzy
-msgctxt "CARD.HIP_FLASK.NAME"
-msgid "Hip Flask"
-msgstr "Hip Flask"
-
-#: CARD.LIQUID_COURAGE.NAME
-#, fuzzy
-msgctxt "CARD.LIQUID_COURAGE.NAME"
-msgid "Liquid Courage"
-msgstr "Liquid Courage"
-
-#: CARD.ADMIRALTY_ORDERS.NAME
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_ORDERS.NAME"
-msgid "Admiralty Orders"
-msgstr "Admiralty Orders"
-
-#: CARD.ADMIRALTY_INTEL.NAME
-#, fuzzy
-msgctxt "CARD.ADMIRALTY_INTEL.NAME"
-msgid "Admiralty Intel"
-msgstr "Admiralty Intel"
-
-#: CARD.BRAIN_GILLS.NAME
-#, fuzzy
-msgctxt "CARD.BRAIN_GILLS.NAME"
-msgid "Brain Gills"
-msgstr "Brain Gills"
-
-#: CARD.BRAIN_GILLS.DESC
-#, fuzzy
-msgctxt "CARD.BRAIN_GILLS.DESC"
-msgid "The next card played this turn gains 3 additional XP."
-msgstr "The next card played this turn gains 3 additional XP."
-
-#: CARD.SPICY_NOODLES.NAME
-#, fuzzy
-msgctxt "CARD.SPICY_NOODLES.NAME"
-msgid "Spicy Noodles"
-msgstr "Spicy Noodles"
-
-#: CARD.SPICY_NOODLES.DESC
-#, fuzzy
-msgctxt "CARD.SPICY_NOODLES.DESC"
-msgid "Gain 2 {POWER}."
-msgstr "Gain 2 {POWER}."
-
-#: CARD.HEARTY_NOODLES.NAME
-#, fuzzy
-msgctxt "CARD.HEARTY_NOODLES.NAME"
-msgid "Hearty Noodles"
-msgstr "Hearty Noodles"
-
-#: CARD.HEARTY_NOODLES.DESC
-#, fuzzy
-msgctxt "CARD.HEARTY_NOODLES.DESC"
-msgid "Gain 2 actions and draw a card."
-msgstr "Gain 2 actions and draw a card."
-
-#: CARD.ZESTY_NOODLES.NAME
-#, fuzzy
-msgctxt "CARD.ZESTY_NOODLES.NAME"
-msgid "Zesty Noodles"
-msgstr "Zesty Noodles"
-
-#: CARD.ZESTY_NOODLES.DESC
-#, fuzzy
-msgctxt "CARD.ZESTY_NOODLES.DESC"
-msgid "Incept 2 {FLUSTERED}, draw a card."
-msgstr "Incept 2 {FLUSTERED}, draw a card."
