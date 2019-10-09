@@ -19,7 +19,7 @@ Statistique:
 1) Dans la bibliothèque EpicGame clic sur l'engrenage ![](https://i.ibb.co/kK0Pchb/image.png) ou sur ![](https://i.ibb.co/6wJR0Qr/image.png) selon votre affichage
 2) Clic sur ![](https://i.ibb.co/yBFyyXs/image.png)
 3) Retourner sur votre bureau
-4) Faire un clic droit `Ouvrir a l'emplacement du fichier` sur le raccourci Griftland
+4) Faire un clic droit `Ouvrir l'emplacement du dossier` sur le raccourci Griftland
 5) Dans la barre en haut, clic sur `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
 6) Double clic sur le dossier `data`
@@ -30,7 +30,7 @@ Statistique:
 1) Dans la bibliothèque EpicGame clic sur l'engrenage ![](https://i.ibb.co/kK0Pchb/image.png) ou sur ![](https://i.ibb.co/6wJR0Qr/image.png) selon votre affichage
 2) Clic sur ![](https://i.ibb.co/yBFyyXs/image.png)
 3) Retourner sur votre bureau
-4) Faire un clic droit `Ouvrir a l'emplacement du fichier` sur le raccourci Griftland
+4) Faire un clic droit `Ouvrir l'emplacement du dossier` sur le raccourci Griftland
 5) Dans la barre en haut, clic sur `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
 6) Double clic sur le dossier `data`
