@@ -23,8 +23,8 @@ Statistique:
 5) Dans la barre en haut, clic sur `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
 6) Double clic sur le dossier `data`
-7) Faire un clic droit crée un Nouveau dossier et Renommer le `localizations`
-8) Déplacer le fichier `english.po` dans le dossier `localizations` que vous venez de crée
+7) Faire un clic droit créer un Nouveau dossier et Renommer le `localizations`
+8) Déplacer le fichier `english.po` dans le dossier `localizations` que vous venez de créer
 
 ## Désinstallation:
 1) Dans la bibliothèque EpicGame clic sur l'engrenage ![](https://i.ibb.co/kK0Pchb/image.png) ou sur ![](https://i.ibb.co/6wJR0Qr/image.png) selon votre affichage
