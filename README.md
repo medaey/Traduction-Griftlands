@@ -21,6 +21,7 @@ Statistique:
 2) Double clic sur le dossier `data`
 3) Faire un clic droit créer un Nouveau dossier et Renommer le `localizations`
 4) Déplacer le fichier `english.po` dans le dossier `localizations` que vous venez de créer
+5) Jouer
 
 ## Désinstallation:
 1) Rendez-vous dans votre dossier d'installation `Griflands`
