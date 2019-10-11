@@ -18,8 +18,8 @@ Statistique:
 ## Installation:
 1) Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
-⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à la session.
-`Comment trouver son dossier d'installation Griftlands ?`
+  ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à la session.     
+**Comment trouver son dossier d'installation Griftlands ?**
 2) Double clic sur le dossier `data`
 3) Faire un clic droit créer un Nouveau dossier et Renommer le `localizations`
 4) Déplacer le fichier `english.po` dans le dossier `localizations` que vous venez de créer
@@ -37,5 +37,5 @@ Statistique:
 3) Retourner sur votre bureau
 4) Lancer le programme ![](https://i.ibb.co/grx0sdk/image.png)
 5) Glisser-déposer du Raccourci Griftlands
-6) Votre dossier d'installation est indiqué à la ligne 8 
+6) Votre dossier d'installation est indiqué à la ligne 8  
 `IconFile=C:\Program Files\Epic Games\Griftlands\bin\Griftlands.exe`
