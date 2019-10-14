@@ -15,6 +15,8 @@ Statistique:
 ```
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
+ ⚠️ **La traduction et en cour, des textes n'ont pas encore était intégrer ce qui les rendra illisible en jeu** ⚠️
+
 ## Installation:
 1) Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
