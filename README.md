@@ -15,6 +15,10 @@ Statistique:
 ```
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
+⚠️ **La traduction et en cours, des textes n'ont pas encore été intégrer ce qui les rendra illisibles en jeu** ⚠️
+
+<a href=https://discord.gg/PT4NFkk><img src="https://img.icons8.com/color/50/000000/discord-logo.png">
+
 ## Installation:
 1) Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
