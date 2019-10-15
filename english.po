@@ -1150,10 +1150,9 @@ msgid "Counter Attack"
 msgstr "Counter Attack"
 
 #: ATTACK.CRAYOTE_CLAW.DESC
-#, fuzzy
 msgctxt "ATTACK.CRAYOTE_CLAW.DESC"
 msgid "Apply {BLEED 2}.\nDraw a card."
-msgstr "Apply {BLEED 2}.\nDraw a card."
+msgstr "Appliquez {BLEED 2}.\nPiocher une carte."
 
 #: ATTACK.CRAYOTE_CLAW.NAME
 #, fuzzy
@@ -1232,7 +1231,7 @@ msgstr "Lance enraciné"
 #: ATTACK.DAGGERSTORM.DESC
 msgctxt "ATTACK.DAGGERSTORM.DESC"
 msgid "Insert {1} {blade_flash} cards into your draw pile."
-msgstr "Insérez les {1}{blade_flash} cartes dans votre pioche."
+msgstr "Insérez les {1} {blade_flash} cartes dans votre pioche."
 
 #: ATTACK.DAGGERSTORM.NAME
 msgctxt "ATTACK.DAGGERSTORM.NAME"
@@ -2540,10 +2539,9 @@ msgid "Pale Enrage"
 msgstr "Pale Enrage"
 
 #: ATTACK.IMPROVISE_SLASH.DESC
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_SLASH.DESC"
 msgid "Apply 2 {BLEED}.\n{EXPEND}."
-msgstr "Apply 2 {BLEED}.\n{EXPEND}."
+msgstr "Appliquer 2 {BLEED}.\n{EXPEND}."
 
 #: ATTACK.IMPROVISE_SLASH.FLAVOUR
 #, fuzzy
@@ -3719,6 +3717,11 @@ msgctxt "ATTACK.SILENT_SHIV_PLUS.NAME"
 msgid "Rooted Steel"
 msgstr "Rooted Steel"
 
+#: ATTACK.SILENT_SHIV_PLUS.DESC
+msgctxt "ATTACK.SILENT_SHIV_PLUS.DESC"
+msgid "<#UPGRADE>Apply {CRIPPLE 1}.</>\n{AMBUSH} and {EXPEND}."
+msgstr "<#UPGRADE> Applique {CRIPPLE 1}.</>\n {AMBUSH} et {EXPEND}."
+
 #: ATTACK.SILENT_SHIV_PLUS2.DESC
 msgctxt "ATTACK.SILENT_SHIV_PLUS2.DESC"
 msgid "<#UPGRADE>Apply {CRIPPLE 1}.</>\n{AMBUSH} and {EXPEND}."
@@ -4348,10 +4351,14 @@ msgid "Switch Blade"
 msgstr "Switch Blade"
 
 #: ATTACK.SWITCH_BLADE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SWITCH_BLADE_PLUS.DESC"
 msgid "Add a copy of this card to your discard.\n<#UPGRADE>50% chance of applying {WOUND 1}.</>\nSpend 1 {COMBO}: Draw a card."
-msgstr "Add a copy of this card to your discard.\n<#UPGRADE>50% chance of applying {WOUND 1}.</>\nSpend 1 {COMBO}: Draw a card."
+msgstr "Ajoutez une copie de cette carte à votre Défausse.\n<#UPGRADE>50% de chance d'appliquer {WOUND 1}.</>\n Dépenser 1 {COMBO}: Pioche une carte."
+
+#: ATTACK.SWITCH_BLADE_PLUS2.DESC
+msgctxt "ATTACK.SWITCH_BLADE_PLUS2.DESC"
+msgid "Add a copy of this card to your discard.\n<#UPGRADE>50% chance of applying {WOUND 1}.</>\nSpend 1 {COMBO}: Draw a card."
+msgstr "Ajoutez une copie de cette carte à votre Défausse.\n<#UPGRADE>50% de chance d'appliquer {WOUND 1}.</>\n Dépenser 1 {COMBO}: Pioche une carte."
 
 #: ATTACK.SWITCH_BLADE_PLUS.NAME
 #, fuzzy
@@ -10709,7 +10716,7 @@ msgstr "Beat {target}"
 #, fuzzy
 msgctxt "CONVO.SIDE_DEBT_COLLECTION_2.OPT_COLLECT_DEBT"
 msgid "Confront {target} about their debt to {giver}"
-msgstr "Confront {target} about their debt to {giver}"
+msgstr "Confronter {target} au sujet de leur dette envers {giver}"
 
 #: CONVO.SIDE_DEBT_COLLECTION_2.OPT_NEGOTIATIE_FOR_IT
 #, fuzzy
@@ -18014,28 +18021,24 @@ msgid "{1#faction} gained {2} power."
 msgstr "{1#faction} gained {2} power."
 
 #: NOTIFICATION.BATTLE_END_LOST
-#, fuzzy
 msgctxt "NOTIFICATION.BATTLE_END_LOST"
 msgid "You lost the battle!"
-msgstr "You lost the battle!"
+msgstr "Vous avez perdu le combat!"
 
 #: NOTIFICATION.BATTLE_END_RAN
-#, fuzzy
 msgctxt "NOTIFICATION.BATTLE_END_RAN"
 msgid "You ran away from battle!"
-msgstr "You ran away from battle!"
+msgstr "Vous avez fui le combat!"
 
 #: NOTIFICATION.BATTLE_END_WON
-#, fuzzy
 msgctxt "NOTIFICATION.BATTLE_END_WON"
 msgid "You won the battle!"
-msgstr "You won the battle!"
+msgstr "Vous avez gagné le combat!"
 
 #: NOTIFICATION.BATTLE_START_VS
-#, fuzzy
 msgctxt "NOTIFICATION.BATTLE_START_VS"
 msgid "{1} vs. {2}"
-msgstr "{1} vs. {2}"
+msgstr "{1} CONTRE. {2}"
 
 #: NOTIFICATION.BUTTON_CLOSE_TT
 msgctxt "NOTIFICATION.BUTTON_CLOSE_TT"
@@ -18123,7 +18126,7 @@ msgstr "CARTE AMÉLIORER"
 #: NOTIFICATION.DECK_CHANGED_UPGRADED_DESC
 msgctxt "NOTIFICATION.DECK_CHANGED_UPGRADED_DESC"
 msgid "Upgraded <!userdata_2>{1}</>"
-msgstr "Amélioration <!userdata_2>{1}</>"
+msgstr "AMÉLIORATION <!userdata_2>{1}</>"
 
 #: NOTIFICATION.FAILED_JOB_QUEST
 msgctxt "NOTIFICATION.FAILED_JOB_QUEST"
@@ -18195,7 +18198,7 @@ msgstr "Supprimée {1#graft}"
 #: NOTIFICATION.HEALTH_UPGRADED
 msgctxt "NOTIFICATION.HEALTH_UPGRADED"
 msgid "Max Health Upgraded"
-msgstr "Max Santé amélioré"
+msgstr "MAX SANTÉ AMÉLIORÉ"
 
 #: NOTIFICATION.HEALTH_UPGRADED_DETAILS
 msgctxt "NOTIFICATION.HEALTH_UPGRADED_DETAILS"
@@ -18300,7 +18303,7 @@ msgstr "Nouvelle relation"
 #: NOTIFICATION.OPINION_NEW_RELATIONSHIP_DESC_DISLIKED
 msgctxt "NOTIFICATION.OPINION_NEW_RELATIONSHIP_DESC_DISLIKED"
 msgid "{1#agent} dislikes you"
-msgstr "{1#agent} vous déteste"
+msgstr "{1#agent} VOUS DÉTESTE"
 
 #: NOTIFICATION.OPINION_NEW_RELATIONSHIP_DESC_HATED
 msgctxt "NOTIFICATION.OPINION_NEW_RELATIONSHIP_DESC_HATED"
@@ -18375,7 +18378,7 @@ msgstr "{1#agent} {2}"
 #, fuzzy
 msgctxt "NOTIFICATION.RESOLVE_UPGRADED"
 msgid "Max Resolve Upgraded"
-msgstr "Amélioration Max. Détermination"
+msgstr "AMÉLIORATION MAX. DÉTERMINATION"
 
 #: NOTIFICATION.RESOLVE_UPGRADED_DETAILS
 msgctxt "NOTIFICATION.RESOLVE_UPGRADED_DETAILS"
@@ -19389,10 +19392,9 @@ msgid "Get the {taken_item} back from {target#agent}."
 msgstr "Get the {taken_item} back from {target#agent}."
 
 #: QUEST.MJR_PERSONAL_EFFECTS.OBJECTIVE.GET_ITEM_FROM_TARGET.TITLE
-#, fuzzy
 msgctxt "QUEST.MJR_PERSONAL_EFFECTS.OBJECTIVE.GET_ITEM_FROM_TARGET.TITLE"
 msgid "Confront {target}"
-msgstr "Confront {target}"
+msgstr "Confronter {target}"
 
 #: QUEST.MJR_PERSONAL_EFFECTS.OBJECTIVE.GET_ITEM_FROM_THIEF.DESC
 #, fuzzy
@@ -20433,8 +20435,8 @@ msgstr "Hit the Beach"
 #: QUEST.SIDE_DEBT_COLLECTION.DESC
 #, fuzzy
 msgctxt "QUEST.SIDE_DEBT_COLLECTION.DESC"
-msgid "{giver} lent {target} {debt_amount#money}, and they haven't paid it back. Retrieve the money if you can, or make an example of {target} to make{giver} happy."
-msgstr "{giver} lent {target} {debt_amount#money}, and they haven't paid it back. Retrieve the money if you can, or make an example of {target} to make{giver} happy."
+msgid "{giver} lent {target} {debt_amount#money}. Retrieve the money if you can, or 'make an example' of {target} to make {giver} happy."
+msgstr "{target} a emprunter {debt_amount#money} à {giver} mais n'a pas remboursé. Récupérez l'argent, ou faites de {target} 'un exemple' pour rendre {giver} heureux."
 
 #: QUEST.SIDE_DEBT_COLLECTION.OBJECTIVE.CONFRONT_TARGET.DESC
 #, fuzzy
@@ -20446,7 +20448,7 @@ msgstr "Find {target} and deliver an ultimatum: pay up, or get ready to get hurt
 #, fuzzy
 msgctxt "QUEST.SIDE_DEBT_COLLECTION.OBJECTIVE.CONFRONT_TARGET.TITLE"
 msgid "Confront {target} about their debt"
-msgstr "Confront {target} about their debt"
+msgstr "Confronter {target} au sujet de leur dette"
 
 #: QUEST.SIDE_DEBT_COLLECTION.OBJECTIVE.PAY_BACK_DEBT.DESC
 #, fuzzy
@@ -20740,7 +20742,7 @@ msgstr "{giver} let {target} buy a {package} on credit, but they're late on thei
 #, fuzzy
 msgctxt "QUEST.SIDE_REPO_PERSON.OBJECTIVE.CONFRONT_TARGET.DESC"
 msgid "Confront {target} about the {package}."
-msgstr "Confront {target} about the {package}."
+msgstr "Confronter {target} à propos du {package}."
 
 #: QUEST.SIDE_REPO_PERSON.OBJECTIVE.CONFRONT_TARGET.TITLE
 #, fuzzy
@@ -22085,7 +22087,7 @@ msgstr "BATTLE"
 #: UI.BATTLE_PREVIEW_PANEL.VS
 msgctxt "UI.BATTLE_PREVIEW_PANEL.VS"
 msgid "<i>VS</>"
-msgstr "<i>VS</>"
+msgstr "<i>CONTRE</>"
 
 #: UI.BETA_ENDING.BODY
 #, fuzzy
@@ -22204,79 +22206,79 @@ msgctxt "UI.CALENDAR.TIMEDELTA.YESTERDAY"
 msgid "yesterday"
 msgstr "hier"
 
-#: UI.CARD_ENGINE.CARDS_IN_HAND
-msgctxt "UI.CARD_ENGINE.CARDS_IN_HAND"
+#: CARD_ENGINE.CARDS_IN_HAND
+msgctxt "CARD_ENGINE.CARDS_IN_HAND"
 msgid " ({1} cards in hand)"
 msgstr "({1} cartes en main)"
 
-#: UI.CARD_ENGINE.CARDS_PLAYED
-msgctxt "UI.CARD_ENGINE.CARDS_PLAYED"
+#: CARD_ENGINE.CARDS_PLAYED
+msgctxt "CARD_ENGINE.CARDS_PLAYED"
 msgid " ({1} cards played)"
 msgstr "({1} cartes jouées)"
 
-#: UI.CARD_ENGINE.CHOOSE_CARDS
-msgctxt "UI.CARD_ENGINE.CHOOSE_CARDS"
+#: CARD_ENGINE.CHOOSE_CARDS
+msgctxt "CARD_ENGINE.CHOOSE_CARDS"
 msgid "Choose {1} {1*card|cards}"
 msgstr "Choisissez {1} {1*carte|cartes}"
 
-#: UI.CARD_ENGINE.CHOOSE_DISCARDS
-msgctxt "UI.CARD_ENGINE.CHOOSE_DISCARDS"
+#: CARD_ENGINE.CHOOSE_DISCARDS
+msgctxt "CARD_ENGINE.CHOOSE_DISCARDS"
 msgid "Choose {1} {1*card|cards} to discard"
 msgstr "Choisissez les {1} {1*cartes|cartes} à défausser"
 
-#: UI.CARD_ENGINE.CHOOSE_EXPEND
-msgctxt "UI.CARD_ENGINE.CHOOSE_EXPEND"
+#: CARD_ENGINE.CHOOSE_EXPEND
+msgctxt "CARD_ENGINE.CHOOSE_EXPEND"
 msgid "Choose {1} {1*card|cards} to expend"
 msgstr "Choisissez {1} {1*carte|cartes} à épuiser"
 
-#: UI.CARD_ENGINE.CHOOSE_MAX_CARDS
-msgctxt "UI.CARD_ENGINE.CHOOSE_MAX_CARDS"
+#: CARD_ENGINE.CHOOSE_MAX_CARDS
+msgctxt "CARD_ENGINE.CHOOSE_MAX_CARDS"
 msgid "Choose up to {1} {1*card|cards}"
 msgstr "Choisissez jusqu'à {1} {1*carte|cartes}"
 
-#: UI.CARD_ENGINE.CHOOSE_MAX_DISCARDS
-msgctxt "UI.CARD_ENGINE.CHOOSE_MAX_DISCARDS"
+#: CARD_ENGINE.CHOOSE_MAX_DISCARDS
+msgctxt "CARD_ENGINE.CHOOSE_MAX_DISCARDS"
 msgid "Choose up to {1} {1*card|cards} to discard"
 msgstr "Choisissez jusqu'à {1} {1*carte|cartes} à défausser"
 
-#: UI.CARD_ENGINE.CHOOSE_MAX_EXPEND
-msgctxt "UI.CARD_ENGINE.CHOOSE_MAX_EXPEND"
+#: CARD_ENGINE.CHOOSE_MAX_EXPEND
+msgctxt "CARD_ENGINE.CHOOSE_MAX_EXPEND"
 msgid "Choose up to {1} {1*card|cards} to expend"
 msgstr "Choisissez jusqu'à {1} {1*carte|cartes} à épuiser"
 
-#: UI.CARD_ENGINE.CHOOSE_MIN_CARDS
-msgctxt "UI.CARD_ENGINE.CHOOSE_MIN_CARDS"
+#: CARD_ENGINE.CHOOSE_MIN_CARDS
+msgctxt "CARD_ENGINE.CHOOSE_MIN_CARDS"
 msgid "Choose at least {1} {1*card|cards}"
 msgstr "Choisissez au moins {1} {1*carte|cartes}"
 
-#: UI.CARD_ENGINE.CHOOSE_MIN_DISCARDS
-msgctxt "UI.CARD_ENGINE.CHOOSE_MIN_DISCARDS"
+#: CARD_ENGINE.CHOOSE_MIN_DISCARDS
+msgctxt "CARD_ENGINE.CHOOSE_MIN_DISCARDS"
 msgid "Choose at least {1} {1*card|cards} to discard"
 msgstr "Choisissez au moins {1} {1*carte|cartes} à défausser"
 
-#: UI.CARD_ENGINE.CHOOSE_MIN_EXPEND
-msgctxt "UI.CARD_ENGINE.CHOOSE_MIN_EXPEND"
+#: CARD_ENGINE.CHOOSE_MIN_EXPEND
+msgctxt "CARD_ENGINE.CHOOSE_MIN_EXPEND"
 msgid "Choose at least {1} {1*card|cards} to expend"
 msgstr "Choisissez au moins {1} {1*carte|cartes} à épuiser"
 
-#: UI.CARD_ENGINE.CHOOSE_SOME_CARDS
-msgctxt "UI.CARD_ENGINE.CHOOSE_SOME_CARDS"
+#: CARD_ENGINE.CHOOSE_SOME_CARDS
+msgctxt "CARD_ENGINE.CHOOSE_SOME_CARDS"
 msgid "Choose {1} to {2} {2*card|cards}"
 msgstr "Choisissez {1} à {2} {2*carte | cartes}"
 
-#: UI.CARD_ENGINE.CHOOSE_SOME_DISCARDS
-msgctxt "UI.CARD_ENGINE.CHOOSE_SOME_DISCARDS"
+#: CARD_ENGINE.CHOOSE_SOME_DISCARDS
+msgctxt "CARD_ENGINE.CHOOSE_SOME_DISCARDS"
 msgid "Choose {1} to {2} {2*card|cards} to discard"
 msgstr "Choisissez entre {1} et {2} {2*cartes|cartes} à défausser"
 
-#: UI.CARD_ENGINE.CHOOSE_SOME_EXPEND
-msgctxt "UI.CARD_ENGINE.CHOOSE_SOME_EXPEND"
+#: CARD_ENGINE.CHOOSE_SOME_EXPEND
+msgctxt "CARD_ENGINE.CHOOSE_SOME_EXPEND"
 msgid "Choose {1} to {2} {2*card|cards} to expend"
 msgstr "Choisissez {1} à {2} {2*carte | cartes} à épuiser"
 
-#: UI.CARD_ENGINE.DECK_TOO_LARGE
+#: CARD_ENGINE.DECK_TOO_LARGE
 #, fuzzy
-msgctxt "UI.CARD_ENGINE.DECK_TOO_LARGE"
+msgctxt "CARD_ENGINE.DECK_TOO_LARGE"
 msgid "Hand full"
 msgstr "Hand full"
 
@@ -23134,10 +23136,9 @@ msgid "<b>Draw</b>\nYou draw {1} cards per turn from this deck. Click to inspect
 msgstr "<b>Draw</b>\nYou draw {1} cards per turn from this deck. Click to inspect."
 
 #: UI.CARDS.END_TURN
-#, fuzzy
 msgctxt "UI.CARDS.END_TURN"
 msgid "END TURN"
-msgstr "END TURN"
+msgstr "FIN DE TOUR"
 
 #: UI.CARDS.ENEMY_DISCARDS_DECK_DIALOG_SUBTITLE
 #, fuzzy
@@ -23212,16 +23213,14 @@ msgid "CONCEDE"
 msgstr "CONCEDE"
 
 #: UI.CARDS_PANEL.DECK
-#, fuzzy
 msgctxt "UI.CARDS_PANEL.DECK"
 msgid "Draw"
-msgstr "Draw"
+msgstr "PIOCHE"
 
 #: UI.CARDS_PANEL.DISCARD
-#, fuzzy
 msgctxt "UI.CARDS_PANEL.DISCARD"
 msgid "Discard"
-msgstr "Discard"
+msgstr "DÉFAUSSE"
 
 #: UI.CARDS_PANEL.INCEPTED_FILTER
 #, fuzzy
@@ -23236,16 +23235,14 @@ msgid "Swap"
 msgstr "Swap"
 
 #: UI.CARDS_PANEL.TRASH
-#, fuzzy
 msgctxt "UI.CARDS_PANEL.TRASH"
 msgid "Trash"
-msgstr "Trash"
+msgstr "CORBEILLE"
 
 #: UI.CARDS_PANEL.TURNS_COUNTER
-#, fuzzy
 msgctxt "UI.CARDS_PANEL.TURNS_COUNTER"
 msgid "TURN {1}"
-msgstr "TURN {1}"
+msgstr "TOUR {1}"
 
 #: UI.CARDS_PANEL.UPGRADE_FILTER
 #, fuzzy
@@ -23495,23 +23492,23 @@ msgctxt "UI.CHARACTER_STATS.HP.TITLE"
 msgid "HP"
 msgstr "HP"
 
-#: UI.CHOOSE_CARDS_POPUP.MINIMIZE_DESC
-msgctxt "UI.CHOOSE_CARDS_POPUP.MINIMIZE_DESC"
+#: CHOOSE_CARDS_POPUP.MINIMIZE_DESC
+msgctxt "CHOOSE_CARDS_POPUP.MINIMIZE_DESC"
 msgid "View cards in hand"
 msgstr "Afficher les cartes en main"
 
-#: UI.CHOOSE_CARDS_POPUP.MINIMIZE_TITLE
-msgctxt "UI.CHOOSE_CARDS_POPUP.MINIMIZE_TITLE"
+#: CHOOSE_CARDS_POPUP.MINIMIZE_TITLE
+msgctxt "CHOOSE_CARDS_POPUP.MINIMIZE_TITLE"
 msgid "HIDE PANEL"
-msgstr "MASQUER LE PANNEAU"
+msgstr "CACHER LE PANNEAU"
 
-#: UI.CHOOSE_CARDS_POPUP.RESTORE_DESC
-msgctxt "UI.CHOOSE_CARDS_POPUP.RESTORE_DESC"
+#: CHOOSE_CARDS_POPUP.RESTORE_DESC
+msgctxt "CHOOSE_CARDS_POPUP.RESTORE_DESC"
 msgid "View card options"
 msgstr "Afficher les options de carte"
 
-#: UI.CHOOSE_CARDS_POPUP.RESTORE_TITLE
-msgctxt "UI.CHOOSE_CARDS_POPUP.RESTORE_TITLE"
+#: CHOOSE_CARDS_POPUP.RESTORE_TITLE
+msgctxt "CHOOSE_CARDS_POPUP.RESTORE_TITLE"
 msgid "RESTORE PANEL"
 msgstr "RESTAURER LE PANNEAU"
 
@@ -23932,10 +23929,9 @@ msgid "SKIP"
 msgstr "SKIP"
 
 #: UI.DRAFT_SCREEN.MONEY_BTN_TT
-#, fuzzy
 msgctxt "UI.DRAFT_SCREEN.MONEY_BTN_TT"
 msgid "Skip the card and gain {1#money}\nThis might be the best option sometimes."
-msgstr "Skip the card and gain {1#money}\nThis might be the best option sometimes."
+msgstr "Passer les cartes et gagniez {1#money}\nC'est peut-être la meilleure option, parfois.."
 
 #: UI.DRAFT_SCREEN.NEGOTIATION_ADDCARD_TITLE
 #, fuzzy
@@ -26167,10 +26163,9 @@ msgid "<b><#TITLE>Card Type</></b>\n{1}"
 msgstr "<b><#TITLE>Type de Carte</></b>\n{1}"
 
 #: UI.NEGOTIATION_PANEL.TUTORIAL_BODY
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.TUTORIAL_BODY"
 msgid "You are about to negotiate for the first time. Would you like to see a quick tutorial? You can review it at any time from the pause menu."
-msgstr "You are about to negotiate for the first time. Would you like to see a quick tutorial? You can review it at any time from the pause menu."
+msgstr "Vous êtes sur le point de négocier pour la première fois. Aimeriez-vous voir un tutoriel rapide ? Vous pouvez le consulter à tout moment à partir du menu pause.."
 
 #: UI.NEGOTIATION_PANEL.TUTORIAL_NO
 msgctxt "UI.NEGOTIATION_PANEL.TUTORIAL_NO"
@@ -26178,10 +26173,9 @@ msgid "No"
 msgstr "Non"
 
 #: UI.NEGOTIATION_PANEL.TUTORIAL_TITLE
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.TUTORIAL_TITLE"
 msgid "Negotiation Tutorial"
-msgstr "Negotiation Tutorial"
+msgstr "Tutoriel de négociation"
 
 #: UI.NEGOTIATION_PANEL.YOUR_RESOLVE
 #, fuzzy
@@ -27376,10 +27370,9 @@ msgid "This person dislikes you"
 msgstr "This person dislikes you"
 
 #: UI.REWARDS_WIDGET.REMOVECARD_DESC
-#, fuzzy
 msgctxt "UI.REWARDS_WIDGET.REMOVECARD_DESC"
 msgid "Remove a card from one of your decks"
-msgstr "Remove a card from one of your decks"
+msgstr "Retirer une carte de l'un de vos decks"
 
 #: UI.REWARDS_WIDGET.REMOVECARD_TITLE
 msgctxt "UI.REWARDS_WIDGET.REMOVECARD_TITLE"
@@ -28008,125 +28001,125 @@ msgctxt "UI.STORY.CONTINUE"
 msgid "Continue"
 msgstr "Continue"
 
-#: UI.SUPPORT_DESC.ALLY
-msgctxt "UI.SUPPORT_DESC.ALLY"
+#: SUPPORT_DESC.ALLY
+msgctxt "SUPPORT_DESC.ALLY"
 msgid "Ally"
 msgstr "Allié"
 
-#: UI.SUPPORT_DESC.BRIBED
-msgctxt "UI.SUPPORT_DESC.BRIBED"
+#: SUPPORT_DESC.BRIBED
+msgctxt "SUPPORT_DESC.BRIBED"
 msgid "Is bribed"
 msgstr "Est corrompu"
 
-#: UI.SUPPORT_DESC.CREW
-msgctxt "UI.SUPPORT_DESC.CREW"
+#: SUPPORT_DESC.CREW
+msgctxt "SUPPORT_DESC.CREW"
 msgid "Is on your team"
 msgstr "Est dans votre équipe"
 
-#: UI.SUPPORT_DESC.DISLIKES_BOTH
-msgctxt "UI.SUPPORT_DESC.DISLIKES_BOTH"
+#: SUPPORT_DESC.DISLIKES_BOTH
+msgctxt "SUPPORT_DESC.DISLIKES_BOTH"
 msgid "Dislikes you both"
 msgstr "Vous déteste tous les deux"
 
-#: UI.SUPPORT_DESC.DISLIKES_SUBJECT
-msgctxt "UI.SUPPORT_DESC.DISLIKES_SUBJECT"
+#: SUPPORT_DESC.DISLIKES_SUBJECT
+msgctxt "SUPPORT_DESC.DISLIKES_SUBJECT"
 msgid "DisLikes {1.Who}"
 msgstr "Déteste {1.Who}"
 
-#: UI.SUPPORT_DESC.DISLIKES_YOU
-msgctxt "UI.SUPPORT_DESC.DISLIKES_YOU"
+#: SUPPORT_DESC.DISLIKES_YOU
+msgctxt "SUPPORT_DESC.DISLIKES_YOU"
 msgid "Dislikes you"
 msgstr "Vous déteste"
 
-#: UI.SUPPORT_DESC.ESCORT
-msgctxt "UI.SUPPORT_DESC.ESCORT"
+#: SUPPORT_DESC.ESCORT
+msgctxt "SUPPORT_DESC.ESCORT"
 msgid "Is on your team"
 msgstr "Est dans votre équipe"
 
-#: UI.SUPPORT_DESC.HIRED
-msgctxt "UI.SUPPORT_DESC.HIRED"
+#: SUPPORT_DESC.HIRED
+msgctxt "SUPPORT_DESC.HIRED"
 msgid "Is hired by you"
 msgstr "Est embauché par vous"
 
-#: UI.SUPPORT_DESC.INTIMIDATED
-msgctxt "UI.SUPPORT_DESC.INTIMIDATED"
+#: SUPPORT_DESC.INTIMIDATED
+msgctxt "SUPPORT_DESC.INTIMIDATED"
 msgid "Is intimidated"
 msgstr "Est intimidé"
 
-#: UI.SUPPORT_DESC.IS_YOUR_PET
-msgctxt "UI.SUPPORT_DESC.IS_YOUR_PET"
+#: SUPPORT_DESC.IS_YOUR_PET
+msgctxt "SUPPORT_DESC.IS_YOUR_PET"
 msgid "Is your pet"
 msgstr "Est votre animal de compagnie"
 
-#: UI.SUPPORT_DESC.LIKES_SUBJECT
-msgctxt "UI.SUPPORT_DESC.LIKES_SUBJECT"
+#: SUPPORT_DESC.LIKES_SUBJECT
+msgctxt "SUPPORT_DESC.LIKES_SUBJECT"
 msgid "Likes {1.Who}"
 msgstr "J'apprécie {1.Who}"
 
-#: UI.SUPPORT_DESC.LIKES_YOU
-msgctxt "UI.SUPPORT_DESC.LIKES_YOU"
+#: SUPPORT_DESC.LIKES_YOU
+msgctxt "SUPPORT_DESC.LIKES_YOU"
 msgid "Likes you"
 msgstr "Vous apprécie"
 
-#: UI.SUPPORT_DESC.LIKES_YOU_BOTH
-msgctxt "UI.SUPPORT_DESC.LIKES_YOU_BOTH"
+#: SUPPORT_DESC.LIKES_YOU_BOTH
+msgctxt "SUPPORT_DESC.LIKES_YOU_BOTH"
 msgid "Likes you both"
 msgstr "Vous apprécie tous les deux"
 
-#: UI.SUPPORT_DESC.LOVES_YOU
-msgctxt "UI.SUPPORT_DESC.LOVES_YOU"
+#: SUPPORT_DESC.LOVES_YOU
+msgctxt "SUPPORT_DESC.LOVES_YOU"
 msgid "Loves you"
 msgstr "Vous aime"
 
-#: UI.SUPPORT_DESC.MANIPULATED_IN
-msgctxt "UI.SUPPORT_DESC.MANIPULATED_IN"
+#: SUPPORT_DESC.MANIPULATED_IN
+msgctxt "SUPPORT_DESC.MANIPULATED_IN"
 msgid "Is manipulated"
 msgstr "Est manipulé"
 
-#: UI.SUPPORT_DESC.MANIPULATED_OUT
-msgctxt "UI.SUPPORT_DESC.MANIPULATED_OUT"
+#: SUPPORT_DESC.MANIPULATED_OUT
+msgctxt "SUPPORT_DESC.MANIPULATED_OUT"
 msgid "Is manipulated"
 msgstr "Est manipulé"
 
-#: UI.SUPPORT_DESC.ORDERED
-msgctxt "UI.SUPPORT_DESC.ORDERED"
+#: SUPPORT_DESC.ORDERED
+msgctxt "SUPPORT_DESC.ORDERED"
 msgid "Following orders"
 msgstr "Suivre les ordres"
 
-#: UI.SUPPORT_DESC.PAID_OFF
+#: SUPPORT_DESC.PAID_OFF
 #, fuzzy
-msgctxt "UI.SUPPORT_DESC.PAID_OFF"
+msgctxt "SUPPORT_DESC.PAID_OFF"
 msgid "Has been paid off"
 msgstr "A été payé"
 
-#: UI.SUPPORT_DESC.PROTECT_WORKPLACE
+#: SUPPORT_DESC.PROTECT_WORKPLACE
 #, fuzzy
-msgctxt "UI.SUPPORT_DESC.PROTECT_WORKPLACE"
+msgctxt "SUPPORT_DESC.PROTECT_WORKPLACE"
 msgid "Guarding Location"
 msgstr "Lieu de garde"
 
-#: UI.SUPPORT_DESC.PROTECTING_FACTION
-msgctxt "UI.SUPPORT_DESC.PROTECTING_FACTION"
+#: SUPPORT_DESC.PROTECTING_FACTION
+msgctxt "SUPPORT_DESC.PROTECTING_FACTION"
 msgid "Protecting their faction"
 msgstr "Protéger leur faction"
 
-#: UI.SUPPORT_DESC.SAME_PARTY
-msgctxt "UI.SUPPORT_DESC.SAME_PARTY"
+#: SUPPORT_DESC.SAME_PARTY
+msgctxt "SUPPORT_DESC.SAME_PARTY"
 msgid "Party Member"
 msgstr "Membre du groupe"
 
-#: UI.SUPPORT_DESC.SYMPATHIZES_WITH
-msgctxt "UI.SUPPORT_DESC.SYMPATHIZES_WITH"
+#: SUPPORT_DESC.SYMPATHIZES_WITH
+msgctxt "SUPPORT_DESC.SYMPATHIZES_WITH"
 msgid "Sympathizes with the {1}"
 msgstr "Sympathise avec le {1}"
 
-#: UI.SUPPORT_DESC.TRY_TO_BREAK_FREE
-msgctxt "UI.SUPPORT_DESC.TRY_TO_BREAK_FREE"
+#: SUPPORT_DESC.TRY_TO_BREAK_FREE
+msgctxt "SUPPORT_DESC.TRY_TO_BREAK_FREE"
 msgid "Fighting to escape"
 msgstr "Lutte pour s'échapper"
 
-#: UI.SUPPORT_DESC.VIP
-msgctxt "UI.SUPPORT_DESC.VIP"
+#: SUPPORT_DESC.VIP
+msgctxt "SUPPORT_DESC.VIP"
 msgid "Stays out of fights"
 msgstr "Reste à l'écart des combats"
 
@@ -29636,10 +29629,9 @@ msgid "Buried Goods"
 msgstr "Buried Goods"
 
 #: QUEST.SIDE_ASSET_RECOVERY.DESC
-#, fuzzy
 msgctxt "QUEST.SIDE_ASSET_RECOVERY.DESC"
 msgid "A clearing in the woods"
-msgstr "A clearing in the woods"
+msgstr "Une clairière dans la forêt"
 
 #: QUEST.SIDE_AT_THE_CROSSROAD.NAME
 #, fuzzy
@@ -31444,3 +31436,1379 @@ msgstr "<#LIKED><b>Apprécie</></>\nCette personne t'apprécie et pourrait t'aid
 msgctxt "CONSTANTS.RELATIONSHIP_PLAYER_TOOLTIPS.5"
 msgid "<#LOVED><b>Loved</></>\nYou've managed to capture this person's loyalty. Don't waste it!"
 msgstr "<#LOVED><b>Aime</></>\nVous avez réussi à vous attirer la loyauté de cette personne. Ne le gaspillez pas.!"
+
+#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_1
+#, fuzzy
+msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_1"
+msgid "* The Grog n' Dog has its charm: the patrons look lively, and the floorboards creek like a well-fed toad.\nplayer:\n!left\nfssh:\n!right\n!greeting\n$miscRelieved\nThere you are. I started to think you mighta gotten mugged before you even made it through the door.\nplayer:\n!interest\n$neutralJoke\nYour faith moves me, {fssh}. But I <i>do</i> feel ready for a fight. Like my blood is pumping, ya know? \n!eureka \n$happyDefault\nShould serve me well up against {kashio}.   \nfssh:\n!chuckle\n$neutralJoke\nFirst breath of fresh air in ten years, and you get straight to the point. \nBut you won't get nowhere without making some friends. Get your bearings, and maybe tomorrow we can talk about {kashio}.\n!permit\n$miscRelieved\nLet me give you something. People leave the damnedest things behind in the bar.\n\n** {fssh} will give you something every time you start over."
+msgstr "* The Grog n' Dog has its charm: the patrons look lively, and the floorboards creek like a well-fed toad.\nplayer:\n!left\nfssh:\n!right\n!greeting\n$miscRelieved\nThere you are. I started to think you mighta gotten mugged before you even made it through the door.\nplayer:\n!interest\n$neutralJoke\nYour faith moves me, {fssh}. But I <i>do</i> feel ready for a fight. Like my blood is pumping, ya know? \n!eureka \n$happyDefault\nShould serve me well up against {kashio}.   \nfssh:\n!chuckle\n$neutralJoke\nFirst breath of fresh air in ten years, and you get straight to the point. \nBut you won't get nowhere without making some friends. Get your bearings, and maybe tomorrow we can talk about {kashio}.\n!permit\n$miscRelieved\nLet me give you something. People leave the damnedest things behind in the bar.\n\n** {fssh} will give you something every time you start over."
+
+#: LOCATION.MURDER_BAY_HARBOUR.NAME
+msgctxt "LOCATION.MURDER_BAY_HARBOUR.NAME"
+msgid "Harbour"
+msgstr "Le port"
+
+#: CHARACTER.WEALTHY_MERCHANT.TITLE
+msgctxt "CHARACTER.WEALTHY_MERCHANT.TITLE"
+msgid "Wealthy Merchant"
+msgstr "Wealthy Merchant"
+
+#: CHARACTER.SAL.TITLE
+msgctxt "CHARACTER.SAL.TITLE"
+msgid "Grifter"
+msgstr "Grifter"
+
+#: CHARACTER.BANDIT_GOON.TITLE
+msgctxt "CHARACTER.BANDIT_GOON.TITLE"
+msgid "Spree Thug"
+msgstr "Spree Thug"
+
+#: UI.NEGOTIATION_PANEL.INTENT_DAMAGE_TT
+#, fuzzy
+msgctxt "UI.NEGOTIATION_PANEL.INTENT_DAMAGE_TT"
+msgid "Will cause {1} resolve damage to one of your arguments."
+msgstr "Will cause {1} resolve damage to one of your arguments."
+
+#: UI.NEGOTIATION_PANEL.TRASH_DECK_TT
+msgctxt "UI.NEGOTIATION_PANEL.TRASH_DECK_TT"
+msgid "<b><#TITLE>Trash</></b>\nClick to view cards you've expended or destroyed. These cards are no longer in play."
+msgstr "<b><#TITLE>Corbeille</></b>\nCliquez pour afficher les cartes que vous avez dépensées ou détruites. Ces cartes ne sont plus en jeu."
+
+#: MODIFIER.ESCALATION.DESC
+#, fuzzy
+msgctxt "MODIFIER.ESCALATION.DESC"
+msgid  "Increases count when a hostile card is played.\nAdds {1%+d} damage to all intents."
+msgstr "Increases count when a hostile card is played.\nAdds {1%+d} damage to all intents."
+
+#: UI.NEGOTIATION_PANEL.INTENT_COMPOSURE_TT
+msgctxt "UI.NEGOTIATION_PANEL.INTENT_COMPOSURE_TT"
+msgid "Will apply {COMPOSURE} to a random argument"
+msgstr "Appliquera {COMPOSURE} à un argument aléatoire"
+
+#: UI.NEGOTIATION_PANEL.INTENT_ARGUMENT_TT
+msgctxt "UI.NEGOTIATION_PANEL.INTENT_ARGUMENT_TT"
+msgid "{1} is deploying an argument against you!"
+msgstr "{1} déploie un argument contre vous !"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_INTRO
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_INTRO"
+msgid "* Just when you're hoping for a nice, leisurely walk, you find yourself interrupted by a Spark Baron.\n* {baron.HeShe} looks fearful, which {baron.heshe} should, given that {baron.heshe} had the gall to interrupt your pace."
+msstr "* Just when you're hoping for a nice, leisurely walk, you find yourself interrupted by a Spark Baron.\n* {baron.HeShe} looks fearful, which {baron.heshe} should, given that {baron.heshe} had the gall to interrupt your pace."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_HELP_ME
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_HELP_ME"
+msgid "player:\n!left\nbaron:\n!right\n!scared\nGrifter! Help me! The fleads have it out for my blood.\nplayer:\n!interest\nThe <i>fleads</i>?\n* You can hear the sound of them crashing through the bush.\n* Something's got the pests mighty riled, and you'd guess it's the blood on the Spark Baron's uniform."
+msgstr "player:\n!left\nbaron:\n!right\n!scared\nGrifter! Help me! The fleads have it out for my blood.\nplayer:\n!interest\nThe <i>fleads</i>?\n* You can hear the sound of them crashing through the bush.\n* Something's got the pests mighty riled, and you'd guess it's the blood on the Spark Baron's uniform."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_HELP_THE_BARON
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_HELP_THE_BARON"
+msgid "Help the Spark Baron"
+msgstr "Aidez le Spark Baron"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_HELP
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_HELP"
+msgid "player:\n!shrug\nNot the weirdest rescue I've ever orchestrated. So sure, why not?\nflead:\n!right\nplayer:\n!fight\n* The fleads attack, and you jump into the thick of the frenzy."
+msgstr "player:\n!shrug\nNot the weirdest rescue I've ever orchestrated. So sure, why not?\nflead:\n!right\nplayer:\n!fight\n* The fleads attack, and you jump into the thick of the frenzy."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_KILLED_FLEADS
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_KILLED_FLEADS"
+msgid "* You rifle through {baron}'s pockets, and find a few shills."
+msgstr "* You rifle through {baron}'s pockets, and find a few shills."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_HELPED_DIED
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_HELPED_DIED"
+msgid "* You rifle through {baron}'s pockets, and find a few shills."
+msgstr "* You rifle through {baron}'s pockets, and find a few shills."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_HELPED_SURVIVED
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_HELPED_SURVIVED"
+msgid "player:\n!tired\n$miscRelieved\nNever seen 'em so ravenous. You must have tasty blood.\nbaron:\n!right\n!dubious\n$neutralDubious\nThat's a weird compliment, grifter, but you saved my skin so I'll allow it."
+msgstr "player:\n!tired\n$miscRelieved\nNever seen 'em so ravenous. You must have tasty blood.\nbaron:\n!right\n!dubious\n$neutralDubious\nThat's a weird compliment, grifter, but you saved my skin so I'll allow it."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_DEMAND_PAYMENT
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_DEMAND_PAYMENT"
+msgid "Ask for payment"
+msgstr "Demander à être payé"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_DEMAND
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_DEMAND"
+msgid "player:\n!crossed\nSpeaking of, I don't usually work for <i>free</i>...\nbaron:\n!sigh\n$neutralResigned\nUh, right. That's how it goes out here, huh?\n!give\nI don't have much, but, I have this..."
+msgstr "player:\n!crossed\nSpeaking of, I don't usually work for <i>free</i>...\nbaron:\n!sigh\n$neutralResigned\nUh, right. That's how it goes out here, huh?\n!give\nI don't have much, but, I have this..."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_PAYMENT_MONEY
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_PAYMENT_MONEY"
+msgid "Take money"
+msgstr "Prendre l'argent"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_PAYMENT_ITEM
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_PAYMENT_ITEM"
+msgid "Take {1#card}"
+msgstr "Prendre {1#card}"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_TAKE_PAYMENT
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_TAKE_PAYMENT"
+msgid "player:\n!take\n$happyThanks\nThank you kindly. Always pleased to have a satisfied customer.\nbaron:\n!agree\nYeah, yeah. Won't get no buyer's remorse from me.\n!greeting\nSee you around, grifter.\n!exit"
+msgstr "player:\n!take\n$happyThanks\nThank you kindly. Always pleased to have a satisfied customer.\nbaron:\n!agree\nYeah, yeah. Won't get no buyer's remorse from me.\n!greeting\nSee you around, grifter.\n!exit"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_DEMAND_ALL
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_DEMAND_ALL"
+msgid "Demand it all"
+msgstr "Exigez tout"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_DEMAND_ALL
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_DEMAND_ALL"
+msgid "player:\n!angry\n$angryDefault\nSomething tells me you're holding out on me.\n$angryCruel\nI saved your life. If you don't wanna pay for my services, then I'll have to <i>undo</i> my good work, won't I?"
+msgstr "player:\n!angry\n$angryDefault\nSomething tells me you're holding out on me.\n$angryCruel\nI saved your life. If you don't wanna pay for my services, then I'll have to <i>undo</i> my good work, won't I?"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_DEMAND_ALL_2
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_DEMAND_ALL_2"
+msgid "baron:\n!scared_shrug\n$scaredDefault\nBut that's everything I have!\n* {baron} considers the daggers at your hips and {baron.hisher} own injuries.\nbaron:\n!angry\nFine. Take it. \n$angryDefault\nAnd people think the Spark Barons are mercenary. Fah!\n* The Baron makes for the hills, nursing whatever wounds you left {baron.himher} with.\n!exit"
+msgstr "baron:\n!scared_shrug\n$scaredDefault\nBut that's everything I have!\n* {baron} considers the daggers at your hips and {baron.hisher} own injuries.\nbaron:\n!angry\nFine. Take it. \n$angryDefault\nAnd people think the Spark Barons are mercenary. Fah!\n* The Baron makes for the hills, nursing whatever wounds you left {baron.himher} with.\n!exit"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_LET_THEM_GO
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_LET_THEM_GO"
+msgid "Let {baron} go without paying you"
+msgstr "Laissez {baron} partir sans vous payer."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_LET_GO
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_LET_GO"
+msgid "player:\n!handwave\nNaw. I couldn't just let you die, could I? \nHard enough to sleep at night as it is."
+msgstr "player:\n!handwave\nNaw. I couldn't just let you die, could I? \nHard enough to sleep at night as it is."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_LET_GO_2
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_LET_GO_2"
+msgid "baron:\n$happyThanks\nWell that's... unexpected. Especially in the griftlands.\n!overthere\nYou ever find yourself in Grout Bog?\nplayer:\n!forgetful\n$miscEmbarrassed\nI, uh—no. Not really. \nbaron:\n!happy\n$happyDefault\nWell, if you ever make your way out there, hit me up. I'll make sure you're taken care of. \nplayer:\n$neutralThanks\nUh, thanks. \nbaron:\n!greeting\n$happyGreeting\nBe seeing you, friend.\n* The Baron makes for the hills, leaving you to untangle that complicated feeling in your gut. \n!exit"
+msgstr "baron:\n$happyThanks\nWell that's... unexpected. Especially in the griftlands.\n!overthere\nYou ever find yourself in Grout Bog?\nplayer:\n!forgetful\n$miscEmbarrassed\nI, uh—no. Not really. \nbaron:\n!happy\n$happyDefault\nWell, if you ever make your way out there, hit me up. I'll make sure you're taken care of. \nplayer:\n$neutralThanks\nUh, thanks. \nbaron:\n!greeting\n$happyGreeting\nBe seeing you, friend.\n* The Baron makes for the hills, leaving you to untangle that complicated feeling in your gut. \n!exit"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_WATCH_THE_FIGHT
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_WATCH_THE_FIGHT"
+msgid "Wait and see how this ends"
+msgstr "Attends de voir comment ça se termine."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_WATCH
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_WATCH"
+msgid "baron:\n!exit\n* You stay back, watching as the fight pans out. After all, it's what the Spark Barons used to do when you were young."
+msgstr "baron:\n!exit\n* You stay back, watching as the fight pans out. After all, it's what the Spark Barons used to do when you were young."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_FLEADS_WIN
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_FLEADS_WIN"
+msgid "* The hapless Spark Baron falls as the fleads desiccate the corpse.\nflead:\n!right\n* But they work fast, and quickly turn their hunger on you. \nplayer:\n!palm\nWell, should've seen <i>this</i> coming."
+msgstr "* The hapless Spark Baron falls as the fleads desiccate the corpse.\nflead:\n!right\n* But they work fast, and quickly turn their hunger on you. \nplayer:\n!palm\nWell, should've seen <i>this</i> coming."
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_BARON_WIN
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_BARON_WIN"
+msgid "* The injured Spark Baron finishes off the last of the fleads.\nbaron:\n!right\n!injured\nYou have fun watching that, grifter? You <i>amused</i>?\nplayer:\n!happy \n$neutralJoke\nYes, actually. Nice to see a Spark Baron struggling in the dirt for a change.\nbaron:\n!angry_accuse\n$angryDefault\nSod off. And you ever find yourself in Grout Bog, I'll make sure to return the favor. \nThanks for nothing, grifter.\n* The Baron leaves you with only your self-satisfied smirk for company.\n!exit"
+msgstr "* The injured Spark Baron finishes off the last of the fleads.\nbaron:\n!right\n!injured\nYou have fun watching that, grifter? You <i>amused</i>?\nplayer:\n!happy \n$neutralJoke\nYes, actually. Nice to see a Spark Baron struggling in the dirt for a change.\nbaron:\n!angry_accuse\n$angryDefault\nSod off. And you ever find yourself in Grout Bog, I'll make sure to return the favor. \nThanks for nothing, grifter.\n* The Baron leaves you with only your self-satisfied smirk for company.\n!exit"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_DEFEND
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_DEFEND"
+msgid "Defend yourself"
+msgstr "Defend yourself"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_BACK_OFF
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_BACK_OFF"
+msgid "Leave in a hurry"
+msgstr "Partir en vitesse"
+
+#: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_BACK_OFF
+#, fuzzy
+msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_BACK_OFF"
+msgid "player:\n!angry_shrug\nBarons have a habit of expecting something for nothing. And I don't work for free.\n!exit\nbaron:\n!exit\n* You leave quietly, and the fleads seem content to pursue the Baron deeper into the bush."
+msgstr "player:\n!angry_shrug\nBarons have a habit of expecting something for nothing. And I don't work for free.\n!exit\nbaron:\n!exit\n* You leave quietly, and the fleads seem content to pursue the Baron deeper into the bush."
+
+#: CHARACTER.FLEAD.TITLE
+msgctxt "CHARACTER.FLEAD.TITLE"
+msgid "Flead"
+msgstr "Flead"
+
+#: GRAFT.THIN_SKIN.NAME
+#, fuzzy
+msgctxt "GRAFT.THIN_SKIN.NAME"
+msgid "Thin Skin"
+msgstr "Thin Skin"
+
+#: GRAFT.THIN_SKIN.DESC
+#, fuzzy
+msgctxt "GRAFT.THIN_SKIN.DESC"
+msgid "The first time you take damage each fight, gain 2 OUND}."
+msgstr "The first time you take damage each fight, gain 2 OUND}."
+
+#: GRAFT.FRAGILE_HEALTH.NAME
+#, fuzzy
+msgctxt "GRAFT.FRAGILE_HEALTH.NAME"
+msgid "Fragile Health"
+msgstr "Fragile Health"
+
+#: GRAFT.FRAGILE_HEALTH.DESC
+#, fuzzy
+msgctxt "GRAFT.FRAGILE_HEALTH.DESC"
+msgid "Whenever you gain a debuff, take 2 damage."
+msgstr "Whenever you gain a debuff, take 2 damage."
+
+#: GRAFT.ELITIST.NAME
+#, fuzzy
+msgctxt "GRAFT.ELITIST.NAME"
+msgid "Elitist"
+msgstr "Elitist"
+
+#: GRAFT.ELITIST.DESC
+#, fuzzy
+msgctxt "GRAFT.ELITIST.DESC"
+msgid "Feud Citizens that you meet will dislike you."
+msgstr "Feud Citizens that you meet will dislike you."
+
+#: GRAFT.WHISPERED_RUMORS.NAME
+#, fuzzy
+msgctxt "GRAFT.WHISPERED_RUMORS.NAME"
+msgid "Whispered Rumors"
+msgstr "Whispered Rumors"
+
+#: GRAFT.WHISPERED_RUMORS.DESC
+#, fuzzy
+msgctxt "GRAFT.WHISPERED_RUMORS.DESC"
+msgid "Opponents start with an additional argument each negotiation."
+msgstr "Opponents start with an additional argument each negotiation."
+
+#: GRAFT.BLACKLISTED.NAME
+#, fuzzy
+msgctxt "GRAFT.BLACKLISTED.NAME"
+msgid "Blacklisted"
+msgstr "Blacklisted"
+
+#: GRAFT.BLACKLISTED.DESC
+#, fuzzy
+msgctxt "GRAFT.BLACKLISTED.DESC"
+msgid "At the start of each negotiation, discard two random cards."
+msgstr "At the start of each negotiation, discard two random cards."
+
+#: GRAFT.ON_THE_LAMB.NAME
+#, fuzzy
+msgctxt "GRAFT.ON_THE_LAMB.NAME"
+msgid "On the Lam"
+msgstr "On the Lam"
+
+#: GRAFT.ON_THE_LAMB.DESC
+#, fuzzy
+msgctxt "GRAFT.ON_THE_LAMB.DESC"
+msgid "-4 Max Health."
+msgstr "-4 Max Health."
+
+#: GRAFT.HUNTED.NAME
+#, fuzzy
+msgctxt "GRAFT.HUNTED.NAME"
+msgid "Hunted"
+msgstr "Hunted"
+
+#: GRAFT.HUNTED.DESC
+#, fuzzy
+msgctxt "GRAFT.HUNTED.DESC"
+msgid "All enemy Admiralty gain 1 OWER} at the start of combat."
+msgstr "All enemy Admiralty gain 1 OWER} at the start of combat."
+
+#: GRAFT.SHAKEY.NAME
+#, fuzzy
+msgctxt "GRAFT.SHAKEY.NAME"
+msgid "Shakey"
+msgstr "Shakey"
+
+#: GRAFT.SHAKEY.DESC
+#, fuzzy
+msgctxt "GRAFT.SHAKEY.DESC"
+msgid "-2 max resolve."
+msgstr "-2 max resolve."
+
+#: GRAFT.CURSE_OF_HESH.NAME
+#, fuzzy
+msgctxt "GRAFT.CURSE_OF_HESH.NAME"
+msgid "Curse of Hesh"
+msgstr "Curse of Hesh"
+
+#: GRAFT.CURSE_OF_HESH.DESC
+#, fuzzy
+msgctxt "GRAFT.CURSE_OF_HESH.DESC"
+msgid "Lose 1 action on your first turn of combat."
+msgstr "Lose 1 action on your first turn of combat."
+
+#: GRAFT.BAD_FAITH.NAME
+#, fuzzy
+msgctxt "GRAFT.BAD_FAITH.NAME"
+msgid "Bad Faith"
+msgstr "Bad Faith"
+
+#: GRAFT.BAD_FAITH.DESC
+#, fuzzy
+msgctxt "GRAFT.BAD_FAITH.DESC"
+msgid "At the start of each fight, add a #card} to your draw pile."
+msgstr "At the start of each fight, add a #card} to your draw pile."
+
+#: GRAFT.BAD_CREDIT.NAME
+#, fuzzy
+msgctxt "GRAFT.BAD_CREDIT.NAME"
+msgid "Bad Credit"
+msgstr "Bad Credit"
+
+#: GRAFT.BAD_CREDIT.DESC
+#, fuzzy
+msgctxt "GRAFT.BAD_CREDIT.DESC"
+msgid "Buying anything from shopkeepers costs an additional 20 shills."
+msgstr "Buying anything from shopkeepers costs an additional 20 shills."
+
+#: GRAFT.SPIKED_DRINK.NAME
+#, fuzzy
+msgctxt "GRAFT.SPIKED_DRINK.NAME"
+msgid "Spiked Drink"
+msgstr "Spiked Drink"
+
+#: GRAFT.SPIKED_DRINK.DESC
+#, fuzzy
+msgctxt "GRAFT.SPIKED_DRINK.DESC"
+msgid "50% chance to gain an Ulcer card whenever you drink."
+msgstr "50% chance to gain an Ulcer card whenever you drink."
+
+#: GRAFT.TAINTED_SUPPLY.NAME
+#, fuzzy
+msgctxt "GRAFT.TAINTED_SUPPLY.NAME"
+msgid "Tainted Supply"
+msgstr "Tainted Supply"
+
+#: GRAFT.TAINTED_SUPPLY.DESC
+#, fuzzy
+msgctxt "GRAFT.TAINTED_SUPPLY.DESC"
+msgid "Drinking adds an additional drunk card."
+msgstr "Drinking adds an additional drunk card."
+
+#: GRAFT.INTIMIDATED.NAME
+#, fuzzy
+msgctxt "GRAFT.INTIMIDATED.NAME"
+msgid "Bully"
+msgstr "Bully"
+
+#: GRAFT.INTIMIDATED.DESC
+#, fuzzy
+msgctxt "GRAFT.INTIMIDATED.DESC"
+msgid "Lose 1 EFEND} on all cards that apply EFEND}."
+msgstr "Lose 1 EFEND} on all cards that apply EFEND}."
+
+#: GRAFT.RED_TAPE.NAME
+#, fuzzy
+msgctxt "GRAFT.RED_TAPE.NAME"
+msgid "Red Tape"
+msgstr "Red Tape"
+
+#: GRAFT.RED_TAPE.DESC
+#, fuzzy
+msgctxt "GRAFT.RED_TAPE.DESC"
+msgid "Members of the Admiralty will not help you in combat or negotiation."
+msgstr "Members of the Admiralty will not help you in combat or negotiation."
+
+#: GRAFT.LOWERED_RANK.NAME
+#, fuzzy
+msgctxt "GRAFT.LOWERED_RANK.NAME"
+msgid "Lowered Rank"
+msgstr "Lowered Rank"
+
+#: GRAFT.LOWERED_RANK.DESC
+#, fuzzy
+msgctxt "GRAFT.LOWERED_RANK.DESC"
+msgid "Allies have -5 max health in combat."
+msgstr "Allies have -5 max health in combat."
+
+#: GRAFT.TERRORIZED.NAME
+#, fuzzy
+msgctxt "GRAFT.TERRORIZED.NAME"
+msgid "Terrorized"
+msgstr "Terrorized"
+
+#: GRAFT.TERRORIZED.DESC
+#, fuzzy
+msgctxt "GRAFT.TERRORIZED.DESC"
+msgid "When gained, 2 random Spree dislike you."
+msgstr "When gained, 2 random Spree dislike you."
+
+#: GRAFT.MARKED.NAME
+#, fuzzy
+msgctxt "GRAFT.MARKED.NAME"
+msgid "Marked"
+msgstr "Marked"
+
+#: GRAFT.MARKED.DESC
+#, fuzzy
+msgctxt "GRAFT.MARKED.DESC"
+msgid "Enemy Bandits have lower Panic meters."
+msgstr "Enemy Bandits have lower Panic meters."
+
+#: GRAFT.OUTWITTED.NAME
+#, fuzzy
+msgctxt "GRAFT.OUTWITTED.NAME"
+msgid "Outwitted"
+msgstr "Outwitted"
+
+#: GRAFT.OUTWITTED.DESC
+#, fuzzy
+msgctxt "GRAFT.OUTWITTED.DESC"
+msgid "Pin a random card at the start of combat."
+msgstr "Pin a random card at the start of combat."
+
+#: GRAFT.BRUTALITY.NAME
+#, fuzzy
+msgctxt "GRAFT.BRUTALITY.NAME"
+msgid "Brutality"
+msgstr "Brutality"
+
+#: GRAFT.BRUTALITY.DESC
+#, fuzzy
+msgctxt "GRAFT.BRUTALITY.DESC"
+msgid "Injury cards cost 1 additional action."
+msgstr "Injury cards cost 1 additional action."
+
+#: GRAFT.BOTTOM_SHELF.NAME
+#, fuzzy
+msgctxt "GRAFT.BOTTOM_SHELF.NAME"
+msgid "Bottom Shelf"
+msgstr "Bottom Shelf"
+
+#: GRAFT.BOTTOM_SHELF.DESC
+#, fuzzy
+msgctxt "GRAFT.BOTTOM_SHELF.DESC"
+msgid "Take 1 resolve damage whenever you XPEND} cards."
+msgstr "Take 1 resolve damage whenever you XPEND} cards."
+
+#: GRAFT.FAULTY_ARMOR.NAME
+#, fuzzy
+msgctxt "GRAFT.FAULTY_ARMOR.NAME"
+msgid "Faulty Armor"
+msgstr "Faulty Armor"
+
+#: GRAFT.FAULTY_ARMOR.DESC
+#, fuzzy
+msgctxt "GRAFT.FAULTY_ARMOR.DESC"
+msgid "Start each battle with 2 XPOSED}."
+msgstr "Start each battle with 2 XPOSED}."
+
+#: GRAFT.SKETCHY_EQUIPMENT.NAME
+#, fuzzy
+msgctxt "GRAFT.SKETCHY_EQUIPMENT.NAME"
+msgid "Sketchy Equipment"
+msgstr "Sketchy Equipment"
+
+#: GRAFT.SKETCHY_EQUIPMENT.DESC
+#, fuzzy
+msgctxt "GRAFT.SKETCHY_EQUIPMENT.DESC"
+msgid "Take 2 damage whenever you use an item."
+msgstr "Take 2 damage whenever you use an item."
+
+#: GRAFT.CIVIL_UNREST.NAME
+#, fuzzy
+msgctxt "GRAFT.CIVIL_UNREST.NAME"
+msgid "Civil Unrest"
+msgstr "Civil Unrest"
+
+#: GRAFT.CIVIL_UNREST.DESC
+#, fuzzy
+msgctxt "GRAFT.CIVIL_UNREST.DESC"
+msgid "All allies have higher panic meters."
+msgstr "All allies have higher panic meters."
+
+#: GRAFT.HEMOPHILIAC.NAME
+#, fuzzy
+msgctxt "GRAFT.HEMOPHILIAC.NAME"
+msgid "Hemophiliac"
+msgstr "Hemophiliac"
+
+#: GRAFT.HEMOPHILIAC.DESC
+#, fuzzy
+msgctxt "GRAFT.HEMOPHILIAC.DESC"
+msgid "Bleed cards deal 2 bonus damage to you."
+msgstr "Bleed cards deal 2 bonus damage to you."
+
+#: GRAFT.FUMBLING_FINGERS.NAME
+#, fuzzy
+msgctxt "GRAFT.FUMBLING_FINGERS.NAME"
+msgid "Fumbling Fingers"
+msgstr "Fumbling Fingers"
+
+#: GRAFT.FUMBLING_FINGERS.DESC
+#, fuzzy
+msgctxt "GRAFT.FUMBLING_FINGERS.DESC"
+msgid "Every 3rd turn in combat, discard a random card from your hand."
+msgstr "Every 3rd turn in combat, discard a random card from your hand."
+
+#: GRAFT.SHORT_CIRCUIT.NAME
+#, fuzzy
+msgctxt "GRAFT.SHORT_CIRCUIT.NAME"
+msgid "Short Circuit"
+msgstr "Short Circuit"
+
+#: GRAFT.SHORT_CIRCUIT.DESC
+#, fuzzy
+msgctxt "GRAFT.SHORT_CIRCUIT.DESC"
+msgid "Take 2 damage whenever you gain OWER}."
+msgstr "Take 2 damage whenever you gain OWER}."
+
+#: GRAFT.DRONE_SUPPLIER.NAME
+#, fuzzy
+msgctxt "GRAFT.DRONE_SUPPLIER.NAME"
+msgid "Drone Supplier"
+msgstr "Drone Supplier"
+
+#: GRAFT.DRONE_SUPPLIER.DESC
+#, fuzzy
+msgctxt "GRAFT.DRONE_SUPPLIER.DESC"
+msgid "Combat Drone cards cost 1 additional action."
+msgstr "Combat Drone cards cost 1 additional action."
+
+#: OPINION.DEEPENED_RELATIONSHIP_FAIL.TXT
+#, fuzzy
+msgctxt "OPINION.DEEPENED_RELATIONSHIP_FAIL.TXT"
+msgid "Insulted them by being too familiar"
+msgstr "Insulted them by being too familiar"
+
+#: OPINION.DEEPENED_RELATIONSHIP.TXT
+#, fuzzy
+msgctxt "OPINION.DEEPENED_RELATIONSHIP.TXT"
+msgid "Gave them a big gift"
+msgstr "Gave them a big gift"
+
+#: OPINION.SOLD_OUT_TO_ADMIRALTY.TXT
+#, fuzzy
+msgctxt "OPINION.SOLD_OUT_TO_ADMIRALTY.TXT"
+msgid "Sold them out to the Admiralty"
+msgstr "Sold them out to the Admiralty"
+
+#: OPINION.TRIED_MINOR_GRAFT.TXT
+#, fuzzy
+msgctxt "OPINION.TRIED_MINOR_GRAFT.TXT"
+msgid "Tried (unsuccessfully) to pull off a minor graft"
+msgstr "Tried (unsuccessfully) to pull off a minor graft"
+
+#: OPINION.GOT_WORKER_TO_LEAVE.TXT
+#, fuzzy
+msgctxt "OPINION.GOT_WORKER_TO_LEAVE.TXT"
+msgid "Got one of their workers to leave their shift"
+msgstr "Got one of their workers to leave their shift"
+
+#: OPINION.BESTED_IN_BATTLE.TXT
+#, fuzzy
+msgctxt "OPINION.BESTED_IN_BATTLE.TXT"
+msgid "Bested them in battle"
+msgstr "Bested them in battle"
+
+#: OPINION.FOUGHT_WITH.TXT
+#, fuzzy
+msgctxt "OPINION.FOUGHT_WITH.TXT"
+msgid "Found with them in battle"
+msgstr "Found with them in battle"
+
+#: OPINION.ABANDONED.TXT
+#, fuzzy
+msgctxt "OPINION.ABANDONED.TXT"
+msgid "Abandoned them in battle"
+msgstr "Abandoned them in battle"
+
+#: OPINION.SETTLED_DEBT.TXT
+#, fuzzy
+msgctxt "OPINION.SETTLED_DEBT.TXT"
+msgid "Paid off their debt"
+msgstr "Paid off their debt"
+
+#: OPINION.NEGOTIATED_PEACE_WITH_ENEMY.TXT
+#, fuzzy
+msgctxt "OPINION.NEGOTIATED_PEACE_WITH_ENEMY.TXT"
+msgid "Helped them reconcile with an enemy"
+msgstr "Helped them reconcile with an enemy"
+
+#: OPINION.PAID_YOUR_DEBT_FROM_POCKET.TXT
+#, fuzzy
+msgctxt "OPINION.PAID_YOUR_DEBT_FROM_POCKET.TXT"
+msgid "Paid your debt installment out of pocket"
+msgstr "Paid your debt installment out of pocket"
+
+#: OPINION.REFUSED_DRINK.TXT
+#, fuzzy
+msgctxt "OPINION.REFUSED_DRINK.TXT"
+msgid "Refused to drink with them"
+msgstr "Refused to drink with them"
+
+#: OPINION.STARTED_FIGHT_IN_BAR.TXT
+#, fuzzy
+msgctxt "OPINION.STARTED_FIGHT_IN_BAR.TXT"
+msgid "Started a fight they had to stop"
+msgstr "Started a fight they had to stop"
+
+#: OPINION.GOT_PATRON_TO_LEAVE.TXT
+#, fuzzy
+msgctxt "OPINION.GOT_PATRON_TO_LEAVE.TXT"
+msgid "Made them lose customers"
+msgstr "Made them lose customers"
+
+#: OPINION.DID_NOT_HELP.TXT
+#, fuzzy
+msgctxt "OPINION.DID_NOT_HELP.TXT"
+msgid "Did not help them out"
+msgstr "Did not help them out"
+
+#: OPINION.FLATTER.TXT
+#, fuzzy
+msgctxt "OPINION.FLATTER.TXT"
+msgid "Flattered"
+msgstr "Flattered"
+
+#: OPINION.GRANT_EXTENSION.TXT
+#, fuzzy
+msgctxt "OPINION.GRANT_EXTENSION.TXT"
+msgid "Granted them an extension on their protection money"
+msgstr "Granted them an extension on their protection money"
+
+#: OPINION.SAVED_LIFE.TXT
+#, fuzzy
+msgctxt "OPINION.SAVED_LIFE.TXT"
+msgid "Saved their life"
+msgstr "Saved their life"
+
+#: OPINION.DID_LOYALTY_QUEST.TXT
+#, fuzzy
+msgctxt "OPINION.DID_LOYALTY_QUEST.TXT"
+msgid "Helped them with a hard problem"
+msgstr "Helped them with a hard problem"
+
+#: OPINION.EXTORTIO.TXT
+#, fuzzy
+msgctxt "OPINION.EXTORTIO.TXT"
+msgid "Extorted them for money"
+msgstr "Extorted them for money"
+
+#: OPINION.MET.TXT
+#, fuzzy
+msgctxt "OPINION.MET.TXT"
+msgid "Met"
+msgstr "Met"
+
+#: OPINION.TRIED_TO_SET_UP.TXT
+#, fuzzy
+msgctxt "OPINION.TRIED_TO_SET_UP.TXT"
+msgid "Tried to set them up"
+msgstr "Tried to set them up"
+
+#: OPINION.WASTED_TIME.TXT
+#, fuzzy
+msgctxt "OPINION.WASTED_TIME.TXT"
+msgid "Wasted their time"
+msgstr "Wasted their time"
+
+#: OPINION.LEGACY_FACTION_LIKE.TXT
+#, fuzzy
+msgctxt "OPINION.LEGACY_FACTION_LIKE.TXT"
+msgid "You have a good reputation with this faction"
+msgstr "You have a good reputation with this faction"
+
+#: OPINION.LEGACY_LOVE.TXT
+#, fuzzy
+msgctxt "OPINION.LEGACY_LOVE.TXT"
+msgid "Loved you in a past life"
+msgstr "Loved you in a past life"
+
+#: OPINION.ELITIST_FACTION_DISLIKE.TXT
+#, fuzzy
+msgctxt "OPINION.ELITIST_FACTION_DISLIKE.TXT"
+msgid "You have a poor reputation with this faction."
+msgstr "You have a poor reputation with this faction."
+
+#: OPINION.TRIED_TO_SWINDLE.TXT
+#, fuzzy
+msgctxt "OPINION.TRIED_TO_SWINDLE.TXT"
+msgid "Tried to swindle them out of money"
+msgstr "Tried to swindle them out of money"
+
+#: OPINION.CAUGHT_STEALING.TXT
+#, fuzzy
+msgctxt "OPINION.CAUGHT_STEALING.TXT"
+msgid "Caught Stealing"
+msgstr "Caught Stealing"
+
+#: OPINION.GOT_KICKED_OUT.TXT
+#, fuzzy
+msgctxt "OPINION.GOT_KICKED_OUT.TXT"
+msgid "Got them kicked out"
+msgstr "Got them kicked out"
+
+#: OPINION.GOT_FIRED.TXT
+#, fuzzy
+msgctxt "OPINION.GOT_FIRED.TXT"
+msgid "Got them fired"
+msgstr "Got them fired"
+
+#: OPINION.CAUGHT_THIEF.TXT
+#, fuzzy
+msgctxt "OPINION.CAUGHT_THIEF.TXT"
+msgid "Caught a thief for them"
+msgstr "Caught a thief for them"
+
+#: OPINION.SOCIAL_FAVOUR.TXT
+#, fuzzy
+msgctxt "OPINION.SOCIAL_FAVOUR.TXT"
+msgid "'Helped' them out socially"
+msgstr "'Helped' them out socially"
+
+#: OPINION.SOCIALIZED.TXT
+#, fuzzy
+msgctxt "OPINION.SOCIALIZED.TXT"
+msgid "Socialized with them"
+msgstr "Socialized with them"
+
+#: OPINION.CALL_IN_FAVOUR.TXT
+#, fuzzy
+msgctxt "OPINION.CALL_IN_FAVOUR.TXT"
+msgid "Called in a favour"
+msgstr "Called in a favour"
+
+#: OPINION.SHADY_CONNECTION.TXT
+#, fuzzy
+msgctxt "OPINION.SHADY_CONNECTION.TXT"
+msgid "Become a shady connection"
+msgstr "Become a shady connection"
+
+#: OPINION.REFUSED_TO_HELP.TXT
+#, fuzzy
+msgctxt "OPINION.REFUSED_TO_HELP.TXT"
+msgid "Refused to help them when asked"
+msgstr "Refused to help them when asked"
+
+#: OPINION.WORKED_AGAINST_THE_ADMIRALTY.TXT
+#, fuzzy
+msgctxt "OPINION.WORKED_AGAINST_THE_ADMIRALTY.TXT"
+msgid "Worked against the Admiralty"
+msgstr "Worked against the Admiralty"
+
+#: OPINION.HELPED.TXT
+#, fuzzy
+msgctxt "OPINION.HELPED.TXT"
+msgid "Helped them out of a tough situation"
+msgstr "Helped them out of a tough situation"
+
+#: OPINION.INTIMIDATED.TXT
+#, fuzzy
+msgctxt "OPINION.INTIMIDATED.TXT"
+msgid "Got them intimidated"
+msgstr "Got them intimidated"
+
+#: OPINION.ATTEMPT_INTIMIDATION.TXT
+#, fuzzy
+msgctxt "OPINION.ATTEMPT_INTIMIDATION.TXT"
+msgid "Attempted to intimidate"
+msgstr "Attempted to intimidate"
+
+#: OPINION.TOOK_JOB.TXT
+#, fuzzy
+msgctxt "OPINION.TOOK_JOB.TXT"
+msgid "Agreed to do a job for them"
+msgstr "Agreed to do a job for them"
+
+#: OPINION.INSTIGATED.TXT
+#, fuzzy
+msgctxt "OPINION.INSTIGATED.TXT"
+msgid "Got into an argument"
+msgstr "Got into an argument"
+
+#: OPINION.MADE_PEACE.TXT
+#, fuzzy
+msgctxt "OPINION.MADE_PEACE.TXT"
+msgid "Made peace"
+msgstr "Made peace"
+
+#: OPINION.BOUGHT_DRINK.TXT
+#, fuzzy
+msgctxt "OPINION.BOUGHT_DRINK.TXT"
+msgid "Bought them a drink"
+msgstr "Bought them a drink"
+
+#: OPINION.MURDERED.TXT
+#, fuzzy
+msgctxt "OPINION.MURDERED.TXT"
+msgid "Murdered"
+msgstr "Murdered"
+
+#: OPINION.RECONCILED_GRUDGE.TXT
+#, fuzzy
+msgctxt "OPINION.RECONCILED_GRUDGE.TXT"
+msgid "Reconciled a grudge"
+msgstr "Reconciled a grudge"
+
+#: OPINION.ATTACKED.TXT
+#, fuzzy
+msgctxt "OPINION.ATTACKED.TXT"
+msgid "Was Attacked"
+msgstr "Was Attacked"
+
+#: OPINION.BETRAYED.TXT
+#, fuzzy
+msgctxt "OPINION.BETRAYED.TXT"
+msgid "Betrayed"
+msgstr "Betrayed"
+
+#: OPINION.PAID_OFF.TXT
+#, fuzzy
+msgctxt "OPINION.PAID_OFF.TXT"
+msgid "Paid off"
+msgstr "Paid off"
+
+#: OPINION.DEFENDED.TXT
+#, fuzzy
+msgctxt "OPINION.DEFENDED.TXT"
+msgid "Defended them"
+msgstr "Defended them"
+
+#: OPINION.SPARED_LIFE.TXT
+#, fuzzy
+msgctxt "OPINION.SPARED_LIFE.TXT"
+msgid "Spared their life"
+msgstr "Spared their life"
+
+#: OPINION.SAVED_FROM_CAPTIVITY.TXT
+#, fuzzy
+msgctxt "OPINION.SAVED_FROM_CAPTIVITY.TXT"
+msgid "Rescued them from captivity"
+msgstr "Rescued them from captivity"
+
+#: OPINION.TOOK_CAPTIV.TXT
+#, fuzzy
+msgctxt "OPINION.TOOK_CAPTIV.TXT"
+msgid "Took them captive"
+msgstr "Took them captive"
+
+#: OPINION.HELPED_THEM_DISAPPEAR.TXT
+#, fuzzy
+msgctxt "OPINION.HELPED_THEM_DISAPPEAR.TXT"
+msgid "Helped them skip town to escape their enemies"
+msgstr "Helped them skip town to escape their enemies"
+
+#: OPINION.TRIED_TAKE_CAPTIV.TXT
+#, fuzzy
+msgctxt "OPINION.TRIED_TAKE_CAPTIV.TXT"
+msgid "Tried to take them captive"
+msgstr "Tried to take them captive"
+
+#: OPINION.ROBBED.TXT
+#, fuzzy
+msgctxt "OPINION.ROBBED.TXT"
+msgid "Robbed them"
+msgstr "Robbed them"
+
+#: OPINION.PICKPOCKETED.TXT
+#, fuzzy
+msgctxt "OPINION.PICKPOCKETED.TXT"
+msgid "Attempted theft"
+msgstr "Attempted theft"
+
+#: OPINION.DID_VIOLENCE_IN_SHOP.TXT
+#, fuzzy
+msgctxt "OPINION.DID_VIOLENCE_IN_SHOP.TXT"
+msgid "Committed violence in their place of business"
+msgstr "Committed violence in their place of business"
+
+#: OPINION.BREAK_AND_ENTER.TXT
+#, fuzzy
+msgctxt "OPINION.BREAK_AND_ENTER.TXT"
+msgid "Broke into their place"
+msgstr "Broke into their place"
+
+#: OPINION.DISAPPROVE_MINOR.TXT
+#, fuzzy
+msgctxt "OPINION.DISAPPROVE_MINOR.TXT"
+msgid "Did something they didn't like"
+msgstr "Did something they didn't like"
+
+#: OPINION.THREATENED_TO_COLLECT_BOUNTY.TXT
+#, fuzzy
+msgctxt "OPINION.THREATENED_TO_COLLECT_BOUNTY.TXT"
+msgid "Thretened to collect their bounty"
+msgstr "Thretened to collect their bounty"
+
+#: OPINION.DISAPPROVE_MAJOR.TXT
+#, fuzzy
+msgctxt "OPINION.DISAPPROVE_MAJOR.TXT"
+msgid "Did something they really didn't like"
+msgstr "Did something they really didn't like"
+
+#: OPINION.APPROVE.TXT
+#, fuzzy
+msgctxt "OPINION.APPROVE.TXT"
+msgid "Did something they liked"
+msgstr "Did something they liked"
+
+#: OPINION.INSULT.TXT
+#, fuzzy
+msgctxt "OPINION.INSULT.TXT"
+msgid "Insult"
+msgstr "Insult"
+
+#: OPINION.FOUND_A_JOB.TXT
+#, fuzzy
+msgctxt "OPINION.FOUND_A_JOB.TXT"
+msgid "Found a job for them"
+msgstr "Found a job for them"
+
+#: OPINION.RAN_AWAY.TXT
+#, fuzzy
+msgctxt "OPINION.RAN_AWAY.TXT"
+msgid "Ran away from trouble"
+msgstr "Ran away from trouble"
+
+#: OPINION.HEARD_KERFUFFLE.TXT
+#, fuzzy
+msgctxt "OPINION.HEARD_KERFUFFLE.TXT"
+msgid "Heard a suspicious commotion"
+msgstr "Heard a suspicious commotion"
+
+#: OPINION.WITNESS_WANTON_VIOLENCE.TXT
+#, fuzzy
+msgctxt "OPINION.WITNESS_WANTON_VIOLENCE.TXT"
+msgid "Saw you commit an act of wanton violence"
+msgstr "Saw you commit an act of wanton violence"
+
+#: OPINION.REFUSE_JOB.TXT
+#, fuzzy
+msgctxt "OPINION.REFUSE_JOB.TXT"
+msgid "You refused a job"
+msgstr "You refused a job"
+
+#: OPINION.ANIMOSITY.TXT
+#, fuzzy
+msgctxt "OPINION.ANIMOSITY.TXT"
+msgid "Remembers your animosity during negotiation"
+msgstr "Remembers your animosity during negotiation"
+
+#: GRAFT.BOLSTERED_HEALTH.NAME
+#, fuzzy
+msgctxt "GRAFT.BOLSTERED_HEALTH.NAME"
+msgid "Bolstered Health"
+msgstr "Bolstered Health"
+
+#: GRAFT.BOLSTERED_HEALTH.DESC
+#, fuzzy
+msgctxt "GRAFT.BOLSTERED_HEALTH.DESC"
+msgid "+{1} Max Health."
+msgstr "+{1} Max Health."
+
+#: GRAFT.BOLSTERED_RESOLVE.NAME
+#, fuzzy
+msgctxt "GRAFT.BOLSTERED_RESOLVE.NAME"
+msgid "Bolstered Resolve"
+msgstr "Bolstered Resolve"
+
+#: GRAFT.BOLSTERED_RESOLVE.DESC
+#, fuzzy
+msgctxt "GRAFT.BOLSTERED_RESOLVE.DESC"
+msgid "+{1} Max Resolve."
+msgstr "+{1} Max Resolve."
+
+#: GRAFT.BARGAINING.NAME
+#, fuzzy
+msgctxt "GRAFT.BARGAINING.NAME"
+msgid "Bargaining"
+msgstr "Bargaining"
+
+#: GRAFT.BARGAINING.DESC
+#, fuzzy
+msgctxt "GRAFT.BARGAINING.DESC"
+msgid "20 shill discount from shopkeepers."
+msgstr "20 shill discount from shopkeepers."
+
+#: GRAFT.FIRST_AID.NAME
+#, fuzzy
+msgctxt "GRAFT.FIRST_AID.NAME"
+msgid "First Aid"
+msgstr "First Aid"
+
+#: GRAFT.FIRST_AID.DESC
+#, fuzzy
+msgctxt "GRAFT.FIRST_AID.DESC"
+msgid "Whenever you are healed, also remove one negative condition."
+msgstr "Whenever you are healed, also remove one negative condition."
+
+#: GRAFT.VOICE_OF_THE_PEOPLE.NAME
+#, fuzzy
+msgctxt "GRAFT.VOICE_OF_THE_PEOPLE.NAME"
+msgid "Voice of the People"
+msgstr "Voice of the People"
+
+#: GRAFT.VOICE_OF_THE_PEOPLE.DESC
+#, fuzzy
+msgctxt "GRAFT.VOICE_OF_THE_PEOPLE.DESC"
+msgid "Start all negotiations with a {voice_of_the_people} argument."
+msgstr "Start all negotiations with a {voice_of_the_people} argument."
+
+#: GRAFT.HEAVY_LIFTING.NAME
+#, fuzzy
+msgctxt "GRAFT.HEAVY_LIFTING.NAME"
+msgid "Heavy Lifting"
+msgstr "Heavy Lifting"
+
+#: GRAFT.HEAVY_LIFTING.DESC
+#, fuzzy
+msgctxt "GRAFT.HEAVY_LIFTING.DESC"
+msgid "At the start of each battle, gain 4 {DEFEND} and 2 temporary {POWER}."
+msgstr "At the start of each battle, gain 4 {DEFEND} and 2 temporary {POWER}."
+
+#: GRAFT.WHISPERED_RUMORS.NAME
+#, fuzzy
+msgctxt "GRAFT.WHISPERED_RUMORS.NAME"
+msgid "Whispered Rumors"
+msgstr "Whispered Rumors"
+
+#: GRAFT.WHISPERED_RUMORS.DESC
+#, fuzzy
+msgctxt "GRAFT.WHISPERED_RUMORS.DESC"
+msgid "Opponents start with an additional argument each negotiation."
+msgstr "Opponents start with an additional argument each negotiation."
+
+#: GRAFT.AUTHORITY.NAME
+#, fuzzy
+msgctxt "GRAFT.AUTHORITY.NAME"
+msgid "Authority"
+msgstr "Authority"
+
+#: GRAFT.AUTHORITY.DESC
+#, fuzzy
+msgctxt "GRAFT.AUTHORITY.DESC"
+msgid "At the start of each negotiation, add a random authority card to your draw pile."
+msgstr "At the start of each negotiation, add a random authority card to your draw pile."
+
+#: GRAFT.CONFIDENCE.NAME
+#, fuzzy
+msgctxt "GRAFT.CONFIDENCE.NAME"
+msgid "Confidence"
+msgstr "Confidence"
+
+#: GRAFT.CONFIDENCE.DESC
+#, fuzzy
+msgctxt "GRAFT.CONFIDENCE.DESC"
+msgid "+5 Max Health."
+msgstr "+5 Max Health."
+
+#: GRAFT.PIECE_OF_THE_PIE.NAME
+#, fuzzy
+msgctxt "GRAFT.PIECE_OF_THE_PIE.NAME"
+msgid "Piece of the Pie"
+msgstr "Piece of the Pie"
+
+#: GRAFT.PIECE_OF_THE_PIE.DESC
+#, fuzzy
+msgctxt "GRAFT.PIECE_OF_THE_PIE.DESC"
+msgid "Gain {1#money} every morning."
+msgstr "Gain {1#money} every morning."
+
+#: GRAFT.BELL_OF_HESH.NAME
+#, fuzzy
+msgctxt "GRAFT.BELL_OF_HESH.NAME"
+msgid "Bell of Hesh"
+msgstr "Bell of Hesh"
+
+#: GRAFT.BELL_OF_HESH.DESC
+#, fuzzy
+msgctxt "GRAFT.BELL_OF_HESH.DESC"
+msgid "Draw 1 extra card at the start of negotiation."
+msgstr "Draw 1 extra card at the start of negotiation."
+
+#: GRAFT.BIO_FEEDBACK.NAME
+#, fuzzy
+msgctxt "GRAFT.BIO_FEEDBACK.NAME"
+msgid "Bio-Feedback"
+msgstr "Bio-Feedback"
+
+#: GRAFT.BIO_FEEDBACK.DESC
+#, fuzzy
+msgctxt "GRAFT.BIO_FEEDBACK.DESC"
+msgid "Injury Cards cost 1 less action."
+msgstr "Injury Cards cost 1 less action."
+
+#: GRAFT.HAGGLE_BADGE.NAME
+#, fuzzy
+msgctxt "GRAFT.HAGGLE_BADGE.NAME"
+msgid "Haggle Badge"
+msgstr "Haggle Badge"
+
+#: GRAFT.HAGGLE_BADGE.DESC
+#, fuzzy
+msgctxt "GRAFT.HAGGLE_BADGE.DESC"
+msgid "You can negotiate for greater quest rewards."
+msgstr "You can negotiate for greater quest rewards."
+
+#: GRAFT.DOZE_BUG.NAME
+#, fuzzy
+msgctxt "GRAFT.DOZE_BUG.NAME"
+msgid "Doze Bug"
+msgstr "Doze Bug"
+
+#: GRAFT.DOZE_BUG.DESC
+#, fuzzy
+msgctxt "GRAFT.DOZE_BUG.DESC"
+msgid "Whenever you sleep, increase your max health by {1}."
+msgstr "Whenever you sleep, increase your max health by {1}."
+
+#: GRAFT.MIXOLOGY.NAME
+#, fuzzy
+msgctxt "GRAFT.MIXOLOGY.NAME"
+msgid "Mixology"
+msgstr "Mixology"
+
+#: GRAFT.MIXOLOGY.DESC
+#, fuzzy
+msgctxt "GRAFT.MIXOLOGY.DESC"
+msgid "Restore an additional 2 resolve when drinking."
+msgstr "Restore an additional 2 resolve when drinking."
+
+#: GRAFT.OBLIVION_STONE.NAME
+#, fuzzy
+msgctxt "GRAFT.OBLIVION_STONE.NAME"
+msgid "Oblivion Stone"
+msgstr "Oblivion Stone"
+
+#: GRAFT.OBLIVION_STONE.DESC
+#, fuzzy
+msgctxt "GRAFT.OBLIVION_STONE.DESC"
+msgid "Gain an additional {1} resolve when you socialize."
+msgstr "Gain an additional {1} resolve when you socialize."
+
+#: GRAFT.WEIGHTED_TOTEM.NAME
+#, fuzzy
+msgctxt "GRAFT.WEIGHTED_TOTEM.NAME"
+msgid "Weighted Totem"
+msgstr "Weighted Totem"
+
+#: GRAFT.WEIGHTED_TOTEM.DESC
+#, fuzzy
+msgctxt "GRAFT.WEIGHTED_TOTEM.DESC"
+msgid "Training cards costs {1#percent} less."
+msgstr "Training cards costs {1#percent} less."
+
+#: GRAFT.TORPOR_FIEND.NAME
+#, fuzzy
+msgctxt "GRAFT.TORPOR_FIEND.NAME"
+msgid "Torpor Fiend"
+msgstr "Torpor Fiend"
+
+#: GRAFT.TORPOR_FIEND.DESC
+#, fuzzy
+msgctxt "GRAFT.TORPOR_FIEND.DESC"
+msgid "When you sleep, gain {1} experience on a random card."
+msgstr "When you sleep, gain {1} experience on a random card."
+
+#: GRAFT.ACCELERATOR.NAME
+#, fuzzy
+msgctxt "GRAFT.ACCELERATOR.NAME"
+msgid "Accelerator"
+msgstr "Accelerator"
+
+#: GRAFT.ACCELERATOR.DESC
+#, fuzzy
+msgctxt "GRAFT.ACCELERATOR.DESC"
+msgid "The first card played in negotiation or battle gains +2 XP."
+msgstr "The first card played in negotiation or battle gains +2 XP."
+
+#: GRAFT.SPARRING.NAME
+#, fuzzy
+msgctxt "GRAFT.SPARRING.NAME"
+msgid "Sparring"
+msgstr "Sparring"
+
+#: GRAFT.SPARRING.DESC
+#, fuzzy
+msgctxt "GRAFT.SPARRING.DESC"
+msgid "Gain 1 bonus {DEFEND} on all cards that apply {DEFEND}."
+msgstr "Gain 1 bonus {DEFEND} on all cards that apply {DEFEND}."
+
+#: GRAFT.AUTHORIZATION.NAME
+#, fuzzy
+msgctxt "GRAFT.AUTHORIZATION.NAME"
+msgid "Authorization"
+msgstr "Authorization"
+
+#: GRAFT.AUTHORIZATION.DESC
+#, fuzzy
+msgctxt "GRAFT.AUTHORIZATION.DESC"
+msgid "Once a day, a member of the Admiralty will help you in combat or negotiation."
+msgstr "Once a day, a member of the Admiralty will help you in combat or negotiation."
+
+#: GRAFT.COMMANDER.NAME
+#, fuzzy
+msgctxt "GRAFT.COMMANDER.NAME"
+msgid "Commander"
+msgstr "Commander"
+
+#: GRAFT.COMMANDER.DESC
+#, fuzzy
+msgctxt "GRAFT.COMMANDER.DESC"
+msgid "All allies gain +5 health in combat."
+msgstr "All allies gain +5 health in combat."
+
+#: GRAFT.SAVAGERY.NAME
+#, fuzzy
+msgctxt "GRAFT.SAVAGERY.NAME"
+msgid "Savagery"
+msgstr "Savagery"
+
+#: GRAFT.SAVAGERY.DESC
+#, fuzzy
+msgctxt "GRAFT.SAVAGERY.DESC"
+msgid "+1 {BLEED} to all cards that apply {BLEED}."
+msgstr "+1 {BLEED} to all cards that apply {BLEED}."
+
+#: GRAFT.SUCKER_PUNCH.NAME
+#, fuzzy
+msgctxt "GRAFT.SUCKER_PUNCH.NAME"
+msgid "Sucker Punch"
+msgstr "Sucker Punch"
+
+#: GRAFT.SUCKER_PUNCH.DESC
+#, fuzzy
+msgctxt "GRAFT.SUCKER_PUNCH.DESC"
+msgid "+{1} Damage on the first attack in combat."
+msgstr "+{1} Damage on the first attack in combat."
+
+#: GRAFT.SURPRISE_ATTACK.NAME
+#, fuzzy
+msgctxt "GRAFT.SURPRISE_ATTACK.NAME"
+msgid "Surprise Attack"
+msgstr "Surprise Attack"
+
+#: GRAFT.SURPRISE_ATTACK.DESC
+#, fuzzy
+msgctxt "GRAFT.SURPRISE_ATTACK.DESC"
+msgid "Gain 1 action at the start of combat."
+msgstr "Gain 1 action at the start of combat."
+
+#: GRAFT.REGIMENTED.NAME
+#, fuzzy
+msgctxt "GRAFT.REGIMENTED.NAME"
+msgid "Regimented"
+msgstr "Regimented"
+
+#: GRAFT.REGIMENTED.DESC
+#, fuzzy
+msgctxt "GRAFT.REGIMENTED.DESC"
+msgid "All allied bandits have +10 Health in combat."
+msgstr "All allied bandits have +10 Health in combat."
+
+#: GRAFT.TOP_SHELF.NAME
+#, fuzzy
+msgctxt "GRAFT.TOP_SHELF.NAME"
+msgid "Top Shelf"
+msgstr "Top Shelf"
+
+#: GRAFT.TOP_SHELF.DESC
+#, fuzzy
+msgctxt "GRAFT.TOP_SHELF.DESC"
+msgid "Gain an additional 5 resolve when drinking."
+msgstr "Gain an additional 5 resolve when drinking."
+
+#: GRAFT.BOTTOM_SHELF.NAME
+#, fuzzy
+msgctxt "GRAFT.BOTTOM_SHELF.NAME"
+msgid "Bottom Shelf"
+msgstr "Bottom Shelf"
+
+#: GRAFT.BOTTOM_SHELF.DESC
+#, fuzzy
+msgctxt "GRAFT.BOTTOM_SHELF.DESC"
+msgid "Take 1 resolve damage whenever you {EXPEND} cards."
+msgstr "Take 1 resolve damage whenever you {EXPEND} cards."
+
+#: GRAFT.SPARK_VISOR.NAME
+#, fuzzy
+msgctxt "GRAFT.SPARK_VISOR.NAME"
+msgid "Spark Visor"
+msgstr "Spark Visor"
+
+#: GRAFT.SPARK_VISOR.DESC
+#, fuzzy
+msgctxt "GRAFT.SPARK_VISOR.DESC"
+msgid "At the start of each turn, mark an enemy. Attacking that enemy grants you 3 {DEFEND}."
+msgstr "At the start of each turn, mark an enemy. Attacking that enemy grants you 3 {DEFEND}."
+
+#: GRAFT.WEAPONS_SUPPLIER.NAME
+#, fuzzy
+msgctxt "GRAFT.WEAPONS_SUPPLIER.NAME"
+msgid "Weapons Supplier"
+msgstr "Weapons Supplier"
+
+#: GRAFT.WEAPONS_SUPPLIER.DESC
+#, fuzzy
+msgctxt "GRAFT.WEAPONS_SUPPLIER.DESC"
+msgid "Receive a random item card every morning."
+msgstr "Receive a random item card every morning."
+
+#: GRAFT.MORALE_BOOST.NAME
+#, fuzzy
+msgctxt "GRAFT.MORALE_BOOST.NAME"
+msgid "Morale Boost"
+msgstr "Morale Boost"
+
+#: GRAFT.MORALE_BOOST.DESC
+#, fuzzy
+msgctxt "GRAFT.MORALE_BOOST.DESC"
+msgid "When your allies rally for the first time, they heal an additional 20% of their maximum health."
+msgstr "When your allies rally for the first time, they heal an additional 20% of their maximum health."
+
+#: GRAFT.SHARPENED_BLADES.NAME
+#, fuzzy
+msgctxt "GRAFT.SHARPENED_BLADES.NAME"
+msgid "Sharpened Blades"
+msgstr "Sharpened Blades"
+
+#: GRAFT.SHARPENED_BLADES.DESC
+#, fuzzy
+msgctxt "GRAFT.SHARPENED_BLADES.DESC"
+msgid "All attacks apply 2 {BLEED} on your first turn of combat."
+msgstr "All attacks apply 2 {BLEED} on your first turn of combat."
+
+#: GRAFT.STEADY_HANDS.NAME
+#, fuzzy
+msgctxt "GRAFT.STEADY_HANDS.NAME"
+msgid "Steady Hands"
+msgstr "Steady Hands"
+
+#: GRAFT.STEADY_HANDS.DESC
+#, fuzzy
+msgctxt "GRAFT.STEADY_HANDS.DESC"
+msgid "Every 3rd turn in combat, draw 3 additional cards."
+msgstr "Every 3rd turn in combat, draw 3 additional cards."
+
+#: GRAFT.SYSTEM_SHOCK.NAME
+#, fuzzy
+msgctxt "GRAFT.SYSTEM_SHOCK.NAME"
+msgid "System Shock"
+msgstr "System Shock"
+
+#: GRAFT.SYSTEM_SHOCK.DESC
+#, fuzzy
+msgctxt "GRAFT.SYSTEM_SHOCK.DESC"
+msgid "If you didn't attack last turn, gain 2 temporary {POWER}."
+msgstr "If you didn't attack last turn, gain 2 temporary {POWER}."
+
+#: GRAFT.DRONE_MASTERY.NAME
+#, fuzzy
+msgctxt "GRAFT.DRONE_MASTERY.NAME"
+msgid "Drone Mastery"
+msgstr "Drone Mastery"
+
+#: GRAFT.DRONE_MASTERY.DESC
+#, fuzzy
+msgctxt "GRAFT.DRONE_MASTERY.DESC"
+msgid "Allied combat drones have 10 additional max Health."
+msgstr "Allied combat drones have 10 additional max Health."
