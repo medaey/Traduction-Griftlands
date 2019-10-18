@@ -3211,7 +3211,7 @@ msgstr "Razorspine"
 #, fuzzy
 msgctxt "ATTACK.READINESS.DESC"
 msgid "Draw {1} cards."
-msgstr "Draw {1} cards."
+msgstr "Pioche {1} cartes."
 
 #: ATTACK.READINESS.NAME
 #, fuzzy
@@ -3222,7 +3222,7 @@ msgstr "Readiness"
 #: ATTACK.READINESS_PLUS.DESC
 msgctxt "ATTACK.READINESS_PLUS.DESC"
 msgid "Draw <#UPGRADE>{1}</> cards."
-msgstr "Pioche des <#UPGRADE>{1}</> cartes."
+msgstr "Pioche <#UPGRADE>{1}</> cartes."
 
 #: ATTACK.READINESS_PLUS.NAME
 #, fuzzy
@@ -3233,7 +3233,7 @@ msgstr "Boosted Readiness"
 #: ATTACK.READINESS_PLUS2.DESC
 msgctxt "ATTACK.READINESS_PLUS2.DESC"
 msgid "Draw {1} cards.\n<#UPGRADE>Gain {DEFEND 2}</> and 2 {RIPOSTE}."
-msgstr "Tirez {1} cartes.\n <#UPGRADE> Gagner {DEFEND 2}</> et 2 {RIPOSTE}."
+msgstr "Pioche {1} cartes.\n <#UPGRADE> Gagner {DEFEND 2}</> et 2 {RIPOSTE}."
 
 #: ATTACK.READINESS_PLUS2.NAME
 #, fuzzy
@@ -23905,10 +23905,9 @@ msgid "Yes"
 msgstr "Oui"
 
 #: UI.DRAFT_SCREEN.BATTLE_ADDCARD_TITLE
-#, fuzzy
 msgctxt "UI.DRAFT_SCREEN.BATTLE_ADDCARD_TITLE"
 msgid "Choose Battle card to add"
-msgstr "Choose Battle card to add"
+msgstr "Choisissez la carte de combat à ajouter"
 
 #: UI.DRAFT_SCREEN.GENERIC_ADDCARD_TITLE
 #, fuzzy
@@ -23917,16 +23916,14 @@ msgid "Choose card to add"
 msgstr "Choose card to add"
 
 #: UI.DRAFT_SCREEN.MONEY_BTN_SUBTITLE
-#, fuzzy
 msgctxt "UI.DRAFT_SCREEN.MONEY_BTN_SUBTITLE"
 msgid "Gain {1#money} instead"
-msgstr "Gain {1#money} instead"
+msgstr "Gagnez {1#money} à la place"
 
 #: UI.DRAFT_SCREEN.MONEY_BTN_TITLE
-#, fuzzy
 msgctxt "UI.DRAFT_SCREEN.MONEY_BTN_TITLE"
 msgid "SKIP"
-msgstr "SKIP"
+msgstr "PASSER"
 
 #: UI.DRAFT_SCREEN.MONEY_BTN_TT
 msgctxt "UI.DRAFT_SCREEN.MONEY_BTN_TT"
@@ -23940,10 +23937,9 @@ msgid "Choose Negotiation card to add"
 msgstr "Choose Negotiation card to add"
 
 #: UI.DRAFT_SCREEN.PANEL_COMBAT_SUBTITLE
-#, fuzzy
 msgctxt "UI.DRAFT_SCREEN.PANEL_COMBAT_SUBTITLE"
 msgid "Pick 1 of {1} Battle Cards"
-msgstr "Pick 1 of {1} Battle Cards"
+msgstr "Choisissez 1 des {1} Cartes de Combat"
 
 #: UI.DRAFT_SCREEN.PANEL_GENERIC_SUBTITLE
 #, fuzzy
@@ -32812,3 +32808,89 @@ msgstr "Drone Mastery"
 msgctxt "GRAFT.DRONE_MASTERY.DESC"
 msgid "Allied combat drones have 10 additional max Health."
 msgstr "Allied combat drones have 10 additional max Health."
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.INVESTIGATE_ASSOCIATE_1.TITLE
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.INVESTIGATE_ASSOCIATE_1.TITLE"
+msgid "Talk to {associate_1}"
+msgstr "Parlez à {associate_1}"
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.INVESTIGATE_ASSOCIATE_1.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.INVESTIGATE_ASSOCIATE_1.DESC"
+msgid "{associate_1} might know where {target} is. Go 'ask them nicely' for some information."
+msgstr "{associate_1} might know where {target} is. Go 'ask them nicely' for some information."
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.INVESTIGATE_ASSOCIATE_2.TITLE
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.INVESTIGATE_ASSOCIATE_2.TITLE"
+msgid "Talk to {associate_2}"
+msgstr "Parlez à {associate_2}"
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.INVESTIGATE_ASSOCIATE_2.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.INVESTIGATE_ASSOCIATE_2.DESC"
+msgid "{associate_2} might know where {target} is. Go 'ask them nicely' for some information."
+msgstr "{associate_2} might know where {target} is. Go 'ask them nicely' for some information."
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.APPREHEND_TARGET.TITLE
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.APPREHEND_TARGET.TITLE"
+msgid "Confront {target}"
+msgstr "Confront {target}"
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.APPREHEND_TARGET.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.APPREHEND_TARGET.DESC"
+msgid "You have found {target}'s current location. Go confront {target.himher}."
+msgstr "You have found {target}'s current location. Go confront {target.himher}."
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.EXPLAIN_YOUR_FAILURE.TITLE
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.EXPLAIN_YOUR_FAILURE.TITLE"
+msgid "Return to {giver}"
+msgstr "Retourner voir {giver}"
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.EXPLAIN_YOUR_FAILURE.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.EXPLAIN_YOUR_FAILURE.DESC"
+msgid "None of the clues panned out. You should probably tell {giver}."
+msgstr "None of the clues panned out. You should probably tell {giver}."
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.TAKE_TARGET_TO_GIVER.TITLE
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.TAKE_TARGET_TO_GIVER.TITLE"
+msgid "Bring {target} to the Admiralty"
+msgstr "Bring {target} to the Admiralty"
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.TAKE_TARGET_TO_GIVER.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.TAKE_TARGET_TO_GIVER.DESC"
+msgid "You've captured {target}. Now bring them in and collect your pieces of silver."
+msgstr "You've captured {target}. Now bring them in and collect your pieces of silver."
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.TELL_TARGET_GIVER_DEAD.TITLE
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.TELL_TARGET_GIVER_DEAD.TITLE"
+msgid "Collect bounty from {giver}"
+msgstr "Collect bounty from {giver}"
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.TELL_TARGET_GIVER_DEAD.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.TELL_TARGET_GIVER_DEAD.DESC"
+msgid "You killed {target}. Go collect your blood money."
+msgstr "You killed {target}. Go collect your blood money."
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.CONVINCE_GIVER_TARGET_DEAD.TITLE
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.CONVINCE_GIVER_TARGET_DEAD.TITLE"
+msgid "Convince {giver}"
+msgstr "Convaincre {giver}"
+
+#: QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.CONVINCE_GIVER_TARGET_DEAD.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_BOUNTY_HUNT.OBJECTIVE.CONVINCE_GIVER_TARGET_DEAD.DESC"
+msgid "You let {target} live. Go convince {giver} that they're dead."
+msgstr "You let {target} live. Go convince {giver} that they're dead."
+
+#: ATTACK.EXERTION_PLUS2.DESC
+msgctxt "ATTACK.EXERTION_PLUS2.DESC"
+msgid "Gain <#UPGRADE>{1}</> actions.\nLose {2} {2*action|actions} next turn."
+msgstr "Gagne des actions <#UPGRADE>{1}</>.\nPerde {2} {2*action|actions} prochain tour."
