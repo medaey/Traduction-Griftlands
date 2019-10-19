@@ -981,7 +981,12 @@ msgstr "Sculpter"
 #: ATTACK.CARVE_PLUS.DESC
 msgctxt "ATTACK.CARVE_PLUS.DESC"
 msgid "Spend up to <#UPGRADE>{1} {COMBO}</>: Apply {WOUND 1} per {COMBO} spent.sgstr Utilisez jusqu'à <#UPGRADE>{1} {COMBO}</>: appliquer {WOUND 1} par {COMBO}dépensé."
-msgstr "Spend up to <#UPGRADE>{1} {COMBO}</>: Apply {WOUND 1} per {COMBO} spent.sgstr Utilisez jusqu'à <#UPGRADE>{1} {COMBO}</>: appliquer {WOUND 1} par {COMBO}dépensé."
+msgstr "Dépensez jusqu'à <#UPGRADE>{1} {COMBO}</>: Appliquez {WOUND 1} par {COMBO} spent.sgstr Utilisez jusqu'à <#UPGRADE>{1} {COMBO}</>: appliquer {WOUND 1} par {COMBO}dépensé."
+
+#: ATTACK.CARVE_PLUS2.DESC
+msgctxt "ATTACK.CARVE_PLUS2.DESC"
+msgid "Spend up to <#UPGRADE>{1} {COMBO}</>: Apply {WOUND 1} per {COMBO} spent.sgstr Utilisez jusqu'à <#UPGRADE>{1} {COMBO}</>: appliquer {WOUND 1} par {COMBO}dépensé."
+msgstr "Dépensez jusqu'à <#UPGRADE>{1} {COMBO}</>: Appliquez {WOUND 1} par {COMBO} spent.sgstr Utilisez jusqu'à <#UPGRADE>{1} {COMBO}</>: appliquer {WOUND 1} par {COMBO}dépensé."
 
 #: ATTACK.CARVE_PLUS.NAME
 msgctxt "ATTACK.CARVE_PLUS.NAME"
@@ -4698,10 +4703,9 @@ msgid "Warp Vial"
 msgstr "Warp Vial"
 
 #: ATTACK.WELL_FED.ANIM
-#, fuzzy
 msgctxt "ATTACK.WELL_FED.ANIM"
 msgid "taunt"
-msgstr "taunt"
+msgstr "provocation"
 
 #: ATTACK.WELL_FED.DESC
 #, fuzzy
@@ -4726,10 +4730,9 @@ msgid "Whip"
 msgstr "Whip"
 
 #: ATTACK.WILD_LUNGE.DESC
-#, fuzzy
 msgctxt "ATTACK.WILD_LUNGE.DESC"
 msgid "Attack 1 random enemy."
-msgstr "Attack 1 random enemy."
+msgstr "Attaque 1 ennemi au hasard."
 
 #: ATTACK.WILD_LUNGE.NAME
 #, fuzzy
@@ -4742,6 +4745,11 @@ msgstr "Wild Lunge"
 msgctxt "ATTACK.WILD_LUNGE_PLUS.NAME"
 msgid "Tall Wild Lunge"
 msgstr "Tall Wild Lunge"
+
+#: ATTACK.WILD_LUNGE_PLUS.DESC
+msgctxt "ATTACK.WILD_LUNGE_PLUS.DESC"
+msgid "Attack <#UPGRADE>2</> random enemies."
+msgstr "Attaque <#UPGRADE>2</> ennemis aléatoires."
 
 #: ATTACK.WILD_LUNGE_PLUS2.DESC
 msgctxt "ATTACK.WILD_LUNGE_PLUS2.DESC"
@@ -4767,6 +4775,11 @@ msgstr "Wind up"
 
 #: ATTACK.WIND_UP_PLUS.DESC
 msgctxt "ATTACK.WIND_UP_PLUS.DESC"
+msgid "Discard this card: <#UPGRADE>Increase the damage of this card by {1} and return it to your hand.</>"
+msgstr "Défausse cette carte : <#UPGRADE>Augmentez les dégâts de cette carte de {1} et remettez-la dans votre main. </>>"
+
+#: ATTACK.WIND_UP_PLUS2.DESC
+msgctxt "ATTACK.WIND_UP_PLUS2.DESC"
 msgid "Discard this card: <#UPGRADE>Increase the damage of this card by {1} and return it to your hand.</>"
 msgstr "Défausse cette carte : <#UPGRADE>Augmentez les dégâts de cette carte de {1} et remettez-la dans votre main. </>>"
 
@@ -7776,7 +7789,12 @@ msgstr "Oppress"
 #: CARD.OPPRESS_PLUS.DESC
 msgctxt "CARD.OPPRESS_PLUS.DESC"
 msgid "If this card dismisses an argument, gain <#UPGRADE>{DOMINANCE 2}</>."
-msgstr "If this card dismisses an argument, gain <#UPGRADE>{DOMINANCE 2}</>."
+msgstr "Si cette carte rejette un argument, gagnez <#UPGRADE>{DOMINANCE 2}</>."
+
+#: CARD.OPPRESS_PLUS2.DESC
+msgctxt "CARD.OPPRESS_PLUS2.DESC"
+msgid "If this card dismisses an argument, gain <#UPGRADE>{DOMINANCE 2}</>."
+msgstr "Si cette carte rejette un argument, gagnez <#UPGRADE>{DOMINANCE 2}</>."
 
 #: CARD.OPPRESS_PLUS.NAME
 msgctxt "CARD.OPPRESS_PLUS.NAME"
@@ -7803,10 +7821,15 @@ msgctxt "CARD.OVERBEAR_PLUS.NAME"
 msgid "Tall Overbear"
 msgstr "Tall Overbear"
 
+#: CARD.OVERBEAR_PLUS.DESC
+msgctxt "CARD.OVERBEAR_PLUS.DESC"
+msgid "Target a random argument. Repeat for each valid target.\n<#UPGRADE>Draw a card for each target.</>"
+msgstr "Ciblez un argument aléatoire. Répétez l'opération pour chaque cible valide.\n<#UPGRADE>Tirez une carte pour chaque cible.</>"
+
 #: CARD.OVERBEAR_PLUS2.DESC
 msgctxt "CARD.OVERBEAR_PLUS2.DESC"
 msgid "Target a random argument. Repeat for each valid target.\n<#UPGRADE>Draw a card for each target.</>"
-msgstr "Target a random argument. Repeat for each valid target.\n<#UPGRADE>Draw a card for each target.</>"
+msgstr "Ciblez un argument aléatoire. Répétez l'opération pour chaque cible valide.\n<#UPGRADE>Tirez une carte pour chaque cible.</>"
 
 #: CARD.OVERBEAR_PLUS2.NAME
 msgctxt "CARD.OVERBEAR_PLUS2.NAME"
@@ -8460,10 +8483,15 @@ msgctxt "CARD.TACTICAL_MIND_PLUS.NAME"
 msgid "Pale Tactical Mind"
 msgstr "Pale Tactical Mind"
 
+#: CARD.TACTICAL_MIND_PLUS.DESC
+msgctxt "CARD.TACTICAL_MIND_PLUS.DESC"
+msgid "Gain: Draw <#UPGRADE>{1}</> extra cards at the start of your turn."
+msgstr "Gain : Tirez <#UPGRADE>{1}</> cartes supplémentaires au début de votre tour."
+
 #: CARD.TACTICAL_MIND_PLUS2.DESC
 msgctxt "CARD.TACTICAL_MIND_PLUS2.DESC"
 msgid "Gain: Draw <#UPGRADE>{1}</> extra cards at the start of your turn."
-msgstr "Gain: Draw <#UPGRADE>{1}</> extra cards at the start of your turn."
+msgstr "Gain : Tirez <#UPGRADE>{1}</> cartes supplémentaires au début de votre tour."
 
 #: CARD.TACTICAL_MIND_PLUS2.NAME
 msgctxt "CARD.TACTICAL_MIND_PLUS2.NAME"
@@ -10192,21 +10220,21 @@ msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_2"
 msgid "fssh:\n!right\n* {fssh} is waiting for you, her hip cocked against the bar.\nplayer:\n!left\nfssh:\n!greeting\n$happyDefault\nLong time, Sal. But it feels like I just saw you.\nplayer:\n!bashful\n$happyResigned\nGuess I ain't changed that much, huh?\nfssh:\n!crossed\n$neutralResigned\nSome things don't. And knowing you, there's one thing you're after: thatbounty.\nYou do some jobs today, and I promise I'll help you out tomorrow.\n!give\n$neutralDirect\nFor now, take this—to welcome you home."
 msgstr "fssh:\n!right\n* {fssh} is waiting for you, her hip cocked against the bar.\nplayer:\n!left\nfssh:\n!greeting\n$happyDefault\nLong time, Sal. But it feels like I just saw you.\nplayer:\n!bashful\n$happyResigned\nGuess I ain't changed that much, huh?\nfssh:\n!crossed\n$neutralResigned\nSome things don't. And knowing you, there's one thing you're after: thatbounty.\nYou do some jobs today, and I promise I'll help you out tomorrow.\n!give\n$neutralDirect\nFor now, take this—to welcome you home."
 
-#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3a
+#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3A
 #, fuzzy
-msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3a"
+msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3A"
 msgid "fssh:\n!right\n* {fssh} welcomes you, and it's back to the hunt for another day.\nplayer:\n!left\nfssh:\n!sigh\n$neutralResigned\nYou look like you got plans to take on the biggest crime lord in the Bay, nomatter what I might say to stop you.\n!give\nJust promise me you won't do it without help."
 msgstr "fssh:\n!right\n* {fssh} welcomes you, and it's back to the hunt for another day.\nplayer:\n!left\nfssh:\n!sigh\n$neutralResigned\nYou look like you got plans to take on the biggest crime lord in the Bay, nomatter what I might say to stop you.\n!give\nJust promise me you won't do it without help."
 
-#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3b
+#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3B
 #, fuzzy
-msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3b"
+msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3B"
 msgid "fssh:\n!right\n* {fssh} has a drink waiting for you. Even though it's been years, sheremembered your favorite.\nplayer:\n!left\nfssh:\n!offer\n$neutralDirect\nYou're not the only one who wants {kashio} out of the picture.\n!agree\n$happyDefault\nPlay your cards right, and that revenge you want so bad? It'll deliveritself."
 msgstr "fssh:\n!right\n* {fssh} has a drink waiting for you. Even though it's been years, sheremembered your favorite.\nplayer:\n!left\nfssh:\n!offer\n$neutralDirect\nYou're not the only one who wants {kashio} out of the picture.\n!agree\n$happyDefault\nPlay your cards right, and that revenge you want so bad? It'll deliveritself."
 
-#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3c
+#: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3C
 #, fuzzy
-msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3c"
+msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3C"
 msgid "fssh:\n!right\n* You're back in Havaria, and {fssh} welcomes you like you were only gonefor a wink.\nplayer:\n!left\nfssh:\n!eureka\n$neutralDirect\nWelcome back, Sal. Let's not waste much time, huh? You got work to do, and Igot things to help you do it."
 msgstr "fssh:\n!right\n* You're back in Havaria, and {fssh} welcomes you like you were only gonefor a wink.\nplayer:\n!left\nfssh:\n!eureka\n$neutralDirect\nWelcome back, Sal. Let's not waste much time, huh? You got work to do, and Igot things to help you do it."
 
@@ -18906,10 +18934,9 @@ msgid "The Admiralty have agreed to meet at {swap_point#location}. Take {admiral
 msgstr "The Admiralty have agreed to meet at {swap_point#location}. Take {admiralty_prisoner} there."
 
 #: QUEST.HANDLER_SPREE_PRISONER_EXCHANGE.OBJECTIVE.DELIVER_PRISONER.TITLE
-#, fuzzy
 msgctxt "QUEST.HANDLER_SPREE_PRISONER_EXCHANGE.OBJECTIVE.DELIVER_PRISONER.TITLE"
 msgid "Go to {swap_point#location}"
-msgstr "Go to {swap_point#location}"
+msgstr "Aller à {swap_point#location}"
 
 #: QUEST.HANDLER_SPREE_PRISONER_EXCHANGE.OBJECTIVE.EXPLAIN_LOSS.DESC
 #, fuzzy
@@ -26928,20 +26955,19 @@ msgstr "A new phase starts!"
 #: UI.PICKLEGACY_SCREEN.BUTTON_BACK
 #, fuzzy
 msgctxt "UI.PICKLEGACY_SCREEN.BUTTON_BACK"
-msgid "Back"
-msgstr "Back"
+msgid "Leave to Menu"
+msgstr "Leave to Menu"
 
 #: UI.PICKLEGACY_SCREEN.BUTTON_CONTINUE
-#, fuzzy
 msgctxt "UI.PICKLEGACY_SCREEN.BUTTON_CONTINUE"
 msgid "Continue"
-msgstr "Continue"
+msgstr "Continuer"
 
 #: UI.PICKLEGACY_SCREEN.PERMA_DESC
 #, fuzzy
 msgctxt "UI.PICKLEGACY_SCREEN.PERMA_DESC"
-msgid "Your run has come to an end. At least you can take something with you...sgstr Your run has come to an end. At least you can take something with you..."
-msgstr "Your run has come to an end. At least you can take something with you...sgstr Your run has come to an end. At least you can take something with you..."
+msgid "Your run has come to an end. At least you can take something with you..."
+msgstr "Your run has come to an end. At least you can take something with you..."
 
 #: UI.PICKLEGACY_SCREEN.TITLE
 #, fuzzy
@@ -32894,3 +32920,115 @@ msgstr "You let {target} live. Go convince {giver} that they're dead."
 msgctxt "ATTACK.EXERTION_PLUS2.DESC"
 msgid "Gain <#UPGRADE>{1}</> actions.\nLose {2} {2*action|actions} next turn."
 msgstr "Gagne des actions <#UPGRADE>{1}</>.\nPerde {2} {2*action|actions} prochain tour."
+
+#: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_INTRO
+#, fuzzy
+msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_INTRO"
+msgid "* Sitting conspicuously by the side of the road, you notice an old shrine. It doesn't look Heshian."
+mgstr "* Sitting conspicuously by the side of the road, you notice an old shrine. It doesn't look Heshian."
+
+#: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_OFFER
+#, fuzzy
+msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_OFFER"
+msgid "Make an offering"
+mgstr "Make an offering"
+
+#: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.TT_OFFER
+#, fuzzy
+msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.TT_OFFER"
+msgid "Remove a chosen negotiation card."
+mgstr "Remove a chosen negotiation card."
+
+#: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_OFFER
+#, fuzzy
+msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_OFFER"
+msgid "player:\n!left\n!give\n$miscNostalgic\nYou need this more than I do, clearly.\n* You don't know who the shrine is for, but you leave your offering in a groove on the worn-down pedestal and return to the road."
+mgstr "player:\n!left\n!give\n$miscNostalgic\nYou need this more than I do, clearly.\n* You don't know who the shrine is for, but you leave your offering in a groove on the worn-down pedestal and return to the road."
+
+#: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_MEDITATE
+#, fuzzy
+msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_MEDITATE"
+msgid "Meditate by the shrine"
+mgstr "Meditate by the shrine"
+
+#: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.TT_MEDITATE
+#, fuzzy
+msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.TT_MEDITATE"
+msgid "Upgrade a chosen negotiation card."
+mgstr "Upgrade a chosen negotiation card."
+
+#: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_MEDITATE
+#, fuzzy
+msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_MEDITATE"
+msgid "player:\n!left\n* You place a hand on the worn pedestal and take a moment to reflect on the here and now.\nplayer:\n!sigh\n$miscNostalgic\nGuess even old gods die eventually, huh?\n* Surprisingly the notion brings you comfort. You spend the rest of your walk mulling it over."
+mgstr "player:\n!left\n* You place a hand on the worn pedestal and take a moment to reflect on the here and now.\nplayer:\n!sigh\n$miscNostalgic\nGuess even old gods die eventually, huh?\n* Surprisingly the notion brings you comfort. You spend the rest of your walk mulling it over."
+
+#: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_SKIP
+#, fuzzy
+msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_SKIP"
+msgid "Leave the shrine"
+mgstr "Leave the shrine"
+
+#: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_SKIP
+#, fuzzy
+msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_SKIP"
+msgid "* You were sent to the derricks to mine lumin in Hesh's name. It's hard to imagine any religion is worth your time."
+mgstr "* You were sent to the derricks to mine lumin in Hesh's name. It's hard to imagine any religion is worth your time."
+
+#: UI.PICKLEGACY_SCREEN.BACK_DIALOG_TITLE
+msgctxt "UI.PICKLEGACY_SCREEN.BACK_DIALOG_TITLE"
+msgid "Abandon run?"
+msgstr "Abandonner la partie?"
+
+#: UI.PICKLEGACY_SCREEN.BACK_DIALOG_NO
+msgctxt "UI.PICKLEGACY_SCREEN.BACK_DIALOG_NO"
+msgid "Cancel"
+msgstr "Annuler"
+
+#: UI.PICKLEGACY_SCREEN.BACK_DIALOG_TEXT
+#, fuzzy
+msgctxt "UI.PICKLEGACY_SCREEN.BACK_DIALOG_TEXT"
+msgid "If you leave, you forgo your current legacy and have to start a new run from scratch.\nYour permanent unlocks remain across runs."
+msgstr "If you leave, you forgo your current legacy and have to start a new run from scratch.\nYour permanent unlocks remain across runs."
+
+#: CONVO.INJURED_PERSON_2.STATE_SPREE.DIALOG_INTRO
+#, fuzzy
+msgctxt "CONVO.INJURED_PERSON_2.STATE_SPREE.DIALOG_INTRO"
+msgid "player:\n!left\nagent:\n!right\n!injured\n* {agent} comes stumbling towards you, clutching {agent.hisher} gut like it might fall out.\nagent:\n$scaredPowerless\nPlease! Help me!\nplayer:\n!placate\nHold on. What's happening?\nagent:\n$scaredDefault\nAn admiralty patrol just attacked me! But I ain't done nothing wrong!"
+msgstr "player:\n!left\nagent:\n!right\n!injured\n* {agent} comes stumbling towards you, clutching {agent.hisher} gut like it might fall out.\nagent:\n$scaredPowerless\nPlease! Help me!\nplayer:\n!placate\nHold on. What's happening?\nagent:\n$scaredDefault\nAn admiralty patrol just attacked me! But I ain't done nothing wrong!"
+
+#: CONVO.INJURED_PERSON_2.STATE_SPREE.OPT_HIDE
+#, fuzzy
+msgctxt "CONVO.INJURED_PERSON_2.STATE_SPREE.OPT_HIDE"
+msgid "Hide {agent} until the danger passes"
+msgstr "Hide {agent} until the danger passes"
+
+#: CONVO.INJURED_PERSON_2.STATE_SPREE.DIALOG_HIDE
+#, fuzzy
+msgctxt "CONVO.INJURED_PERSON_2.STATE_SPREE.DIALOG_HIDE"
+msgid "player:\n!agree\nAlright. Hide in the treeline and I'll keep them busy.\nagent:\n$scaredDefault\nTh-thank you! \n!exit\n* {agent} hobbles {agent.hisher} way to the tree line and gets out of sight just in time."
+msgstr "player:\n!agree\nAlright. Hide in the treeline and I'll keep them busy.\nagent:\n$scaredDefault\nTh-thank you! \n!exit\n* {agent} hobbles {agent.hisher} way to the tree line and gets out of sight just in time."
+
+#: CONVO.INJURED_PERSON_2.STATE_SPREE.OPT_PROTECT
+#, fuzzy
+msgctxt "CONVO.INJURED_PERSON_2.STATE_SPREE.OPT_PROTECT"
+msgid "Agree to protect {agent}"
+msgstr "Agree to protect {agent}"
+
+#: CONVO.INJURED_PERSON_2.STATE_SPREE.DIALOG_PROTECT
+#, fuzzy
+msgctxt "CONVO.INJURED_PERSON_2.STATE_SPREE.DIALOG_PROTECT"
+msgid "player:\n!sigh\nSounds like the Admiralty, all right. Get behind me.\nagent:\n$scaredDefault\nTh-thank you!\n* {agent} wipes blood from their mouth and huddles in your shadow."
+msgstr "player:\n!sigh\nSounds like the Admiralty, all right. Get behind me.\nagent:\n$scaredDefault\nTh-thank you!\n* {agent} wipes blood from their mouth and huddles in your shadow."
+
+#: CONVO.INJURED_PERSON_2.STATE_SPREE.OPT_LEAVE
+#, fuzzy
+msgctxt "CONVO.INJURED_PERSON_2.STATE_SPREE.OPT_LEAVE"
+msgid "Leave {agent} to {agent.hisher} fate"
+msgstr "Leave {agent} to {agent.hisher} fate"
+
+#: CONVO.INJURED_PERSON_2.STATE_SPREE.DIALOG_LEAVE
+#, fuzzy
+msgctxt "CONVO.INJURED_PERSON_2.STATE_SPREE.DIALOG_LEAVE"
+msgid "player:\n!dubious\nAdmiralty? No offense, but I'd rather not get involved.\nagent:\n$scaredPowerless\nN-no! Please! You have to help me!\nplayer:\n!shrug\nSorry, it's not my place.\n* With a panicked yelp, {agent} makes for the treeline. Likely the only help {agent.heshe}'ll get there will be from hungry yotes.\n!exit"
+msgstr "player:\n!dubious\nAdmiralty? No offense, but I'd rather not get involved.\nagent:\n$scaredPowerless\nN-no! Please! You have to help me!\nplayer:\n!shrug\nSorry, it's not my place.\n* With a panicked yelp, {agent} makes for the treeline. Likely the only help {agent.heshe}'ll get there will be from hungry yotes.\n!exit"
