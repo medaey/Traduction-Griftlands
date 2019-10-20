@@ -5792,10 +5792,8 @@ msgstr "Oolo's Requisition"
 #: CARD.ADMIRALTY_HOSTILE.DESC
 #, fuzzy
 msgctxt "CARD.ADMIRALTY_HOSTILE.DESC"
-msgid "Increase the count of your non-core arguments by 1 and add 3 resolve to the
-msgstr Increase the count of your non-core arguments by 1 and add 3 resolve to them"
-msgstr "Increase the count of your non-core arguments by 1 and add 3 resolve to the
-msgstr Increase the count of your non-core arguments by 1 and add 3 resolve to them"
+msgid "Increase the count of your non-core arguments by 1 and add 3 resolve to the"
+msgstr "Increase the count of your non-core arguments by 1 and add 3 resolve to them"
 
 #: CARD.ADMIRALTY_HOSTILE.NAME
 #, fuzzy
@@ -7888,7 +7886,7 @@ msgstr "Planification"
 #, fuzzy
 msgctxt "CARD.PLANNING_PLUS.DESC"
 msgid "Draw <#UPGRADE>{1}</> cards. Choose a card from your hand to place on top of your draw pile."
-msgid "Draw <#UPGRADE>{1}</> cards. Choose a card from your hand to place on top of your draw pile."
+msgstr "Draw <#UPGRADE>{1}</> cards. Choose a card from your hand to place on top of your draw pile."
 
 #: CARD.PLANNING_PLUS.NAME
 #, fuzzy
@@ -10539,8 +10537,8 @@ msgstr "Betray {giver}"
 #: CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_6.DIALOG_AGREED
 #, fuzzy
 msgctxt "CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_6.DIALOG_AGREED"
-msgid "player:\n{target} is interested, but they want to meet you, first.\nagent:\nThat was what I was trying to avoid.\nplayer:\n{target.HeShe} is pretty set on it. I believe the phase {target.heshe} usedwas 'take it or leave it'.\nagent:\nWell, then we take it. Let's go.\nplayer:\nWhat's this \n"we\n" business? I did my job already.\nagent:\no, you're involved now. You're coming with in case {target} pulls any funnybusiness.\nOr I could tell {handler} the whole story and see how {handler.heshe} feelsabout {handler.hisher} new pet running around behind {handler.hisher} back.\nplayer:\n...\nagent:\nThat's what I thought. Let's go.\n"
-msgstr "player:\n{target} is interested, but they want to meet you, first.\nagent:\nThat was what I was trying to avoid.\nplayer:\n{target.HeShe} is pretty set on it. I believe the phase {target.heshe} usedwas 'take it or leave it'.\nagent:\nWell, then we take it. Let's go.\nplayer:\nWhat's this \n"we\n" business? I did my job already.\nagent:\no, you're involved now. You're coming with in case {target} pulls any funnybusiness.\nOr I could tell {handler} the whole story and see how {handler.heshe} feelsabout {handler.hisher} new pet running around behind {handler.hisher} back.\nplayer:\n...\nagent:\nThat's what I thought. Let's go.\n"
+msgid "player:\n{target} is interested, but they want to meet you, first.\nagent:\nThat was what I was trying to avoid.\nplayer:\n{target.HeShe} is pretty set on it. I believe the phase {target.heshe} usedwas 'take it or leave it'.\nagent:\nWell, then we take it. Let's go.\nplayer:\nWhat's this \n'we\n' business? I did my job already.\nagent:\no, you're involved now. You're coming with in case {target} pulls any funnybusiness.\nOr I could tell {handler} the whole story and see how {handler.heshe} feelsabout {handler.hisher} new pet running around behind {handler.hisher} back.\nplayer:\n...\nagent:\nThat's what I thought. Let's go.\n"
+msgstr "player:\n{target} is interested, but they want to meet you, first.\nagent:\nThat was what I was trying to avoid.\nplayer:\n{target.HeShe} is pretty set on it. I believe the phase {target.heshe} usedwas 'take it or leave it'.\nagent:\nWell, then we take it. Let's go.\nplayer:\nWhat's this \n'we\n' business? I did my job already.\nagent:\no, you're involved now. You're coming with in case {target} pulls any funnybusiness.\nOr I could tell {handler} the whole story and see how {handler.heshe} feelsabout {handler.hisher} new pet running around behind {handler.hisher} back.\nplayer:\n...\nagent:\nThat's what I thought. Let's go.\n"
 
 #: CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_6.DIALOG_DISAGREED
 #, fuzzy
@@ -11527,8 +11525,8 @@ msgstr "giver:\n!right\nplayer:\nSorry, {giver}. Nothing personal.\ngiver:\n!ang
 #: CONVO.SIDE_SHADY_BUSINESS.STATE_ALLEY_CONFRONT.DIALOG_INTRO
 #, fuzzy
 msgctxt "CONVO.SIDE_SHADY_BUSINESS.STATE_ALLEY_CONFRONT.DIALOG_INTRO"
-msgid "* {giver} leads you down a series of twisting alleyways, to a secluded spot behind a closed pawn shop.\ngiver:\n!left\n$hushed\nHere's the place.\n* {giver} raises {giver.hisher} voice and addresses the cobblestones.\n$direct\nI'm here.\nmerchant:  \n!right\nIndeed, you are. And I see you've brought a shadow to protect you.\ngiver:\nYou can hardly blame me for protecting myself, considering who you areworking for.\nmerchant:\n\n"With\n", {giver.name}. Working \n"with\n". \nYour stubbornness won't protect you from what's coming.\nThe business has changed. We all need to accept that, and take what theSpree are offering while they're still offering it.\n* {merchant} glances toward the shadowy end of the alley.\nHave you made your decision yet?\ngiver:\nI have.\nTell your new Spree friends to look somewhere else for territory.\nI'm staying independent!\nmerchant:\nOh, {giver.name}. I told them that you'd change your mind. \nI really didn't think you were this stupid.\nI'm sorry.\nbandit:\n!right\n\n"Blah blah blah\n".\nYou merchants talk too much.\nWe coulda saved all this time by just sticking this one in the ribs thefirst time {giver.heshe} looked at us funny.\ngiver:\n{player.name}! Deal with this scum!\nplayer:\n!left\nbandit:\nOh, you bought yourself a pet Grifter!\n"
-msgstr "* {giver} leads you down a series of twisting alleyways, to a secluded spot behind a closed pawn shop.\ngiver:\n!left\n$hushed\nHere's the place.\n* {giver} raises {giver.hisher} voice and addresses the cobblestones.\n$direct\nI'm here.\nmerchant:  \n!right\nIndeed, you are. And I see you've brought a shadow to protect you.\ngiver:\nYou can hardly blame me for protecting myself, considering who you areworking for.\nmerchant:\n\n"With\n", {giver.name}. Working \n"with\n". \nYour stubbornness won't protect you from what's coming.\nThe business has changed. We all need to accept that, and take what theSpree are offering while they're still offering it.\n* {merchant} glances toward the shadowy end of the alley.\nHave you made your decision yet?\ngiver:\nI have.\nTell your new Spree friends to look somewhere else for territory.\nI'm staying independent!\nmerchant:\nOh, {giver.name}. I told them that you'd change your mind. \nI really didn't think you were this stupid.\nI'm sorry.\nbandit:\n!right\n\n"Blah blah blah\n".\nYou merchants talk too much.\nWe coulda saved all this time by just sticking this one in the ribs thefirst time {giver.heshe} looked at us funny.\ngiver:\n{player.name}! Deal with this scum!\nplayer:\n!left\nbandit:\nOh, you bought yourself a pet Grifter!\n"
+msgid "* {giver} leads you down a series of twisting alleyways, to a secluded spot behind a closed pawn shop.\ngiver:\n!left\n$hushed\nHere's the place.\n* {giver} raises {giver.hisher} voice and addresses the cobblestones.\n$direct\nI'm here.\nmerchant:  \n!right\nIndeed, you are. And I see you've brought a shadow to protect you.\ngiver:\nYou can hardly blame me for protecting myself, considering who you areworking for.\nmerchant:\n\n'With\n', {giver.name}. Working \n'with\n'. \nYour stubbornness won't protect you from what's coming.\nThe business has changed. We all need to accept that, and take what theSpree are offering while they're still offering it.\n* {merchant} glances toward the shadowy end of the alley.\nHave you made your decision yet?\ngiver:\nI have.\nTell your new Spree friends to look somewhere else for territory.\nI'm staying independent!\nmerchant:\nOh, {giver.name}. I told them that you'd change your mind. \nI really didn't think you were this stupid.\nI'm sorry.\nbandit:\n!right\n\n'Blah blah blah\n'.\nYou merchants talk too much.\nWe coulda saved all this time by just sticking this one in the ribs thefirst time {giver.heshe} looked at us funny.\ngiver:\n{player.name}! Deal with this scum!\nplayer:\n!left\nbandit:\nOh, you bought yourself a pet Grifter!\n"
+msgstr "* {giver} leads you down a series of twisting alleyways, to a secluded spot behind a closed pawn shop.\ngiver:\n!left\n$hushed\nHere's the place.\n* {giver} raises {giver.hisher} voice and addresses the cobblestones.\n$direct\nI'm here.\nmerchant:  \n!right\nIndeed, you are. And I see you've brought a shadow to protect you.\ngiver:\nYou can hardly blame me for protecting myself, considering who you areworking for.\nmerchant:\n\n'With\n', {giver.name}. Working \n'with\n'. \nYour stubbornness won't protect you from what's coming.\nThe business has changed. We all need to accept that, and take what theSpree are offering while they're still offering it.\n* {merchant} glances toward the shadowy end of the alley.\nHave you made your decision yet?\ngiver:\nI have.\nTell your new Spree friends to look somewhere else for territory.\nI'm staying independent!\nmerchant:\nOh, {giver.name}. I told them that you'd change your mind. \nI really didn't think you were this stupid.\nI'm sorry.\nbandit:\n!right\n\n'Blah blah blah\n'.\nYou merchants talk too much.\nWe coulda saved all this time by just sticking this one in the ribs thefirst time {giver.heshe} looked at us funny.\ngiver:\n{player.name}! Deal with this scum!\nplayer:\n!left\nbandit:\nOh, you bought yourself a pet Grifter!\n"
 
 #: CONVO.SIDE_SHADY_BUSINESS.STATE_ALLEY_CONFRONT.DIALOG_NOT_WITH_SPREE
 #, fuzzy
@@ -12569,8 +12567,8 @@ msgstr "Poser des questions sur la vente aux enchères"
 #: CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_BANDITS.DIALOG_1
 #, fuzzy
 msgctxt "CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_BANDITS.DIALOG_1"
-msgid "player:\n!interest\nWhat exactly <i>is</i> the Spree? How do all you thieving thugs know eachother?\nagent:\n!happy\nWhy, we're a <i>family</i>, of course.\nplayer:\n!dubious\nCute.\nagent:\nThe Spree's a guild, more or less. You don't gotta be a member of the Spreeto do \n"business\n", but it's simpler.\n!throatcut\nPay your dues, and you won't get knifed in the back by someone trying totake your territory.\n!shrug\nThat's the idea anyway. Somehow folks still end up dead all the same.\nplayer:\n!interest\nSo if I do work for you, does that make me a member?\nagent:\n!chuckle\nHah! You wish. \nYou're a bounty hunter first. Ain't nobody gonna let you close 'cept someonedumb enough.\n!point\nLucky for you I'm as dumb as I am pretty.\nplayer: \n!happy\nI'll count my blessings.\n"
-msgstr "player:\n!interest\nWhat exactly <i>is</i> the Spree? How do all you thieving thugs know eachother?\nagent:\n!happy\nWhy, we're a <i>family</i>, of course.\nplayer:\n!dubious\nCute.\nagent:\nThe Spree's a guild, more or less. You don't gotta be a member of the Spreeto do \n"business\n", but it's simpler.\n!throatcut\nPay your dues, and you won't get knifed in the back by someone trying totake your territory.\n!shrug\nThat's the idea anyway. Somehow folks still end up dead all the same.\nplayer:\n!interest\nSo if I do work for you, does that make me a member?\nagent:\n!chuckle\nHah! You wish. \nYou're a bounty hunter first. Ain't nobody gonna let you close 'cept someonedumb enough.\n!point\nLucky for you I'm as dumb as I am pretty.\nplayer: \n!happy\nI'll count my blessings.\n"
+msgid "player:\n!interest\nWhat exactly <i>is</i> the Spree? How do all you thieving thugs know eachother?\nagent:\n!happy\nWhy, we're a <i>family</i>, of course.\nplayer:\n!dubious\nCute.\nagent:\nThe Spree's a guild, more or less. You don't gotta be a member of the Spreeto do \n'business\n', but it's simpler.\n!throatcut\nPay your dues, and you won't get knifed in the back by someone trying totake your territory.\n!shrug\nThat's the idea anyway. Somehow folks still end up dead all the same.\nplayer:\n!interest\nSo if I do work for you, does that make me a member?\nagent:\n!chuckle\nHah! You wish. \nYou're a bounty hunter first. Ain't nobody gonna let you close 'cept someonedumb enough.\n!point\nLucky for you I'm as dumb as I am pretty.\nplayer: \n!happy\nI'll count my blessings.\n"
+msgstr "player:\n!interest\nWhat exactly <i>is</i> the Spree? How do all you thieving thugs know eachother?\nagent:\n!happy\nWhy, we're a <i>family</i>, of course.\nplayer:\n!dubious\nCute.\nagent:\nThe Spree's a guild, more or less. You don't gotta be a member of the Spreeto do \n'business\n', but it's simpler.\n!throatcut\nPay your dues, and you won't get knifed in the back by someone trying totake your territory.\n!shrug\nThat's the idea anyway. Somehow folks still end up dead all the same.\nplayer:\n!interest\nSo if I do work for you, does that make me a member?\nagent:\n!chuckle\nHah! You wish. \nYou're a bounty hunter first. Ain't nobody gonna let you close 'cept someonedumb enough.\n!point\nLucky for you I'm as dumb as I am pretty.\nplayer: \n!happy\nI'll count my blessings.\n"
 
 #: CONVO.WORK_FOR_MURDER_BAY_CONTACT.STATE_QUESTIONS_BANDITS.DIALOG_2
 #, fuzzy
@@ -14401,8 +14399,8 @@ msgstr "Hemophage"
 #: GRAFT.ORGANIZER.DESC
 #, fuzzy
 msgctxt "GRAFT.ORGANIZER.DESC"
-msgid "{SPENT} cards can be played as: \n"Cost 1: Expend and draw a card\n""
-msgstr "{SPENT} cards can be played as: \n"Cost 1: Expend and draw a card\n""
+msgid "{SPENT} cards can be played as: \n'Cost 1: Expend and draw a card\n'"
+msgstr "{SPENT} cards can be played as: \n'Cost 1: Expend and draw a card\n'"
 
 #: GRAFT.ORGANIZER.NAME
 #, fuzzy
@@ -14716,8 +14714,8 @@ msgstr "Imperial Lumin Work Office"
 #: LOCATION.COLONYLANDS_NOODLE_SHOP.DESC
 #, fuzzy
 msgctxt "LOCATION.COLONYLANDS_NOODLE_SHOP.DESC"
-msgid "\n"People come here to eat and relax."
-msgstr "\n"People come here to eat and relax."
+msgid "\nPeople come here to eat and relax."
+msgstr "\nPeople come here to eat and relax."
 
 #: LOCATION.COLONYLANDS_NOODLE_SHOP.NAME
 #, fuzzy
@@ -15772,8 +15770,8 @@ msgstr "Havarian Codex"
 #: MODIFIER.HEAVY_ORDERS.DESC
 #, fuzzy
 msgctxt "MODIFIER.HEAVY_ORDERS.DESC"
-msgid "All \n"Order\n" cards deal {1%+d} resolve damage"
-msgstr "All \n"Order\n" cards deal {1%+d} resolve damage"
+msgid "All \n'Order\n' cards deal {1%+d} resolve damage"
+msgstr "All \n'Order\n' cards deal {1%+d} resolve damage"
 
 #: MODIFIER.HEAVY_ORDERS.NAME
 #, fuzzy
@@ -15910,8 +15908,8 @@ msgstr "Observer"
 #: MODIFIER.ORGANIZER.DESC
 #, fuzzy
 msgctxt "MODIFIER.ORGANIZER.DESC"
-msgid "{SPENT} cards can be played as: \n"Cost 1: Expend and draw a card\n""
-msgstr "{SPENT} cards can be played as: \n"Cost 1: Expend and draw a card\n""
+msgid "{SPENT} cards can be played as: \n'Cost 1: Expend and draw a card\n'"
+msgstr "{SPENT} cards can be played as: \n'Cost 1: Expend and draw a card\n'"
 
 #: MODIFIER.ORGANIZER.NAME
 #, fuzzy
@@ -17082,8 +17080,8 @@ msgstr "Heated"
 #: NEGOTIATION_FEATURE.HEAVY_ORDERS.DESC
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.HEAVY_ORDERS.DESC"
-msgid "All \n"Order\n" cards deal {1%+d} resolve damage"
-msgstr "All \n"Order\n" cards deal {1%+d} resolve damage"
+msgid "All \n'Order\n' cards deal {1%+d} resolve damage"
+msgstr "All \n'Order\n' cards deal {1%+d} resolve damage"
 
 #: NEGOTIATION_FEATURE.HEAVY_ORDERS.NAME
 #, fuzzy
@@ -17501,8 +17499,8 @@ msgstr "Opportuniste"
 #: NEGOTIATION_FEATURE.ORGANIZER.DESC
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.ORGANIZER.DESC"
-msgid "{SPENT} cards can be played as: \n"Cost 1: Expend and draw a card\n""
-msgstr "{SPENT} cards can be played as: \n"Cost 1: Expend and draw a card\n""
+msgid "{SPENT} cards can be played as: \n'Cost 1: Expend and draw a card\n'"
+msgstr "{SPENT} cards can be played as: \n'Cost 1: Expend and draw a card\n'"
 
 #: NEGOTIATION_FEATURE.ORGANIZER.NAME
 #, fuzzy
@@ -20136,12 +20134,6 @@ msgctxt "QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.DEBT_RENEGOTIATED"
 msgid "Tell {giver} that their debt has been renegotiated."
 msgstr "Tell {giver} that their debt has been renegotiated."
 
-#: QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.DESC
-#, fuzzy
-msgctxt "QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.DESC"
-msgid "{giver} has gotten {giver.himher}self into some money trouble with {target}. Find a way for {giver} to either make money or pay it back slowly."
-msgstr "{giver} has gotten {giver.himher}self into some money trouble with {target}. Find a way for {giver} to either make money or pay it back slowly."
-
 #: QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.MORE_SHIFTS
 #, fuzzy
 msgctxt "QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.MORE_SHIFTS"
@@ -20417,18 +20409,6 @@ msgctxt "QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.TALK_TO_TARGET.TITLE"
 msgid "Talk to {target}"
 msgstr "Talk to {target}"
 
-#: QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.TITLE"
-msgid "Back Channel Negotiations"
-msgstr "Négociations en coulisse"
-
-#: QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.DESC
-#, fuzzy
-msgctxt "QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.DESC"
-msgid "{giver} wants you to clear out some beasties from a desolate beach, so that the Jakes can use it for smuggling."
-msgstr "{giver} wants you to clear out some beasties from a desolate beach, so that the Jakes can use it for smuggling."
-
 #: QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.OBJECTIVE.CLEAR_OUT_THE_BEACH.DESC
 #, fuzzy
 msgctxt "QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.OBJECTIVE.CLEAR_OUT_THE_BEACH.DESC"
@@ -20531,12 +20511,6 @@ msgctxt "QUEST.SIDE_DEBT_COLLECTION.TITLE"
 msgid "Debt Collection"
 msgstr "Debt Collection"
 
-#: QUEST.SIDE_DELIVER_SUMMONS.DESC
-#, fuzzy
-msgctxt "QUEST.SIDE_DELIVER_SUMMONS.DESC"
-msgid "{giver} needs you to deliver an Admiraly summons to {target}. They're not going to take it willingly."
-msgstr "{giver} needs you to deliver an Admiraly summons to {target}. They're not going to take it willingly."
-
 #: QUEST.SIDE_DELIVER_SUMMONS.OBJECTIVE.DELIVER_SUMMONS.DESC
 #, fuzzy
 msgctxt "QUEST.SIDE_DELIVER_SUMMONS.OBJECTIVE.DELIVER_SUMMONS.DESC"
@@ -20621,12 +20595,6 @@ msgctxt "QUEST.SIDE_EARLY_RETIREMENT.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "Get reward from {giver#agent}"
 msgstr "Obtention d'une récompense {giver#agent}"
 
-#: QUEST.SIDE_EARLY_RETIREMENT.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_EARLY_RETIREMENT.TITLE"
-msgid "Early Retirement"
-msgstr "Early Retirement"
-
 #: QUEST.SIDE_FIRST_ONE_IS_FREE.DESC
 #, fuzzy
 msgctxt "QUEST.SIDE_FIRST_ONE_IS_FREE.DESC"
@@ -20687,12 +20655,6 @@ msgctxt "QUEST.SIDE_GET_KEY.TITLE"
 msgid "Case the Joint"
 msgstr "Case the Joint"
 
-#: QUEST.SIDE_INTERNAL_AFFAIR.DESC
-#, fuzzy
-msgctxt "QUEST.SIDE_INTERNAL_AFFAIR.DESC"
-msgid "The Admiralty is rife with petty rivalries and backstabbing. It usually stops short of overt violence, but covert violence is fine, so long as youdon't get caught.\nBeat up {target} for {giver} to send a message, but be very careful not tokill them.\n"
-msgstr "The Admiralty is rife with petty rivalries and backstabbing. It usually stops short of overt violence, but covert violence is fine, so long as youdon't get caught.\nBeat up {target} for {giver} to send a message, but be very careful not tokill them.\n"
-
 #: QUEST.SIDE_INTERNAL_AFFAIR.OBJECTIVE.BEAT_TARGET.DESC
 #, fuzzy
 msgctxt "QUEST.SIDE_INTERNAL_AFFAIR.OBJECTIVE.BEAT_TARGET.DESC"
@@ -20752,12 +20714,6 @@ msgstr "Convince someone to take these goods off of your hands. Higher renown pe
 msgctxt "QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.SELL_GOODS.TITLE"
 msgid "Find a buyer for {goods}"
 msgstr "Find a buyer for {goods}"
-
-#: QUEST.SIDE_MIDDLE_MAN.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_MIDDLE_MAN.TITLE"
-msgid "Middle Man"
-msgstr "Middle Man"
 
 #: QUEST.SIDE_REPO_PERSON.DESC
 #, fuzzy
@@ -20831,12 +20787,6 @@ msgctxt "QUEST.SIDE_REPO_PERSON.TITLE"
 msgid "Repo Person"
 msgstr "Repo Person"
 
-#: QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.DESC
-#, fuzzy
-msgctxt "QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.DESC"
-msgid "Investigate a wilderness location for signs of illegal activity"
-msgstr "Investigate a wilderness location for signs of illegal activity"
-
 #: QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.OBJECTIVE.REPORT_BACK_TO_GIVER.DESC
 #, fuzzy
 msgctxt "QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.OBJECTIVE.REPORT_BACK_TO_GIVER.DESC"
@@ -20872,12 +20822,6 @@ msgstr "Pick a location to investigate"
 msgctxt "QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.TITLE"
 msgid "Recon in Force"
 msgstr "Recon in Force"
-
-#: QUEST.SIDE_SECRET_SHOPPER.DESC
-#, fuzzy
-msgctxt "QUEST.SIDE_SECRET_SHOPPER.DESC"
-msgid "  \n{giver} has a package ready at {shop#location}, but their tab is too highfor them to pick it up without paying it off first. See if you can retrievethe package for them without resorting to such honest measures.\n"
-msgstr "  \n{giver} has a package ready at {shop#location}, but their tab is too highfor them to pick it up without paying it off first. See if you can retrievethe package for them without resorting to such honest measures.\n"
 
 #: QUEST.SIDE_SECRET_SHOPPER.OBJECTIVE.DELIVER_PACKAGE.DESC
 #, fuzzy
@@ -20956,12 +20900,6 @@ msgctxt "QUEST.SIDE_SHADY_BUSINESS.TITLE"
 msgid "Shady Business"
 msgstr "Shady Business"
 
-#: QUEST.SIDE_SING_FOR_YOUR_SUPPER.DESC
-#, fuzzy
-msgctxt "QUEST.SIDE_SING_FOR_YOUR_SUPPER.DESC"
-msgid "{target} is trying to get {giver} to turn informant. {giver} is looking for help to get out of this arrangement."
-msgstr "{target} is trying to get {giver} to turn informant. {giver} is looking for help to get out of this arrangement."
-
 #: QUEST.SIDE_SING_FOR_YOUR_SUPPER.OBJECTIVE.CONFIRM_TURNABOUT.DESC
 #, fuzzy
 msgctxt "QUEST.SIDE_SING_FOR_YOUR_SUPPER.OBJECTIVE.CONFIRM_TURNABOUT.DESC"
@@ -21009,12 +20947,6 @@ msgstr "{target} will pay you if you convince {giver} to be an informant."
 msgctxt "QUEST.SIDE_SING_FOR_YOUR_SUPPER.OBJECTIVE.TURNABOUT.TITLE"
 msgid "(Optional) Convince {giver} to be an informant"
 msgstr "(Optional) Convince {giver} to be an informant"
-
-#: QUEST.SIDE_SING_FOR_YOUR_SUPPER.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_SING_FOR_YOUR_SUPPER.TITLE"
-msgid "Sing for your supper"
-msgstr "Sing for your supper"
 
 #: QUEST.SIDE_SPECIAL_DELIVERY.DESC
 #, fuzzy
@@ -21516,8 +21448,8 @@ msgstr "Deltrean Woods"
 #: TERRITORIES.DOCKTOWN.desc
 #, fuzzy
 msgctxt "TERRITORIES.DOCKTOWN.desc"
-msgid "Yeah, it's got docks. A lot of 'em. Too many to keep track of. And that's the way Docktown likes it.\nWhen a shipment comes into port it usually leaves as something else.\nYou see, for every fisherman in Dock Town, there are two smugglers. Usually,it's all three.\nAnd you can bet a pint of ambergris each one of 'em is pious as Hesh.\nThat's because Docktown is under \n"divine\n" jurisdiction.\nThe Throng of Hesh declared the bay a sacred enclave just in time for theAdmiralty not to.   \now if you're expecting a village of saints, you'd do well to lower thoseexpectations.\nIt's all just part of business here.\nFor the right price, The Throng can provide immunity from Admiraltyauthority.  \nAnd let's just say there's a racketeering syndicate or two who keep thedonation basket brimming.\nThe fishy smell of Docktown is not just the fish."
-msgstr "Yeah, it's got docks. A lot of 'em. Too many to keep track of. And that's the way Docktown likes it.\nWhen a shipment comes into port it usually leaves as something else.\nYou see, for every fisherman in Dock Town, there are two smugglers. Usually,it's all three.\nAnd you can bet a pint of ambergris each one of 'em is pious as Hesh.\nThat's because Docktown is under \n"divine\n" jurisdiction.\nThe Throng of Hesh declared the bay a sacred enclave just in time for theAdmiralty not to.   \now if you're expecting a village of saints, you'd do well to lower thoseexpectations.\nIt's all just part of business here.\nFor the right price, The Throng can provide immunity from Admiraltyauthority.  \nAnd let's just say there's a racketeering syndicate or two who keep thedonation basket brimming.\nThe fishy smell of Docktown is not just the fish."
+msgid "Yeah, it's got docks. A lot of 'em. Too many to keep track of. And that's the way Docktown likes it.\nWhen a shipment comes into port it usually leaves as something else.\nYou see, for every fisherman in Dock Town, there are two smugglers. Usually,it's all three.\nAnd you can bet a pint of ambergris each one of 'em is pious as Hesh.\nThat's because Docktown is under \n'divine\n' jurisdiction.\nThe Throng of Hesh declared the bay a sacred enclave just in time for theAdmiralty not to.   \now if you're expecting a village of saints, you'd do well to lower thoseexpectations.\nIt's all just part of business here.\nFor the right price, The Throng can provide immunity from Admiraltyauthority.  \nAnd let's just say there's a racketeering syndicate or two who keep thedonation basket brimming.\nThe fishy smell of Docktown is not just the fish."
+msgstr "Yeah, it's got docks. A lot of 'em. Too many to keep track of. And that's the way Docktown likes it.\nWhen a shipment comes into port it usually leaves as something else.\nYou see, for every fisherman in Dock Town, there are two smugglers. Usually,it's all three.\nAnd you can bet a pint of ambergris each one of 'em is pious as Hesh.\nThat's because Docktown is under \n'divine\n' jurisdiction.\nThe Throng of Hesh declared the bay a sacred enclave just in time for theAdmiralty not to.   \now if you're expecting a village of saints, you'd do well to lower thoseexpectations.\nIt's all just part of business here.\nFor the right price, The Throng can provide immunity from Admiraltyauthority.  \nAnd let's just say there's a racketeering syndicate or two who keep thedonation basket brimming.\nThe fishy smell of Docktown is not just the fish."
 
 #: TERRITORIES.DOCKTOWN.name
 #, fuzzy
@@ -26629,11 +26561,6 @@ msgctxt "UI.OPTIONS_SCREEN.METRICS_DISABLED"
 msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
 
-#: UI.OPTIONS_SCREEN.METRICS_DISABLED_DESC
-msgctxt "UI.OPTIONS_SCREEN.METRICS_DISABLED_DESC"
-msgid "The game won't upload any gameplay data to Klei's servers."
-msgstr "The game won't upload any gameplay data to Klei's servers."
-
 #: UI.OPTIONS_SCREEN.METRICS_ENABLED
 msgctxt "UI.OPTIONS_SCREEN.METRICS_ENABLED"
 msgid "ENABLED"
@@ -29590,12 +29517,6 @@ msgctxt "QUEST.SAL_STORY_DAY_1.OBJECTIVE.PICK_A_SIDE_JOB.DESC"
 msgid "Gain money and noteriety by doing jobs for the denizens of Havaria"
 msgstr "Gagner de l'argent et de la notoriété en travaillant pour les habitants de La Havane."
 
-#: LOCATION.ADMIRALTY_BARRACKS.NAME
-#, fuzzy
-msgctxt "LOCATION.ADMIRALTY_BARRACKS.NAME"
-msgid "Admiralty Headquarters"
-msgstr "Admiralty Headquarters"
-
 #: LOCATION.MURDER_BAY_HESH_OUTPOST.NAME
 #, fuzzy
 msgctxt "LOCATION.MURDER_BAY_HESH_OUTPOST.NAME"
@@ -29631,12 +29552,6 @@ msgstr "The Slurping Snail"
 msgctxt "LOCATION.MURDERBAY_NOODLE_SHOP.DESC"
 msgid "People come here to eat and relax."
 msgstr "People come here to eat and relax."
-
-#: QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.TITLE"
-msgid "Another Day Older and Deeper in Debt"
-msgstr "Another Day Older and Deeper in Debt"
 
 #: QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.DESC
 #, fuzzy
@@ -29715,24 +29630,6 @@ msgctxt "QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.DESC"
 msgid "This beach is overrun with hostile wildlife."
 msgstr "This beach is overrun with hostile wildlife."
 
-#: QUEST.SIDE_DEBT_COLLECTION.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_DEBT_COLLECTION.TITLE"
-msgid "Debt Collection"
-msgstr "Debt Collection"
-
-#: QUEST.SIDE_DEBT_COLLECTION.DESC
-#, fuzzy
-msgctxt "QUEST.SIDE_DEBT_COLLECTION.DESC"
-msgid "{giver} lent {target} {debt_amount#money}. Retrieve the money if you can, or 'make an example' of {target} to make {giver} happy."
-msgstr "{giver} lent {target} {debt_amount#money}. Retrieve the money if you can, or 'make an example' of {target} to make {giver} happy."
-
-#: QUEST.SIDE_DELIVER_SUMMONS.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_DELIVER_SUMMONS.TITLE"
-msgid "The Summoning"
-msgstr "The Summoning"
-
 #: QUEST.SIDE_DELIVER_SUMMONS.DESC
 #, fuzzy
 msgctxt "QUEST.SIDE_DELIVER_SUMMONS.DESC"
@@ -29762,12 +29659,6 @@ msgstr "Admiralty Road"
 msgctxt "QUEST.SIDE_FREE_PRIEST.DESC"
 msgid "The road taken by Admiralty convoys, deep in the wilderness around Murder Bay"
 msgstr "The road taken by Admiralty convoys, deep in the wilderness around Murder Bay"
-
-#: QUEST.SIDE_INTERNAL_AFFAIR.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_INTERNAL_AFFAIR.TITLE"
-msgid "Internal Affairs"
-msgstr "Internal Affairs"
 
 #: QUEST.SIDE_INTERNAL_AFFAIR.DESC
 #, fuzzy
@@ -29811,35 +29702,11 @@ msgctxt "QUEST.SIDE_PRIVATE_SECURITY.DESC"
 msgid "{giver} has heard that bandits are coming to rob {giver.hisher} store, and is looking for help defending {giver.hisher} property."
 msgstr "{giver} has heard that bandits are coming to rob {giver.hisher} store, and is looking for help defending {giver.hisher} property."
 
-#: QUEST.SIDE_REPO_PERSON.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_REPO_PERSON.TITLE"
-msgid "Repo Person"
-msgstr "Repo Person"
-
-#: QUEST.SIDE_REPO_PERSON.DESC
-#, fuzzy
-msgctxt "QUEST.SIDE_REPO_PERSON.DESC"
-msgid "{giver}'s business partner, {target}, has gone missing with a buyer's money. Find {target} and complete the sale before the buyer gets angry."
-msgstr "{giver}'s business partner, {target}, has gone missing with a buyer's money. Find {target} and complete the sale before the buyer gets angry."
-
-#: QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.TITLE"
-msgid "Recon in Force"
-msgstr "Recon in Force"
-
 #: QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.DESC
 #, fuzzy
 msgctxt "QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.DESC"
 msgid "Investigate a wilderness location for signs of illegal activity"
 msgstr "Investigate a wilderness location for signs of illegal activity"
-
-#: QUEST.SIDE_SECRET_SHOPPER.TITLE
-#, fuzzy
-msgctxt "QUEST.SIDE_SECRET_SHOPPER.TITLE"
-msgid "Secret Shopper"
-msgstr "Secret Shopper"
 
 #: QUEST.SIDE_SECRET_SHOPPER.DESC
 msgctxt "QUEST.SIDE_SECRET_SHOPPER.DESC"
@@ -29863,12 +29730,6 @@ msgstr "{target} is trying to get {giver} to turn informant. {giver} is looking 
 msgctxt "QUEST.SIDE_THIEF_BOUNTY.TITLE"
 msgid "Campsite"
 msgstr "Campsite"
-
-#: QUEST.SIDE_THIEF_BOUNTY.DESC
-#, fuzzy
-msgctxt "QUEST.SIDE_THIEF_BOUNTY.DESC"
-msgstr "Makeshift campsite"
-msgid "Makeshift campsite"
 
 #: UI.TRAVEL_SCREEN.LOCATION_SUBTITLE
 msgctxt "UI.TRAVEL_SCREEN.LOCATION_SUBTITLE"
@@ -31314,11 +31175,6 @@ msgctxt "CHARACTER.RISE_SECOND.NAME"
 msgid "Flekfis"
 msgstr "Flekfis"
 
-#: CHARACTER.MURDER_BAY_ADMIRALTY_CONTACT.NAME
-msgctxt "CHARACTER.MURDER_BAY_ADMIRALTY_CONTACT.NAME"
-msgid "Oolo"
-msgstr "Oolo"
-
 #: CHARACTER.KASHIO.NAME
 msgctxt "CHARACTER.KASHIO.NAME"
 msgid "Kashio"
@@ -31516,7 +31372,7 @@ msgstr "{1} déploie un argument contre vous !"
 #, fuzzy
 msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_INTRO"
 msgid "* Just when you're hoping for a nice, leisurely walk, you find yourself interrupted by a Spark Baron.\n* {baron.HeShe} looks fearful, which {baron.heshe} should, given that {baron.heshe} had the gall to interrupt your pace."
-msstr "* Just when you're hoping for a nice, leisurely walk, you find yourself interrupted by a Spark Baron.\n* {baron.HeShe} looks fearful, which {baron.heshe} should, given that {baron.heshe} had the gall to interrupt your pace."
+msgstr "* Just when you're hoping for a nice, leisurely walk, you find yourself interrupted by a Spark Baron.\n* {baron.HeShe} looks fearful, which {baron.heshe} should, given that {baron.heshe} had the gall to interrupt your pace."
 
 #: CONVO.FLEAD_FIGHT.STATE_CONFRONT.DIALOG_HELP_ME
 #, fuzzy
@@ -31898,18 +31754,6 @@ msgstr "Brutality"
 msgctxt "GRAFT.BRUTALITY.DESC"
 msgid "Injury cards cost 1 additional action."
 msgstr "Injury cards cost 1 additional action."
-
-#: GRAFT.BOTTOM_SHELF.NAME
-#, fuzzy
-msgctxt "GRAFT.BOTTOM_SHELF.NAME"
-msgid "Bottom Shelf"
-msgstr "Bottom Shelf"
-
-#: GRAFT.BOTTOM_SHELF.DESC
-#, fuzzy
-msgctxt "GRAFT.BOTTOM_SHELF.DESC"
-msgid "Take 1 resolve damage whenever you XPEND} cards."
-msgstr "Take 1 resolve damage whenever you XPEND} cards."
 
 #: GRAFT.FAULTY_ARMOR.NAME
 #, fuzzy
@@ -32487,18 +32331,6 @@ msgctxt "GRAFT.HEAVY_LIFTING.DESC"
 msgid "At the start of each battle, gain 4 {DEFEND} and 2 temporary {POWER}."
 msgstr "At the start of each battle, gain 4 {DEFEND} and 2 temporary {POWER}."
 
-#: GRAFT.WHISPERED_RUMORS.NAME
-#, fuzzy
-msgctxt "GRAFT.WHISPERED_RUMORS.NAME"
-msgid "Whispered Rumors"
-msgstr "Whispered Rumors"
-
-#: GRAFT.WHISPERED_RUMORS.DESC
-#, fuzzy
-msgctxt "GRAFT.WHISPERED_RUMORS.DESC"
-msgid "Opponents start with an additional argument each negotiation."
-msgstr "Opponents start with an additional argument each negotiation."
-
 #: GRAFT.AUTHORITY.NAME
 #, fuzzy
 msgctxt "GRAFT.AUTHORITY.NAME"
@@ -32925,55 +32757,55 @@ msgstr "Gagne des actions <#UPGRADE>{1}</>.\nPerde {2} {2*action|actions} procha
 #, fuzzy
 msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_INTRO"
 msgid "* Sitting conspicuously by the side of the road, you notice an old shrine. It doesn't look Heshian."
-mgstr "* Sitting conspicuously by the side of the road, you notice an old shrine. It doesn't look Heshian."
+msgstr "* Sitting conspicuously by the side of the road, you notice an old shrine. It doesn't look Heshian."
 
 #: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_OFFER
 #, fuzzy
 msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_OFFER"
 msgid "Make an offering"
-mgstr "Make an offering"
+msgstr "Make an offering"
 
 #: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.TT_OFFER
 #, fuzzy
 msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.TT_OFFER"
 msgid "Remove a chosen negotiation card."
-mgstr "Remove a chosen negotiation card."
+msgstr "Remove a chosen negotiation card."
 
 #: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_OFFER
 #, fuzzy
 msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_OFFER"
 msgid "player:\n!left\n!give\n$miscNostalgic\nYou need this more than I do, clearly.\n* You don't know who the shrine is for, but you leave your offering in a groove on the worn-down pedestal and return to the road."
-mgstr "player:\n!left\n!give\n$miscNostalgic\nYou need this more than I do, clearly.\n* You don't know who the shrine is for, but you leave your offering in a groove on the worn-down pedestal and return to the road."
+msgstr "player:\n!left\n!give\n$miscNostalgic\nYou need this more than I do, clearly.\n* You don't know who the shrine is for, but you leave your offering in a groove on the worn-down pedestal and return to the road."
 
 #: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_MEDITATE
 #, fuzzy
 msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_MEDITATE"
 msgid "Meditate by the shrine"
-mgstr "Meditate by the shrine"
+msgstr "Meditate by the shrine"
 
 #: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.TT_MEDITATE
 #, fuzzy
 msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.TT_MEDITATE"
 msgid "Upgrade a chosen negotiation card."
-mgstr "Upgrade a chosen negotiation card."
+msgstr "Upgrade a chosen negotiation card."
 
 #: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_MEDITATE
 #, fuzzy
 msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_MEDITATE"
 msgid "player:\n!left\n* You place a hand on the worn pedestal and take a moment to reflect on the here and now.\nplayer:\n!sigh\n$miscNostalgic\nGuess even old gods die eventually, huh?\n* Surprisingly the notion brings you comfort. You spend the rest of your walk mulling it over."
-mgstr "player:\n!left\n* You place a hand on the worn pedestal and take a moment to reflect on the here and now.\nplayer:\n!sigh\n$miscNostalgic\nGuess even old gods die eventually, huh?\n* Surprisingly the notion brings you comfort. You spend the rest of your walk mulling it over."
+msgstr "player:\n!left\n* You place a hand on the worn pedestal and take a moment to reflect on the here and now.\nplayer:\n!sigh\n$miscNostalgic\nGuess even old gods die eventually, huh?\n* Surprisingly the notion brings you comfort. You spend the rest of your walk mulling it over."
 
 #: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_SKIP
 #, fuzzy
 msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.OPT_SKIP"
 msgid "Leave the shrine"
-mgstr "Leave the shrine"
+msgstr "Leave the shrine"
 
 #: CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_SKIP
 #, fuzzy
 msgctxt "CONVO.THE_TOTEM.STATE_FOUND_TOTEM.DIALOG_SKIP"
 msgid "* You were sent to the derricks to mine lumin in Hesh's name. It's hard to imagine any religion is worth your time."
-mgstr "* You were sent to the derricks to mine lumin in Hesh's name. It's hard to imagine any religion is worth your time."
+msgstr "* You were sent to the derricks to mine lumin in Hesh's name. It's hard to imagine any religion is worth your time."
 
 #: UI.PICKLEGACY_SCREEN.BACK_DIALOG_TITLE
 msgctxt "UI.PICKLEGACY_SCREEN.BACK_DIALOG_TITLE"
@@ -33032,3 +32864,9 @@ msgstr "Leave {agent} to {agent.hisher} fate"
 msgctxt "CONVO.INJURED_PERSON_2.STATE_SPREE.DIALOG_LEAVE"
 msgid "player:\n!dubious\nAdmiralty? No offense, but I'd rather not get involved.\nagent:\n$scaredPowerless\nN-no! Please! You have to help me!\nplayer:\n!shrug\nSorry, it's not my place.\n* With a panicked yelp, {agent} makes for the treeline. Likely the only help {agent.heshe}'ll get there will be from hungry yotes.\n!exit"
 msgstr "player:\n!dubious\nAdmiralty? No offense, but I'd rather not get involved.\nagent:\n$scaredPowerless\nN-no! Please! You have to help me!\nplayer:\n!shrug\nSorry, it's not my place.\n* With a panicked yelp, {agent} makes for the treeline. Likely the only help {agent.heshe}'ll get there will be from hungry yotes.\n!exit"
+
+#: QUEST.SIDE_THIEF_BOUNTY.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_THIEF_BOUNTY.DESC"
+msgid "Makeshift campsite"
+msgstr "Makeshift campsite"
