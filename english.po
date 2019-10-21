@@ -22291,7 +22291,7 @@ msgstr "Hostilité"
 #: UI.CARD_WIDGET.CARD_TYPE.MANIPULATE
 msgctxt "UI.CARD_WIDGET.CARD_TYPE.MANIPULATE"
 msgid "Manipulate"
-msgstr "Manipuler"
+msgstr "Manipulation"
 
 #: UI.CARD_WIDGET.CARD_TYPE.OPPONENT
 #, fuzzy
@@ -23154,10 +23154,9 @@ msgid "ACCEPT SURRENDER"
 msgstr "ACCEPT SURRENDER"
 
 #: UI.CARDS_PANEL.CHARGES_FILTER
-#, fuzzy
 msgctxt "UI.CARDS_PANEL.CHARGES_FILTER"
 msgid "Cards out of energy"
-msgstr "Cards out of energy"
+msgstr "Cartes sans énergie"
 
 #: UI.CARDS_PANEL.CHOOSE_CARDS
 #, fuzzy
@@ -23204,10 +23203,9 @@ msgid "TURN {1}"
 msgstr "TOUR {1}"
 
 #: UI.CARDS_PANEL.UPGRADE_FILTER
-#, fuzzy
 msgctxt "UI.CARDS_PANEL.UPGRADE_FILTER"
 msgid "Cards ready to upgrade"
-msgstr "Cards ready to upgrade"
+msgstr "Cartes prêtes à être améliorer"
 
 #: UI.CARDSHOP.FREE
 msgctxt "UI.CARDSHOP.FREE"
@@ -27341,10 +27339,9 @@ msgid "Restore <#HEALTH>{1} health</> or <#RESOLVE>{1} resolve</>"
 msgstr "Restore <#HEALTH>{1} health</> or <#RESOLVE>{1} resolve</>"
 
 #: UI.REWARDS_WIDGET.RESTORATION_TITLE
-#, fuzzy
 msgctxt "UI.REWARDS_WIDGET.RESTORATION_TITLE"
 msgid "Restoration"
-msgstr "Restoration"
+msgstr "Restauration"
 
 #: UI.REWARDS_WIDGET.RESTORATION_TT
 #, fuzzy
@@ -32870,3 +32867,371 @@ msgstr "player:\n!dubious\nAdmiralty? No offense, but I'd rather not get involve
 msgctxt "QUEST.SIDE_THIEF_BOUNTY.DESC"
 msgid "Makeshift campsite"
 msgstr "Makeshift campsite"
+²
+#: UI.CARDS.ADD_NEGOTIATION_CARD
+msgctxt "UI.CARDS.ADD_NEGOTIATION_CARD"
+msgid "Add Negotiation Card"
+msgstr "Ajouter une carte de négociation"
+
+#: UI.CARDS.REMOVE_NEGOTIATION_CARD
+msgctxt "UI.CARDS.REMOVE_NEGOTIATION_CARD"
+msgid "Choose a negotiation skill to remove"
+msgstr "Choisissez une compétence de négociation à supprimer"
+
+#: UI.CARDS.UPGRADE_NEGOTIATION_CARD
+msgctxt "UI.CARDS.UPGRADE_NEGOTIATION_CARD"
+msgid "Choose a negotiation skill to upgrade"
+msgstr "Choisissez une compétence de négociation à améliorer"
+
+#: UI.CARDS.ADD_BATTLE_CARD
+msgctxt "UI.CARDS.ADD_BATTLE_CARD"
+msgid "Add Battle Card"
+msgstr "Ajouter une carte de combat"
+
+#: UI.CARDS.REMOVE_BATTLE_CARD
+msgctxt "UI.CARDS.REMOVE_BATTLE_CARD"
+msgid "Choose a battle skill to remove"
+msgstr "Choisissez une compétence de combat à supprimer"
+
+#: UI.CARDS.UPGRADE_BATTLE_CARD
+msgctxt "UI.CARDS.UPGRADE_BATTLE_CARD"
+msgid "Choose a battle skill to upgrade"
+msgstr "Choisissez une compétence de combat à améliorer"
+
+#: UI.CARDS.CHOOSE_BATTLE_CARD_TO_ADD
+msgctxt "UI.CARDS.CHOOSE_BATTLE_CARD_TO_ADD"
+msgid "CHOOSE ONE CARD TO ADD TO YOUR BATTLE DECK"
+msgstr "CHOISISSEZ UNE CARTE À AJOUTER À VOTRE DECK DE COMBAT"
+
+#: UI.CARDS.CHOOSE_BATTLE_CARD
+msgctxt "UI.CARDS.CHOOSE_BATTLE_CARD"
+msgid "Choose a battle card"
+msgstr "Choisissez une carte de combat"
+
+#: UI.CARDS.CHOOSE_NEGOTIATION_CARD_TO_ADD
+msgctxt "UI.CARDS.CHOOSE_NEGOTIATION_CARD_TO_ADD"
+msgid "CHOOSE ONE CARD TO ADD TO YOUR NEGOTIATION DECK"
+msgstr "CHOISISSEZ UNE CARTE À AJOUTER À VOTRE DECK DE NÉGOCIATION"
+
+#: UI.CARDS.SKIP_REWARD_MONEY
+msgctxt "UI.CARDS.SKIP_REWARD_MONEY"
+msgid "Skip (Gain {1#money})"
+msgstr "Passer (Gagne {1#money})"
+
+#: CARD.FAST_TALK_PLUS2A.FLAVOUR
+msgctxt "CARD.FAST_TALK_PLUS2A.FLAVOUR"
+msgid "'You're just looking at it wrong. Here, let me step you through it...'"
+msgstr "'You're just looking at it wrong. Here, let me step you through it...'"
+
+#: CARD.FAST_TALK_PLUS2B.FLAVOUR
+msgctxt "CARD.FAST_TALK_PLUS2B.FLAVOUR"
+msgid "'You're just looking at it wrong. Here, let me step you through it...'"
+msgstr "'You're just looking at it wrong. Here, let me step you through it...'"
+
+#: CARD.DEFLECTION_PLUS2F.FLAVOUR
+msgctxt "CARD.DEFLECTION_PLUS2F.FLAVOUR"
+msgid "'I'm not even going to address that'"
+msgstr "'I'm not even going to address that'"
+
+#: CARD.DEFLECTION_PLUS2B.FLAVOUR
+msgctxt "CARD.DEFLECTION_PLUS2B.FLAVOUR"
+msgid "'I'm not even going to address that'"
+msgstr "'I'm not even going to address that'"
+
+#: CARD.DEFLECTION_PLUS2D.FLAVOUR
+msgctxt "CARD.DEFLECTION_PLUS2D.FLAVOUR"
+msgid "'I'm not even going to address that'"
+msgstr "'I'm not even going to address that'"
+
+#: CARD.QUICK_THINKING_PLUS2.FLAVOUR
+msgctxt "CARD.QUICK_THINKING_PLUS2.FLAVOUR"
+msgid "'Some of my best ideas come at the last possible moment.'"
+msgstr "'Some of my best ideas come at the last possible moment.'"
+
+#: CARD.QUICK_THINKING_PLUS.FLAVOUR
+msgctxt "CARD.QUICK_THINKING_PLUS.FLAVOUR"
+msgid "'Some of my best ideas come at the last possible moment.'"
+msgstr "'Some of my best ideas come at the last possible moment.'"
+
+#: CARD.SALS_INSTINCTS_PLUS2.FLAVOUR
+msgctxt "CARD.SALS_INSTINCTS_PLUS2.FLAVOUR"
+msgid "'Consistency is just going to get you dead. If something's not working, it's time to try the opposite.'"
+msgstr "'Consistency is just going to get you dead. If something's not working, it's time to try the opposite.'"
+
+#: CARD.SALS_INSTINCTS_PLUS.FLAVOUR
+msgctxt "CARD.SALS_INSTINCTS_PLUS.FLAVOUR"
+msgid "'Consistency is just going to get you dead. If something's not working, it's time to try the opposite.'"
+msgstr "'Consistency is just going to get you dead. If something's not working, it's time to try the opposite.'"
+
+#: CARD.THREATEN_PLUS2F.FLAVOUR
+msgctxt "CARD.THREATEN_PLUS2F.FLAVOUR"
+msgid "'I don't want to have to hurt you, but I will if I have to.'"
+msgstr "'I don't want to have to hurt you, but I will if I have to.'"
+
+#: CARD.THREATEN_PLUS2A.FLAVOUR
+msgctxt "CARD.THREATEN_PLUS2A.FLAVOUR"
+msgid "'I don't want to have to hurt you, but I will if I have to.'"
+msgstr "'I don't want to have to hurt you, but I will if I have to.'"
+
+#: CHARACTER.CHEMIST.TITLE
+msgctxt "CHARACTER.CHEMIST.TITLE"
+msgid "Chemist"
+msgstr "Chemist"
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_INTRO
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_INTRO"
+msgid "player:\n!left\nagent:\n!right\n!happy\n* You're stopped on the road by {Agent}, whose face lights up as {agent.heshe} sees you. It's not the reaction you're used to.\nagent:\nNow <i>you</i> look hungry. Am I right? And I got just the thing for it: <i>delicious</i>, non-toxic food. \nplayer:\n!dubious\nFood on the road, huh? What's the catch?\nagent:\n!thought\nWell... it's food on the road, like you said. But I'm testing out a new recipe, and I'll cook it if you'll eat it. "
+msgstr "player:\n!left\nagent:\n!right\n!happy\n* You're stopped on the road by {Agent}, whose face lights up as {agent.heshe} sees you. It's not the reaction you're used to.\nagent:\nNow <i>you</i> look hungry. Am I right? And I got just the thing for it: <i>delicious</i>, non-toxic food. \nplayer:\n!dubious\nFood on the road, huh? What's the catch?\nagent:\n!thought\nWell... it's food on the road, like you said. But I'm testing out a new recipe, and I'll cook it if you'll eat it. "
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_ACCEPT
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_ACCEPT"
+msgid "player:\n!happy\n!handwring\nFree food <i>is</i> my only weakness. I'll try the {1}!\nagent:\n!surprised\nH-huh, really? \n!happy\nI mean, great choice! I'll get started now. "
+msgstr "player:\n!happy\n!handwring\nFree food <i>is</i> my only weakness. I'll try the {1}!\nagent:\n!surprised\nH-huh, really? \n!happy\nI mean, great choice! I'll get started now. "
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_DECLINE
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_DECLINE"
+msgid "player:\nTempting. But I just ate!\n* Your stomach growls and you try and muffle it with the crook of your arm.\nagent:\n!angry\nHuh. I'll try not to be offended. But I won't succeed. \n* {agent} casts you a haughty look before continuing on {agent.hisher} way down the road. "
+msgstr "player:\nTempting. But I just ate!\n* Your stomach growls and you try and muffle it with the crook of your arm.\nagent:\n!angry\nHuh. I'll try not to be offended. But I won't succeed. \n* {agent} casts you a haughty look before continuing on {agent.hisher} way down the road. "
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_DECLINE
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_DECLINE"
+msgid "Decline the offer"
+msgstr "Décliner l'offre"
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_CRAYOTE_CASSEROLE
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_CRAYOTE_CASSEROLE"
+msgid "Try the crayote courage casserole"
+msgstr "Try the crayote courage casserole"
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_CRAYOTE_CASSEROLE
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_CRAYOTE_CASSEROLE"
+msgid "player:\n!drink\n* You get a piece of yote gristle stuck between your teeth. But otherwise, it's not bad!\nagent:\n!interest\nSo? Whaddya think?\nplayer:\n!happy_shrug\nPretty good, for street meat!\nagent:\n!happy\n* You got a free meal, and {agent} got a compliment. Seems like you both made out ahead."
+msgstr "player:\n!drink\n* You get a piece of yote gristle stuck between your teeth. But otherwise, it's not bad!\nagent:\n!interest\nSo? Whaddya think?\nplayer:\n!happy_shrug\nPretty good, for street meat!\nagent:\n!happy\n* You got a free meal, and {agent} got a compliment. Seems like you both made out ahead."
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_FLEAD_STEW
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_FLEAD_STEW"
+msgid "Try the blackened flead guts"
+msgstr "Try the blackened flead guts"
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_FLEAD_STEW
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_FLEAD_STEW"
+msgid "player:\n!drink\n* The black sauce smells like peat, but leaves you smacking your lips all the same. \nplayer:\n!burp\nDefinitely the tastiest flead guts I ever ate. Thanks, {agent}!\nagent:  \n!happy\n* {agent} leaves you to your digestion, looking pleased as punch."
+msgstr "player:\n!drink\n* The black sauce smells like peat, but leaves you smacking your lips all the same. \nplayer:\n!burp\nDefinitely the tastiest flead guts I ever ate. Thanks, {agent}!\nagent:  \n!happy\n* {agent} leaves you to your digestion, looking pleased as punch."
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_SAUTEED_GRUBS
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_SAUTEED_GRUBS"
+msgid "Try the griddled gristle"
+msgstr "Try the griddled gristle"
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_SAUTEED_GRUBS
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_SAUTEED_GRUBS"
+msgid "player:\n!drink\n* It takes a minute to chew through the gelatinous gravy, but the taste is mighty satisfying.\nplayer:\n!burp\nFilling. And strangely... <i>fulfilling</i>.\nagent:\n!wink\n* {agent} smiles knowingly as {agent.heshe} packs up {agent.hisher} supplies. \nHappy travels, hunter. "
+msgstr "player:\n!drink\n* It takes a minute to chew through the gelatinous gravy, but the taste is mighty satisfying.\nplayer:\n!burp\nFilling. And strangely... <i>fulfilling</i>.\nagent:\n!wink\n* {agent} smiles knowingly as {agent.heshe} packs up {agent.hisher} supplies. \nHappy travels, hunter. "
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_FURRUSK_LIVER_SANDWICH
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_FURRUSK_LIVER_SANDWICH"
+msgid "Try the oshnu bile tartare"
+msgstr "Essayez le tartare de bile d'oshnu"
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_FURRUSK_LIVER_SANDWICH
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_FURRUSK_LIVER_SANDWICH"
+msgid "player:\n!drink\n* The tartare threatens to slip between your fingers, but you manage to shovel it in before it gets away.\nagent:\n!happy\nEnh? It's good, right? Be detailed with those tasting notes.\nplayer:\n!burp\nMrff! Mmmhrrrm! <burp>\n* With a hearty laugh, {agent} leaves you to enjoy the aftertaste."
+msgstr "player:\n!drink\n* The tartare threatens to slip between your fingers, but you manage to shovel it in before it gets away.\nagent:\n!happy\nEnh? It's good, right? Be detailed with those tasting notes.\nplayer:\n!burp\nMrff! Mmmhrrrm! <burp>\n* With a hearty laugh, {agent} leaves you to enjoy the aftertaste."
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_KEYBONE_SQUARES
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_KEYBONE_SQUARES"
+msgid "Try the fungus and mettlenettle brownies"
+msgstr "Try the fungus and mettlenettle brownies"
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_KEYBONE_SQUARES
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_KEYBONE_SQUARES"
+msgid "player:\n!drink\n* The brownies melt on your tongue, tasting only a little bit like fresh fertilizer.\nplayer:\n!happy\n$miscNostalgic\nTastes just like the ones my dad used to make.\nagent:\n!happy\nYes, the misty-eyed nostalgia is intentional! \n* {agent} leaves you to continue down the road and into memory lane."
+msgstr "player:\n!drink\n* The brownies melt on your tongue, tasting only a little bit like fresh fertilizer.\nplayer:\n!happy\n$miscNostalgic\nTastes just like the ones my dad used to make.\nagent:\n!happy\nYes, the misty-eyed nostalgia is intentional! \n* {agent} leaves you to continue down the road and into memory lane."
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_PICKLED_EYES
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_PICKLED_EYES"
+msgid "Try the pickled talons"
+msgstr "Essayez les serres marinées"
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_PICKLED_EYES
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_PICKLED_EYES"
+msgid "player:\n!drink\n* You feel something puncture your tongue before everything from the ears down goes suddenly numb.\nplayer:\n!dubious\nMah mowf feelf fummy.\nagent:\n!placate\n$neutralTakenAback\nWell that's awful interesting, mmhmm. No refunds, though."
+msgstr "player:\n!drink\n* You feel something puncture your tongue before everything from the ears down goes suddenly numb.\nplayer:\n!dubious\nMah mowf feelf fummy.\nagent:\n!placate\n$neutralTakenAback\nWell that's awful interesting, mmhmm. No refunds, though."
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_SALTED_SNAIL_EGGS
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.OPT_TRY_FOOD_SALTED_SNAIL_EGGS"
+msgid "Try the bogleech sausage"
+msgstr "Essayez la saucisse bogleech"
+
+#: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_SALTED_SNAIL_EGGS
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_SALTED_SNAIL_EGGS"
+msgid "player:\n!drink\n!disappoint\n* You bite down on a caramelized leech, and it explodes into spores.\nplayer:\n!burp\n<kaff!> <hack> Ughh... \nagent:  \n!chuckle\nAha! You got a good one! No need to thank me, hunter—your reaction is thanks enough.  "
+msgstr "player:\n!drink\n!disappoint\n* You bite down on a caramelized leech, and it explodes into spores.\nplayer:\n!burp\n<kaff!> <hack> Ughh... \nagent:  \n!chuckle\nAha! You got a good one! No need to thank me, hunter—your reaction is thanks enough.  "
+
+#: CONVO.WANDERING_CHEF.STATE_BAD_FOOD.DIALOG_APOLOGY
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_BAD_FOOD.DIALOG_APOLOGY"
+msgid "player:\n!injured\nUgh... that was awful.\nagent:\n!surprise\nWha—?! Well, not all my ideas can be keepers, I guess. \n!scared\n$scaredDefault\nYou won't, uh, tell anyone about this, will ya? I'm tryin' to open my own restaurant in Murder Bay..."
+msgstr "player:\n!injured\nUgh... that was awful.\nagent:\n!surprise\nWha—?! Well, not all my ideas can be keepers, I guess. \n!scared\n$scaredDefault\nYou won't, uh, tell anyone about this, will ya? I'm tryin' to open my own restaurant in Murder Bay..."
+
+#: CONVO.WANDERING_CHEF.STATE_BAD_FOOD.OPT_DONT_TELL
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_BAD_FOOD.OPT_DONT_TELL"
+msgid "Promise not to tell anyone"
+msgstr "Promise not to tell anyone"
+
+#: CONVO.WANDERING_CHEF.STATE_BAD_FOOD.TT_DONT_TELL
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_BAD_FOOD.TT_DONT_TELL"
+msgid "You'll feel the extent of that dubious meal!"
+msgstr "You'll feel the extent of that dubious meal!"
+
+#: CONVO.WANDERING_CHEF.STATE_BAD_FOOD.DIALOG_DONT_TELL
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_BAD_FOOD.DIALOG_DONT_TELL"
+msgid "player:\n!dubious\nMistakes happen. Just, uh, try it out on a yote first next time.\nagent:\n!thinking\nDunno if a yote has the palate for it, but... it does get real lonely on the road. \n* {agent} cleans up {agent.hisher} gear and leaves you to rinse the taste from your mouth."
+msgstr "player:\n!dubious\nMistakes happen. Just, uh, try it out on a yote first next time.\nagent:\n!thinking\nDunno if a yote has the palate for it, but... it does get real lonely on the road. \n* {agent} cleans up {agent.hisher} gear and leaves you to rinse the taste from your mouth."
+
+#: CONVO.WANDERING_CHEF.STATE_BAD_FOOD.OPT_INSULT
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_BAD_FOOD.OPT_INSULT"
+msgid "Scold {agent}"
+msgstr "Scold {agent}"
+
+#: CONVO.WANDERING_CHEF.STATE_BAD_FOOD.TT_INSULT
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_BAD_FOOD.TT_INSULT"
+msgid "You'll feel better for scolding {agent}, but {agent.heshe} isn't likely to appreciate it."
+msgstr "You'll feel better for scolding {agent}, but {agent.heshe} isn't likely to appreciate it."
+
+#: CONVO.WANDERING_CHEF.STATE_BAD_FOOD.DIALOG_INSULT
+#, fuzzy
+msgctxt "CONVO.WANDERING_CHEF.STATE_BAD_FOOD.DIALOG_INSULT"
+msgid "player:\n!angry_accuse\nYou coulda poisoned me, you damn lunatic!\nagent:\n!scared\nW-well you didn't have to take it! There's no accounting for taste!\n!exit\n* {Agent} kicks up {agent.hisher} heels for a hasty retreat, but not before you splatter {agent.hisher} backside with the leftovers.\nplayer:\n!angry\nAnd good riddance! Blech!"
+msgstr "player:\n!angry_accuse\nYou coulda poisoned me, you damn lunatic!\nagent:\n!scared\nW-well you didn't have to take it! There's no accounting for taste!\n!exit\n* {Agent} kicks up {agent.hisher} heels for a hasty retreat, but not before you splatter {agent.hisher} backside with the leftovers.\nplayer:\n!angry\nAnd good riddance! Blech!"
+
+#: CHARACTER.WANDERING_CHEF.TITLE
+msgctxt "CHARACTER.WANDERING_CHEF.TITLE"
+msgid "Bartender"
+msgstr "Barman"
+
+#: QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.DO_CONVINCE.TITLE
+#, fuzzy
+msgctxt "QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.DO_CONVINCE.TITLE"
+msgid "Convince {target} to pay up"
+msgstr "Convince {target} to pay up"
+
+#: QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.DO_CONVINCE.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.DO_CONVINCE.DESC"
+msgid "Track down {target} and convince them to hold up their end of the bargain with {giver}."
+msgstr "Track down {target} and convince them to hold up their end of the bargain with {giver}."
+
+#: CHARACTER.FOREMAN.TITLE
+msgctxt "CHARACTER.FOREMAN.TITLE"
+msgid "Foreman"
+msgstr "Contremaître"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIAL_TXT
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIAL_TXT"
+msgid "agent:\n$neutralDubious\nYou haven't been talking to {giver}, have you?"
+msgstr "agent:\n$neutralDubious\nYou haven't been talking to {giver}, have you?"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.OPT_ASK_ABOUT_GOODS
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.OPT_ASK_ABOUT_GOODS"
+msgid "Ask about {giver}'s deal"
+msgstr "Ask about {giver}'s deal"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_OFFER
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_OFFER"
+msgid "player:\n$neutralDirect\nSo {giver} tells me you two had a deal, and you lost your nerve.\nagent:\n$neutralDirect\nYeah, like I told {giver.himher} already, I don't want second-rate goods.\nplayer:\n$neutralTakenAback\nSecond rate goods?\nagent:\n$angrySeething\nThe last batch I got from {giver.himher} was a total bust. \n$angryPatienceLost\nUnusable trash!\nplayer:\n$neutralDirect\nLast batch of <i>what</>, exactly?\nagent:\n$miscEmbarrassed\n!bashful\nI... uh, I'd rather not say.\n*** {agent} is refusing to pay {giver}."
+msgstr "player:\n$neutralDirect\nSo {giver} tells me you two had a deal, and you lost your nerve.\nagent:\n$neutralDirect\nYeah, like I told {giver.himher} already, I don't want second-rate goods.\nplayer:\n$neutralTakenAback\nSecond rate goods?\nagent:\n$angrySeething\nThe last batch I got from {giver.himher} was a total bust. \n$angryPatienceLost\nUnusable trash!\nplayer:\n$neutralDirect\nLast batch of <i>what</>, exactly?\nagent:\n$miscEmbarrassed\n!bashful\nI... uh, I'd rather not say.\n*** {agent} is refusing to pay {giver}."
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.OPT_OFFER_TO_CONVINCE_GIVER_TO_BACK_OFF
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.OPT_OFFER_TO_CONVINCE_GIVER_TO_BACK_OFF"
+msgid "Offer to convince {giver} to back off"
+msgstr "Offer to convince {giver} to back off"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_SWITCH_SIDES
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_SWITCH_SIDES"
+msgid "player:\n$neutralDubious\nSo the goods weren't... good?\nagent:\n$neutralDirect\nNo. They were not.\nplayer:\n$neutralThoughtful\nI'll go talk to {giver}. Maybe make them back off.\nagent:\n$happyAmazed\nYou will? I really appreciate that. Thanks!"
+msgstr "player:\n$neutralDubious\nSo the goods weren't... good?\nagent:\n$neutralDirect\nNo. They were not.\nplayer:\n$neutralThoughtful\nI'll go talk to {giver}. Maybe make them back off.\nagent:\n$happyAmazed\nYou will? I really appreciate that. Thanks!"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.OPT_CONVINCE_THEM_TO_PAY
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.OPT_CONVINCE_THEM_TO_PAY"
+msgid "Convince {target} to pay up"
+msgstr "Convince {target} to pay up"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_CONVINCE
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_CONVINCE"
+msgid "player:\n$neutralWhatever\nI don't care about the details. {giver} wants {giver.hisher} money.\nagent:\n$angryHostile\nI won't pay!"
+msgstr "player:\n$neutralWhatever\nI don't care about the details. {giver} wants {giver.hisher} money.\nagent:\n$angryHostile\nI won't pay!"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_CONVINCED
+#, fuzzy
+msgctxt "O.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_CONVINCED"
+msgid "agent:\n$scaredPowerless\nFine! I'll do it!\nGo tell {giver} I'll take the bloody shipment. \nBut this is the last time!"
+msgstr "agent:\n$scaredPowerless\nFine! I'll do it!\nGo tell {giver} I'll take the bloody shipment. \nBut this is the last time!"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_NOT_CONVINCED
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_NOT_CONVINCED"
+msgid "agent:\n$angrySeething\nNo, I told you. I don't want {giver}'s trash.\nNow stop bothering me!"
+msgstr "agent:\n$angrySeething\nNo, I told you. I don't want {giver}'s trash.\nNow stop bothering me!"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.OPT_ATTACK
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.OPT_ATTACK"
+msgid "Rough up {target}"
+msgstr "Rough up {target}"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_ATTACK
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_ATTACK"
+msgid "player:\n!fight\n$angryHostile\nThis is on you.\nagent:\n!fight\n$angryHostile\nI'm going to ship you back to {giver} in a box!"
+msgstr "player:\n!fight\n$angryHostile\nThis is on you.\nagent:\n!fight\n$angryHostile\nI'm going to ship you back to {giver} in a box!"
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_WON_KILLED
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_WON_KILLED"
+msgid "* {agent} is dead. Better go tell {giver} they aren't going to get their money."
+msgstr "* {agent} is dead. Better go tell {giver} they aren't going to get their money."
+
+#: CONVO.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_WON_SURVIVED
+#, fuzzy
+msgctxt "O.SIDE_MIDDLE_MAN.STATE_ATTRACT.DIALOG_WON_SURVIVED"
+msgid "agent:\n!injured\n$scaredAnguished\nStop! Stop!\nI'll do it.\nJust leave me alone."
+msgstr "agent:\n!injured\n$scaredAnguished\nStop! Stop!\nI'll do it.\nJust leave me alone."
+
+#: QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.CONVINCE_GIVER.TITLE
+#, fuzzy
+msgctxt "QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.CONVINCE_GIVER.TITLE"
+msgid "Convince {giver} to drop the deal"
+msgstr "Convince {giver} to drop the deal"
+
+#: QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.CONVINCE_GIVER.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_MIDDLE_MAN.OBJECTIF.CONVINCE_GIVER.DESC"
+msgid "Convince {giver} to leave {target} alone."
+msgstr "Convince {giver} to leave {target} alone."
