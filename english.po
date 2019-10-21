@@ -32867,7 +32867,7 @@ msgstr "player:\n!dubious\nAdmiralty? No offense, but I'd rather not get involve
 msgctxt "QUEST.SIDE_THIEF_BOUNTY.DESC"
 msgid "Makeshift campsite"
 msgstr "Makeshift campsite"
-²
+
 #: UI.CARDS.ADD_NEGOTIATION_CARD
 msgctxt "UI.CARDS.ADD_NEGOTIATION_CARD"
 msgid "Add Negotiation Card"
