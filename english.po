@@ -12789,7 +12789,7 @@ msgstr "player:\n!graft\n* {1#graft} installée. \nplayer:\n!neutral"
 #: CONVO_COMMON.DIALOG_RECEIVED_MONEY_QUEST
 msgctxt "CONVO_COMMON.DIALOG_RECEIVED_MONEY_QUEST"
 msgid "* You get paid {1#money}."
-msgstr "* Vous êtes payé 1#money}."
+msgstr "* Vous êtes payé {1#money}."
 
 #: CONVO_COMMON.DIALOG_REST_START
 msgctxt "CONVO_COMMON.DIALOG_REST_START"
@@ -33232,6 +33232,246 @@ msgstr "Convince {giver} to drop the deal"
 
 #: QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.CONVINCE_GIVER.DESC
 #, fuzzy
-msgctxt "QUEST.SIDE_MIDDLE_MAN.OBJECTIF.CONVINCE_GIVER.DESC"
+msgctxt "QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.CONVINCE_GIVER.DESC"
 msgid "Convince {giver} to leave {target} alone."
 msgstr "Convince {giver} to leave {target} alone."
+
+#: CHARACTER.HEAVY_LABORER.TITLE
+#, fuzzy
+msgctxt "CHARACTER.HEAVY_LABORER.TITLE"
+msgid "Heavy Laborer"
+msgstr "Heavy Laborer"
+
+#: MODIFIER.BONE_TIRED.DESC
+#, fuzzy
+msgctxt "MODIFIER.BONE_TIRED.DESC"
+msgid "When destroyed, {1} loses {2} resolve."
+msgstr "When destroyed, {1} loses {2} resolve."
+
+#: MODIFIER.DEFENSIVE.DESC
+#, fuzzy
+msgctxt "MODIFIER.DEFENSIVE.DESC"
+msgid "Gains {1} {COMPOSURE} whenever you create a new argument."
+msgstr "Gains {1} {COMPOSURE} whenever you create a new argument."
+
+#: UI.CARDS.TRASH_DECK_TT
+#, fuzzy
+msgctxt "UI.CARDS.TRASH_DECK_TT"
+msgid "<b><#TITLE>Trash</></b>\nClick to view cards you've expended or destroyed. These cards are no longer in play."
+msgstr "<b><#TITLE>Trash</></b>\nClick to view cards you've expended or destroyed. These cards are no longer in play."
+
+#: CARD.ERUPT_PLUS.DESC
+#, fuzzy
+msgctxt "CARD.ERUPT_PLUS.DESC"
+msgid "Attack a random argument.\n{EVOKE}: Play <#UPGRADE>3</> Hostile cards in a single turn.\n{1}"
+msgstr "Attack a random argument.\n{EVOKE}: Play <#UPGRADE>3</> Hostile cards in a single turn.\n{1}"
+
+#: QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.REPORT_BACK_TO_GIVER.TITLE
+#, fuzzy
+msgctxt "QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.REPORT_BACK_TO_GIVER.TITLE"
+msgid "Tell {giver} the deal is back on."
+msgstr "Tell {giver} the deal is back on."
+
+#: QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.REPORT_BACK_TO_GIVER.DESC
+#, fuzzy
+msgctxt "QUEST.SIDE_MIDDLE_MAN.OBJECTIVE.REPORT_BACK_TO_GIVER.DESC"
+msgid "Tell {giver} that you successfully convinced {target}."
+msgstr "Tell {giver} that you successfully convinced {target}."
+
+#: CONVO.SIDE_MIDDLE_MAN_3.STATE_ATTRACT.DIAL_TXT
+#, fuzzy
+msgctxt "CONVO.SIDE_MIDDLE_MAN_3.STATE_ATTRACT.DIAL_TXT"
+msgid "agent:\n$neutralGreeting\nSo did you knock some sense into {giver.himher}?"
+msgstr "agent:\n$neutralGreeting\nSo did you knock some sense into {giver.himher}?"
+
+#: LOCATION.OPPO_BATTLE_AFTERMATH_BATTLEFIELD.NAME
+#, fuzzy
+msgctxt "LOCATION.OPPO_BATTLE_AFTERMATH_BATTLEFIELD.NAME"
+msgid "Battlefield"
+msgstr "Battlefield"
+
+#: QUEST.OPPO_BATTLE_AFTERMATH.TITLE
+#, fuzzy
+msgctxt "QUEST.OPPO_BATTLE_AFTERMATH.TITLE"
+msgid "Desolate Battlefield"
+msgstr "Desolate Battlefield"
+
+#: QUEST.OPPO_BATTLE_AFTERMATH.OBJECTIVE.INVESTIGATE.DESC
+#, fuzzy
+msgctxt "QUEST.OPPO_BATTLE_AFTERMATH.OBJECTIVE.INVESTIGATE.DESC"
+msgid "A recent fight took place here, perhaps there's still some treasure to be found lying about."
+msgstr "A recent fight took place here, perhaps there's still some treasure to be found lying about."
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_INTRO
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_INTRO"
+msgid "player:\n!left\n* You come across the signs of a recent battle. If there were any winners, they weren't the type to loot the battlefield.\n* The bodies are still fresh. Best to grab something and run, before any beasts are drawn to the bloodshed. "
+msgstr "player:\n!left\n* You come across the signs of a recent battle. If there were any winners, they weren't the type to loot the battlefield.\n* The bodies are still fresh. Best to grab something and run, before any beasts are drawn to the bloodshed. "
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_GATHER_UP_LOOT_MINOR
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_GATHER_UP_LOOT_MINOR"
+msgid "Grab {1#card}"
+msgstr "Grab {1#card}"
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.TT_MINOR
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.TT_MINOR"
+msgid "You can do this quickly"
+msgstr "You can do this quickly"
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_GATHER_LOOT_MINOR
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_GATHER_LOOT_MINOR"
+msgid "* You pick up {1#card} and make tracks before you become a part of the buffet."
+msgstr "* You pick up {1#card} and make tracks before you become a part of the buffet."
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_GATHER_UP_LOOT_MAJOR
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_GATHER_UP_LOOT_MAJOR"
+msgid "Search the crates for {1#card}"
+msgstr "Search the crates for {1#card}"
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.TT_MAJOR
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.TT_MAJOR"
+msgid "This will take some time"
+msgstr "This will take some time"
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_GATHER_LOOT_MAJOR_ATTACKED
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_GATHER_LOOT_MAJOR_ATTACKED"
+msgid "* You struggle with the crate, but you're soon joined by the first of the scavengers.\nagent:\n!right"
+msgstr "* You struggle with the crate, but you're soon joined by the first of the scavengers.\nagent:\n!right"
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_GATHER_LOOT_MAJOR_SAFE
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_GATHER_LOOT_MAJOR_SAFE"
+msgid "* You struggle with the crate, and the lid eventually pops off. Sure enough, you find what you're looking for, and make tracks while you still can. "
+msgstr "* You struggle with the crate, and the lid eventually pops off. Sure enough, you find what you're looking for, and make tracks while you still can. "
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_TAKE_GRAFT
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_TAKE_GRAFT"
+msgid "Pull {1#graft} out of the mud"
+msgstr "Pull {1#graft} out of the mud"
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.TT_GRAFT
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.TT_GRAFT"
+msgid "This will make you vulnerable"
+msgstr "This will make you vulnerable"
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_TAKE_GRAFT
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_TAKE_GRAFT"
+msgid "* You wrestle with the loot lodged in the mud even as a mournful howl cuts through the air. It isn't long before you're joined by the pack. \nagent:\n!right"
+msgstr "* You wrestle with the loot lodged in the mud even as a mournful howl cuts through the air. It isn't long before you're joined by the pack. \nagent:\n!right"
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_POST_FIGHT
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_POST_FIGHT"
+msgid "agent:\n!exit\n* The bodies are growing ripe, and more scavengers are sure to be on their way. Best to cut while you're ahead. "
+msgstr "agent:\n!exit\n* The bodies are growing ripe, and more scavengers are sure to be on their way. Best to cut while you're ahead. "
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_LEAVE
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_LEAVE"
+msgid "Leave empty handed"
+msgstr "Leave empty handed"
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_LEAVE
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_LEAVE"
+msgid "* Rather than take any risks, you leave the battlefield behind."
+msgstr "* Rather than take any risks, you leave the battlefield behind."
+
+#: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_DEFEND_SELF
+#, fuzzy
+msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_DEFEND_SELF"
+msgid "Defend yourself"
+msgstr "Defend yourself"
+
+#: LOCATION.OPPO_HEALING_SPRING_HEALING_SPRING.NAME
+#, fuzzy
+msgctxt "LOCATION.OPPO_HEALING_SPRING_HEALING_SPRING.NAME"
+msgid "Healing Spring"
+msgstr "Healing Spring"
+
+#: QUEST.OPPO_HEALING_SPRING_HEALING_SPRING.TITLE
+#, fuzzy
+msgctxt "QUEST.OPPO_HEALING_SPRING_HEALING_SPRING.TITLE"
+msgid "Healing Spring"
+msgstr "Healing Spring"
+
+#: QUEST.OPPO_HEALING_SPRING_HEALING_SPRING.DESC
+#, fuzzy
+msgctxt "QUEST.OPPO_HEALING_SPRING_HEALING_SPRING.DESC"
+msgid "A rare lumin fissure has opened in the bedrock here. Funny things happen when raw lumin vapors get on to dry land."
+msgstr "A rare lumin fissure has opened in the bedrock here. Funny things happen when raw lumin vapors get on to dry land."
+
+#: CONVO.OPPO_DOG_EVENT.CONFRONT.DIALOG_INTRO
+#, fuzzy
+msgctxt "CONVO.OPPO_DOG_EVENT.CONFRONT.DIALOG_INTRO"
+msgid "* You arrive at a clearing in the woods that isn't too overgrown with wild brush, and {pet} takes off to roll around in the grass.\npet:\n!right\nplayer:\n!left\n!happy\nHeh. Cute."
+msgstr "* You arrive at a clearing in the woods that isn't too overgrown with wild brush, and {pet} takes off to roll around in the grass.\npet:\n!right\nplayer:\n!left\n!happy\nHeh. Cute."
+
+#: CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_PLAY_WITH_PET
+#, fuzzy
+msgctxt "CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_PLAY_WITH_PET"
+msgid "Play with {pet}"
+msgstr "Play with {pet}"
+
+#: CONVO.OPPO_DOG_EVENT.CONFRONT.TT_PLAY
+#, fuzzy
+msgctxt "CONVO.OPPO_DOG_EVENT.CONFRONT.TT_PLAY"
+msgid "Fully heal {pet}."
+msgstr "Fully heal {pet}."
+
+#: CONVO.OPPO_DOG_EVENT.CONFRONT.DIALOG_PLAY_WITH_PET
+#, fuzzy
+msgctxt "CONVO.OPPO_DOG_EVENT.CONFRONT.DIALOG_PLAY_WITH_PET"
+msgid "player:\n!exit\npet:\n!exit\n* {pet} saunters up to you, a ragged stick in its mouth. and throw it a couple of times, {pet} dashing around trying to catch it.\nplayer:\n!left\n!interest\n$miscMischievous\nWhat's that you got there?\n* {pet} drops it at your feet. It appears to be a ragged old femur. A strip of clothing is still attached to it.\nplayer:\n!surprised\n$neutralTakenAback\nOh. Well... fetch!\n* You toss the bone across the clearing, and {pet} bounds after it in delight. \npet:\n!right\nYap!\n* {pet} regained {1} health."
+msgstr "player:\n!exit\npet:\n!exit\n* {pet} saunters up to you, a ragged stick in its mouth. and throw it a couple of times, {pet} dashing around trying to catch it.\nplayer:\n!left\n!interest\n$miscMischievous\nWhat's that you got there?\n* {pet} drops it at your feet. It appears to be a ragged old femur. A strip of clothing is still attached to it.\nplayer:\n!surprised\n$neutralTakenAback\nOh. Well... fetch!\n* You toss the bone across the clearing, and {pet} bounds after it in delight. \npet:\n!right\nYap!\n* {pet} regained {1} health."
+
+#: CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_TRAIN_PET
+#, fuzzy
+msgctxt "CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_TRAIN_PET"
+msgid "Train with {pet}"
+msgstr "Train with {pet}"
+
+#: CONVO.OPPO_DOG_EVENT.CONFRONT.TT_TRAIN
+#, fuzzy
+msgctxt "CONVO.OPPO_DOG_EVENT.CONFRONT.TT_TRAIN"
+msgid "Increases {pet}'s health and damage. {pet} will also help you in negotiations once trained."
+msgstr "Increases {pet}'s health and damage. {pet} will also help you in negotiations once trained."
+
+#: CONVO.OPPO_DOG_EVENT.CONFRONT.DIALOG_TRAIN_PET
+#, fuzzy
+msgctxt "CONVO.OPPO_DOG_EVENT.CONFRONT.DIALOG_TRAIN_PET"
+msgid "player:\n!exit\npet:\n!exit\n* You put together an impromptu obstacle course from branches and dead trees, leading to a dummy made from putrid mulch.\nplayer:\n!left\n!point\n$neutralDirect\nUp and over! That's right. \n!placate\n$miscHushedUrgent\nLow to the ground now, real quiet—\n!cruel\n$angryHostile\nNow <i>sic</i>!\npet:\n!right\nGrr!\n* {pet}'s max health increased by {1}, base damage increased."
+msgstr "player:\n!exit\npet:\n!exit\n* You put together an impromptu obstacle course from branches and dead trees, leading to a dummy made from putrid mulch.\nplayer:\n!left\n!point\n$neutralDirect\nUp and over! That's right. \n!placate\n$miscHushedUrgent\nLow to the ground now, real quiet—\n!cruel\n$angryHostile\nNow <i>sic</i>!\npet:\n!right\nGrr!\n* {pet}'s max health increased by {1}, base damage increased."
+
+#: QUEST.OPPO_DOG_EVENT.OBJECTIVE.INVESTIGATE.TITLE
+#, fuzzy
+msgctxt "QUEST.OPPO_DOG_EVENT.OBJECTIVE.INVESTIGATE.TITLE"
+msgid "Treat your pet"
+msgstr "Treat your pet"
+
+#: QUEST.OPPO_DOG_EVENT.OBJECTIVE.INVESTIGATE.DESC
+#, fuzzy
+msgctxt "QUEST.OPPO_DOG_EVENT.OBJECTIVE.INVESTIGATE.DESC"
+msgid "There's a perfect spot for grooming or training your pet, hurry before someone else stakes claim to it."
+msgstr "There's a perfect spot for grooming or training your pet, hurry before someone else stakes claim to it."
+
+#: QUEST.OPPO_DOG_EVENT.TITLE
+#, fuzzy
+msgctxt "QUEST.OPPO_DOG_EVENT.TITLE"
+msgid "Treat your pet"
+msgstr "Treat your pet"
+
+#: CONVO.ADMIRALTY_DORM_ENCOUNTER.STATE_CONFRONT.DIALOG_INTRO
+#, fuzzy
+msgctxt "CONVO.ADMIRALTY_DORM_ENCOUNTER.STATE_CONFRONT.DIALOG_INTRO"
+msgid "* You track down {agent}'s quarters within the sprawling military complex.\n* The place is crawling with Admiralty. It would be suicide to start a fight here."
+msgstr "* You track down {agent}'s quarters within the sprawling military complex.\n* The place is crawling with Admiralty. It would be suicide to start a fight here."
