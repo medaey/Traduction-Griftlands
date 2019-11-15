@@ -33023,37 +33023,37 @@ msgstr "<c img='l_all'>Sélectionnez"
 #, fuzzy
 msgctxt "ENCOUNTER.CONTROLS_RIGHT_CLOSECONVO"
 msgid "{1#binding} Leave conversation"
-msgstr "1 'liaison' Quitter la conversation"
+msgstr "{1#binding} Quitter la conversation"
 
 #: ENCOUNTER.CONTROLS_RIGHT_CLOSELOCATION
 #, fuzzy
 msgctxt "ENCOUNTER.CONTROLS_RIGHT_CLOSELOCATION"
 msgid "{1#binding} Open map"
-msgstr "1 'liaison' Carte ouverte"
+msgstr "{1#binding} Carte ouverte"
 
 #: ENCOUNTER.CONTROLS_RIGHT_CONTINUE
 #, fuzzy
 msgctxt "ENCOUNTER.CONTROLS_RIGHT_CONTINUE"
 msgid "{1#binding} Continue"
-msgstr "1 'liaison' Continuer"
+msgstr "{1#binding} Continuer"
 
 #: ENCOUNTER.CONTROLS_RIGHT_OPEN
 #, fuzzy
 msgctxt "ENCOUNTER.CONTROLS_RIGHT_OPEN"
 msgid "{1#binding} Pick"
-msgstr "1 'liaison' Choisir"
+msgstr "{1#binding} Choisir"
 
 #: ENCOUNTER.CONTROLS_RIGHT_SKIP
 #, fuzzy
 msgctxt "ENCOUNTER.CONTROLS_RIGHT_SKIP"
 msgid "{1#binding} Skip"
-msgstr "1 'liaison' Passer"
+msgstr "{1#binding} Passer"
 
 #: ENCOUNTER.CONTROLS_RIGHT_TALK
 #, fuzzy
 msgctxt "ENCOUNTER.CONTROLS_RIGHT_TALK"
 msgid "{1#binding} Talk to"
-msgstr "1 'liaison' Parlez à"
+msgstr "{1#binding} Parlez à"
 
 #: ENCOUNTER.LEAVE
 #, fuzzy
@@ -48553,16 +48553,14 @@ msgid "<c img='a'> Show deck"
 msgstr "<c img='a'>Afficher le pont"
 
 #: UI.CHARACTER_SELECT_SCREEN.CONTROLS_RIGHT_START
-#, fuzzy
 msgctxt "UI.CHARACTER_SELECT_SCREEN.CONTROLS_RIGHT_START"
 msgid "<c img='x'> Start"
-msgstr "<c img='x'>Commencer"
+msgstr "<c img='x'> Commencer"
 
 #: UI.CHARACTER_SELECT_SCREEN.LOCKED
-#, fuzzy
 msgctxt "UI.CHARACTER_SELECT_SCREEN.LOCKED"
 msgid "LOCKED"
-msgstr "Bloqué"
+msgstr "VERROUILLÉ"
 
 #: UI.CHARACTER_SELECT_SCREEN.LOCKED_TT
 #, fuzzy
@@ -48580,7 +48578,7 @@ msgstr "Commencer"
 #, fuzzy
 msgctxt "UI.CHARACTER_SELECT_SCREEN.STARTTUTORIAL"
 msgid "Replay Tutorial"
-msgstr "Replay Tutorial"
+msgstr "Rejouer le Tutoriel de rediffusion"
 
 #: UI.CHARACTER_SELECT_SCREEN.STARTTUTORIAL_TT
 #, fuzzy
@@ -48598,55 +48596,48 @@ msgstr "{1} a vécu assez longtemps pour laisser certaines choses au destin. Qua
 #, fuzzy
 msgctxt "UI.COIN_SCREEN.TITLE"
 msgid "{1#upper}'S LUCKY COIN"
-msgstr "COIN LUCKY de 1'upper''S"
+msgstr "COIN LUCKY de {1#upper}'S"
 
 #: UI.CONTROLS.ACCEPT
-#, fuzzy
 msgctxt "UI.CONTROLS.ACCEPT"
 msgid "{1#binding} Accept"
-msgstr "1 'liaison' Accepter"
+msgstr "{1#binding} Accepter"
 
 #: UI.CONTROLS.ACCEPT_JOB
 #, fuzzy
 msgctxt "UI.CONTROLS.ACCEPT_JOB"
 msgid "{1#binding} Accept Job"
-msgstr "1 'liaison' Accepter l'emploi"
+msgstr "{1#binding} Accepter l'emploi"
 
 #: UI.CONTROLS.APPLY
-#, fuzzy
 msgctxt "UI.CONTROLS.APPLY"
 msgid "{1#binding} Apply"
-msgstr "1 'liaison' Appliquer"
+msgstr "{1#binding} Appliquer"
 
 #: UI.CONTROLS.BACK
-#, fuzzy
 msgctxt "UI.CONTROLS.BACK"
 msgid "{1#binding} Back"
-msgstr "1 'liaison' Précédent"
+msgstr "{1#binding} Retour"
 
 #: UI.CONTROLS.BUY
-#, fuzzy
 msgctxt "UI.CONTROLS.BUY"
 msgid "{1#binding} Buy"
-msgstr "1 'liaison' Acheter"
+msgstr "{1#binding} Acheter"
 
 #: UI.CONTROLS.CANCEL
-#, fuzzy
 msgctxt "UI.CONTROLS.CANCEL"
 msgid "{1#binding} Cancel"
-msgstr "1 'liaison' Annuler"
+msgstr "{1#binding} Annuler"
 
 #: UI.CONTROLS.CLOSE
-#, fuzzy
 msgctxt "UI.CONTROLS.CLOSE"
 msgid "{1#binding} Close"
-msgstr "1 'liaison' Proche"
+msgstr "{1#binding} Fermer"
 
 #: UI.CONTROLS.CONVO_SKIP
-#, fuzzy
 msgctxt "UI.CONTROLS.CONVO_SKIP"
 msgid "{1#binding} Skip"
-msgstr "1 'liaison' Passer"
+msgstr "{1#binding} Passer"
 
 #: UI.CONTROLS.CURSOR_MOVE
 #, fuzzy
@@ -48655,238 +48646,225 @@ msgid "<c img='l_all'> Move Cursor"
 msgstr "<c img='l_all'>Déplacer le curseur"
 
 #: UI.CONTROLS.CUSTOM
-#, fuzzy
 msgctxt "UI.CONTROLS.CUSTOM"
 msgid "{1#binding} {2}"
-msgstr "1 'liaison' {2}"
+msgstr "{1#binding} {2}"
 
 #: UI.CONTROLS.DECLINE_JOB
 #, fuzzy
 msgctxt "UI.CONTROLS.DECLINE_JOB"
 msgid "{1#binding} Decline Job"
-msgstr "1 'liaison' Refuser l'emploi"
+msgstr "{1#binding} Refuser l'emploi"
 
 #: UI.CONTROLS.DELETE_SAVE
 #, fuzzy
 msgctxt "UI.CONTROLS.DELETE_SAVE"
 msgid "{1#binding} Delete Save"
-msgstr "1 'liaison' Supprimer Enregistrer"
+msgstr "{1#binding} Supprimer Enregistrer"
 
 #: UI.CONTROLS.DISABLE_ALL
-#, fuzzy
 msgctxt "UI.CONTROLS.DISABLE_ALL"
 msgid "{1#binding} Disable All"
-msgstr "1 'liaison' Désactiver tous les"
+msgstr "{1#binding} Tous Désactiver"
 
 #: UI.CONTROLS.DONE_SLIDES
-#, fuzzy
 msgctxt "UI.CONTROLS.DONE_SLIDES"
 msgid "{1#binding} Close"
-msgstr "1 'liaison' Proche"
+msgstr "{1#binding} Fermer"
 
 #: UI.CONTROLS.DRAFT_CARD
 #, fuzzy
 msgctxt "UI.CONTROLS.DRAFT_CARD"
 msgid "{1#binding} Draft {2#card}"
-msgstr "1 'liaison' Projet de carte de 2 euros"
+msgstr "{1#binding} Projet de carte de 2 euros"
 
 #: UI.CONTROLS.ENABLE_ALL
 #, fuzzy
 msgctxt "UI.CONTROLS.ENABLE_ALL"
 msgid "{1#binding} Enable All"
-msgstr "1 'liaison' Activer tous les"
+msgstr "{1#binding} Activer tous les"
 
 #: UI.CONTROLS.ENABLE_RANDOM
 #, fuzzy
 msgctxt "UI.CONTROLS.ENABLE_RANDOM"
 msgid "{1#binding} Random Select"
-msgstr "1 'liaison' Sélectionner au hasard"
+msgstr "{1#binding} Sélectionner au hasard"
 
 #: UI.CONTROLS.FOCUS_NEXT
-#, fuzzy
 msgctxt "UI.CONTROLS.FOCUS_NEXT"
 msgid "{1#binding} Next"
-msgstr "1 'liaison' prochain"
+msgstr "{1#binding} Suivant"
 
 #: UI.CONTROLS.FOCUS_PREV
 #, fuzzy
 msgctxt "UI.CONTROLS.FOCUS_PREV"
 msgid "{1#binding} Prev"
-msgstr "1 'liaison' Prev"
+msgstr "{1#binding} Prev"
 
 #: UI.CONTROLS.NAV
 #, fuzzy
 msgctxt "UI.CONTROLS.NAV"
 msgid "<c img='l_all'> Nav"
-msgstr "<c img='l_all'>Nav"
+msgstr "<c img='l_all'> Nav"
 
 #: UI.CONTROLS.NEXT_CHARACTER
 #, fuzzy
 msgctxt "UI.CONTROLS.NEXT_CHARACTER"
 msgid "{1#binding} Next Character"
-msgstr "1 'liaison' Caractère suivant"
+msgstr "{1#binding} Caractère suivant"
 
 #: UI.CONTROLS.NEXT_LINE
-#, fuzzy
 msgctxt "UI.CONTROLS.NEXT_LINE"
 msgid "{1#binding} Next"
-msgstr "1 'liaison' prochain"
+msgstr "{1#binding} Suivant"
 
 #: UI.CONTROLS.NEXT_SLIDE
-#, fuzzy
 msgctxt "UI.CONTROLS.NEXT_SLIDE"
 msgid "{1#binding} Next"
-msgstr "1 'liaison' prochain"
+msgstr "{1#binding} Suivant"
 
 #: UI.CONTROLS.OPEN_CARDS
 #, fuzzy
 msgctxt "UI.CONTROLS.OPEN_CARDS"
 msgid "{1#binding} Close Filters"
-msgstr "1 'liaison' Fermer les filtres"
+msgstr "{1#binding} Fermer les filtres"
 
 #: UI.CONTROLS.OPEN_FILTERS
 #, fuzzy
 msgctxt "UI.CONTROLS.OPEN_FILTERS"
 msgid "{1#binding} Open Filters"
-msgstr "1 'liaison' Filtres ouverts"
+msgstr "{1#binding} Filtres ouverts"
 
 #: UI.CONTROLS.OPEN_MENU
-#, fuzzy
 msgctxt "UI.CONTROLS.OPEN_MENU"
 msgid "{1#binding}"
-msgstr "1 'liaison'"
+msgstr "{1#binding}"
 
 #: UI.CONTROLS.OTHER_DECK
 #, fuzzy
 msgctxt "UI.CONTROLS.OTHER_DECK"
 msgid "{1#binding} Switch Decks"
-msgstr "1 'liaison' Decks de commutateur"
+msgstr "{1#binding} Decks de commutateur"
 
 #: UI.CONTROLS.PREV_CHARACTER
 #, fuzzy
 msgctxt "UI.CONTROLS.PREV_CHARACTER"
 msgid "{1#binding} Next Character"
-msgstr "1 'liaison' Caractère suivant"
+msgstr "{1#binding} Caractère suivant"
 
 #: UI.CONTROLS.REVERT
-#, fuzzy
 msgctxt "UI.CONTROLS.REVERT"
 msgid "{1#binding} Revert"
-msgstr "1 'liaison' Revenir"
+msgstr "{1#binding} Retour"
 
 #: UI.CONTROLS.REWIND
 #, fuzzy
 msgctxt "UI.CONTROLS.REWIND"
 msgid "{1#binding} Rewind"
-msgstr "1 'liaison' Rembobiner"
+msgstr "{1#binding} Rembobiner"
 
 #: UI.CONTROLS.SELECT
-#, fuzzy
 msgctxt "UI.CONTROLS.SELECT"
 msgid "{1#binding} Select"
-msgstr "1 'liaison' Sélectionnez"
+msgstr "{1#binding} Sélectionnez"
 
 #: UI.CONTROLS.SELECT_CONTENT
 #, fuzzy
 msgctxt "UI.CONTROLS.SELECT_CONTENT"
 msgid "{1#binding} Close Sidebar"
-msgstr "1 'liaison' Fermer la barre latérale"
+msgstr "{1#binding} Fermer la barre latérale"
 
 #: UI.CONTROLS.SELECT_FIGHTER
 #, fuzzy
 msgctxt "UI.CONTROLS.SELECT_FIGHTER"
 msgid "{1#binding} Select {2#agent}"
-msgstr "1 'liaison' Sélectionnez l'agent de 2 euros"
+msgstr "{1#binding} Sélectionnez {2#agent}"
 
 #: UI.CONTROLS.SELECT_SIDEBAR
 #, fuzzy
 msgctxt "UI.CONTROLS.SELECT_SIDEBAR"
 msgid "{1#binding} Open Sidebar"
-msgstr "1 'liaison' Barre latérale ouverte"
+msgstr "{1#binding} Barre latérale ouverte"
 
 #: UI.CONTROLS.SKIP_SLIDES
-#, fuzzy
 msgctxt "UI.CONTROLS.SKIP_SLIDES"
 msgid "{1#binding} Skip"
-msgstr "1 'liaison' Passer"
+msgstr "{1#binding} Passer"
 
 #: UI.CONTROLS.START_GAME
 #, fuzzy
 msgctxt "UI.CONTROLS.START_GAME"
 msgid "{1#binding} Start Game"
-msgstr "1 'liaison' Démarrer le jeu"
+msgstr "{1#binding} Lancer le jeu"
 
 #: UI.CONTROLS.TAKE_CARD_MONEY
 #, fuzzy
 msgctxt "UI.CONTROLS.TAKE_CARD_MONEY"
 msgid "{1#binding} Take {2#money} instead"
-msgstr "1 'liaison' Prenez à la place 2 euros"
+msgstr "{1#binding} Prenez {2#money} à la place"
 
 #: UI.CONTROLS.TALK_TO
 #, fuzzy
 msgctxt "UI.CONTROLS.TALK_TO"
 msgid "{1#binding} Talk to {2#agent}"
-msgstr "1 'liaison' Parlez-en à l'agent de 2 euros"
+msgstr "{1#binding} Parlez-en à l'agent de 2 euros"
 
 #: UI.CONTROLS.TOGGLE
 #, fuzzy
 msgctxt "UI.CONTROLS.TOGGLE"
 msgid "{1#binding} Toggle"
-msgstr "1 'liaison' Bascule"
+msgstr "{1#binding} Basculer"
 
 #: UI.CONTROLS.TRASH_CARD
 #, fuzzy
 msgctxt "UI.CONTROLS.TRASH_CARD"
 msgid "{1#binding} Trash {2#card}"
-msgstr "1 'liaison' Trash 2 cartes"
+msgstr "{1#binding} Trash {2#card}"
 
 #: UI.CONTROLS.TRAVEL
-#, fuzzy
 msgctxt "UI.CONTROLS.TRAVEL"
 msgid "{1#binding} Travel"
-msgstr "1 'liaison' Voyage"
+msgstr "{1#binding} Voyager"
 
 #: UI.CONTROLS.UPGRADE_CARD
 #, fuzzy
 msgctxt "UI.CONTROLS.UPGRADE_CARD"
 msgid "{1#binding} Pick Upgrade"
-msgstr "1 'liaison' Pick Mise à niveau"
+msgstr "{1#binding} Pick Mise à niveau"
 
 #: UI.CONTROLS.VIEW
-#, fuzzy
 msgctxt "UI.CONTROLS.VIEW"
 msgid "{1#binding} View"
-msgstr "1 'liaison' Vue"
+msgstr "{1#binding} Afficher"
 
 #: UI.CONTROLS.VIEW_CARD
 #, fuzzy
 msgctxt "UI.CONTROLS.VIEW_CARD"
 msgid "{1#binding} View Card"
-msgstr "1 'liaison' Afficher la carte"
+msgstr "{1#binding} Afficher la carte"
 
 #: UI.CONTROLS.VIEW_CHOICES
 #, fuzzy
 msgctxt "UI.CONTROLS.VIEW_CHOICES"
 msgid "{1#binding} View Choices"
-msgstr "1 'liaison' Afficher les choix"
+msgstr "{1#binding} Afficher les choix"
 
 #: UI.CONTROLS.VIEW_HAND
 #, fuzzy
 msgctxt "UI.CONTROLS.VIEW_HAND"
 msgid "{1#binding} View Hand"
-msgstr "1 'liaison' Afficher la main"
+msgstr "{1#binding} Afficher la main"
 
 #: UI.CONTROLS.VIEW_UPGRADES
 #, fuzzy
 msgctxt "UI.CONTROLS.VIEW_UPGRADES"
 msgid "{1#binding} View Upgrades"
-msgstr "1 'liaison' Afficher les mises à niveau"
+msgstr "{1#binding} Afficher les mises à niveau"
 
 #: UI.CONVERSATION_SCREEN.CLICK_TO_CONTINUE
-#, fuzzy
 msgctxt "UI.CONVERSATION_SCREEN.CLICK_TO_CONTINUE"
 msgid "CLICK TO CONTINUE"
-msgstr "CLIQUEZ POUR CONTINUER"
+msgstr "CLIQUER POUR CONTINUER"
 
 #: UI.CONVERSATION_SCREEN.PRESS_TO_SKIP
 #, fuzzy
@@ -48895,10 +48873,9 @@ msgid "<i>{1#binding} or <#WHITE>[RIGHT-CLICK]</> to skip</>"
 msgstr "<i>{1#binding} ou <#WHITE>[RIGHT-CLICK]</> pour ignorer</>"
 
 #: UI.CREDITS_SCREEN.CONTROLS_RIGHT_CLOSE
-#, fuzzy
 msgctxt "UI.CREDITS_SCREEN.CONTROLS_RIGHT_CLOSE"
 msgid "<c img='b'> Close"
-msgstr "<c img='b'>Proche"
+msgstr "<c img='b'> Fermer"
 
 #: UI.CREDITS_SCREEN.FMOD
 #, fuzzy
@@ -48907,10 +48884,9 @@ msgid "Made with FMOD Studio\nby Firelight Technologies Pty Ltd."
 msgstr "Fabriqué avec FMOD Studio\npar Firelight Technologies Pty Ltd."
 
 #: UI.CREDITS_SCREEN.MUSIC_TITLE
-#, fuzzy
 msgctxt "UI.CREDITS_SCREEN.MUSIC_TITLE"
 msgid "Music by"
-msgstr "Musique"
+msgstr "Musique par"
 
 #: UI.CREDITS_SCREEN.POWERUP_SUBTITLE
 #, fuzzy
@@ -48919,19 +48895,16 @@ msgid "POWER UP AUDIO"
 msgstr "ALIMENTER L'AUDIO"
 
 #: UI.CREDITS_SCREEN.POWERUP_TITLE
-#, fuzzy
 msgctxt "UI.CREDITS_SCREEN.POWERUP_TITLE"
 msgid "Audio Design by"
-msgstr "Audio Design par"
+msgstr "Design audio par"
 
 #: UI.CREDITS_SCREEN.VOICE_TITLE
-#, fuzzy
 msgctxt "UI.CREDITS_SCREEN.VOICE_TITLE"
 msgid "Voices by"
 msgstr "Voix par"
 
 #: UI.DAY_OVER_SCREEN.BAR_MAX_VALUE
-#, fuzzy
 msgctxt "UI.DAY_OVER_SCREEN.BAR_MAX_VALUE"
 msgid "/{1} {2}"
 msgstr "/{1} {2}"
@@ -48955,7 +48928,6 @@ msgid "BATTLE CARDS GAINED"
 msgstr "CARTES DE COMBAT OBTENUES"
 
 #: UI.DAY_OVER_SCREEN.BUTTON_CONTINUE
-#, fuzzy
 msgctxt "UI.DAY_OVER_SCREEN.BUTTON_CONTINUE"
 msgid "Continue"
 msgstr "Continuer"
@@ -48967,19 +48939,16 @@ msgid "<c img='l_all'> View details"
 msgstr "<c img='l_all'>Voir les détails"
 
 #: UI.DAY_OVER_SCREEN.CONTROLS_RIGHT_CONTINUE
-#, fuzzy
 msgctxt "UI.DAY_OVER_SCREEN.CONTROLS_RIGHT_CONTINUE"
 msgid "<c img='a'> Continue"
-msgstr "<c img='a'>Continuer"
+msgstr "<c img='a'> Continuer"
 
 #: UI.DAY_OVER_SCREEN.CONTROLS_RIGHT_SKIP
-#, fuzzy
 msgctxt "UI.DAY_OVER_SCREEN.CONTROLS_RIGHT_SKIP"
 msgid "<c img='b'> Skip"
-msgstr "<c img='b'>Passer"
+msgstr "<c img='b'> Passer"
 
 #: UI.DAY_OVER_SCREEN.COUNTER_LABEL
-#, fuzzy
 msgctxt "UI.DAY_OVER_SCREEN.COUNTER_LABEL"
 msgid "+{1}"
 msgstr "+{1}"
@@ -50659,7 +50628,7 @@ msgstr "<c img='lb'>Updates"
 #, fuzzy
 msgctxt "UI.MAINMENU.CONTROLS_RIGHT_SELECT"
 msgid "{1#binding} Select"
-msgstr "1 'liaison' Sélectionnez"
+msgstr "{1#binding} Sélectionnez"
 
 #: UI.MAINMENU.CONTROLS_SUBMENU_RIGHT_CLOSE
 #, fuzzy
@@ -51398,10 +51367,9 @@ msgid "DAILY CHALLENGE"
 msgstr "DÉFI QUOTIDIEN"
 
 #: UI.NEW_GAME_SCREEN.ANIM_PROGRESS_LOCKED
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.ANIM_PROGRESS_LOCKED"
 msgid "LOCKED"
-msgstr "Bloqué"
+msgstr "VERROUILLÉ"
 
 #: UI.NEW_GAME_SCREEN.ANIM_PROGRESS_PROGRESS
 #, fuzzy
@@ -51413,7 +51381,7 @@ msgstr "Déverrouillé"
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.ANIM_PROGRESS_TOOLTIP"
 msgid "<#TITLE>{1}'s overall unlock progress.</>\n{2}/{3} PRESTIGE\n{4}/{5} CARD SETS\n{6}/{7} OUTFITS"
-msgstr "L'ensemble de #TITLE l'{1} débloque les progrès.\n{2}/{3} PRESTIGE\n{4}/{5} CARD SETS\n{6}/{7} OUTFITS"
+msgstr "L'ensemble de <#TITLE>{1} débloque les progrès.\n{2}/{3} PRESTIGE\n{4}/{5} CARD SETS\n{6}/{7} OUTFITS"
 
 #: UI.NEW_GAME_SCREEN.ANIM_PROGRESS_VALUE
 #, fuzzy
@@ -51578,10 +51546,9 @@ msgid "This character is still in development."
 msgstr "Ce personnage est encore en développement."
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_LOCKED_TITLE
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_LOCKED_TITLE"
 msgid "LOCKED"
-msgstr "Bloqué"
+msgstr "VERROUILLÉ"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_MUTATORS_ENABLED
 #, fuzzy
@@ -51626,10 +51593,9 @@ msgid "<p img='UI/newgame_sidebar_back.tex'> BACK TO SAVEFILES"
 msgstr "<p img='UI/newgame_sidebar_back.tex'>RETOUR À SAVEFILES"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_OUTFITS_LOCKED
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_OUTFITS_LOCKED"
 msgid "LOCKED"
-msgstr "Bloqué"
+msgstr "VERROUILLÉ "
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_OUTFITS_NEW
 #, fuzzy
@@ -51638,22 +51604,19 @@ msgid "New outfit available!"
 msgstr "Nouvelle tenue disponible!"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_OUTFITS_PROGRESS
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_OUTFITS_PROGRESS"
 msgid "{1}/{2}"
-msgstr "/{1} {2}"
+msgstr "{1}/{2}"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_OUTFITS_TITLE
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_OUTFITS_TITLE"
 msgid "OUTFITS"
-msgstr "Tenues"
+msgstr "TENUES"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_PRESTIGE_LOCKED
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_PRESTIGE_LOCKED"
 msgid "LOCKED"
-msgstr "Bloqué"
+msgstr "VERROUILLÉ"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_PRESTIGE_NEW
 #, fuzzy
@@ -51662,10 +51625,9 @@ msgid "Higher prestige available"
 msgstr "Prestige plus élevé disponible"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_PRESTIGE_PROGRESS
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_PRESTIGE_PROGRESS"
 msgid "{1}/{2}"
-msgstr "/{1} {2}"
+msgstr "{1}/{2}"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_PRESTIGE_TITLE
 #, fuzzy
@@ -51689,19 +51651,18 @@ msgstr "Utilisez <c img='rt'>pour supprimer les fichiers sauvez."
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_UNLOCKS_LOCKED"
 msgid "LOCKED"
-msgstr "Bloqué"
+msgstr "VERROUILLÉ"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_UNLOCKS_PROGRESS
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_UNLOCKS_PROGRESS"
 msgid "{1}/{2}"
-msgstr "/{1} {2}"
+msgstr "{1}/{2}"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_UNLOCKS_SUBTITLE
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_UNLOCKS_SUBTITLE"
 msgid "{1} {1*SET|SETS} DISABLED"
-msgstr "{1} 1 SET SETSMD DÉSACTIVÉS"
+msgstr "{1} {1*SET|SETS} DÉSACTIVÉS"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_UNLOCKS_SUBTITLE_ENABLED
 #, fuzzy
@@ -51782,10 +51743,9 @@ msgid "Use <c img='rt'> to preview card upgrades."
 msgstr "Utilisez pour prévisualiser les mises à niveau de <c img='rt'>la carte."
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_OUTFITS_LOCKED
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_OUTFITS_LOCKED"
 msgid "LOCKED"
-msgstr "Bloqué"
+msgstr "VERROUILLÉ"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_OUTFITS_TEXT
 #, fuzzy
@@ -51806,10 +51766,9 @@ msgid "Complete the previous level to unlock this."
 msgstr "Terminez le niveau précédent pour débloquer cela."
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_PRESTIGE_LOCKED_TITLE
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_PRESTIGE_LOCKED_TITLE"
 msgid "LOCKED"
-msgstr "Bloqué"
+msgstr "VERROUILLÉ"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_PRESTIGE_NEW
 #, fuzzy
@@ -51866,10 +51825,9 @@ msgid "ENABLED"
 msgstr "ACTIVÉE"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_STATUS_LOCKED
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_STATUS_LOCKED"
 msgid "LOCKED"
-msgstr "Bloqué"
+msgstr "VERROUILLÉ"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_TEXT
 #, fuzzy
@@ -52395,10 +52353,9 @@ msgid "The volume of music in the game."
 msgstr "Volume de la musique du jeu"
 
 #: UI.OPTIONS_SCREEN.RESET_PROFILE
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE"
 msgid "Reset Profile"
-msgstr "Réinitialiser le profil"
+msgstr "RÉINITIALISER LE PROFIL"
 
 #: UI.OPTIONS_SCREEN.RESET_PROFILE_BODY
 #, fuzzy

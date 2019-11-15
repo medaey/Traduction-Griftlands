@@ -10,9 +10,9 @@
 Statistique:
 | Statistique sur la Traduction | Éléments     | Mots  | Caractères |
 | ----------------------------- | ------------ | ----- | ---------- |
-| Traduit                       |  ‪  38  (1 %) |   116 |        698 |
-| À réviser                     ‪|  ‪8961 (99 %) |130921 |     806700 |
-| Total                         |  8999(100 %) |131037 |     271103 |
+| Traduit                       |  ‪  81  (1 %) |   221 |       1345 |
+| À réviser                     ‪|  ‪8918 (99 %) |130816 |     806102 |
+| Total                         |  8999(100 %) |131037 |     807447 |
 ```
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
