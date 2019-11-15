@@ -27,7 +27,7 @@ Statistique:
 **Comment trouver son dossier d'installation Griftlands ?**
 2) Faite un clic gauche sur le dossier `Griftlands`
 3) Fusionner le dossier `data` que vous venez de télécharger avec le dossier `data` existant
-4) Dans le menu ![](https://i.ibb.co/FbcGSQ1/image.png) allez dans l'onglet ![](https://i.ibb.co/R0hpqdj/image.png) et choisissez la langue ![](https://i.ibb.co/kJFDp2Z/image.png)
+4) Dans le menu ![](https://i.ibb.co/FbcGSQ1/image.png) allez dans l'onglet ![](https://i.ibb.co/R0hpqdj/image.png) et choisissez la langue ![](https://i.ibb.co/qN62Zbq/image.png)
 5) Jouer 🕹️
 
 ## Désinstallation:
