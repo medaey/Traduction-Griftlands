@@ -21,7 +21,6 @@ Statistique:
 <a href=https://discord.gg/PT4NFkk><img src="https://img.icons8.com/color/50/000000/discord-logo.png">
 
 ## Installation:
-<<<<<<< HEAD
 1) Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
   ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à la session.     
@@ -30,9 +29,6 @@ Statistique:
 3) Fusionner le dossier `data` que vous venez de télécharger avec le dossier data existant
 4) Dans le menu ![](https://i.ibb.co/FbcGSQ1/image.png) allez dans l'onglet ![](https://i.ibb.co/R0hpqdj/image.png) et choisissez la langue ![](https://i.ibb.co/kJFDp2Z/image.png)
 5) Jouer 🕹️
-=======
-1) Pas de méthode d'installation pour le moment
->>>>>>> 1d3946b7d36ec29ce90976749ce051f63be750ec
 
 ## Désinstallation:
 1) Rendez-vous dans votre dossier d'installation `Griflands`
