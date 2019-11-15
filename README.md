@@ -20,14 +20,7 @@ Statistique:
 <a href=https://discord.gg/PT4NFkk><img src="https://img.icons8.com/color/50/000000/discord-logo.png">
 
 ## Installation:
-1) Rendez-vous dans votre dossier d'installation `Griflands`
-![](https://i.ibb.co/M1M998x/image.png)
-  ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à la session.     
-**Comment trouver son dossier d'installation Griftlands ?**
-2) Double clic sur le dossier `data`
-3) Faire un clic droit créer un Nouveau dossier et Renommer le `localizations`
-4) Déplacer le fichier `english.po` dans le dossier `localizations` que vous venez de créer
-5) Jouer 🕹️
+1) Pas de méthode d'installation pour le moment
 
 ## Désinstallation:
 1) Rendez-vous dans votre dossier d'installation `Griflands`
