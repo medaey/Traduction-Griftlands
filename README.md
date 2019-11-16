@@ -2,17 +2,17 @@
 <p align="center">Traduction Française pour le jeu vidéo Griftlands.</p>
 <p align="center">
 <a href=https://github.com/leghort/Traduction-Griftlands/releases><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands?include_prereleases">
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-1%25-red"></a>
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-99%25-darckgreen"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-4%25-red"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-96%25-darckgreen"></a>
 </p>
 
 ```lua
 Statistique:
 | Statistique sur la Traduction | Éléments     | Mots  | Caractères |
 | ----------------------------- | ------------ | ----- | ---------- |
-| Traduit                       |  ‪  81  (1 %) |   221 |       1345 |
-| À réviser                     ‪|  ‪8918 (99 %) |130816 |     806102 |
-| Total                         |  8999(100 %) |131037 |     807447 |
+| Traduit                       |  ‪ 323  (4 %) |   796 |       4808 |
+| À réviser                     ‪|  ‪8676 (96 %) |130063 |     801880 |
+| Total                         |  8999(100 %) |130859 |     806688 |
 ```
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 

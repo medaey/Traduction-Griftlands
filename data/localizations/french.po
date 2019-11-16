@@ -212,7 +212,7 @@ msgstr "SocialConnections"
 #, fuzzy
 msgctxt "ATTACK.ACTIVE_DEFENSE.DESC"
 msgid "Apply {1} {DEFEND}.\nIncrease by {2} for each card discarded this turn.\n{3}"
-msgstr "Appliquer le '1' 'DEFEND'.\nAugmentez de 2 euros pour chaque carte jetée ce tour.\n{3}"
+msgstr "Appliquer le {1} {DEFEND}.\nAugmentez de 2 euros pour chaque carte jetée ce tour.\n{3}"
 
 #: ATTACK.ACTIVE_DEFENSE.NAME
 #, fuzzy
@@ -314,7 +314,7 @@ msgstr "Tir d'adrénaline"
 #, fuzzy
 msgctxt "ATTACK.AEROSTAT_COILGUN.DESC"
 msgid "Gains +{1} bonus damage for every card played this turn."
-msgstr "Gains de bonus de 1 euro pour chaque carte jouée ce tour."
+msgstr "Gains de bonus de {1} pour chaque carte jouée ce tour."
 
 #: ATTACK.AEROSTAT_COILGUN.NAME
 #, fuzzy
@@ -481,7 +481,7 @@ msgstr "Frapper"
 #, fuzzy
 msgctxt "ATTACK.ANCHOR.DESC"
 msgid "At the start of your next turn, gain 2 {POWER} until the end of that turn."
-msgstr "Au début de votre prochain tour, gagnez 2 'POWER' jusqu'à la fin de ce tour."
+msgstr "Au début de votre prochain tour, gagnez 2 {POWER} jusqu'à la fin de ce tour."
 
 #: ATTACK.ANCHOR.NAME
 #, fuzzy
@@ -648,7 +648,7 @@ msgstr "Thump"
 #, fuzzy
 msgctxt "ATTACK.BARBED_DEFENSE.DESC"
 msgid "{ABILITY}: Your {RIPOSTE} attacks apply {BLEED {1}}."
-msgstr "'ABILITY' : Vos attaques 'RIPOSTE' s'appliquent à 'BLEED '1'."
+msgstr "{ABILITY} : Vos attaques {RIPOSTE} s'appliquent à {BLEED {1}}."
 
 #: ATTACK.BARBED_DEFENSE.NAME
 #, fuzzy
@@ -660,7 +660,7 @@ msgstr "Défense barbelée"
 #, fuzzy
 msgctxt "ATTACK.BARBED_DEFENSE_PLUS.DESC"
 msgid "{ABILITY}: Your {RIPOSTE} attacks apply {BLEED {1}}.\n{EXPEND} and <#UPGRADE>{AMBUSH}.</>"
-msgstr "'ABILITY' : Vos attaques 'RIPOSTE' s'appliquent à 'BLEED '1'.\n«EXPEND» et «#UPGRADE'AMBUSH»."
+msgstr "{ABILITY}: Vos attaques {RIPOSTE} s'appliquent à {BLEED {1}}.\n{EXPEND} et <#UPGRADE>{AMBUSH}.</>"
 
 #: ATTACK.BARBED_DEFENSE_PLUS.NAME
 #, fuzzy
@@ -672,7 +672,7 @@ msgstr "Aube barbelée"
 #, fuzzy
 msgctxt "ATTACK.BARBED_DEFENSE_PLUS2.DESC"
 msgid "{ABILITY}: Your {RIPOSTE} attacks apply <#UPGRADE>{BLEED {1}}</>."
-msgstr "'ABILITY' : Vos attaques 'RIPOSTE' s'appliquent à '#UPGRADE'BLEED '1'/ '."
+msgstr "{ABILITY} : Vos attaques {RIPOSTE} s'appliquent à <#UPGRADE>{BLEED {1}}</>."
 
 #: ATTACK.BARBED_DEFENSE_PLUS2.NAME
 #, fuzzy
@@ -806,7 +806,6 @@ msgid "Bile Grenade"
 msgstr "Grenade a Bile"
 
 #: ATTACK.BLADE_FLASH.DESC
-#, fuzzy
 msgctxt "ATTACK.BLADE_FLASH.DESC"
 msgid "Draw a card."
 msgstr "Pioche une carte."
@@ -821,7 +820,7 @@ msgstr "Lame éclair"
 #, fuzzy
 msgctxt "ATTACK.BLADE_FURY.DESC"
 msgid "Spend up to {1} {COMBO}: Attack once extra per {COMBO}."
-msgstr "Dépensez jusqu'à 1 euro ' COMBO ' : Attaquez une fois de plus par 'COMBO'."
+msgstr "Dépensez jusqu'à {1} ' COMBO ' : Attaquez une fois de plus par {COMBO}."
 
 #: ATTACK.BLADE_FURY.NAME
 #, fuzzy
@@ -833,7 +832,7 @@ msgstr "Lame Enragée"
 #, fuzzy
 msgctxt "ATTACK.BLADE_FURY_PLUS.DESC"
 msgid "Spend up to {1} {COMBO}: Attack once extra per {COMBO}."
-msgstr "Dépensez jusqu'à 1 euro ' COMBO ' : Attaquez une fois de plus par 'COMBO'."
+msgstr "Dépensez jusqu'à {1} ' COMBO ' : Attaquez une fois de plus par {COMBO}."
 
 #: ATTACK.BLADE_FURY_PLUS.NAME
 #, fuzzy
@@ -845,7 +844,7 @@ msgstr "Lame Enragée+"
 #, fuzzy
 msgctxt "ATTACK.BLADE_FURY_PLUS2.DESC"
 msgid "Spend up to {1} {COMBO}: Attack once extra per {COMBO}.\n<#UPGRADE>Gain {COMBO 2}.</>"
-msgstr "Dépensez jusqu'à 1 euro ' COMBO ' : Attaquez une fois de plus par 'COMBO'.\n#UPGRADE'gain 'COMBO 2'."
+msgstr "Dépensez jusqu'à {1} ' COMBO ' : Attaquez une fois de plus par {COMBO}.\n#UPGRADE'gain 'COMBO 2'."
 
 #: ATTACK.BLADE_FURY_PLUS2.NAME
 #, fuzzy
@@ -854,10 +853,9 @@ msgid "Rival's Blade Fury"
 msgstr "Lame Enragée du rival"
 
 #: ATTACK.BLASTER_AIM.NAME
-#, fuzzy
 msgctxt "ATTACK.BLASTER_AIM.NAME"
 msgid "Reload"
-msgstr "Rafraichir"
+msgstr "Recharger"
 
 #: ATTACK.BLASTER_BARRAGE.NAME
 #, fuzzy
@@ -911,7 +909,7 @@ msgstr "Bain de sang pâle"
 #, fuzzy
 msgctxt "ATTACK.BLOODBATH_PLUS2.DESC"
 msgid "{ABILITY}: Whenever you apply {BLEED}, apply {BLEED {1}} to all other enemies.\n<#UPGRADE>{AMBUSH}</>."
-msgstr "{ABILITY}: chaque fois que vous appliquer {BLEED}, appliquer {BLEED {1}} à tous les autres ennemis.\n <#UPGRADE>{AMBUSH}</>"
+msgstr "{ABILITY}: chaque fois que vous appliquer {BLEED}, appliquer {BLEED {1}} à tous les autres ennemis.\n<#UPGRADE>{AMBUSH}</>"
 
 #: ATTACK.BLOODBATH_PLUS2.NAME
 #, fuzzy
@@ -941,7 +939,7 @@ msgstr "Rouleau d'épaule"
 #, fuzzy
 msgctxt "ATTACK.BOLO_STRIKE_PLUS.DESC"
 msgid "{FINISHER}: Gain <#UPGRADE>{1} {DEFEND}</> per {COMBO}. Regain your spent {COMBO} next turn."
-msgstr "{FINISHER}: Gagnez <#UPGRADE>{1} {DEFEND}</>par {COMBO}. Retrouvez votre passé {COMBO} prochain tour."
+msgstr "{FINISHER}: Gagnez <#UPGRADE>{1} {DEFEND}</> par {COMBO}. Retrouvez votre passé {COMBO} prochain tour."
 
 #: ATTACK.BOLO_STRIKE_PLUS.NAME
 #, fuzzy
@@ -953,7 +951,7 @@ msgstr "Rouleau de pierre"
 #, fuzzy
 msgctxt "ATTACK.BOLO_STRIKE_PLUS2.DESC"
 msgid "{FINISHER}: Gain {1} {DEFEND} per {COMBO}. Regain your spent <#UPGRADE>{COMBO} + 2</> next turn."
-msgstr "{FINISHER}: Gagnez {1} {DEFEND} par {COMBO}. Regagnez votre <#UPGRADE> {COMBO} épuisé + 2</> prochain tour."
+msgstr "{FINISHER}: Gagnez {1} {DEFEND} par {COMBO}. Regagnez votre <#UPGRADE>{COMBO} épuisé + 2</> prochain tour."
 
 #: ATTACK.BOLO_STRIKE_PLUS2.NAME
 #, fuzzy
@@ -977,7 +975,7 @@ msgstr "Bonded Elixir"
 #, fuzzy
 msgctxt "ATTACK.BOULDERING_CHARGE.DESC"
 msgid "Gain {1} {DEFEND}. Increase by {2} for each card played this turn.\n{3}"
-msgstr "Gagnez 1 ' 'DEFEND'. Augmentez de 2 euros pour chaque carte jouée ce tour.\n{3}"
+msgstr "Gagnez {1} {DEFEND}. Augmentez de 2 euros pour chaque carte jouée ce tour.\n{3}"
 
 #: ATTACK.BOULDERING_CHARGE.NAME
 #, fuzzy
@@ -989,7 +987,7 @@ msgstr "Surcharge Défensive"
 #, fuzzy
 msgctxt "ATTACK.BOULDERING_CHARGE_PLUS.DESC"
 msgid "Gain <#UPGRADE>{1} {DEFEND}</>. Increase by {2} for each card played this turn.\n{3}"
-msgstr "Gagnez #UPGRADE 1euro ' 'DEFEND'/. Augmentez de 2 euros pour chaque carte jouée ce tour.\n{3}"
+msgstr "Gagnez #UPGRADE 1euro ' {DEFEND}/. Augmentez de 2 euros pour chaque carte jouée ce tour.\n{3}"
 
 #: ATTACK.BOULDERING_CHARGE_PLUS.NAME
 #, fuzzy
@@ -1001,7 +999,7 @@ msgstr "Surge boosté"
 #, fuzzy
 msgctxt "ATTACK.BOULDERING_CHARGE_PLUS2.DESC"
 msgid "Gain {1} {DEFEND}. Increase by <#UPGRADE>{2}</> for each card played this turn.\n{3}"
-msgstr "Gagnez 1 ' 'DEFEND'. Augmentation de #UPGRADE pour chaque carte jouée à ce tour.\n{3}"
+msgstr "Gagnez {1} {DEFEND}. Augmentation de <#UPGRADE>{2}</> pour chaque carte jouée à ce tour.\n{3}"
 
 #: ATTACK.BOULDERING_CHARGE_PLUS2.NAME
 #, fuzzy
@@ -1061,7 +1059,7 @@ msgstr "Stance boostée"
 #, fuzzy
 msgctxt "ATTACK.BOULDER_STANCE_PLUS2.DESC"
 msgid "{ABILITY}: Whenever you play a card, gain {DEFEND {1}}.\n<#UPGRADE>{AMBUSH}</>, {EXPEND}"
-msgstr "'ABILITY' : Chaque fois que vous jouez une carte, gagnez 'DEFEND '1'.\n#UPGRADE'AMBUSH/,« EXPEND »"
+msgstr "{ABILITY} : Chaque fois que vous jouez une carte, gagnez 'DEFEND {1}.\n#UPGRADE'AMBUSH/,« EXPEND »"
 
 #: ATTACK.BOULDER_STANCE_PLUS2.NAME
 #, fuzzy
@@ -1073,7 +1071,7 @@ msgstr "Stance initiale"
 #, fuzzy
 msgctxt "ATTACK.BRAZEN_ATTACK.DESC"
 msgid "Apply {CRIPPLE 2}."
-msgstr "Appliquer le 'CRIPPLE 2'."
+msgstr "Appliquer le {CRIPPLE 2}."
 
 #: ATTACK.BRAZEN_ATTACK.NAME
 #, fuzzy
@@ -1085,7 +1083,7 @@ msgstr "Attaque effrontée"
 #, fuzzy
 msgctxt "ATTACK.BRAZEN_ATTACK_PLUS.DESC"
 msgid "Apply <#UPGRADE>{CRIPPLE 3}</>."
-msgstr "Appliquer le site de l'application '#UPGRADE'CRIPPLE 3'/."
+msgstr "Appliquer le site de l'application <#UPGRADE>{CRIPPLE 3}</>."
 
 #: ATTACK.BRAZEN_ATTACK_PLUS.NAME
 #, fuzzy
@@ -1097,7 +1095,7 @@ msgstr "Attaque lourde de Brazen"
 #, fuzzy
 msgctxt "ATTACK.BRAZEN_ATTACK_PLUS2.DESC"
 msgid "Apply {CRIPPLE 2}."
-msgstr "Appliquer le 'CRIPPLE 2'."
+msgstr "Appliquer le {CRIPPLE 2}."
 
 #: ATTACK.BRAZEN_ATTACK_PLUS2.NAME
 #, fuzzy
@@ -1109,7 +1107,7 @@ msgstr "Attaque Brazen boostée"
 #, fuzzy
 msgctxt "ATTACK.BREATHER.DESC"
 msgid "Spend {1} {COMBO}: Play this card 3 times.\nGain {RIPOSTE {2}}.\nGain {3} {DEFEND}."
-msgstr "Dépensez 1 ' COMBO' : Jouez à cette carte 3 fois.\nGagnez 'RIPOSTE '2'.\nGagnez 3 euros 'DEFEND'."
+msgstr "Dépensez {1} COMBO' : Jouez à cette carte 3 fois.\nGagnez {RIPOSTE {2}}.\nGagnez {3} {DEFEND}."
 
 #: ATTACK.BREATHER.NAME
 #, fuzzy
@@ -1121,7 +1119,7 @@ msgstr "Respiration"
 #, fuzzy
 msgctxt "ATTACK.BREATHER_PLUS.DESC"
 msgid "Spend {1} {COMBO}: Play this card 3 times.\nGain {RIPOSTE {2}}.\nGain <#UPGRADE>{3} {DEFEND}</>."
-msgstr "Dépensez 1 ' COMBO' : Jouez à cette carte 3 fois.\nGagnez 'RIPOSTE '2'.\nGagnez #UPGRADE 3 euros ' 'DEFEND'/."
+msgstr "Dépensez {1} COMBO' : Jouez à cette carte 3 fois.\nGagnez {RIPOSTE {2}}.\nGagnez <#UPGRADE>{3} {DEFEND}</>."
 
 #: ATTACK.BREATHER_PLUS.NAME
 #, fuzzy
@@ -1133,7 +1131,7 @@ msgstr "Respiration de pierre"
 #, fuzzy
 msgctxt "ATTACK.BREATHER_PLUS2.DESC"
 msgid "Spend {1} {COMBO}: Play this card 3 times.\nGain <#UPGRADE>{RIPOSTE {2}}</>.\nGain {3} {DEFEND}."
-msgstr "Dépensez {1} 'COMBO' : Jouez à cette carte 3 fois.\nGagnez #UPGRADE'riposte {2}.\nGagnez {3} 'DEFEND'."
+msgstr "Dépensez {1} {COMBO}: Jouez à cette carte 3 fois.\nGagnez <#UPGRADE>{RIPOSTE {2}}</>.\nGagnez {3} {DEFEND}."
 
 #: ATTACK.BREATHER_PLUS2.NAME
 #, fuzzy
@@ -1319,7 +1317,7 @@ msgstr "Clivage"
 #, fuzzy
 msgctxt "ATTACK.COBBLEBOT_SCAN.NAME"
 msgid "Scan Target"
-msgstr "Cible d'analyse"
+msgstr "Scanner la cible"
 
 #: ATTACK.COIL_GRENADE.DESC
 #, fuzzy
@@ -1361,7 +1359,7 @@ msgstr "Combat Gauze"
 #, fuzzy
 msgctxt "ATTACK.COMBINATION.DESC"
 msgid "Deal 1 bonus damage per {COMBO}.\nGain {COMBO 1}."
-msgstr "Offrez 1 bonus de dégâts par 'COMBO'.\nGagnez 'COMBO 1'."
+msgstr "Offrez 1 bonus de dégâts par {COMBO}.\nGagnez {COMBO 1}."
 
 #: ATTACK.COMBINATION.NAME
 #, fuzzy
@@ -1373,7 +1371,7 @@ msgstr "Combinaison"
 #, fuzzy
 msgctxt "ATTACK.COMBINATION_PLUS.DESC"
 msgid "Deal 1 bonus damage per {COMBO}.\nGain <#UPGRADE>{COMBO 2}.</>"
-msgstr "Offrez 1 bonus de dégâts par 'COMBO'.\nGagnez #UPGRADE COMBO 2."
+msgstr "Offrez 1 bonus de dégâts par {COMBO}.\nGagnez <#UPGRADE>{COMBO 2}.</>"
 
 #: ATTACK.COMBINATION_PLUS.NAME
 #, fuzzy
@@ -1385,7 +1383,7 @@ msgstr "Combinaison de rival"
 #, fuzzy
 msgctxt "ATTACK.COMBINATION_PLUS2.DESC"
 msgid "Deal 1 bonus damage per {COMBO}.\nGain {COMBO 1}."
-msgstr "Offrez 1 bonus de dégâts par 'COMBO'.\nGagnez 'COMBO 1'."
+msgstr "Offrez 1 bonus de dégâts par {COMBO}.\nGagnez {COMBO 1}."
 
 #: ATTACK.COMBINATION_PLUS2.NAME
 #, fuzzy
@@ -1493,7 +1491,7 @@ msgstr "Grande Croix"
 #, fuzzy
 msgctxt "ATTACK.CRUSHING_BLOW.DESC"
 msgid "Apply 1 {STUN}.\n{EXPEND}"
-msgstr "Appliquer 1 'STUN'.\n«EXPEND»"
+msgstr "Appliquer 1 {STUN}.\n{EXPEND}"
 
 #: ATTACK.CRUSHING_BLOW.NAME
 #, fuzzy
@@ -1505,7 +1503,7 @@ msgstr "Écrasement Blow"
 #, fuzzy
 msgctxt "ATTACK.CRUSHING_BLOW_PLUS.DESC"
 msgid "Apply 1 {STUN}.\n{EXPEND}"
-msgstr "Appliquer 1 'STUN'.\n«EXPEND»"
+msgstr "Appliquer 1 {STUN}.\n{EXPEND}"
 
 #: ATTACK.CRUSHING_BLOW_PLUS.NAME
 #, fuzzy
@@ -1517,7 +1515,7 @@ msgstr "Coup de concassage boosté"
 #, fuzzy
 msgctxt "ATTACK.CRUSHING_BLOW_PLUS2.DESC"
 msgid "Apply 1 {STUN}.\n{PIERCING} and {EXPEND}."
-msgstr "Appliquer 1 'STUN'.\n'PIERCING' et 'EXPEND'."
+msgstr "Appliquer 1 {STUN}.\n{PIERCING} et {EXPEND}."
 
 #: ATTACK.CRUSHING_BLOW_PLUS2.NAME
 #, fuzzy
@@ -1541,7 +1539,7 @@ msgstr "Défaussez une carte.\nDoublez les dégâts d'une carte en main aléatoi
 #, fuzzy
 msgctxt "ATTACK.CYNOTRAINER.NAME"
 msgid "Cynotrainer"
-msgstr "Cynotrainer (Cynotrainer)"
+msgstr "Cynotrainer"
 
 #: ATTACK.CYNOTRAINER_PLUS.DESC
 #, fuzzy
@@ -1625,7 +1623,7 @@ msgstr "Lance enraciné"
 #, fuzzy
 msgctxt "ATTACK.DECEPTION.DESC"
 msgid "{IMPROVISE} an attack card from your draw pile. Your next attack card played this turn deals +{1} damage."
-msgstr "Une carte d'attaque de votre pioche. Votre prochaine carte d'attaque a joué ce tour inflige des dégâts de 1 euro."
+msgstr "{IMPROVISE} Une carte d'attaque de votre pioche. Votre prochaine carte d'attaque a joué ce tour inflige +{1} de dégâts."
 
 #: ATTACK.DECEPTION.NAME
 #, fuzzy
@@ -1637,7 +1635,7 @@ msgstr "Deception+"
 #, fuzzy
 msgctxt "ATTACK.DECEPTION_PLUS.DESC"
 msgid "{IMPROVISE} an attack card from your draw pile. Your next attack card played this turn deals <#UPGRADE>+{1}</> damage."
-msgstr "Une carte d'attaque de votre pioche. Votre prochaine carte d'attaque a joué ce tour traite des dégâts de #UPGRADE à 1 euro."
+msgstr "{IMPROVISE} Une carte d'attaque de votre pioche. Votre prochaine carte d'attaque a joué ce tour traite des dégâts <#UPGRADE>+{1}</>."
 
 #: ATTACK.DECEPTION_PLUS.NAME
 #, fuzzy
@@ -1709,13 +1707,13 @@ msgstr "démoraliser"
 #, fuzzy
 msgctxt "ATTACK.DENOUNCE.NAME"
 msgid "Doomsayer"
-msgstr "Doomsayer (Doomsayer)"
+msgstr "Doomsayer"
 
 #: ATTACK.DISCHARGE.DESC
 #, fuzzy
 msgctxt "ATTACK.DISCHARGE.DESC"
 msgid "Target a random enemy for each card in your hand.\n{1}"
-msgstr "Ciblez un ennemi au hasard pour chaque carte dans votre main.\n {1}"
+msgstr "Ciblez un ennemi au hasard pour chaque carte dans votre main.\n{1}"
 
 #: ATTACK.DISCHARGE.NAME
 #, fuzzy
@@ -1727,7 +1725,7 @@ msgstr "Décharge"
 #, fuzzy
 msgctxt "ATTACK.DISCHARGE_PLUS.DESC"
 msgid "Target a random enemy for each card in your hand <#UPGRADE>+ 1</>.\n{1}"
-msgstr "Ciblez un ennemi au hasard pour chaque carte dans votre main <#UPGRADE> + 1</>.\n {1}"
+msgstr "Ciblez un ennemi au hasard pour chaque carte dans votre main <#UPGRADE>+ 1</>.\n{1}"
 
 #: ATTACK.DISCHARGE_PLUS.NAME
 #, fuzzy
@@ -1739,7 +1737,7 @@ msgstr "Décharge en miroir"
 #, fuzzy
 msgctxt "ATTACK.DISCHARGE_PLUS2.DESC"
 msgid "Target a random enemy for each card in your hand.\n{1}"
-msgstr "Ciblez un ennemi au hasard pour chaque carte dans votre main.\n {1}"
+msgstr "Ciblez un ennemi au hasard pour chaque carte dans votre main.\n{1}"
 
 #: ATTACK.DISCHARGE_PLUS2.NAME
 #, fuzzy
@@ -1793,7 +1791,7 @@ msgstr "Doom Pâle"
 #, fuzzy
 msgctxt "ATTACK.DOOMED_PLUS2.DESC"
 msgid "Double the surrender threshold for <#UPGRADE>all enemies.</>"
-msgstr "Doubler le seuil de reddition pour les ennemis de #UPGRADE."
+msgstr "Doubler le seuil de reddition pour <#UPGRADE>tout les ennemis.</>"
 
 #: ATTACK.DOOMED_PLUS2.NAME
 #, fuzzy
@@ -1877,7 +1875,7 @@ msgstr "Grand maître ivre"
 #, fuzzy
 msgctxt "ATTACK.DRUNKEN_MASTER_PLUS2.DESC"
 msgid "Add a {drunk} card to your discards.\nDeals max damage if you have a {drunk} card in your hand.\n<#UPGRADE>{PIERCING}</>"
-msgstr "Ajoutez une carte « ivre » à vos rejets.\nInflige des dégâts maximum si vous avez une carte « ivre » dans votre main.\n#UPGRADE'PIERCING/"
+msgstr "Ajoutez une carte {drunk} à vos rejets.\nInflige des dégâts maximum si vous avez une carte {drunk} dans votre main.\n<#UPGRADE>{PIERCING}</>"
 
 #: ATTACK.DRUNKEN_MASTER_PLUS2.NAME
 #, fuzzy
@@ -1889,7 +1887,7 @@ msgstr "Maître ivre-Hé"
 #, fuzzy
 msgctxt "ATTACK.DRUSK_01_CARD.DESC"
 msgid "Take {1} damage.\nIf ignited by {drusk_02_card}, take {2} damage."
-msgstr "Prenez 1 ' dégâts.\nS'il est enflammé par le 'drusk'02'card', prenez des dégâts de '2'."
+msgstr "Prenez {1} dégâts.\nS'il est enflammé par le {drusk_02_card}, prenez des dégâts de {2}."
 
 #: ATTACK.DRUSK_01_CARD.NAME
 #, fuzzy
@@ -1910,16 +1908,14 @@ msgid "Stab"
 msgstr "Poignarder"
 
 #: ATTACK.DRUSK_01_SUMMON.NAME
-#, fuzzy
 msgctxt "ATTACK.DRUSK_01_SUMMON.NAME"
 msgid "Call"
-msgstr "Les araignées vous appelleront 'mama'."
+msgstr "Appeler"
 
 #: ATTACK.DRUSK_01_TAUNT.NAME
-#, fuzzy
 msgctxt "ATTACK.DRUSK_01_TAUNT.NAME"
 msgid "Defend"
-msgstr "Defend"
+msgstr "Défendre"
 
 #: ATTACK.DRUSK_02_ATTACK1.NAME
 #, fuzzy
@@ -1937,7 +1933,7 @@ msgstr "Poignarder"
 #, fuzzy
 msgctxt "ATTACK.DRUSK_02_CARD.DESC"
 msgid "{UNPLAYABLE}\nAt the end of your turn, take {1} damage and ignite all {drusk_01_card}.\n{REPLENISH}"
-msgstr "«INJOUABLE»\nÀ la fin de votre tour, prenez 1 ' de dégâts et enflammez tous les 'drusk'01'card'.\n«RECONSTITUTION»"
+msgstr "{UNPLAYABLE}\nÀ la fin de votre tour, prenez {1} de dégâts et enflammez tous les {drusk_01_card}.\n{REPLENISH}"
 
 #: ATTACK.DRUSK_02_CARD.NAME
 #, fuzzy
@@ -1946,16 +1942,14 @@ msgid "Volatile Spark"
 msgstr "Étincelle volatile"
 
 #: ATTACK.DRUSK_02_SUMMON.NAME
-#, fuzzy
 msgctxt "ATTACK.DRUSK_02_SUMMON.NAME"
 msgid "Call"
-msgstr "Les araignées vous appelleront 'mama'."
+msgstr "Appeler"
 
 #: ATTACK.DRUSK_02_TAUNT.NAME
-#, fuzzy
 msgctxt "ATTACK.DRUSK_02_TAUNT.NAME"
 msgid "Defend"
-msgstr "Defend"
+msgstr "Défendre"
 
 #: ATTACK.DRUSK_CORE.DESC
 #, fuzzy
@@ -2021,7 +2015,7 @@ msgstr "Frappe de l'écho"
 #, fuzzy
 msgctxt "ATTACK.ECHO_STRIKE_PLUS.DESC"
 msgid "Return to your hand when played.\n<#UPGRADE>Gain 2 Combo.</>"
-msgstr "Retournez dans votre main lorsque vous jouez\n <#UPGRADE> Gagne 2 Combo</>"
+msgstr "Retournez dans votre main lorsque vous jouez\n<#UPGRADE>Gagne 2 Combo</>"
 
 #: ATTACK.ECHO_STRIKE_PLUS.NAME
 #, fuzzy
@@ -2105,7 +2099,7 @@ msgstr "Frappe de clarté"
 #, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2B.DESC"
 msgid "<#UPGRADE>Gain 1 {COMBO}.</>"
-msgstr "<#UPGRADE> Gagner 1 {COMBO}.</>"
+msgstr "<#UPGRADE>Gagner 1 {COMBO}.</>"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2B.FLAVOUR
 #, fuzzy
@@ -2120,10 +2114,9 @@ msgid "Rival's Strike"
 msgstr "Frappe du rival"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2C.DESC
-#, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2C.DESC"
 msgid "<#UPGRADE>Draw a card.</>"
-msgstr "<#UPGRADE> pioche une carte.</>"
+msgstr "<#UPGRADE>Piochez une carte.</>"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2C.FLAVOUR
 #, fuzzy
@@ -2159,7 +2152,7 @@ msgstr "Contre-attaque"
 #, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2E.DESC"
 msgid "<#UPGRADE>Gain {1} {DEFEND}.</>"
-msgstr "<#UPGRADE> Gagne {1} {DEFEND}.</>"
+msgstr "<#UPGRADE>Gagne {1} {DEFEND}.</>"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2E.FLAVOUR
 #, fuzzy
@@ -2207,7 +2200,7 @@ msgstr "Grève tendue"
 #, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2H.DESC"
 msgid "<#UPGRADE>Spend up to {1} {COMBO}: Deal {2} bonus damage per {COMBO} spent.</>"
-msgstr "'#UPGRADE'Dépenses jusqu'à '1' 'COMBO' : Offrez 2 euros de dégâts bonus par 'COMBO' dépensé."
+msgstr "<#UPGRADE>Dépenses jusqu'à {1} {COMBO}: Offrez {2} de dégâts bonus par {COMBO} dépensé."
 
 #: ATTACK.ELBOW_STRIKE_PLUS2H.FLAVOUR
 #, fuzzy
@@ -2225,7 +2218,7 @@ msgstr "Grève de finition"
 #, fuzzy
 msgctxt "ATTACK.ENERGY_SIPHON.DESC"
 msgid "Steal all of the target's {POWER}."
-msgstr "Voler tous les «POWER» de la cible."
+msgstr "Voler tous les {POWER} de la cible."
 
 #: ATTACK.ENERGY_SIPHON.NAME
 #, fuzzy
@@ -2264,10 +2257,9 @@ msgid "Headbutt"
 msgstr "Headbutt"
 
 #: ATTACK.ERCHIN_DEFEND.NAME
-#, fuzzy
 msgctxt "ATTACK.ERCHIN_DEFEND.NAME"
 msgid "Defend"
-msgstr "Defend"
+msgstr "Défendre"
 
 #: ATTACK.ERCHIN_UPGRADED_ATTACK1.NAME
 #, fuzzy
@@ -2282,10 +2274,9 @@ msgid "Headbutt"
 msgstr "Headbutt"
 
 #: ATTACK.ERCHIN_UPGRADED_DEFEND.NAME
-#, fuzzy
 msgctxt "ATTACK.ERCHIN_UPGRADED_DEFEND.NAME"
 msgid "Defend"
-msgstr "Defend"
+msgstr "Défendre"
 
 #: ATTACK.EXECUTE.DESC
 #, fuzzy
@@ -2309,7 +2300,7 @@ msgstr "Décret exécutif"
 #, fuzzy
 msgctxt "ATTACK.EXERTION.DESC"
 msgid "Gain {1} actions.\nLose {2} {2*action|actions} next turn."
-msgstr "Gagne {1} actions.\nPerde {2} {2*action | actions} prochain tour."
+msgstr "Gagne {1} actions.\nPerde {2} {2*action|actions} prochain tour."
 
 #: ATTACK.EXERTION.NAME
 #, fuzzy
@@ -2333,7 +2324,7 @@ msgstr "Effort boosté"
 #, fuzzy
 msgctxt "ATTACK.EXERTION_PLUS2.DESC"
 msgid "Gain {1} actions.\nLose {2} {2*action|actions} next turn."
-msgstr "Gagne {1} actions.\nPerde {2} {2*action | actions} prochain tour."
+msgstr "Gagne {1} actions.\nPerde {2} {2*action|actions} prochain tour."
 
 #: ATTACK.EXERTION_PLUS2.NAME
 #, fuzzy
@@ -2387,7 +2378,7 @@ msgstr "Feinte boosté"
 #, fuzzy
 msgctxt "ATTACK.FEINT_PLUS2A.DESC"
 msgid "Gain {1} {DEFEND}.\n<#UPGRADE>Gain 3 {RIPOSTE}.</>"
-msgstr "Gagnez 1 ' 'DEFEND'.\n#UPGRADE-Gain 3 'RIPOSTE'."
+msgstr "Gagnez {1} {DEFEND}.\n<#UPGRADE>Gain 3 {RIPOSTE}.</>"
 
 #: ATTACK.FEINT_PLUS2A.FLAVOUR
 #, fuzzy
@@ -2405,7 +2396,7 @@ msgstr "Feinte Épineuse"
 #, fuzzy
 msgctxt "ATTACK.FEINT_PLUS2B.DESC"
 msgid "Apply {1} {DEFEND}.\n<#UPGRADE>Draw a card.</>"
-msgstr "Appliquer {1} {DEFEND}.\n <#UPGRADE> Pioche une carte.</>"
+msgstr "Appliquer {1} {DEFEND}.\n<#UPGRADE>Pioche une carte.</>"
 
 #: ATTACK.FEINT_PLUS2B.FLAVOUR
 #, fuzzy
@@ -2423,7 +2414,7 @@ msgstr "Feinte de la vision"
 #, fuzzy
 msgctxt "ATTACK.FEINT_PLUS2C.DESC"
 msgid "<#UPGRADE>Apply {1} {DEFEND}.\n{CONSUME}</>"
-msgstr "<#UPGRADE> Applique {1} {DEFEND}.\n {CONSUME}</>"
+msgstr "<#UPGRADE>Applique {1} {DEFEND}.\n{CONSUME}</>"
 
 #: ATTACK.FEINT_PLUS2C.FLAVOUR
 #, fuzzy
@@ -2441,7 +2432,7 @@ msgstr "Feinte de clarté"
 #, fuzzy
 msgctxt "ATTACK.FEINT_PLUS2D.DESC"
 msgid "<#UPGRADE>Apply {1} {DEFEND}.\n{EXPEND}</>"
-msgstr "<#UPGRADE> Applique {1} {DEFEND}.\n {EXPEND}</>"
+msgstr "<#UPGRADE>Applique {1} {DEFEND}.\n{EXPEND}</>"
 
 #: ATTACK.FEINT_PLUS2D.FLAVOUR
 #, fuzzy
@@ -2459,7 +2450,7 @@ msgstr "Feint lucide"
 #, fuzzy
 msgctxt "ATTACK.FEINT_PLUS2E.DESC"
 msgid "Apply {1} {DEFEND}.\n<#UPGRADE>Gain 1 {COMBO}.</>"
-msgstr "Appliquer le '1' 'DEFEND'.\n#UPGRADE-Gain 1 'COMBO'."
+msgstr "Appliquer le {1} {DEFEND}.\n#UPGRADE-Gain 1 {COMBO}.</>"
 
 #: ATTACK.FEINT_PLUS2E.FLAVOUR
 #, fuzzy
@@ -2477,7 +2468,7 @@ msgstr "Feint du rival"
 #, fuzzy
 msgctxt "ATTACK.FEINT_PLUS2F.DESC"
 msgid "Apply {1} {DEFEND}.\n<#UPGRADE>Your next attack this turn deals maximum damage.</>"
-msgstr "Applique {1} {DEFEND}.\n <#UPGRADE> Votre prochaine attaque ce tour inflige le maximum de dégâts.</>"
+msgstr "Applique {1} {DEFEND}.\n<#UPGRADE>Votre prochaine attaque ce tour inflige le maximum de dégâts.</>"
 
 #: ATTACK.FEINT_PLUS2F.FLAVOUR
 #, fuzzy
@@ -2495,7 +2486,7 @@ msgstr "Après Feint"
 #, fuzzy
 msgctxt "ATTACK.FEINT_PLUS2G.DESC"
 msgid "Apply {1} {DEFEND}.\n<#UPGRADE>Remove a random debuff.</>"
-msgstr "Appliquer le '1' 'DEFEND'.\n#UPGRADE-Supprimer un debuff aléatoire."
+msgstr "Appliquer le {1} {DEFEND}.\n<#UPGRADE>Supprimer un debuff aléatoire."
 
 #: ATTACK.FEINT_PLUS2G.FLAVOUR
 #, fuzzy
@@ -2513,7 +2504,7 @@ msgstr "Feinte de Hesh"
 #, fuzzy
 msgctxt "ATTACK.FEINT_PLUS2H.DESC"
 msgid "Apply {1} {DEFEND}.\n<#UPGRADE>{HEAL} 4.\n{EXPEND}</>"
-msgstr "Appliquer le '1' 'DEFEND'.\n#UPGRADE'HEAL4.\n'EXPEND' /"
+msgstr "Appliquer le {1} {DEFEND}.\n<#UPGRADE>{HEAL} 4.\n{EXPEND}</>"
 
 #: ATTACK.FEINT_PLUS2H.FLAVOUR
 #, fuzzy
@@ -2590,7 +2581,7 @@ msgstr "Promouvoir Fight Dirty"
 #, fuzzy
 msgctxt "ATTACK.FIGHTDIRTY_PLUS2.DESC"
 msgid "{IMPROVISE} a card from a pool of <#UPGRADE>5</> special cards."
-msgstr "{IMPROVISE} une carte d'un pool de <#UPGRADE> 5</> cartes spéciales."
+msgstr "{IMPROVISE} une carte d'un pool de <#UPGRADE>5</> cartes spéciales."
 
 #: ATTACK.FIGHTDIRTY_PLUS2.FLAVOUR
 #, fuzzy
@@ -2692,7 +2683,7 @@ msgstr "Barrage concentré"
 #, fuzzy
 msgctxt "ATTACK.FOLLOW_THROUGH.DESC"
 msgid "{COMBO} points spent for the rest of this turn are regained at the start of your next turn."
-msgstr "<#UPGRADE>Gagne 3 {COMBO}.</>\n{COMBO} les points dépensés pour le reste de ce tour sont récupérés au début du tour suivant."
+msgstr "Les points {COMBO} dépensés pour le reste de ce tour sont récupérés au début du tour suivant."
 
 #: ATTACK.FOLLOW_THROUGH.NAME
 #, fuzzy
@@ -2704,7 +2695,7 @@ msgstr "mener à terme"
 #, fuzzy
 msgctxt "ATTACK.FOLLOW_THROUGH_PLUS.DESC"
 msgid "{COMBO} points spent for the rest of this turn are regained at the start of your next turn.\n{STICKY}."
-msgstr "Les points DE COMBO dépensés pour le reste de ce tour sont retrouvés au début de votre prochain tour.\n{STICKY}."
+msgstr "Les points {COMBO} dépensés pour le reste de ce tour sont retrouvés au début de votre prochain tour.\n{STICKY}."
 
 #: ATTACK.FOLLOW_THROUGH_PLUS.NAME
 #, fuzzy
@@ -2740,7 +2731,7 @@ msgstr "Jeu de jambes"
 #, fuzzy
 msgctxt "ATTACK.FOOTWORK_PLUS.DESC"
 msgid "Discard <#UPGRADE>any number</> of cards. Gain actions equal to their <#UPGRADE>combined cost</> + 1."
-msgstr "Défausse <#UPGRADE>un nombre quelconque</> de cartes. Gagner des actions égales à leur <#UPGRADE> coût combiné</> + 1."
+msgstr "Défausse <#UPGRADE>un nombre quelconque</> de cartes. Gagner des actions égales à leur <#UPGRADE>coût combiné</> + 1."
 
 #: ATTACK.FOOTWORK_PLUS.NAME
 #, fuzzy
@@ -2962,7 +2953,7 @@ msgstr "Gnaw"
 #, fuzzy
 msgctxt "ATTACK.GOUGE.NAME"
 msgid "Gouge"
-msgstr "Insert <#UPGRADE>{gouge}</> or <#UPGRADE>{vertical_SLASH}</> into your hand.sgstr Insère <#UPGRADE>{gouge}</> ou <#UPGRADE>{vertical_SLASH}</> dans ta main."
+msgstr "Gouge"
 
 #: ATTACK.GUERRILLA_TACTIC.NAME
 #, fuzzy
@@ -2992,7 +2983,7 @@ msgstr "Tir de Gut"
 #, fuzzy
 msgctxt "ATTACK.HAMMER_GRIP.DESC"
 msgid "Gain 2 {COMBO}.\nSpend 3 {COMBO}: Deal 3 bonus damage."
-msgstr "Gagnez 2 COMBO.\nPassez 3 'COMBO' : Offrez 3 dégâts bonus."
+msgstr "Gagnez 2 COMBO.\nPassez 3 {COMBO} : Offrez 3 dégâts bonus."
 
 #: ATTACK.HAMMER_GRIP.FLAVOUR
 #, fuzzy
@@ -3028,7 +3019,7 @@ msgstr "L'alimentation électrique de Hanbi"
 #, fuzzy
 msgctxt "ATTACK.HASTE.DESC"
 msgid "Gain 1 Action."
-msgstr "Spend all {DOMINANCE}: Gain 1 action and draw a card for each {DOMINANCE}.sgstr Spend all {DOMINANCE}: Gain 1 action and draw a card for each {DOMINANCE}."
+msgstr "Gain 1 Action."
 
 #: ATTACK.HASTE.NAME
 #, fuzzy
@@ -3046,7 +3037,7 @@ msgstr "{FINISHER}: Inflige {2} dégâts supplémentaires par {COMBO}."
 #, fuzzy
 msgctxt "ATTACK.HAYMAKER.NAME"
 msgid "Haymaker"
-msgstr "Haymaker (Haymaker)"
+msgstr "Haymaker"
 
 #: ATTACK.HAYMAKER_PLUS.DESC
 #, fuzzy
@@ -3130,7 +3121,7 @@ msgstr "L'hémophage"
 #, fuzzy
 msgctxt "ATTACK.HEMOPHAGE_PLUS.DESC"
 msgid "{ABILITY}: Whenever you apply {BLEED}, heal 1.\n<#UPGRADE>{AMBUSH}</>, {EXPEND}"
-msgstr "{APTITUDE}: chaque fois que vous appliquer {BLEED}, soigne 1.\n <#UPGRADE>{AMBUSH}</>, {EXPEND}"
+msgstr "{APTITUDE}: chaque fois que vous appliquer {BLEED}, soigne 1.\n<#UPGRADE>{AMBUSH}</>, {EXPEND}"
 
 #: ATTACK.HEMOPHAGE_PLUS.NAME
 #, fuzzy
@@ -3202,7 +3193,7 @@ msgstr "Amulette Heshian"
 #, fuzzy
 msgctxt "ATTACK.HESHIAN_MASK.DESC"
 msgid "Gain {1} {POWER} until the end of your turn."
-msgstr "Gagnez {1} 'POWER' jusqu'à la fin de votre tour."
+msgstr "Gagnez {1} {POWER} jusqu'à la fin de votre tour."
 
 #: ATTACK.HESHIAN_MASK.NAME
 #, fuzzy
@@ -3220,7 +3211,7 @@ msgstr "Slam Hilt"
 #, fuzzy
 msgctxt "ATTACK.IMPROVE_ACCURACY.DESC"
 msgid "Your attacks deal max damage for the next {1} turns."
-msgstr "Vos attaques accordez des dégâts maximum pour les prochains tours de 1 euro."
+msgstr "Vos attaques accordez des dégâts maximum pour les prochains tours de {1}."
 
 #: ATTACK.IMPROVE_ACCURACY.NAME
 #, fuzzy
@@ -3232,7 +3223,7 @@ msgstr "Améliorer la précision"
 #, fuzzy
 msgctxt "ATTACK.IMPROVE_ACCURACY_PLUS.DESC"
 msgid "Your attacks deal max damage for the next {1} turns."
-msgstr "Vos attaques accordez des dégâts maximum pour les prochains tours de 1 euro."
+msgstr "Vos attaques accordez des dégâts maximum pour les prochains tours de {1}."
 
 #: ATTACK.IMPROVE_ACCURACY_PLUS.NAME
 #, fuzzy
@@ -3244,7 +3235,7 @@ msgstr "Précision durable"
 #, fuzzy
 msgctxt "ATTACK.IMPROVE_ACCURACY_PLUS2.DESC"
 msgid "Your attacks deal max damage for the next {1} turns."
-msgstr "Vos attaques accordez des dégâts maximum pour les prochains tours de 1 euro."
+msgstr "Vos attaques accordez des dégâts maximum pour les prochains tours de {1}."
 
 #: ATTACK.IMPROVE_ACCURACY_PLUS2.NAME
 #, fuzzy
@@ -3256,7 +3247,7 @@ msgstr "Précision pâle"
 #, fuzzy
 msgctxt "ATTACK.IMPROVISE_DISCARD.DESC"
 msgid "Draw a card, discard a card."
-msgstr "Pioche une carte\nDéfausse une carte"
+msgstr "Pioche une carte, Défausse une carte"
 
 #: ATTACK.IMPROVISE_DISCARD.FLAVOUR
 #, fuzzy
@@ -3286,7 +3277,7 @@ msgstr "Scrapper boosté"
 #, fuzzy
 msgctxt "ATTACK.IMPROVISE_DRAW.DESC"
 msgid "Draw {1} {1*card|cards}."
-msgstr "Pioche {1} {1*carte|cartes}"
+msgstr "Pioche {1} {1*carte|cartes}."
 
 #: ATTACK.IMPROVISE_DRAW.FLAVOUR
 #, fuzzy
@@ -3304,7 +3295,7 @@ msgstr "taper"
 #, fuzzy
 msgctxt "ATTACK.IMPROVISE_DRAW_UPGRADED.DESC"
 msgid "Draw {1} {1*card|cards}."
-msgstr "Pioche {1} {1*carte|cartes}"
+msgstr "Pioche {1} {1*carte|cartes}."
 
 #: ATTACK.IMPROVISE_DRAW_UPGRADED.NAME
 #, fuzzy
@@ -3316,7 +3307,7 @@ msgstr "Scrounge boosté"
 #, fuzzy
 msgctxt "ATTACK.IMPROVISE_DUST.FLAVOUR"
 msgid "'I always keep a little sand in my pocket for emergencies.'"
-msgstr "« Je garde toujours un peu de sable dans ma poche pour les urgences. »"
+msgstr "«Je garde toujours un peu de sable dans ma poche pour les urgences.»"
 
 #: ATTACK.IMPROVISE_DUST.NAME
 #, fuzzy
@@ -3334,7 +3325,7 @@ msgstr "Poussière boostée"
 #, fuzzy
 msgctxt "ATTACK.IMPROVISE_HIDE.FLAVOUR"
 msgid "'You can't fight what you can't find.'"
-msgstr "«Vous ne pouvez pas lutter contre ce que vous ne pouvez pas trouver."
+msgstr "«Vous ne pouvez pas lutter contre ce que vous ne pouvez pas trouver.»"
 
 #: ATTACK.IMPROVISE_HIDE.NAME
 #, fuzzy
@@ -3436,7 +3427,7 @@ msgstr "Voyage boosté"
 #, fuzzy
 msgctxt "ATTACK.INCITE.DESC"
 msgid "Apply 3 {POWER} to an ally with less than 50% health."
-msgstr "Appliquer 3 'POWER' à un allié avec moins de 50% de santé."
+msgstr "Appliquer 3 {POWER} à un allié avec moins de 50% de santé."
 
 #: ATTACK.INCITE.NAME
 #, fuzzy
@@ -3472,7 +3463,7 @@ msgstr "Premiers combats intérieurs"
 #, fuzzy
 msgctxt "ATTACK.INSIDE_FIGHTING_PLUS2.DESC"
 msgid "{ABILITY}: Whenever you attack, gain {COMBO 1}.\n<#UPGRADE>Gain {COMBO 2}.</>"
-msgstr "{ABILITY}: Chaque fois que vous attaquez, gagner {COMBO 1}.\n <#UPGRADE> Gagne {COMBO 2}.</>"
+msgstr "{ABILITY}: Chaque fois que vous attaquez, gagner {COMBO 1}.\n <#UPGRADE>Gagne {COMBO 2}.</>"
 
 #: ATTACK.INSIDE_FIGHTING_PLUS2.NAME
 #, fuzzy
@@ -4450,7 +4441,7 @@ msgstr "Rev Up"
 #, fuzzy
 msgctxt "ATTACK.ROBODEX.DESC"
 msgid "While this is in your hand, gain 1 temporary {POWER} whenever you draw a card."
-msgstr "Pendant que cela est dans votre main, gagnez 1 'POWER' temporaire chaque fois que vous tirez une carte."
+msgstr "Pendant que cela est dans votre main, gagnez {1}POWER' temporaire chaque fois que vous tirez une carte."
 
 #: ATTACK.ROBODEX.NAME
 #, fuzzy
@@ -4870,7 +4861,7 @@ msgstr "Enrager"
 #, fuzzy
 msgctxt "ATTACK.SHROOG_FANG.DESC"
 msgid "Apply {1} {WOUND}. Gain {2} {POWER}."
-msgstr "Appliquer {1} 'WOUND'. Gagnez {2} 'POWER'."
+msgstr "Appliquer {1} 'WOUND'. Gagnez {2} {POWER}."
 
 #: ATTACK.SHROOG_FANG.NAME
 #, fuzzy
@@ -5182,7 +5173,7 @@ msgstr "Lames de pierre"
 #, fuzzy
 msgctxt "ATTACK.SPARKYS_OPPRESSOR_CELL.DESC"
 msgid "Gain 3 {POWER} until the end of your turn."
-msgstr "Gagnez 3 'POWER' jusqu'à la fin de votre tour."
+msgstr "Gagnez 3 {POWER} jusqu'à la fin de votre tour."
 
 #: ATTACK.SPARKYS_OPPRESSOR_CELL.NAME
 #, fuzzy
@@ -5290,7 +5281,7 @@ msgstr "Tonic de vitesse"
 #, fuzzy
 msgctxt "ATTACK.SPICY_NOODLES.DESC"
 msgid "Gain 2 {POWER}."
-msgstr "Gagnez 2 'POWER'."
+msgstr "Gagnez 2 {POWER}."
 
 #: ATTACK.SPICY_NOODLES.NAME
 #, fuzzy
@@ -5524,7 +5515,7 @@ msgstr "Blessure"
 #, fuzzy
 msgctxt "ATTACK.STATUS_LUMIN_BURN.DESC"
 msgid "Take {1} damage.\nIf this card is in your hand at the end of the turn, divide it into 2."
-msgstr "Prenez 1 ' dégâts.\nSi cette carte est dans votre main à la fin du tour, divisez-la en 2."
+msgstr "Prenez {1} dégâts.\nSi cette carte est dans votre main à la fin du tour, divisez-la en 2."
 
 #: ATTACK.STATUS_LUMIN_BURN.NAME
 #, fuzzy
@@ -5536,7 +5527,7 @@ msgstr "Brûlure de Lumin"
 #, fuzzy
 msgctxt "ATTACK.STATUS_PINNED.DESC"
 msgid "Play this card to return {card.{1}} to your hand.\n{EXPEND}"
-msgstr "Jouez à cette carte pour retourner la carte. 1 à votre main.\n«EXPEND»"
+msgstr "Jouez à cette carte pour retourner la carte. 1 à votre main.\n{EXPEND}"
 
 #: ATTACK.STATUS_PINNED.NAME
 #, fuzzy
@@ -5650,7 +5641,7 @@ msgstr "Stringer pâle"
 #, fuzzy
 msgctxt "ATTACK.STUN_GUN.DESC"
 msgid "Has a 50% chance to {STUN} the target."
-msgstr "A 50% de chances de 'STUN' la cible."
+msgstr "A 50% de chances de {STUN} la cible."
 
 #: ATTACK.STUN_GUN.NAME
 #, fuzzy
@@ -5704,7 +5695,7 @@ msgstr "Réflexes pâles"
 #, fuzzy
 msgctxt "ATTACK.SWITCH_BLADE.DESC"
 msgid "Add a copy of this card to your discard.\nSpend 1 {COMBO}: Draw a card."
-msgstr "Ajoutez une copie de cette carte à votre rejet.\nDépensez 1 'COMBO' : Dessinez une carte."
+msgstr "Ajoutez une copie de cette carte à votre rejet.\nDépensez 1 {COMBO} : Dessinez une carte."
 
 #: ATTACK.SWITCH_BLADE.NAME
 #, fuzzy
@@ -5728,7 +5719,7 @@ msgstr "Lame d'interrupteur barbelée"
 #, fuzzy
 msgctxt "ATTACK.SWITCH_BLADE_PLUS2.DESC"
 msgid "Add a copy of this card to your discard.\nSpend 1 {COMBO}: Draw a card."
-msgstr "Ajoutez une copie de cette carte à votre rejet.\nDépensez 1 'COMBO' : Dessinez une carte."
+msgstr "Ajoutez une copie de cette carte à votre rejet.\nDépensez 1 {COMBO} : Dessinez une carte."
 
 #: ATTACK.SWITCH_BLADE_PLUS2.NAME
 #, fuzzy
@@ -6280,7 +6271,7 @@ msgstr "Éclaboussure acide"
 #, fuzzy
 msgctxt "ATTACK.ZYNS_RAZOR.DESC"
 msgid "All of your attacks apply 1 {BLEED} while this is in your hand."
-msgstr "Toutes vos attaques s'appliquent à 1 'BLEED' alors que c'est dans votre main."
+msgstr "Toutes vos attaques s'appliquent à {1}BLEED' alors que c'est dans votre main."
 
 #: ATTACK.ZYNS_RAZOR.NAME
 #, fuzzy
@@ -6316,7 +6307,7 @@ msgstr "accélérateur"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.ACIDIC_SLIME.DESC"
 msgid "Every turn, {1} random {1*card|cards} in your hand cost 1 more until played."
-msgstr "Chaque tour, 1 'aléatoire 'cartes'cartes'dans votre main coûte1 de plus jusqu'à ce qu'il soit joué."
+msgstr "Chaque tour, {1}aléatoire 'cartes'cartes'dans votre main coûte1 de plus jusqu'à ce qu'il soit joué."
 
 #: BATTLE_FEATURE.ACIDIC_SLIME.NAME
 #, fuzzy
@@ -6352,7 +6343,7 @@ msgstr "Embuscade"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.AMMO.DESC"
 msgid "{1} attacks require ammo."
-msgstr "Les attaques de 1 euro nécessitent des munitions."
+msgstr "Les attaques de {1} nécessitent des munitions."
 
 #: BATTLE_FEATURE.AMMO.NAME
 #, fuzzy
@@ -6364,7 +6355,7 @@ msgstr "Munitions"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.ANCHOR.DESC"
 msgid "At the start of your next turn, gain 2 {POWER} until the end of that turn."
-msgstr "Au début de votre prochain tour, gagnez 2 'POWER' jusqu'à la fin de ce tour."
+msgstr "Au début de votre prochain tour, gagnez 2 {POWER} jusqu'à la fin de ce tour."
 
 #: BATTLE_FEATURE.ANCHOR.NAME
 #, fuzzy
@@ -6376,7 +6367,7 @@ msgstr "Ancre"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.ANNIHILATION.DESC"
 msgid "Any card played this turn will {EXPEND}."
-msgstr "N'importe quelle carte jouée ce tour sera 'EXPEND'."
+msgstr "N'importe quelle carte jouée ce tour sera {EXPEND}."
 
 #: BATTLE_FEATURE.ANNIHILATION.NAME
 #, fuzzy
@@ -6550,7 +6541,7 @@ msgstr "Blood-Bind"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.BODY_PIERCING.DESC"
 msgid "At the end of every turn, gain {RIPOSTE 1} for every 3 {DEFEND} you have."
-msgstr "À la fin de chaque tour, gagnez 'RIPOSTE 1' pour chaque 3 'DEFEND' que vous avez."
+msgstr "À la fin de chaque tour, gagnez 'RIPOSTE 1' pour chaque 3 {DEFEND} que vous avez."
 
 #: BATTLE_FEATURE.BODY_PIERCING.NAME
 #, fuzzy
@@ -6586,7 +6577,7 @@ msgstr "Clamp Booster"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.BOTTOM_EDGE.DESC"
 msgid "All attacks gain +{1} to minimum damage, up to their maximum damage."
-msgstr "Toutes les attaques gagnent 1 euro pour des dégâts minimaux, jusqu'à leurs dégâts maximums."
+msgstr "Toutes les attaques gagnent {1} pour des dégâts minimaux, jusqu'à leurs dégâts maximums."
 
 #: BATTLE_FEATURE.BOTTOM_EDGE.NAME
 #, fuzzy
@@ -6670,7 +6661,7 @@ msgstr "Calamity Jar (Calamity Jar)"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.CHARGED_STRIKES.DESC"
 msgid "{1}'s melee attacks deal 3 bonus damage and apply {WOUND} if unmitigated."
-msgstr "Les attaques de mêlée de 1 ''s accordent 3 dégâts bonus et s'appliquent 'WOUND' si elles ne sont pas atténuées."
+msgstr "Les attaques de mêlée de {1}'s accordent 3 dégâts bonus et s'appliquent 'WOUND' si elles ne sont pas atténuées."
 
 #: BATTLE_FEATURE.CHARGED_STRIKES.NAME
 #, fuzzy
@@ -6682,7 +6673,7 @@ msgstr "Grèves imputées"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.CHITINOUS.DESC"
 msgid "Gain {DEFEND {1}} at the end of their turn."
-msgstr "Gagnez le 'DEFEND '1' à la fin de leur tour."
+msgstr "Gagnez le 'DEFEND {1} à la fin de leur tour."
 
 #: BATTLE_FEATURE.CHITINOUS.NAME
 #, fuzzy
@@ -6730,7 +6721,7 @@ msgstr "Fendu"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.CLOISTER.DESC"
 msgid "Deal 2 bonus damage while you have any {DEFEND}."
-msgstr "Accordez 2 dégâts bonus pendant que vous avez n'importe quel 'DEFEND'."
+msgstr "Accordez 2 dégâts bonus pendant que vous avez n'importe quel {DEFEND}."
 
 #: BATTLE_FEATURE.CLOISTER.NAME
 #, fuzzy
@@ -6742,7 +6733,7 @@ msgstr "cloître"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.CLOT_HAMMER.DESC"
 msgid "Attacking targets affected by {BLEED} grants 2 {DEFEND}."
-msgstr "Attaquer les cibles touchées par les subventions «BLEED» 2 'DEFEND'."
+msgstr "Attaquer les cibles touchées par les subventions «BLEED» 2 {DEFEND}."
 
 #: BATTLE_FEATURE.CLOT_HAMMER.NAME
 #, fuzzy
@@ -6808,7 +6799,7 @@ msgstr "chef"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.COMPANY_BAND.DESC"
 msgid "Pets have +{1} health in battle."
-msgstr "Les animaux de compagnie ont une santé de 1 euro au combat."
+msgstr "Les animaux de compagnie ont une santé de {1} au combat."
 
 #: BATTLE_FEATURE.COMPANY_BAND.NAME
 #, fuzzy
@@ -6862,7 +6853,7 @@ msgstr "Paralyser"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.CRIPPLING_STRIKES.DESC"
 msgid "Attacks adds {status_injury {1}} cards to your draw pile."
-msgstr "Les attaques ajoutent des cartes de 1 euro à votre pioche."
+msgstr "Les attaques ajoutent des cartes de {1} à votre pioche."
 
 #: BATTLE_FEATURE.CRIPPLING_STRIKES.NAME
 #, fuzzy
@@ -6886,7 +6877,7 @@ msgstr "Crise"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.CRUELTY.DESC"
 msgid "{1}'s attacks apply 1 {WOUND} if not defended."
-msgstr "Les attaques de 1 s'appliquent à 1 'WOUND' si elles ne sont pas défendues."
+msgstr "Les attaques de 1 s'appliquent à {1}WOUND' si elles ne sont pas défendues."
 
 #: BATTLE_FEATURE.CRUELTY.NAME
 #, fuzzy
@@ -6946,7 +6937,7 @@ msgstr "Intrépide"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.DECEPTION.DESC"
 msgid "{IMPROVISE} an attack card from your draw pile. Your next attack card played this turn deals +{1} damage."
-msgstr "Une carte d'attaque de votre pioche. Votre prochaine carte d'attaque a joué ce tour inflige des dégâts de 1 euro."
+msgstr "Une carte d'attaque de votre pioche. Votre prochaine carte d'attaque a joué ce tour inflige des dégâts de {1}."
 
 #: BATTLE_FEATURE.DECEPTION.NAME
 #, fuzzy
@@ -7024,7 +7015,7 @@ msgstr "Épuisé"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.DISEASED.DESC"
 msgid "Reduces maximum health by {1} at the end of {2}'s turn until the end of the fight."
-msgstr "Réduit la santé maximale de 1 euro à la fin du tour de 2 euros jusqu'à la fin du combat."
+msgstr "Réduit la santé maximale de {1} à la fin du tour de 2 euros jusqu'à la fin du combat."
 
 #: BATTLE_FEATURE.DISEASED.NAME
 #, fuzzy
@@ -7036,7 +7027,7 @@ msgstr "malade"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.DISEASE_RIDDEN.DESC"
 msgid "Unmitigated attacks apply 1 {DISEASED}."
-msgstr "Les attaques non atténuées s'appliquent à 1 'DISEASED'."
+msgstr "Les attaques non atténuées s'appliquent à {1}DISEASED'."
 
 #: BATTLE_FEATURE.DISEASE_RIDDEN.NAME
 #, fuzzy
@@ -7060,7 +7051,7 @@ msgstr "interrompre"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.DREAD.DESC"
 msgid "Deal 20% less damage and receive 20% more damage. Reduce by 1 at the end of {1}'s turn."
-msgstr "Offrez 20 % moins de dégâts et recevez 20 % de dégâts supplémentaires. Réduisez de 1 à la fin du tour de 1 euro."
+msgstr "Offrez 20 % moins de dégâts et recevez 20 % de dégâts supplémentaires. Réduisez de 1 à la fin du tour de {1}."
 
 #: BATTLE_FEATURE.DREAD.NAME
 #, fuzzy
@@ -7132,7 +7123,7 @@ msgstr "Pacte de vie"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.DYNAMO.DESC"
 msgid "Whenever you shuffle your deck, gain {POWER {1}}."
-msgstr "Chaque fois que vous mélangez votre deck, gagnez le 'POWER '1'."
+msgstr "Chaque fois que vous mélangez votre deck, gagnez le 'POWER {1}."
 
 #: BATTLE_FEATURE.DYNAMO.NAME
 #, fuzzy
@@ -7168,7 +7159,7 @@ msgstr "Élimination en série"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.ENCUMBERED.DESC"
 msgid "{1} takes bonus damage from consecutive unmitigated attacks and after firing their cannons. Resets at the start of {1}'s turn.\nCurrent Bonus: {2}."
-msgstr "Le bonus de 1 'prend des dégâts bonus suite à des attaques non atténuées consécutives et après avoir tiré leurs canons. Réinitialise au début du tour de 1.\nBonus actuel : 2 euros."
+msgstr "Le bonus de {1}prend des dégâts bonus suite à des attaques non atténuées consécutives et après avoir tiré leurs canons. Réinitialise au début du tour de 1.\nBonus actuel : 2 euros."
 
 #: BATTLE_FEATURE.ENCUMBERED.NAME
 #, fuzzy
@@ -7198,7 +7189,7 @@ msgstr "Évasion"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.EXERT.DESC"
 msgid "Next turn, gain {1} less Action."
-msgstr "Au prochain tour, gagnez 1 euro d'action en moins."
+msgstr "Au prochain tour, gagnez {1} d'action en moins."
 
 #: BATTLE_FEATURE.EXERT.NAME
 #, fuzzy
@@ -7234,7 +7225,7 @@ msgstr "Effort boosté"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.EXISTENTIAL_CRISIS.DESC"
 msgid "Breaking point increases by {1} each turn"
-msgstr "Le point de rupture augmente de 1 euro à chaque tour"
+msgstr "Le point de rupture augmente de {1} à chaque tour"
 
 #: BATTLE_FEATURE.EXISTENTIAL_CRISIS.NAME
 #, fuzzy
@@ -7264,7 +7255,7 @@ msgstr "Lorsque vous recevez «DEFEND», réduisez le montant de 50 %.\nÀ la fi
 #, fuzzy
 msgctxt "BATTLE_FEATURE.EXPOSED.FEATURE_DESC"
 msgid "Apply {1} {EXPOSED}."
-msgstr "Appliquer 1 'EXPOSED'."
+msgstr "Appliquer {1}EXPOSED'."
 
 #: BATTLE_FEATURE.EXPOSED.NAME
 #, fuzzy
@@ -7300,7 +7291,7 @@ msgstr "Armure défectueuse"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.FAVORITE_OF_HESH.DESC"
 msgid "Demoralizes all combatants by {1} upon death.\nIncrease by {2} every turn."
-msgstr "Démoralise tous les combattants par 1 euro à la mort.\nAugmentez de 2 euros à chaque tour."
+msgstr "Démoralise tous les combattants par {1} à la mort.\nAugmentez de 2 euros à chaque tour."
 
 #: BATTLE_FEATURE.FAVORITE_OF_HESH.NAME
 #, fuzzy
@@ -7312,7 +7303,7 @@ msgstr "Favorisé par Hesh"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.FEEDBACK_LOOP.DESC"
 msgid "Your first attack each combat does x{1} damage."
-msgstr "Votre première attaque à chaque combat fait des dégâts x '1'."
+msgstr "Votre première attaque à chaque combat fait des dégâts x {1}."
 
 #: BATTLE_FEATURE.FEEDBACK_LOOP.NAME
 #, fuzzy
@@ -7372,7 +7363,7 @@ msgstr "Premier sang"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.FLOURISH.DESC"
 msgid "Whenever you spend all your combo, gain 5 {DEFEND}."
-msgstr "Chaque fois que vous dépensez tout votre combo, gagnez 5 'DEFEND'."
+msgstr "Chaque fois que vous dépensez tout votre combo, gagnez 5 {DEFEND}."
 
 #: BATTLE_FEATURE.FLOURISH.NAME
 #, fuzzy
@@ -7384,7 +7375,7 @@ msgstr "prospérer"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.FOLLOW_THROUGH.DESC"
 msgid "{COMBO} points spent this turn are regained at the start of your next turn. Current {COMBO} points spent: {1}."
-msgstr "Les points DE COMBO dépensés dans ce virage sont retrouvés au début de votre prochain tour. Points actuels de COMBO dépensés : 1 euro."
+msgstr "Les points DE COMBO dépensés dans ce virage sont retrouvés au début de votre prochain tour. Points actuels de COMBO dépensés : {1}."
 
 #: BATTLE_FEATURE.FOLLOW_THROUGH.NAME
 #, fuzzy
@@ -7432,7 +7423,7 @@ msgstr "Santé fragile"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.FRAGMENTER.DESC"
 msgid "Whenever you discard a card, apply 1 {WOUND} to a random enemy."
-msgstr "Chaque fois que vous jetez une carte, appliquez 1 'WOUND' à un ennemi aléatoire."
+msgstr "Chaque fois que vous jetez une carte, appliquez {1}WOUND' à un ennemi aléatoire."
 
 #: BATTLE_FEATURE.FRAGMENTER.NAME
 #, fuzzy
@@ -7564,7 +7555,7 @@ msgstr "sans cœur"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.HEAVY_LIFTING.DESC"
 msgid "At the start of each battle, gain 4 {DEFEND} and 2 temporary {POWER}."
-msgstr "Au début de chaque combat, gagnez 4 'DEFEND' et 2 'POWER' temporaires."
+msgstr "Au début de chaque combat, gagnez 4 {DEFEND} et 2 {POWER} temporaires."
 
 #: BATTLE_FEATURE.HEAVY_LIFTING.NAME
 #, fuzzy
@@ -7600,7 +7591,7 @@ msgstr "Hémophile"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.HESHIAN_MASK.DESC"
 msgid "Gain {1} {POWER} until the end of your turn."
-msgstr "Gagnez {1} 'POWER' jusqu'à la fin de votre tour."
+msgstr "Gagnez {1} {POWER} jusqu'à la fin de votre tour."
 
 #: BATTLE_FEATURE.HESHIAN_MASK.NAME
 #, fuzzy
@@ -7612,7 +7603,7 @@ msgstr "Masque Heshian"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.HILT_SLAM_CONDITION.DESC"
 msgid "If {1}'s next attack deals damage, it will insert {2} additional Assassin's Marks into your deck."
-msgstr "Si la prochaine attaque de 1 ' inflige des dégâts, elle insérera des marques d'Assassin supplémentaires de 2 euros dans votre deck."
+msgstr "Si la prochaine attaque de {1} inflige des dégâts, elle insérera des marques d'Assassin supplémentaires de 2 euros dans votre deck."
 
 #: BATTLE_FEATURE.HILT_SLAM_CONDITION.NAME
 #, fuzzy
@@ -7636,7 +7627,7 @@ msgstr "Pack Hover"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.HUNTED.DESC"
 msgid "All enemy Admiralty gain 1 {POWER} at the start of combat."
-msgstr "Toute l'Amirauté ennemie gagne 1 'POWER' au début du combat."
+msgstr "Toute l'Amirauté ennemie gagne {1}POWER' au début du combat."
 
 #: BATTLE_FEATURE.HUNTED.NAME
 #, fuzzy
@@ -7648,7 +7639,7 @@ msgstr "Chassé"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.IMPROVE_ACCURACY.DESC"
 msgid "Your attacks deal max damage for the next {1} turns."
-msgstr "Vos attaques accordez des dégâts maximum pour les prochains tours de 1 euro."
+msgstr "Vos attaques accordez des dégâts maximum pour les prochains tours de {1}."
 
 #: BATTLE_FEATURE.IMPROVE_ACCURACY.NAME
 #, fuzzy
@@ -7684,7 +7675,7 @@ msgstr "Lutte à l'intérieur"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.INTIMIDATED.DESC"
 msgid "Lose 1 {DEFEND} on all cards that apply {DEFEND}."
-msgstr "Perdre 1 'DEFEND' sur toutes les cartes qui s'appliquent 'DEFEND'."
+msgstr "Perdre 1 {DEFEND} sur toutes les cartes qui s'appliquent {DEFEND}."
 
 #: BATTLE_FEATURE.INTIMIDATED.NAME
 #, fuzzy
@@ -7720,7 +7711,7 @@ msgstr "Pierre dans la nuit"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.JARACKLE_BOON.DESC"
 msgid "Gain {POWER {1}} at the start of battle.\nThis is a species boon."
-msgstr "Gagnez le 'POWER '1' au début de le combat.\nC'est une aubaine pour les espèces."
+msgstr "Gagnez le 'POWER {1} au début de le combat.\nC'est une aubaine pour les espèces."
 
 #: BATTLE_FEATURE.JARACKLE_BOON.NAME
 #, fuzzy
@@ -7744,7 +7735,7 @@ msgstr "Juggernaut"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.KRADESHI_BOON.DESC"
 msgid "At the end of {1}'s turn, apply {HEAL {2}}.\nThis is a species boon."
-msgstr "À la fin du tour de 1, appliquez le 'HEAL '2'.\nC'est une aubaine pour les espèces."
+msgstr "À la fin du tour de 1, appliquez le 'HEAL {2}.\nC'est une aubaine pour les espèces."
 
 #: BATTLE_FEATURE.KRADESHI_BOON.NAME
 #, fuzzy
@@ -7756,7 +7747,7 @@ msgstr "Kra'deshi Régénération"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.KRILLED_UP.DESC"
 msgid "Lose {1} {POWER} every turn. Lose {2} health when {POWER} reaches zero."
-msgstr "Perdre 1 'POWER' à chaque tour. Perdre la santé de 2 euros lorsque le « POWER » atteint zéro."
+msgstr "Perdre {1}POWER' à chaque tour. Perdre la santé de 2 euros lorsque le « POWER » atteint zéro."
 
 #: BATTLE_FEATURE.KRILLED_UP.NAME
 #, fuzzy
@@ -7768,7 +7759,7 @@ msgstr "Krilled Up"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.LAST_STAND.DESC"
 msgid "Gains {POWER {1}} when below {2} health."
-msgstr "Gains 'POWER '1' lorsqu'il est inférieur à 2 euros de santé."
+msgstr "Gains 'POWER {1} lorsqu'il est inférieur à 2 euros de santé."
 
 #: BATTLE_FEATURE.LAST_STAND.NAME
 #, fuzzy
@@ -7816,7 +7807,7 @@ msgstr "Marqué"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.MENDING.DESC"
 msgid "At the end of their turn, heal {1} damage then reduce <b>Mending</b> by 1"
-msgstr "À la fin de leur tour, guérir les dégâts de 1 euro puis <b>réduire</b>"
+msgstr "À la fin de leur tour, guérir les dégâts de {1} puis <b>réduire</b>"
 
 #: BATTLE_FEATURE.MENDING.FEATURE_DESC
 #, fuzzy
@@ -7840,7 +7831,7 @@ msgstr "Applique {1} {MENDING}."
 #, fuzzy
 msgctxt "BATTLE_FEATURE.METALLIC.DESC"
 msgid "Immune to <b>Bleed</b> and <b>Wound</b>.\n{PIERCING} attacks do double damage."
-msgstr "Immunisé contre le <b>saignement</b> et la <b>blessure</b>.\nLes attaques de 'PIERCING' font double ment de dégâts."
+msgstr "Immunisé contre le <b>saignement</b> et la <b>blessure</b>.\nLes attaques de {PIERCING} font double ment de dégâts."
 
 #: BATTLE_FEATURE.METALLIC.NAME
 #, fuzzy
@@ -7924,7 +7915,7 @@ msgstr "Gant nailed"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.NEXT_TURN_ACTION.DESC"
 msgid "Next turn, gain {1} additional Actions."
-msgstr "Au prochain tour, gagnez 1 euro d'actions supplémentaires."
+msgstr "Au prochain tour, gagnez {1} d'actions supplémentaires."
 
 #: BATTLE_FEATURE.NEXT_TURN_ACTION.NAME
 #, fuzzy
@@ -7936,7 +7927,7 @@ msgstr "Action next-Turn"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.NIMBLE.DESC"
 msgid "At the start of each battle, gain 1 {EVASION}."
-msgstr "Au début de chaque combat, gagnez 1 'EVASION'."
+msgstr "Au début de chaque combat, gagnez {1}EVASION'."
 
 #: BATTLE_FEATURE.NIMBLE.NAME
 #, fuzzy
@@ -7954,7 +7945,7 @@ msgstr "Votre deck ne peut contenir qu'une seule copie de cette carte."
 #, fuzzy
 msgctxt "BATTLE_FEATURE.OOLO_CHARGED_DISC.DESC"
 msgid "{1}'s disc is charged and her next attack deals bonus damage and inflicts {WOUND {2}}."
-msgstr "Le disque de 1 est chargé et sa prochaine attaque inflige des dégâts bonus et inflige le 'WOUND '2'."
+msgstr "Le disque de 1 est chargé et sa prochaine attaque inflige des dégâts bonus et inflige le 'WOUND {2}."
 
 #: BATTLE_FEATURE.OOLO_CHARGED_DISC.NAME
 #, fuzzy
@@ -7966,7 +7957,7 @@ msgstr "Disque chargé"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.OOLO_INSTINCTS.DESC"
 msgid "{1} gains {POWER 1} every {2} cards you play. ({3} remaining)"
-msgstr "1 euro gagne 1 POWER toutes les cartes de 2 euros que vous jouez. (3 euros restants)"
+msgstr "{1} gagne 1 POWER toutes les cartes de 2 euros que vous jouez. (3 euros restants)"
 
 #: BATTLE_FEATURE.OOLO_INSTINCTS.NAME
 #, fuzzy
@@ -7978,7 +7969,7 @@ msgstr "Instincts de combat"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.OOLO_OSHNU_DEFENSES.DESC"
 msgid "The Oshnu cannot be killed but will hide in its shell and lose all {POWER} when brought to 1 health."
-msgstr "L'Oshnu ne peut pas être tué, mais se cachera dans sa coquille et perdra tout «POWER» lorsqu'il est porté à 1 santé."
+msgstr "L'Oshnu ne peut pas être tué, mais se cachera dans sa coquille et perdra tout {POWER} lorsqu'il est porté à 1 santé."
 
 #: BATTLE_FEATURE.OOLO_OSHNU_DEFENSES.NAME
 #, fuzzy
@@ -7990,7 +7981,7 @@ msgstr "Coquille Oshnu"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.OOLO_OSHNU_DEVOUR.DESC"
 msgid "Gains {1} {POWER} at the end of its turn."
-msgstr "Gains de 1 euro à la fin de son tour."
+msgstr "Gains de {1} à la fin de son tour."
 
 #: BATTLE_FEATURE.OOLO_OSHNU_DEVOUR.NAME
 #, fuzzy
@@ -8050,7 +8041,7 @@ msgstr "Recycleur perpétuel"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.PICKPOCKET.DESC"
 msgid "{1} steals {2} shills if their attacks are not defended.\nAll money is recovered if {1} is killed."
-msgstr "Si leurs attaques ne sont pas défendues, le shills de 1 euro vole.\nTout l'argent est récupéré si le 1 est tué."
+msgstr "Si leurs attaques ne sont pas défendues, le shills de {1} vole.\nTout l'argent est récupéré si le 1 est tué."
 
 #: BATTLE_FEATURE.PICKPOCKET.NAME
 #, fuzzy
@@ -8074,7 +8065,7 @@ msgstr "Perçant"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.POWER.DESC"
 msgid "Whenever you deal damage, deal an additional {1} damage."
-msgstr "Chaque fois que vous accordez des dégâts, accordez un dégâts supplémentaire de 1 euro."
+msgstr "Chaque fois que vous accordez des dégâts, accordez un dégâts supplémentaire de {1}."
 
 #: BATTLE_FEATURE.POWER.NAME
 #, fuzzy
@@ -8224,7 +8215,7 @@ msgstr "Bandana rouge"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.REGENERATION_BARRIER.DESC"
 msgid "Defending attacks will heal {1} for {2} health"
-msgstr "Défendre les attaques guérira 1 euro pour la santé de 2 euros"
+msgstr "Défendre les attaques guérira {1} pour la santé de 2 euros"
 
 #: BATTLE_FEATURE.REGENERATION_BARRIER.NAME
 #, fuzzy
@@ -8284,7 +8275,7 @@ msgstr "Réapprovisionement"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.RETAIN_DEFEND.DESC"
 msgid "Retain 5 {DEFEND} at the end of your turn."
-msgstr "Conservez 5 'DEFEND' à la fin de votre tour."
+msgstr "Conservez 5 {DEFEND} à la fin de votre tour."
 
 #: BATTLE_FEATURE.RETAIN_DEFEND.NAME
 #, fuzzy
@@ -8296,7 +8287,7 @@ msgstr "Conserver défendre"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.RETICLE.DESC"
 msgid "{1} will attack exclusively this fighter.\n\n1 <b>Reticle</b> is removed when this fighter is the target of any Maneuver card."
-msgstr "1 'attaquera exclusivement ce combattant.\n\n1 <b>Reticle</b> est supprimé lorsque ce combattant est la cible de toute carte de manœuvre."
+msgstr "{1}attaquera exclusivement ce combattant.\n\n1 <b>Reticle</b> est supprimé lorsque ce combattant est la cible de toute carte de manœuvre."
 
 #: BATTLE_FEATURE.RETICLE.NAME
 #, fuzzy
@@ -8308,7 +8299,7 @@ msgstr "Réticule"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.REVUP.DESC"
 msgid "Attacks apply 1 {BLEED}, then reduce Revved Up by 1."
-msgstr "Les attaques s'appliquent 1 'BLEED', puis réduisent Revved Up de 1."
+msgstr "Les attaques s'appliquent {1}BLEED', puis réduisent Revved Up de 1."
 
 #: BATTLE_FEATURE.REVUP.NAME
 #, fuzzy
@@ -8350,7 +8341,7 @@ msgstr "Courir loin"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SAVAGERY.DESC"
 msgid "+1 {BLEED} to all cards that apply {BLEED}."
-msgstr "1 'BLEED' à toutes les cartes qui s'appliquent 'BLEED'."
+msgstr "{1}BLEED' à toutes les cartes qui s'appliquent 'BLEED'."
 
 #: BATTLE_FEATURE.SAVAGERY.NAME
 #, fuzzy
@@ -8422,7 +8413,7 @@ msgstr "Sharpen"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SHARPENED_BLADE.DESC"
 msgid "Insert a <b>Bleed</> card into your draw pile whenever {1} deals damage to you."
-msgstr "Insérez une carte Bleed dans votre pioche chaque fois que 1 euros vous inflige des <b>dégâts.</b>"
+msgstr "Insérez une carte Bleed dans votre pioche chaque fois que {1}s vous inflige des <b>dégâts.</b>"
 
 #: BATTLE_FEATURE.SHARPENED_BLADE.NAME
 #, fuzzy
@@ -8446,7 +8437,7 @@ msgstr "Lames aiguisées"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SHATTER.DESC"
 msgid "Deal 2x damage to enemies with {DEFEND}."
-msgstr "Accordez 2x dégâts aux ennemis avec 'DEFEND'."
+msgstr "Accordez 2x dégâts aux ennemis avec {DEFEND}."
 
 #: BATTLE_FEATURE.SHATTER.NAME
 #, fuzzy
@@ -8470,7 +8461,7 @@ msgstr "shell"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SHORT_CIRCUIT.DESC"
 msgid "Take 2 damage whenever you gain {POWER}."
-msgstr "Prenez 2 dégâts chaque fois que vous gagnez 'POWER'."
+msgstr "Prenez 2 dégâts chaque fois que vous gagnez {POWER}."
 
 #: BATTLE_FEATURE.SHORT_CIRCUIT.NAME
 #, fuzzy
@@ -8482,7 +8473,7 @@ msgstr "Court-circuit"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SHROKE_BOON.DESC"
 msgid "The first time {1} takes damage each turn, they gain {DEFEND {2}}.\nThis is a species boon."
-msgstr "La première fois que le 1prend des dégâts à chaque tour, ils gagnent le 'DEFEND '2'.\nC'est une aubaine pour les espèces."
+msgstr "La première fois que le 1prend des dégâts à chaque tour, ils gagnent le 'DEFEND {2}.\nC'est une aubaine pour les espèces."
 
 #: BATTLE_FEATURE.SHROKE_BOON.NAME
 #, fuzzy
@@ -8554,7 +8545,7 @@ msgstr "Snap Talon"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SPARKYS_OPPRESSOR_CELL.DESC"
 msgid "Gain 3 {POWER} until the end of your turn."
-msgstr "Gagnez 3 'POWER' jusqu'à la fin de votre tour."
+msgstr "Gagnez 3 {POWER} jusqu'à la fin de votre tour."
 
 #: BATTLE_FEATURE.SPARKYS_OPPRESSOR_CELL.NAME
 #, fuzzy
@@ -8578,7 +8569,7 @@ msgstr "Spark Aura"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SPARK_VISOR.DESC"
 msgid "At the start of each turn, mark an enemy. Attacking that enemy grants you 3 {DEFEND}."
-msgstr "Au début de chaque tour, marquez un ennemi. Attaquer cet ennemi vous accorde 3 'DEFEND'."
+msgstr "Au début de chaque tour, marquez un ennemi. Attaquer cet ennemi vous accorde 3 {DEFEND}."
 
 #: BATTLE_FEATURE.SPARK_VISOR.NAME
 #, fuzzy
@@ -8602,7 +8593,7 @@ msgstr "Viseur d'étincelle"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SPARRING.DESC"
 msgid "Gain 1 bonus {DEFEND} on all cards that apply {DEFEND}."
-msgstr "Gagnez 1 bonus 'DEFEND' sur toutes les cartes qui s'appliquent 'DEFEND'."
+msgstr "Gagnez 1 bonus {DEFEND} sur toutes les cartes qui s'appliquent {DEFEND}."
 
 #: BATTLE_FEATURE.SPARRING.NAME
 #, fuzzy
@@ -8686,7 +8677,7 @@ msgstr "Mains stables"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.STEADY_HANDS_DEBUFF.DESC"
 msgid "Draw {1} extra cards at the start of your turn. Remove at the end of your turn."
-msgstr "Dessinez des cartes supplémentaires de 1 euro au début de votre tour. Retirez à la fin de votre tour."
+msgstr "Dessinez des cartes supplémentaires de {1} au début de votre tour. Retirez à la fin de votre tour."
 
 #: BATTLE_FEATURE.STEADY_HANDS_DEBUFF.NAME
 #, fuzzy
@@ -8728,7 +8719,7 @@ msgstr "Applique {1} {STUN}."
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SUCKER_PUNCH.DESC"
 msgid "+{1} Damage on the first attack in combat."
-msgstr "1 ' Dégâts sur la première attaque au combat."
+msgstr "{1} Dégâts sur la première attaque au combat."
 
 #: BATTLE_FEATURE.SUCKER_PUNCH.NAME
 #, fuzzy
@@ -8752,7 +8743,7 @@ msgstr "Attaque surprise"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SURRENDER.DESC"
 msgid "Unable to act. Will act again in {1} {1*turn|turns}. When attacked, lower this by 1."
-msgstr "Incapable d'agir. Agira à nouveau en 1 '1'tours'. Lorsqu'il est attaqué, abaissez-le de 1."
+msgstr "Incapable d'agir. Agira à nouveau en {1}1'tours'. Lorsqu'il est attaqué, abaissez-le de 1."
 
 #: BATTLE_FEATURE.SURRENDER.NAME
 #, fuzzy
@@ -8764,7 +8755,7 @@ msgstr "Panique"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.SYSTEM_SHOCK.DESC"
 msgid "If you didn't attack last turn, gain 2 temporary {POWER}."
-msgstr "Si vous n'avez pas attaqué le dernier tour, gagnez 2 'POWER' temporaires."
+msgstr "Si vous n'avez pas attaqué le dernier tour, gagnez 2 {POWER} temporaires."
 
 #: BATTLE_FEATURE.SYSTEM_SHOCK.NAME
 #, fuzzy
@@ -8782,7 +8773,7 @@ msgstr "Tous les personnages non-joueurs établiront la priorité de cette cible
 #, fuzzy
 msgctxt "BATTLE_FEATURE.TARGETED.FEATURE_DESC"
 msgid "Gain {1} {TARGETED}."
-msgstr "Gagnez 1 euro 'TARGETED'."
+msgstr "Gagnez {1} 'TARGETED'."
 
 #: BATTLE_FEATURE.TARGETED.NAME
 #, fuzzy
@@ -8841,7 +8832,7 @@ msgstr "Seuil"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.TRIAGE_CONDITION.DESC"
 msgid "Whenever {1} heals a target, also remove all their negative conditions."
-msgstr "Chaque fois que le 1 ' guérit une cible, supprimez également toutes leurs conditions négatives."
+msgstr "Chaque fois que le {1} guérit une cible, supprimez également toutes leurs conditions négatives."
 
 #: BATTLE_FEATURE.TRIAGE_CONDITION.NAME
 #, fuzzy
@@ -8865,7 +8856,7 @@ msgstr "Injouable"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.UNSTABLE_AUGMENTATION.DESC"
 msgid "Gain 4 temporary {POWER} on your 2nd, 4th or 6th turn once per battle. (Chosen randomly)"
-msgstr "Gagnez 4 'POWER' temporaires sur votre 2ème, 4ème ou 6ème tour une fois par combat. (Choisi au hasard)"
+msgstr "Gagnez 4 {POWER} temporaires sur votre 2ème, 4ème ou 6ème tour une fois par combat. (Choisi au hasard)"
 
 #: BATTLE_FEATURE.UNSTABLE_AUGMENTATION.NAME
 #, fuzzy
@@ -8877,7 +8868,7 @@ msgstr "Augmentation instable"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.UNSTABLE_DRONE.DESC"
 msgid "Receiving attacks reduces this by 1. Drone is destroyed at 0 stacks, dealing 5 damage to {1}."
-msgstr "Recevoir des attaques réduit cela de 1. Le drone est détruit à 0 piles, infligeant 5 dégâts à 1 euro."
+msgstr "Recevoir des attaques réduit cela de 1. Le drone est détruit à 0 piles, infligeant 5 dégâts à {1}."
 
 #: BATTLE_FEATURE.UNSTABLE_DRONE.NAME
 #, fuzzy
@@ -8913,7 +8904,7 @@ msgstr "Vendetta"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.VENGEFUL.DESC"
 msgid "Gains {POWER {1}} whenever an ally dies."
-msgstr "Gains de 'POWER '1' chaque fois qu'un allié meurt."
+msgstr "Gains de 'POWER {1} chaque fois qu'un allié meurt."
 
 #: BATTLE_FEATURE.VENGEFUL.NAME
 #, fuzzy
@@ -9021,7 +9012,7 @@ msgstr "Gants de travailleur"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.WORN_OUT.DESC"
 msgid "Reduce by 1 when receiving attack damage. Increase by 1 at the end of their turn. If <b>Worn Out</> reaches 0, apply 1 {STUN}."
-msgstr "Réduisez de 1 lorsque vous recevez des dégâts d'attaque. Augmenter de 1 à la fin de leur tour. Si <b>Worn Out atteint 0, appliquez 1 'STUN'.</b>"
+msgstr "Réduisez de 1 lorsque vous recevez des dégâts d'attaque. Augmenter de 1 à la fin de leur tour. Si <b>Worn Out atteint 0, appliquez 1 {STUN}.</b>"
 
 #: BATTLE_FEATURE.WORN_OUT.NAME
 #, fuzzy
@@ -9033,7 +9024,7 @@ msgstr "usé jusqu'à la corde"
 #, fuzzy
 msgctxt "BATTLE_FEATURE.WOUND.DESC"
 msgid "Attacks inflict {1} bonus damage on this target.\nAt the beginning of their turn, reduce <b>Wound</b> by 1."
-msgstr "Les attaques infligent des dégâts bonus de 1 euro à cette cible.\nAu début de leur tour, réduire <b>la blessure</b> de 1."
+msgstr "Les attaques infligent des dégâts bonus de {1} à cette cible.\nAu début de leur tour, réduire <b>la blessure</b> de 1."
 
 #: BATTLE_FEATURE.WOUND.FEATURE_DESC
 #, fuzzy
@@ -9267,7 +9258,7 @@ msgstr "folâtrer"
 #, fuzzy
 msgctxt "CARD.ADMIRALTY_MANIPULATE2.DESC"
 msgid "Gain {INFLUENCE {1}}. If your opponent is Admiralty, this card costs 0."
-msgstr "Gagnez 'INFLUENCE '1'. Si votre adversaire est Admiralty, cette carte coûte 0."
+msgstr "Gagnez 'INFLUENCE {1}. Si votre adversaire est Admiralty, cette carte coûte 0."
 
 #: CARD.ADMIRALTY_MANIPULATE2.NAME
 #, fuzzy
@@ -9387,7 +9378,7 @@ msgstr "Ivre"
 #, fuzzy
 msgctxt "CARD.ALL_BUSINESS.DESC"
 msgid "{1} gains {COMPOSURE {2}} for each hostile card you draw."
-msgstr "1 euros de gains pour chaque carte hostile que vous dessinez."
+msgstr "{1}s de gains pour chaque carte hostile que vous dessinez."
 
 #: CARD.ALL_BUSINESS.NAME
 #, fuzzy
@@ -9531,7 +9522,7 @@ msgstr "Attitude"
 #, fuzzy
 msgctxt "CARD.BACK_PEDAL.DESC"
 msgid "Expend {1} chosen {1*card|cards} in your hand.\nApply {2} {COMPOSURE}."
-msgstr "Expédiez 1 euro dans votre main.\nAppliquer le '2' 'COMPOSURE'."
+msgstr "Expédiez {1} dans votre main.\nAppliquer le {2} 'COMPOSURE'."
 
 #: CARD.BACK_PEDAL.NAME
 #, fuzzy
@@ -9543,7 +9534,7 @@ msgstr "Back pedal"
 #, fuzzy
 msgctxt "CARD.BACK_PEDAL_PLUS.DESC"
 msgid "Expend {1} chosen {1*card|cards} in your hand.\nApply <#UPGRADE>{2}</> {COMPOSURE}."
-msgstr "Expédiez 1 euro dans votre main.\nAppliquer le «#UPGRADE'2'/COMPOSURE'."
+msgstr "Expédiez {1} dans votre main.\nAppliquer le «#UPGRADE{2}/COMPOSURE'."
 
 #: CARD.BACK_PEDAL_PLUS.NAME
 #, fuzzy
@@ -9555,7 +9546,7 @@ msgstr "Boosted Pedal"
 #, fuzzy
 msgctxt "CARD.BACK_PEDAL_PLUS2.DESC"
 msgid "Expend <#UPGRADE>up to {1}</> chosen {1*card|cards} in your hand.\nApply {2} {COMPOSURE}."
-msgstr "Dépensez le prix de #UPGRADE à 1 euros/carte de cartes dans votre main.\nAppliquer le '2' 'COMPOSURE'."
+msgstr "Dépensez le prix de #UPGRADE à {1}s/carte de cartes dans votre main.\nAppliquer le {2} 'COMPOSURE'."
 
 #: CARD.BACK_PEDAL_PLUS2.NAME
 #, fuzzy
@@ -9567,7 +9558,7 @@ msgstr "Lucid Pedal"
 #, fuzzy
 msgctxt "CARD.BAD_DEAL.DESC"
 msgid "Pay {1#money}.\nIf you end your turn with this card, take {2} damage."
-msgstr "Payer 1 euro.\nSi vous terminez votre tour avec cette carte, prenez des dégâts de 2 euros."
+msgstr "Payer {1}.\nSi vous terminez votre tour avec cette carte, prenez des dégâts de 2 euros."
 
 #: CARD.BAD_DEAL.NAME
 #, fuzzy
@@ -9717,7 +9708,7 @@ msgstr "Boosted Bluster"
 #, fuzzy
 msgctxt "CARD.BONE_TIRED.DESC"
 msgid "When destroyed, {1} loses {2} resolve."
-msgstr "Lorsqu'il est détruit, le '1' perd la résolution de '2'."
+msgstr "Lorsqu'il est détruit, le {1} perd la résolution de {2}."
 
 #: CARD.BONE_TIRED.NAME
 #, fuzzy
@@ -9729,7 +9720,7 @@ msgstr "Os fatigué"
 #, fuzzy
 msgctxt "CARD.BOUNTY_HUNTER.DESC"
 msgid "{INCEPT} {1} {BOUNTY_REWARD}."
-msgstr "«INCEPT» 1 'BOUNTY'RÉCOMPENSE."
+msgstr "«INCEPT» {1}BOUNTY'RÉCOMPENSE."
 
 #: CARD.BOUNTY_HUNTER.NAME
 #, fuzzy
@@ -9741,7 +9732,7 @@ msgstr "Chasseur de primes"
 #, fuzzy
 msgctxt "CARD.BOUNTY_HUNTER_PLUS.DESC"
 msgid "{INCEPT} {1} {BOUNTY_REWARD}."
-msgstr "«INCEPT» 1 'BOUNTY'RÉCOMPENSE."
+msgstr "«INCEPT» {1}BOUNTY'RÉCOMPENSE."
 
 #: CARD.BOUNTY_HUNTER_PLUS.NAME
 #, fuzzy
@@ -9753,7 +9744,7 @@ msgstr "Chasseur de primes pâles"
 #, fuzzy
 msgctxt "CARD.BOUNTY_HUNTER_PLUS2.DESC"
 msgid "{INCEPT} {1} {BOUNTY_REWARD}."
-msgstr "«INCEPT» 1 'BOUNTY'RÉCOMPENSE."
+msgstr "«INCEPT» {1}BOUNTY'RÉCOMPENSE."
 
 #: CARD.BOUNTY_HUNTER_PLUS2.NAME
 #, fuzzy
@@ -10071,7 +10062,7 @@ msgstr "Caprice"
 #, fuzzy
 msgctxt "CARD.CAPRICE_PLUS.DESC"
 msgid "Improvise <#UPGRADE>{1} random Hostile {1*card|cards}</> to your hand. {1*It costs|They cost} 0 until played."
-msgstr "Improviser à la main le '#UPGRADE'1' au hasard Hostile '1'card'./ 1 'Il y a des coûts Ils coûtent 0 jusqu'à ce qu'ils soient joués."
+msgstr "Improviser à la main le <#UPGRADE>1' au hasard Hostile {1}card'./ {1}Il y a des coûts Ils coûtent 0 jusqu'à ce qu'ils soient joués."
 
 #: CARD.CAPRICE_PLUS.NAME
 #, fuzzy
@@ -10299,7 +10290,7 @@ msgstr "Deceive"
 #, fuzzy
 msgctxt "CARD.DECEIVE_PLUS2.DESC"
 msgid "Each card in hand is assigned a random cost from <#UPGRADE>0 to 1 until played.</>"
-msgstr "Chaque carte en main se voit attribuer un coût aléatoire de #UPGRADE à 1 euros jusqu'à ce qu'elle soit jouée."
+msgstr "Chaque carte en main se voit attribuer un coût aléatoire de #UPGRADE à {1}s jusqu'à ce qu'elle soit jouée."
 
 #: CARD.DECEIVE_PLUS2.NAME
 #, fuzzy
@@ -11187,7 +11178,7 @@ msgstr "Pale Impression"
 #, fuzzy
 msgctxt "CARD.GREEDY.DESC"
 msgid "When dismissed, lose {1#money} and you double your actions."
-msgstr "Lorsqu'il est congédié, perdez 1 euro et vous doublez vos actions."
+msgstr "Lorsqu'il est congédié, perdez {1} et vous doublez vos actions."
 
 #: CARD.GREEDY.NAME
 #, fuzzy
@@ -11349,7 +11340,7 @@ msgstr "Impatience"
 #, fuzzy
 msgctxt "CARD.IMPENDING_DOOM.DESC"
 msgid "When destroyed, gives {1} {2} {2*stack|stacks} of Existential Crisis in the next fight. When destroyed, {1} gains {IMPATIENCE 1}.\n\n<#PENALTY>If you lose the negotiation, all dread is lost!</>"
-msgstr "Lorsqu'il est détruit, donne '1 '2 '2 'stack'stacks'de crise existentielle dans le prochain combat. Lorsqu'il est détruit, le 1 ' gagne 'IMPATIENCE 1'.\n\n#PENALTY Si vous perdez la négociation, toute crainte est perdue!"
+msgstr "Lorsqu'il est détruit, donne '{1}2 '2 'stack'stacks'de crise existentielle dans le prochain combat. Lorsqu'il est détruit, le {1} gagne 'IMPATIENCE 1'.\n\n#PENALTY Si vous perdez la négociation, toute crainte est perdue!"
 
 #: CARD.IMPENDING_DOOM.NAME
 #, fuzzy
@@ -11529,7 +11520,7 @@ msgstr "Boosted Withdrawn"
 #, fuzzy
 msgctxt "CARD.INDOCTRINATION.DESC"
 msgid "When dismissed, gain 1 {DOMINANCE} per stack. At the end of each turn, gain 1 {INFLUENCE} and reduce this argument by 1."
-msgstr "Lorsqu'il est rejeté, gagnez 1 'DOMINANCE' par pile. À la fin de chaque tour, gagnez 1 'INFLUENCE' et réduisez cet argument de 1."
+msgstr "Lorsqu'il est rejeté, gagnez {1}DOMINANCE' par pile. À la fin de chaque tour, gagnez {1}INFLUENCE' et réduisez cet argument de 1."
 
 #: CARD.INDOCTRINATION.NAME
 #, fuzzy
@@ -11955,7 +11946,7 @@ msgstr "Coup Bas"
 #, fuzzy
 msgctxt "CARD.LOW_BLOW_PLUS.DESC"
 msgid "<#UPGRADE>Steal</> target's {COMPOSURE}."
-msgstr "La cible de la cible de #UPGRADE'#UPGRADE'Steal's 'COMPOSURE'."
+msgstr "La cible de la cible de #UPGRADE<#UPGRADE>Steal's 'COMPOSURE'."
 
 #: CARD.LOW_BLOW_PLUS.NAME
 #, fuzzy
@@ -12087,7 +12078,7 @@ msgstr "Moment de faiblesse"
 #, fuzzy
 msgctxt "CARD.MONEY_TALKS.DESC"
 msgid "All cards cost an additional {1#money} to play."
-msgstr "Toutes les cartes coûtent un supplément de 1 euro pour jouer."
+msgstr "Toutes les cartes coûtent un supplément de {1} pour jouer."
 
 #: CARD.MONEY_TALKS.NAME
 #, fuzzy
@@ -12297,7 +12288,7 @@ msgstr "Improvised Planning"
 #, fuzzy
 msgctxt "CARD.PLANTED_EVIDENCE.DESC"
 msgid "When this argument is dismissed, deal {1} damage to the owner's core argument."
-msgstr "Lorsque cet argument est rejeté, accordez un préjudice de 1 euro à l'argument principal du propriétaire."
+msgstr "Lorsque cet argument est rejeté, accordez un préjudice de {1} à l'argument principal du propriétaire."
 
 #: CARD.PLANTED_EVIDENCE.NAME
 #, fuzzy
@@ -12627,7 +12618,7 @@ msgstr "Visionary Reconsider"
 #, fuzzy
 msgctxt "CARD.REPUTATION_PRECEDING.DESC"
 msgid "When this card is drawn, convert 1 {INFLUENCE} to 1 {DOMINANCE}."
-msgstr "Lorsque cette carte est tirée, convertir 1 'INFLUENCE' en 1 'DOMINANCE'."
+msgstr "Lorsque cette carte est tirée, convertir {1}INFLUENCE' en {1}DOMINANCE'."
 
 #: CARD.REPUTATION_PRECEDING.NAME
 #, fuzzy
@@ -13095,7 +13086,7 @@ msgstr "Boosted Subtlety"
 #, fuzzy
 msgctxt "CARD.SUMMONS_CARD.DESC"
 msgid "{INCEPT} 1 {planted_summons}. Target gains 1 {IMPATIENCE}."
-msgstr "'INCEPT' 1 'planté'summons'. La cible gagne 1 'IMPATIENCE'."
+msgstr "'INCEPT' {1}planté'summons'. La cible gagne {1}IMPATIENCE'."
 
 #: CARD.SUMMONS_CARD.NAME
 #, fuzzy
@@ -13155,7 +13146,7 @@ msgstr "Visionary Rebuttal"
 #, fuzzy
 msgctxt "CARD.SWINDLE.DESC"
 msgid "Adds {1} {bad_deal} {1*card|cards} to your draw pile."
-msgstr "Ajoute à votre pioches le prix de 1 euro."
+msgstr "Ajoute à votre pioches le prix de {1}."
 
 #: CARD.SWINDLE.NAME
 #, fuzzy
@@ -13353,7 +13344,7 @@ msgstr "Boosted Threaten"
 #, fuzzy
 msgctxt "CARD.THREATEN_PLUS2F.DESC"
 msgid "<#UPGRADE>Gain 1 {DOMINANCE}.</>"
-msgstr "#UPGRADE-Gain 1 'DOMINANCE'."
+msgstr "#UPGRADE-Gain {1}DOMINANCE'."
 
 #: CARD.THREATEN_PLUS2F.FLAVOUR
 #, fuzzy
@@ -13383,7 +13374,7 @@ msgstr "Dîme"
 #, fuzzy
 msgctxt "CARD.TRIBUTE.DESC"
 msgid "When dismissed, gain: draw {1} extra {1*card|cards} at the start of your turn."
-msgstr "Lorsqu'il est rejeté, gagnez : tirez 1 euro de carte supplémentaire au début de votre tour."
+msgstr "Lorsqu'il est rejeté, gagnez : tirez {1} de carte supplémentaire au début de votre tour."
 
 #: CARD.TRIBUTE.NAME
 #, fuzzy
@@ -13437,7 +13428,7 @@ msgstr "Ulcère"
 #, fuzzy
 msgctxt "CARD.UNCERTAINTY.DESC"
 msgid "Whenever {1}'s attacks are fully mitigated, gain 1 {DREAD}."
-msgstr "Chaque fois que les attaques de {1} sont entièrement atténuées, gagnez 1 'DREAD'."
+msgstr "Chaque fois que les attaques de {1} sont entièrement atténuées, gagnez {1}DREAD'."
 
 #: CARD.UNCERTAINTY.NAME
 #, fuzzy
@@ -13497,7 +13488,7 @@ msgstr "Mirrored Anger"
 #, fuzzy
 msgctxt "CARD.VERY_CONVINCING.DESC"
 msgid "{IMPROVISE} a card, then {IMPROVISE} again. Gain a card that combines both and {EXPEND}s."
-msgstr "Une carte, puis une nouvelle carte. Obtenez une carte qui combine les deux et les 'EXPEND's."
+msgstr "Une carte, puis une nouvelle carte. Obtenez une carte qui combine les deux et les {EXPEND}s."
 
 #: CARD.VERY_CONVINCING.NAME
 #, fuzzy
@@ -13557,7 +13548,7 @@ msgstr "White Lie"
 #, fuzzy
 msgctxt "CARD.WHITE_LIE_PLUS.DESC"
 msgid "Add a copy of this card to your discards.\nWhen drawn, {INCEPT} <#UPGRADE>{DOUBT {1}}</>."
-msgstr "Ajoutez une copie de cette carte à vos rejets.\nLorsqu'il est dessiné, «INCEPT» '#UPGRADE'DOUBT {1} '/."
+msgstr "Ajoutez une copie de cette carte à vos rejets.\nLorsqu'il est dessiné, «INCEPT» <#UPGRADE>DOUBT {1} '/."
 
 #: CARD.WHITE_LIE_PLUS.NAME
 #, fuzzy
@@ -16239,7 +16230,7 @@ msgstr "Partez avant que quelqu'un vous voie"
 #, fuzzy
 msgctxt "CONVO.ADMIRALTY_ROADBLOCK.STATE_ADMIRALTY.DIALOG_ARGUE"
 msgid "player:\n{1#money}?! I'm Admiralty, I'm not paying anything!"
-msgstr "Joueur:\n1 euro ?! Je suis l'Amirauté, je ne paie rien !"
+msgstr "Joueur:\n{1} ?! Je suis l'Amirauté, je ne paie rien !"
 
 #: CONVO.ADMIRALTY_ROADBLOCK.STATE_ADMIRALTY.DIALOG_BEAT
 #, fuzzy
@@ -16269,7 +16260,7 @@ msgstr "Joueur:\nTu ferais mieux de te sortir de mon chemin !"
 #, fuzzy
 msgctxt "CONVO.ADMIRALTY_ROADBLOCK.STATE_ADMIRALTY.DIALOG_INTRO"
 msgid "player:\n!left\nagent:\n!right\n* The road ahead is blocked by a group of Admiralty officers.\nagent:\nThis is now a toll road. The toll is {1#money}.\nI see you're Admiralty, let's call it {2#money}."
-msgstr "lecteur:\n!à gauche\nagent:\n!à droite\nLa route qui nous attend est bloquée par un groupe d'officiers de l'Amirauté.\nagent:\nC'est maintenant une route à péage. Le péage est de 1 euro.\nJe vois que vous êtes l'Amirauté, appelons ça 2 euros."
+msgstr "lecteur:\n!à gauche\nagent:\n!à droite\nLa route qui nous attend est bloquée par un groupe d'officiers de l'Amirauté.\nagent:\nC'est maintenant une route à péage. Le péage est de {1}.\nJe vois que vous êtes l'Amirauté, appelons ça 2 euros."
 
 #: CONVO.ADMIRALTY_ROADBLOCK.STATE_ADMIRALTY.DIALOG_LEADER_KILLED
 #, fuzzy
@@ -16281,7 +16272,7 @@ msgstr "Les ennemis restants s'enfuient dans la peur"
 #, fuzzy
 msgctxt "CONVO.ADMIRALTY_ROADBLOCK.STATE_ADMIRALTY.DIALOG_NEGOTIATION_FAIL"
 msgid "agent:\nForget being Admiralty, the toll is {1#money}!"
-msgstr "Agent:\nOubliez d'être l'Amirauté, le péage est de 1 euro !"
+msgstr "Agent:\nOubliez d'être l'Amirauté, le péage est de {1} !"
 
 #: CONVO.ADMIRALTY_ROADBLOCK.STATE_ADMIRALTY.DIALOG_PAY
 #, fuzzy
@@ -16311,7 +16302,7 @@ msgstr "Payer le péage"
 #, fuzzy
 msgctxt "CONVO.ADMIRALTY_ROADBLOCK.STATE_SPREE.DIALOG_ARGUE"
 msgid "player:\n{1#money}?! I'm not paying anything to scum like you!"
-msgstr "Joueur:\n1 euro ?! Je ne paie rien pour les racailles comme toi !"
+msgstr "Joueur:\n{1} ?! Je ne paie rien pour les racailles comme toi !"
 
 #: CONVO.ADMIRALTY_ROADBLOCK.STATE_SPREE.DIALOG_BEAT
 #, fuzzy
@@ -16341,7 +16332,7 @@ msgstr "Joueur:\nTu ferais mieux de te sortir de mon chemin !"
 #, fuzzy
 msgctxt "CONVO.ADMIRALTY_ROADBLOCK.STATE_SPREE.DIALOG_INTRO"
 msgid "player:\n!left\nagent:\n!right\n* The road ahead is blocked by a group of Admiralty officers.\nagent:\nThis is now a toll road. The toll is {1#money}. No exceptions."
-msgstr "Joueur:\n!à gauche\nAgent:\n!à droite\nLa route qui nous attend est bloquée par un groupe d'officiers de l'Amirauté.\nAgent:\nC'est maintenant une route à péage. Le péage est de 1 euro. Pas d'exception."
+msgstr "Joueur:\n!à gauche\nAgent:\n!à droite\nLa route qui nous attend est bloquée par un groupe d'officiers de l'Amirauté.\nAgent:\nC'est maintenant une route à péage. Le péage est de {1}. Pas d'exception."
 
 #: CONVO.ADMIRALTY_ROADBLOCK.STATE_SPREE.DIALOG_LEADER_KILLED
 #, fuzzy
@@ -16353,7 +16344,7 @@ msgstr "Les ennemis restants s'enfuient dans la peur"
 #, fuzzy
 msgctxt "CONVO.ADMIRALTY_ROADBLOCK.STATE_SPREE.DIALOG_NEGOTIATION_FAIL"
 msgid "agent:\nThis isn't a discussion. The toll is now {1#money}!"
-msgstr "Agent:\nCe n'est pas une discussion. Le péage est maintenant de 1 euro !"
+msgstr "Agent:\nCe n'est pas une discussion. Le péage est maintenant de {1} !"
 
 #: CONVO.ADMIRALTY_ROADBLOCK.STATE_SPREE.DIALOG_PAY
 #, fuzzy
@@ -16569,7 +16560,7 @@ msgstr "Négocier une « amende » plus petite"
 #, fuzzy
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_PLANT_CONTRABAND.OPT_NEGOTIATE_TT"
 msgid "Negotiate the fine to be {1#money}."
-msgstr "Négociez l'amende pour qu'elle soit de 1 euro."
+msgstr "Négociez l'amende pour qu'elle soit de {1}."
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_PLANT_CONTRABAND.OPT_PAY_FINE
 #, fuzzy
@@ -16629,7 +16620,7 @@ msgstr "Prendre une raclée"
 #, fuzzy
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.OPT_SUGGEST_AGENT"
 msgid "Suggest {1#agent}"
-msgstr "Suggérer 1 'agent'"
+msgstr "Suggérer {1}agent'"
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_WANT_TO_FIGHT.OPT_SUGGEST_OTHER_TARGET
 #, fuzzy
@@ -16761,19 +16752,19 @@ msgstr "Joueur:\nJe vais avoir besoin d'un peu plus d'argent."
 #, fuzzy
 msgctxt "CONVO.ASK_FOR_A_BETTER_DEAL_CHAT.DIALOG_SUCCESS"
 msgid "agent:\nFine. I'll give you an extra {1#money} if you finish the job.\nThat comes to {2#money}... you better not fail!"
-msgstr "Agent:\nbien. Je vous donnerai un supplément de 1 euro si vous terminez le travail.\nIl s'agit de 2 euros d'argent... vous feriez mieux de ne pas échouer!"
+msgstr "Agent:\nbien. Je vous donnerai un supplément de {1} si vous terminez le travail.\nIl s'agit de 2 euros d'argent... vous feriez mieux de ne pas échouer!"
 
 #: CONVO.ASK_FOR_A_BETTER_DEAL_CHAT.DIALOG_SUCCESS_NO_BONUS
 #, fuzzy
 msgctxt "CONVO.ASK_FOR_A_BETTER_DEAL_CHAT.DIALOG_SUCCESS_NO_BONUS"
 msgid "agent:\nLet's just agree to disagree.\nYou'll get {1#money} upon completion, and that's my final offer."
-msgstr "Agent:\nAcceptons de ne pas être d'accord.\nVous aurez 1 euro à l'achèvement, et c'est ma dernière offre."
+msgstr "Agent:\nAcceptons de ne pas être d'accord.\nVous aurez {1} à l'achèvement, et c'est ma dernière offre."
 
 #: CONVO.ASK_FOR_A_BETTER_DEAL_CHAT.NEGOTIATION_REASON
 #, fuzzy
 msgctxt "CONVO.ASK_FOR_A_BETTER_DEAL_CHAT.NEGOTIATION_REASON"
 msgid "Convince {agent} to pay you more (will gain {1#money} on win)"
-msgstr "Convaincre 'agent' de vous payer plus (gagnera 1 euro sur la victoire)"
+msgstr "Convaincre 'agent' de vous payer plus (gagnera {1} sur la victoire)"
 
 #: CONVO.ASK_FOR_A_BETTER_DEAL_CHAT.OPT_BETTER_DEAL
 #, fuzzy
@@ -16785,7 +16776,7 @@ msgstr "<b>[1 greffe]</b> Négocier pour une meilleure affaire..."
 #, fuzzy
 msgctxt "CONVO.ASK_FOR_A_BETTER_DEAL_CHAT.OPT_BETTER_DEAL_TT"
 msgid "If you win this negotiation, increase your job payout by {1#money} to {2#money}."
-msgstr "Si vous gagnez cette négociation, augmentez votre indemnité d'emploi de 1 euro à 2 euros."
+msgstr "Si vous gagnez cette négociation, augmentez votre indemnité d'emploi de {1} à 2 euros."
 
 #: CONVO.AUTHORIZATION_GRAFT_CHAT.DIALOG_AUTHORIZATION
 #, fuzzy
@@ -17061,7 +17052,7 @@ msgstr "Agent:\n!blessé\nJoueur:\nArrêter! Arrêtez! Je ne veux pas avoir à t
 #, fuzzy
 msgctxt "CONVO.BRAVE_MERCHANT.FOO.DIALOG_HAND_OVER"
 msgid "player:\nHere you go, {1#money}.\n!give\nagent:\n!take\nYeah! That's what I thought!\n!happy\nNow go warn your friends!\nplayer:\nI - uh, I'll do that.\nagent:\n!exit\n* {agent} marches off in search of another target.\n*** You gave {agent} all of your money."
-msgstr "Joueur:\nC'est parti, 1 euro.\n!donner\nAgent:\n!prendre\nOui! C'est ce que je pensais!\n!heureux\nMaintenant, allez avertir vos amis!\nJoueur:\nJe vais le faire.\nAgent:\nLa sortie de la !\nL'agent s'en va à la recherche d'une autre cible.\nTu as donné tout ton argent à l'agent."
+msgstr "Joueur:\nC'est parti, {1}.\n!donner\nAgent:\n!prendre\nOui! C'est ce que je pensais!\n!heureux\nMaintenant, allez avertir vos amis!\nJoueur:\nJe vais le faire.\nAgent:\nLa sortie de la !\nL'agent s'en va à la recherche d'une autre cible.\nTu as donné tout ton argent à l'agent."
 
 #: CONVO.BRAVE_MERCHANT.FOO.DIALOG_HIRE
 #, fuzzy
@@ -17097,7 +17088,7 @@ msgstr "Joueur:\n!à gauche\nAgent:\n!à droite\n!en colère\n\nUn commerçant s
 #, fuzzy
 msgctxt "CONVO.BRAVE_MERCHANT.FOO.DIALOG_OFFER_A_JOB"
 msgid "player:\nListen, uh, {agent}.\nI don't want to fight you, and I certainly don't want to give you all of my money.\nIf you're so eager to fight, how about I pay you for... protection?\nagent:\n!hips\nProtection, eh?\nI won't do it for less than {1#money}.\nFinal offer."
-msgstr "Joueur:\nÉcoutez, e uh, \"agent\".\nJe ne veux pas me battre contre toi, et je ne veux certainement pas te donner tout mon argent.\nSi vous êtes si désireux de se battre, que diriez-vous que je vous paie pour ... Protection?\nAgent:\nLes hanches de !!\nProtection, hein ?\nJe ne le ferai pas pour moins de 1 euro.\nOffre finale."
+msgstr "Joueur:\nÉcoutez, e uh, \"agent\".\nJe ne veux pas me battre contre toi, et je ne veux certainement pas te donner tout mon argent.\nSi vous êtes si désireux de se battre, que diriez-vous que je vous paie pour ... Protection?\nAgent:\nLes hanches de !!\nProtection, hein ?\nJe ne le ferai pas pour moins de {1}.\nOffre finale."
 
 #: CONVO.BRAVE_MERCHANT.FOO.DIALOG_REFUSE_HIRE
 #, fuzzy
@@ -17187,7 +17178,7 @@ msgstr "Renseignez-vous sur le prix"
 #, fuzzy
 msgctxt "CONVO.DANGEROUS_GOODS_SELLER.FOO.OPT_BUY_GOODS"
 msgid "Buy {1#card}"
-msgstr "Acheter une carte de 1 euro"
+msgstr "Acheter une carte de {1}"
 
 #: CONVO.DANGEROUS_GOODS_SELLER.FOO.OPT_DECLINE
 #, fuzzy
@@ -17211,7 +17202,7 @@ msgstr "Joueur:\nJe ne l'ai plus.\nAgent:\nVous n'en avez pas ?\nC'est... Malheu
 #, fuzzy
 msgctxt "CONVO.DANGEROUS_GOODS_SELLER_PART_2.FOO.DIALOG_EXTORT"
 msgid "player:\nI think I deserve consideration for my time. \nGive me {1#money} for it, and we have a deal."
-msgstr "Joueur:\nJe pense que je mérite d'être pris en considération pour mon temps. \nDonnez-moi 1 euro pour ça, et on a un marché."
+msgstr "Joueur:\nJe pense que je mérite d'être pris en considération pour mon temps. \nDonnez-moi {1} pour ça, et on a un marché."
 
 #: CONVO.DANGEROUS_GOODS_SELLER_PART_2.FOO.DIALOG_EXTORT_FAIL
 #, fuzzy
@@ -17277,13 +17268,13 @@ msgstr "Dites à l'agent que vous ne l'avez pas"
 #, fuzzy
 msgctxt "CONVO.DANGEROUS_GOODS_SELLER_PART_2.FOO.OPT_EXTORT"
 msgid "Extort {agent} for {1#money}"
-msgstr "Extorquer 'agent' pour 1 euro"
+msgstr "Extorquer 'agent' pour {1}"
 
 #: CONVO.DANGEROUS_GOODS_SELLER_PART_2.FOO.OPT_GIVE_IT_BACK
 #, fuzzy
 msgctxt "CONVO.DANGEROUS_GOODS_SELLER_PART_2.FOO.OPT_GIVE_IT_BACK"
 msgid "Give the {1#item} back"
-msgstr "Redonnez le dos à l'article de 1 euro"
+msgstr "Redonnez le dos à l'article de {1}"
 
 #: CONVO.DANGEROUS_GOODS_SELLER_PART_2.FOO.OPT_HAND_OVER
 #, fuzzy
@@ -17403,7 +17394,7 @@ msgstr "Se défendre"
 #, fuzzy
 msgctxt "CONVO.EASY_TARGET_MERCHANT.STATE_OFFER.OPT_DOUBLECROSS"
 msgid "Buy {1#graft}"
-msgstr "Acheter 1 'graft'"
+msgstr "Acheter {1}graft'"
 
 #: CONVO.EASY_TARGET_MERCHANT.STATE_OFFER.OPT_GIVE_MONEY
 #, fuzzy
@@ -17415,7 +17406,7 @@ msgstr "Donnez l'argent a {agent}"
 #, fuzzy
 msgctxt "CONVO.EASY_TARGET_MERCHANT.STATE_OFFER.OPT_PURCHASE"
 msgid "Buy {1#graft}"
-msgstr "Acheter 1 'graft'"
+msgstr "Acheter {1}graft'"
 
 #: CONVO.EASY_TARGET_MERCHANT.STATE_OFFER.OPT_ROB
 #, fuzzy
@@ -17427,7 +17418,7 @@ msgstr "Rob 'agent'"
 #, fuzzy
 msgctxt "CONVO.EASY_TARGET_MERCHANT.STATE_POST_ROB.OPT_TAKE_GRAFT"
 msgid "Take {1#graft}"
-msgstr "Prendre la greffe de 1 euro"
+msgstr "Prendre la greffe de {1}"
 
 #: CONVO.EASY_TARGET_MERCHANT.STATE_ROB.DIALOG_ATTACK
 #, fuzzy
@@ -17571,13 +17562,13 @@ msgstr "Demandez d'où vient ce genre de choses"
 #, fuzzy
 msgctxt "CONVO.EVENT_DODGY_SCAVENGER.FOO.OPT_BUY_CARD"
 msgid "Buy {1#card}"
-msgstr "Acheter une carte de 1 euro"
+msgstr "Acheter une carte de {1}"
 
 #: CONVO.EVENT_DODGY_SCAVENGER.FOO.OPT_BUY_GRAFT
 #, fuzzy
 msgctxt "CONVO.EVENT_DODGY_SCAVENGER.FOO.OPT_BUY_GRAFT"
 msgid "Buy {1#graft}"
-msgstr "Acheter 1 'graft'"
+msgstr "Acheter {1}graft'"
 
 #: CONVO.EVENT_DODGY_SCAVENGER.FOO.OPT_DONE
 #, fuzzy
@@ -18326,7 +18317,7 @@ msgstr "lecteur:\n!à gauche\nsecrétaire de municipalité:\n!à droite\n$neutra
 #, fuzzy
 msgctxt "CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_3.DIALOG_COLLECT_MONEY"
 msgid "* {target} produces a pouch of shills from within some hidden folds of {target.hisher} shirt. {target.HeShe} tosses it to {clerk}, who counts it out with a dampened thumb.\nclerk:\n!left\n$happyCocky\n{1#money}. Not bad!\nSee, I knew you had it in you.\n!exit\n* {target} glares at you.\nplayer:\n!left\ntarget:\n!angry\n$angrySeething\nDidn't realize hunters did shake-downs, now. \nplayer:\n!dubious\n$neutralDubious\nWho, me?\ntarget:\nDon't see anyone else strong-arming for a couple of shills, do I?\n!angry_accuse\n$angryHostile\nI'll remember this, hunter."
-msgstr "La « cible » produit une poche ttede de shills à l'intérieur de certains plis cachés de la chemise « target.hisher ». C'est la cible. Il le jette à \"clerk\", qui le compte avec un pouce amorti.\nsecrétaire de municipalité:\n!à gauche\n$happyCocky\n1 euro. Pas mal!\nJe savais que tu l'avais en toi.\nLa sortie de la !\nLa cible vous regarde.\nlecteur:\n!à gauche\ncible:\n!en colère\n$angrySeething\nJe ne savais pas que les chasseurs se coudaient, maintenant. \nlecteur:\n!douteux\n$neutralDubious\nQui, moi ?\ncible:\nJe ne vois personne d'autre armé pour un couple de shills, n'est-ce pas ?\n!angry-accuse\n$angryHostile\nJe m'en souviendrai, chasseur."
+msgstr "La « cible » produit une poche ttede de shills à l'intérieur de certains plis cachés de la chemise « target.hisher ». C'est la cible. Il le jette à \"clerk\", qui le compte avec un pouce amorti.\nsecrétaire de municipalité:\n!à gauche\n$happyCocky\n{1}. Pas mal!\nJe savais que tu l'avais en toi.\nLa sortie de la !\nLa cible vous regarde.\nlecteur:\n!à gauche\ncible:\n!en colère\n$angrySeething\nJe ne savais pas que les chasseurs se coudaient, maintenant. \nlecteur:\n!douteux\n$neutralDubious\nQui, moi ?\ncible:\nJe ne vois personne d'autre armé pour un couple de shills, n'est-ce pas ?\n!angry-accuse\n$angryHostile\nJe m'en souviendrai, chasseur."
 
 #: CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_3.DIALOG_COLLECT_MONEY_NEXT
 #, fuzzy
@@ -18500,7 +18491,7 @@ msgstr "lecteur:\n!croisé\n$angryAside\nJ'ai plus en jeu qu'un jour de paie. Je
 #, fuzzy
 msgctxt "CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_4.STATE_PLOT.OPT_AGREE_TO_THE_PLAN"
 msgid "Agree to cheat {handler} for {1#money}"
-msgstr "Accepter de tricher 'handler' pour '1'money'"
+msgstr "Accepter de tricher 'handler' pour {1}money'"
 
 #: CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_4.STATE_PLOT.OPT_REFUSE
 #, fuzzy
@@ -20222,7 +20213,7 @@ msgstr "Acheter la relique"
 #, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_SHAKE_DOWN.STATE_MEET_VENDOR.OPT_HAGGLE"
 msgid "Haggle for a better price ({1#money})"
-msgstr "Haggle pour un meilleur prix (1 euro)"
+msgstr "Haggle pour un meilleur prix ({1})"
 
 #: CONVO.HANDLER_SPREE_SHAKE_DOWN.STATE_MEET_VENDOR.OPT_LEAVE
 #, fuzzy
@@ -20522,7 +20513,7 @@ msgstr "Joueur:\nEn fait, je dois m'occuper d'autre chose.\nBandit:\nOh.. Revien
 #, fuzzy
 msgctxt "CONVO.HATCH_ENVELOPE_SPREE.CONFRONT.DIALOG_DEMAND_FAIL"
 msgid "player:\nSo what do you say? Are we in agreement?\nbandit:\nNo way. The price is {1#money} and that's final."
-msgstr "Joueur:\nAlors qu'est-ce que tu dis ? Sommes-nous d'accord?\nBandit:\nPas question. Le prix est de 1 euro et c'est définitif."
+msgstr "Joueur:\nAlors qu'est-ce que tu dis ? Sommes-nous d'accord?\nBandit:\nPas question. Le prix est de {1} et c'est définitif."
 
 #: CONVO.HATCH_ENVELOPE_SPREE.CONFRONT.DIALOG_DEMAND_MORE
 #, fuzzy
@@ -20540,13 +20531,13 @@ msgstr "Bandit:\nTrès bien. Remettez les papiers et sortez d'ici.\n!donner\nJou
 #, fuzzy
 msgctxt "CONVO.HATCH_ENVELOPE_SPREE.CONFRONT.DIALOG_INTRO"
 msgid "player:\n!left\nbandit:\n!right\n!dubious\nCan I help you with something?\nplayer:\nI came across some classified Admiralty documents and I figured you might be interested.\nbandit:\n!happy\nWell certainly! Let's see them.\nplayer:\nSure, for a price.\nbandit:\nAh. I see. I can do {1#money}. Deal?"
-msgstr "Joueur:\n!à gauche\nBandit:\n!à droite\n!douteux\nJe peux t'aider avec quelque chose ?\nJoueur:\nJe suis tombé sur des documents classifiés de l'Amirauté et j'ai pensé que vous pourriez être intéressé.\nBandit:\n!heureux\nEh bien certainement! Voyons-les.\nJoueur:\nBien sûr, pour un prix.\nBandit:\nAh. Je vois. Je peux faire 1 euro. Affaire?"
+msgstr "Joueur:\n!à gauche\nBandit:\n!à droite\n!douteux\nJe peux t'aider avec quelque chose ?\nJoueur:\nJe suis tombé sur des documents classifiés de l'Amirauté et j'ai pensé que vous pourriez être intéressé.\nBandit:\n!heureux\nEh bien certainement! Voyons-les.\nJoueur:\nBien sûr, pour un prix.\nBandit:\nAh. Je vois. Je peux faire {1}. Affaire?"
 
 #: CONVO.HATCH_ENVELOPE_SPREE.CONFRONT.DIALOG_INTRO_SECOND
 #, fuzzy
 msgctxt "CONVO.HATCH_ENVELOPE_SPREE.CONFRONT.DIALOG_INTRO_SECOND"
 msgid "player:\n!left\nbandit:\n!right\nAh, so you changed your mind?\nI'm still willing to pay {1#money} for those papers."
-msgstr "Joueur:\n!à gauche\nBandit:\n!à droite\nAh, donc tu as changé d'avis ?\nJe suis toujours prêt à payer 1 euro pour ces papiers."
+msgstr "Joueur:\n!à gauche\nBandit:\n!à droite\nAh, donc tu as changé d'avis ?\nJe suis toujours prêt à payer {1} pour ces papiers."
 
 #: CONVO.HATCH_ENVELOPE_SPREE.CONFRONT.OPT_ACCEPT_PRICE
 #, fuzzy
@@ -20564,7 +20555,7 @@ msgstr "Décliner l'offre"
 #, fuzzy
 msgctxt "CONVO.HATCH_ENVELOPE_SPREE.CONFRONT.OPT_DEMAND_MORE"
 msgid "Demand an additional {1#money}"
-msgstr "Exigez un montant supplémentaire de 1 euro"
+msgstr "Exigez un montant supplémentaire de {1}"
 
 #: CONVO.HATED_CHAT.DIALOG_DID_NOT_KILL_AGENT
 #, fuzzy
@@ -21170,7 +21161,7 @@ msgstr "Laissez {agent} partir"
 #, fuzzy
 msgctxt "CONVO.JAKES_LOTTERY.STATE_ACCUSE.OPT_NEGOTIATE_PAYOFF"
 msgid "Demand {agent} give you {1#money}"
-msgstr "Demande 'agent' vous donner '1 'argent'"
+msgstr "Demande 'agent' vous donner '{1}argent'"
 
 #: CONVO.JAKES_LOTTERY.STATE_CONFRONT.DIALOG_DECLINE
 #, fuzzy
@@ -21200,7 +21191,7 @@ msgstr "Décliner l'offre"
 #, fuzzy
 msgctxt "CONVO.JAKES_LOTTERY.STATE_CONFRONT.OPT_DO_BET"
 msgid "Place a bet of {1#money}"
-msgstr "Placez un pari de 1 euro"
+msgstr "Placez un pari de {1}"
 
 #: CONVO.JAKES_LOTTERY.STATE_DOUBLE_LOSS_PST.DIALOG_ACCUSE_OF_CHEATING
 #, fuzzy
@@ -21368,7 +21359,7 @@ msgstr "Joueur:\n!en colère\n$angryDefault\nD'où je viens, tu es aussi bon que
 #, fuzzy
 msgctxt "CONVO.JAKES_LOTTERY.STATE_TAKE_WINNINGS.DIALOG_EXCUSE"
 msgid "player:\n!happyThanks\n$happyThanks\nSo, I'll just take what's mine and be on my way, huh?\nagent:\n!bashful\nHeh. Well, you see...\nNow don't get mad, but...\nplayer:\n!dubious\n$neutralDubious\nDon't tell me. You're a little short.\nagent:\n!scared_shrug\n$miscEmbarrassed\nI'd say I'm pretty average in height, actually.\nplayer:\n!angry\nagent:\n$scaredStammering\nBut I can only give you {1#money}. You understand, right?"
-msgstr "Joueur:\n!happyMerci\n$happyThanks\nAlors, je vais prendre ce qui est à moi et être sur mon chemin, hein?\nAgent:\n!bashful\nHeh. Eh bien, vous voyez ...\nMaintenant, ne vous fâchez pas, mais...\nJoueur:\n!douteux\n$neutralDubious\nNe me le dis pas. Tu es un peu petit.\nAgent:\nscared_shrug\n$miscEmbarrassed\nJe dirais que je suis assez moyen en hauteur, en fait.\nJoueur:\n!en colère\nAgent:\n$scaredStammering\nMais je ne peux que vous donner 1 euro. Tu comprends, non ?"
+msgstr "Joueur:\n!happyMerci\n$happyThanks\nAlors, je vais prendre ce qui est à moi et être sur mon chemin, hein?\nAgent:\n!bashful\nHeh. Eh bien, vous voyez ...\nMaintenant, ne vous fâchez pas, mais...\nJoueur:\n!douteux\n$neutralDubious\nNe me le dis pas. Tu es un peu petit.\nAgent:\nscared_shrug\n$miscEmbarrassed\nJe dirais que je suis assez moyen en hauteur, en fait.\nJoueur:\n!en colère\nAgent:\n$scaredStammering\nMais je ne peux que vous donner {1}. Tu comprends, non ?"
 
 #: CONVO.JAKES_LOTTERY.STATE_TAKE_WINNINGS.DIALOG_LET_GO
 #, fuzzy
@@ -21632,13 +21623,13 @@ msgstr "Joueur:\n!pensée\n$angryReluctant\nC'est un peu plus de ma prise que je
 #, fuzzy
 msgctxt "CONVO.MERCENARY_OFFER.STATE_HIRE.DIALOG_INTRO"
 msgid "* It's dangerous out on the roads, but not every encounter is an ambush. {agent} approaches you with {agent.hisher} empty hands and an honest eye.\nplayer:\n!left\nagent:\n!right\n!placate\nHi there, hunter. You lookin' for reinforcement?\nI may not be licensed but I've got a strong arm and steady aim. And I prefer jobs on the level when I can get 'em.\n!thumb\nYou want me at your flank, I can be there for {1#money}."
-msgstr "C'est dangereux sur les routes, mais toutes les rencontres ne sont pas une embuscade. L'agent vous approche avec les mains vides et un œil honnête.\nJoueur:\n!à gauche\nAgent:\n!à droite\nC'est la pose\nSalut là, chasseur. Vous cherchez du renfort ?\nJe ne suis peut-être pas autorisé, mais j'ai un bras fort et un objectif régulier. Et je préfère les emplois au niveau quand je peux les avoir.\nLe pouce de la !\nSi tu me veux à ton flanc, je peux être là pour 1 euro."
+msgstr "C'est dangereux sur les routes, mais toutes les rencontres ne sont pas une embuscade. L'agent vous approche avec les mains vides et un œil honnête.\nJoueur:\n!à gauche\nAgent:\n!à droite\nC'est la pose\nSalut là, chasseur. Vous cherchez du renfort ?\nJe ne suis peut-être pas autorisé, mais j'ai un bras fort et un objectif régulier. Et je préfère les emplois au niveau quand je peux les avoir.\nLe pouce de la !\nSi tu me veux à ton flanc, je peux être là pour {1}."
 
 #: CONVO.MERCENARY_OFFER.STATE_HIRE.DIALOG_LOWERED_FEE
 #, fuzzy
 msgctxt "CONVO.MERCENARY_OFFER.STATE_HIRE.DIALOG_LOWERED_FEE"
 msgid "Player:\n!permit\n$miscAlluring\nBe reasonable—I gotta keep some money for myself, don't I?\nagent:\n!shrug\n$neutralResigned\nYeah, guess we all gotta make a living. I'll call it {1#money}, but only 'cause you're a hunter.\nI expect you to have my back as much as I have yours."
-msgstr "lecteur:\nPermis !\n$miscAlluring\nSoyez raisonnable, je dois garder un peu d'argent pour moi, n'est-ce pas?\nagent:\n!haussement d'épaules\n$neutralResigned\nOuais, je suppose qu'on doit tous gagner notre vie. Je vais l'appeler 1 'argent', mais seulement parce que vous êtes un chasseur.\nJe m'attends à ce que tu sois aussi bien que le tien."
+msgstr "lecteur:\nPermis !\n$miscAlluring\nSoyez raisonnable, je dois garder un peu d'argent pour moi, n'est-ce pas?\nagent:\n!haussement d'épaules\n$neutralResigned\nOuais, je suppose qu'on doit tous gagner notre vie. Je vais l'appeler {1}argent', mais seulement parce que vous êtes un chasseur.\nJe m'attends à ce que tu sois aussi bien que le tien."
 
 #: CONVO.MERCENARY_OFFER.STATE_HIRE.DIALOG_NO_DISCOUNT
 #, fuzzy
@@ -21722,19 +21713,19 @@ msgstr "Joueur:\n!prendre\nBurp !\nDélicieux!"
 #, fuzzy
 msgctxt "CONVO.NOODLE_SHOP_CHAT.OPT_BUY_HOUSE_SPECIAL"
 msgid "Buy the House Special. (Gain {1#card})"
-msgstr "Achetez le Spécial Maison. (Gain de carte de 1 euro)"
+msgstr "Achetez le Spécial Maison. (Gain de carte de {1})"
 
 #: CONVO.NOODLE_SHOP_CHAT.OPT_BUY_SPICY
 #, fuzzy
 msgctxt "CONVO.NOODLE_SHOP_CHAT.OPT_BUY_SPICY"
 msgid "Buy the Shrokian Twistpepper Noodles. (Gain {1#card})"
-msgstr "Achetez les nouilles Shrokian Twistpepper. (Gain de carte de 1 euro)"
+msgstr "Achetez les nouilles Shrokian Twistpepper. (Gain de carte de {1})"
 
 #: CONVO.NOODLE_SHOP_CHAT.OPT_BUY_ZESTY
 #, fuzzy
 msgctxt "CONVO.NOODLE_SHOP_CHAT.OPT_BUY_ZESTY"
 msgid "Buy the Kra'Deshi Zest Bowl. (Gain {1#card})"
-msgstr "Achetez le Kra'Deshi Zest Bowl. (Gain de carte de 1 euro)"
+msgstr "Achetez le Kra'Deshi Zest Bowl. (Gain de carte de {1})"
 
 #: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.DIALOG_GATHER_LOOT_MAJOR_ATTACKED
 #, fuzzy
@@ -21794,7 +21785,7 @@ msgstr "Rechercher les caisses pour la carte de 1"
 #, fuzzy
 msgctxt "CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_GATHER_UP_LOOT_MINOR"
 msgid "Grab {1#card}"
-msgstr "Saisissez la carte de 1 euro"
+msgstr "Saisissez la carte de {1}"
 
 #: CONVO.OPPO_BATTLE_AFTERMATH.CONFRONT.OPT_LEAVE
 #, fuzzy
@@ -21854,7 +21845,7 @@ msgstr "Joueur:\nLa sortie de la !\nAgent:\nLa sortie de la !\nVous avez mis en 
 #, fuzzy
 msgctxt "CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_CALL_PET"
 msgid "Call {1#agent}"
-msgstr "Appelez '1'agent'"
+msgstr "Appelez {1}agent'"
 
 #: CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_PLAY_WITH_PET
 #, fuzzy
@@ -21950,7 +21941,7 @@ msgstr "Refuser"
 #, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_BOON.GIVE_ITEM.OPT_GIVE_ITEM"
 msgid "Get {1#card}"
-msgstr "Obtenez une carte de 1 euro"
+msgstr "Obtenez une carte de {1}"
 
 #: CONVO.OPPO_FRIEND_BOON.HEALING.DIALOG_DONE
 #, fuzzy
@@ -22076,7 +22067,7 @@ msgstr "Mangez les nouilles"
 #, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_BOON.SPECIAL_NOODLES.TT_NOODLES"
 msgid "Special noodles, available only to VIPs.\nPermanently increase max Health by {1}."
-msgstr "Nouilles spéciales, disponibles uniquement pour les VIP.\nAugmentation permanente de la santé maximale de 1 euro."
+msgstr "Nouilles spéciales, disponibles uniquement pour les VIP.\nAugmentation permanente de la santé maximale de {1}."
 
 #: CONVO.OPPO_FRIEND_BOON.UPGRADE_BATTLE_CARD.DIALOG_DID_NOT_TAKE
 #, fuzzy
@@ -22436,7 +22427,7 @@ msgstr "Vous trouvez une fissure dans le sol, fumant avec des vapeurs toxiques.\
 #, fuzzy
 msgctxt "CONVO.OPPO_HEALING_SPRING.CONFRONT.OPT_HEAL_BIG"
 msgid "Pick one of the weird fruits to eat (Heals <#HEALTH>{1} HP</>, receive {2#card})"
-msgstr "Choisissez l'un des fruits bizarres à manger (Guérisons '#HEALTH '1' HP ' / ' , recevez '2 'carte')"
+msgstr "Choisissez l'un des fruits bizarres à manger (Guérisons '#HEALTH {1} HP ' / ' , recevez '2 'carte')"
 
 #: CONVO.OPPO_HEALING_SPRING.CONFRONT.OPT_HEAL_BIG_TT
 #, fuzzy
@@ -22448,7 +22439,7 @@ msgstr "Vous parvenez à le garder bas, mais vous n'êtes pas sûr si c'était p
 #, fuzzy
 msgctxt "CONVO.OPPO_HEALING_SPRING.CONFRONT.OPT_HEAL_LITTLE"
 msgid "Pick a small leaf to chew (Heals <#HEALTH>{1} HP</>)"
-msgstr "Choisissez une petite feuille à mâcher (Guérisons '#HEALTH '1' HP ' /"
+msgstr "Choisissez une petite feuille à mâcher (Guérisons '#HEALTH {1} HP ' /"
 
 #: CONVO.OPPO_LOOK_FOR_MISSING_PET.CONFRONT.DIALOG_FIGHT
 #, fuzzy
@@ -22772,7 +22763,7 @@ msgstr "Demander la remise du vroc"
 #, fuzzy
 msgctxt "CONVO.REST_AND_RELAXATION.OPT_CALL_PET"
 msgid "Call {1#agent}"
-msgstr "Appelez '1'agent'"
+msgstr "Appelez {1}agent'"
 
 #: CONVO.REST_AND_RELAXATION.OPT_CHANGE_OUTFIT
 #, fuzzy
@@ -23114,7 +23105,7 @@ msgstr "Cela permettra de gagner jusqu'à {1} carte de combat aléatoire XP"
 #, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST_ENTRY_1.FOO.DIALOG_ASK_WHATS_IN_IT"
 msgid "player:\n!hips\n$miscMocking\nI don't like to get my boots wet. So what's in it for me, Luminari?\nagent:\n!disappoint\n$neutralResigned\nAh, a heathen. I should've expected as much in this Heshless part of the Griftlands.\n!handwave\n$neutralResigned\nVery well. Hesh can also provide {1#money}.\nplayer:\n!happy\n$neutralJoke\nSo kind of Hesh to offer. \nagent:\n!interest\n$miscAlluring\nHesh can offer enrichment of the <i>soul</i>, if you prefer.\nplayer:\n$neutralDirect\nPass."
-msgstr "Joueur:\nLes hanches de !!\n$miscMocking\nJe n'aime pas mouiller mes bottes. Qu'est-ce que j'y a dedans, Luminari ?\nAgent:\n!décevoir\n$neutralResigned\nAh, un païen. J'aurais dû m'attendre autant dans cette partie heshless des Griftlands.\nOnde de main de !\n$neutralResigned\nTrès bien. Hesh peut aussi fournir 1 euro d'argent.\nJoueur:\n!heureux\n$neutralJoke\nDonc une sorte de Hesh à offrir. \nAgent:\n!intérêt\n$miscAlluring\nHesh peut offrir l'enrichissement de <i>l'âme,</i>si vous préférez.\nJoueur:\n$neutralDirect\nPasser."
+msgstr "Joueur:\nLes hanches de !!\n$miscMocking\nJe n'aime pas mouiller mes bottes. Qu'est-ce que j'y a dedans, Luminari ?\nAgent:\n!décevoir\n$neutralResigned\nAh, un païen. J'aurais dû m'attendre autant dans cette partie heshless des Griftlands.\nOnde de main de !\n$neutralResigned\nTrès bien. Hesh peut aussi fournir {1} d'argent.\nJoueur:\n!heureux\n$neutralJoke\nDonc une sorte de Hesh à offrir. \nAgent:\n!intérêt\n$miscAlluring\nHesh peut offrir l'enrichissement de <i>l'âme,</i>si vous préférez.\nJoueur:\n$neutralDirect\nPasser."
 
 #: CONVO.SAL_HESH_OUTPOST_ENTRY_1.FOO.DIALOG_ASK_WHY_NEED_HELP
 #, fuzzy
@@ -23600,7 +23591,7 @@ msgstr "Vendre l'info à l'agent"
 #, fuzzy
 msgctxt "CONVO.SAL_RISE_OUTPOST_ENTRY_1_2.STATE_OFFER_TO_BETRAY_2.OPT_EXTRACT"
 msgid "Blackmail {agent} for {1#money}"
-msgstr "Chantage 'agent' pour 1 euro"
+msgstr "Chantage 'agent' pour {1}"
 
 #: CONVO.SAL_RISE_OUTPOST_ENTRY_1_2.STATE_OFFER_TO_BETRAY_2.OPT_REFUSE
 #, fuzzy
@@ -23960,7 +23951,7 @@ msgstr "Que devrais-je faire?"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_6.AUCTION.DIAL_AUCTION_ITEM"
 msgid "auction_caller:\n$happyTakenAback\n!overthere\nFirst, an item of rare value: {1#graft}!"
-msgstr "vente aux enchères:\n$happyTakenAback\n!là-bas\nTout d'abord, un article d'une valeur rare: '1 'greffe'!"
+msgstr "vente aux enchères:\n$happyTakenAback\n!là-bas\nTout d'abord, un article d'une valeur rare: '{1}greffe'!"
 
 #: CONVO.SAL_STORY_AUCTION_6.AUCTION.DIAL_FINAL_AUCTION
 #, fuzzy
@@ -23978,7 +23969,7 @@ msgstr "Joueur:\n!à gauche\nauction_caller:\n!à droite\n!gai\n$happyDefault\nB
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_6.BID_ON_ITEM.DIAL_PATRON_BID"
 msgid "agent:\n!left\nHey. I got {1#money}!\nauction_caller:\n!right\n!clap\nExcellent! I heard {1#money}!\n$miscAlluring\nCan someone entice me further with {2#money}?\nplayer:\n!left\n!thinking"
-msgstr "Agent:\n!à gauche\nHé, c'est bon. J'ai eu 1 euro !\nauction_caller:\n!à droite\nClap !\nExcellente! J'ai entendu 1 'argent!!\n$miscAlluring\nQuelqu'un peut-il m'attirer plus loin avec 2 euros d'argent?\nJoueur:\n!à gauche\nLa pensée !"
+msgstr "Agent:\n!à gauche\nHé, c'est bon. J'ai eu {1} !\nauction_caller:\n!à droite\nClap !\nExcellente! J'ai entendu {1}argent!!\n$miscAlluring\nQuelqu'un peut-il m'attirer plus loin avec 2 euros d'argent?\nJoueur:\n!à gauche\nLa pensée !"
 
 #: CONVO.SAL_STORY_AUCTION_6.BID_ON_ITEM.DIAL_REFRAIN
 #, fuzzy
@@ -24014,7 +24005,7 @@ msgstr "Joueur:\n!croisé\nEn fait, j'ai un crit. Les affaires d'amirauté, un t
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_6.BID_ON_ITEM.OPT_BID_FOR_ITEM"
 msgid "Bid for the {1#graft}"
-msgstr "Enchérir pour le '1'graft'"
+msgstr "Enchérir pour le {1}graft'"
 
 #: CONVO.SAL_STORY_AUCTION_6.BID_ON_ITEM.OPT_PASS_ON_ITEM
 #, fuzzy
@@ -27357,7 +27348,7 @@ msgstr "Changez-vous en une autre tenue de « joueur » ou jouez avec vos animau
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_LIVING_AT_GROG.TT_PET"
 msgid "Play with {1#agent}."
-msgstr "Jouez avec un agent de 1 euro."
+msgstr "Jouez avec un agent de {1}."
 
 #: CONVO.SAL_STORY_LIVING_AT_GROG.TT_PETS
 #, fuzzy
@@ -27603,7 +27594,7 @@ msgstr "Demandez à voir l'agent de 1"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANTS_4.OPT_BUY_PET"
 msgid "Buy {1#agent}"
-msgstr "Acheter '1'agent'"
+msgstr "Acheter {1}agent'"
 
 #: CONVO.SAL_STORY_MERCHANTS_4.OPT_DONT_BUY_PET
 #, fuzzy
@@ -27615,19 +27606,19 @@ msgstr "Regardez autre chose"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANTS_4.OPT_HEAL_PET"
 msgid "Heal {1#agent}"
-msgstr "Guérir l'agent de 1 euro"
+msgstr "Guérir l'agent de {1}"
 
 #: CONVO.SAL_STORY_MERCHANTS_4.OPT_SELL_PET
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANTS_4.OPT_SELL_PET"
 msgid "Sell {1#agent}"
-msgstr "Vendre 1 'agent'"
+msgstr "Vendre {1}agent'"
 
 #: CONVO.SAL_STORY_MERCHANTS_4.OPT_UPGRADE_PET
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANTS_4.OPT_UPGRADE_PET"
 msgid "Upgrade {1#agent}"
-msgstr "Mise à niveau de l'agent de 1 euro"
+msgstr "Mise à niveau de l'agent de {1}"
 
 #: CONVO.SAL_STORY_MERCHANTS_4.REQ_AT_FULL_HEALTH
 #, fuzzy
@@ -27897,7 +27888,7 @@ msgstr "Passer la greffe"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_GRAFTS_2.STATE_CONFRONT.OPT_TAKE_GRAFT"
 msgid "Take {1#graft}"
-msgstr "Prendre la greffe de 1 euro"
+msgstr "Prendre la greffe de {1}"
 
 #: CONVO.SAL_STORY_MERCHANT_GRAFTS_3.STATE_CONFRONT.DIALOG_INTRO
 #, fuzzy
@@ -29390,7 +29381,7 @@ msgstr "Convaincre 'agent' de le remettre facilement"
 #, fuzzy
 msgctxt "CONVO.SIDE_DEBT_COLLECTION_2.OPT_OFFER_TO_PAY_IT"
 msgid "Offer to pay the debt off for them ({1#money})"
-msgstr "Offre zetant la dette pour eux (1 euro)"
+msgstr "Offre zetant la dette pour eux ({1})"
 
 #: CONVO.SIDE_DEBT_COLLECTION_2.OPT_WARN_DEBT
 #, fuzzy
@@ -30086,7 +30077,7 @@ msgstr "Défendre le « contrebandier »"
 #, fuzzy
 msgctxt "CONVO.SIDE_JAKE_ESCORT_2.STATE_BUYER.DIALOG_EXTORT"
 msgid "player:\n$miscPersuasive\nOh and, there's a transportation fee of {1#money} too.\nagent:\n$neutralDubious\nSince when?"
-msgstr "Joueur:\n$miscPersuasive\nOh et, il ya des frais de transport de 1 euro trop.\nAgent:\n$neutralDubious\nDepuis quand?"
+msgstr "Joueur:\n$miscPersuasive\nOh et, il ya des frais de transport de {1} trop.\nAgent:\n$neutralDubious\nDepuis quand?"
 
 #: CONVO.SIDE_JAKE_ESCORT_2.STATE_BUYER.DIALOG_EXTORT_FAIL
 #, fuzzy
@@ -30104,7 +30095,7 @@ msgstr "Agent:\n$neutralResigned\nBien, mais dites 'donner' c'est la dernière f
 #, fuzzy
 msgctxt "CONVO.SIDE_JAKE_ESCORT_2.STATE_BUYER.DIALOG_EXTORT_TT"
 msgid "Extort an extra {1#money} for yourself."
-msgstr "Extorquez un supplément de 1 euro pour vous-même."
+msgstr "Extorquez un supplément de {1} pour vous-même."
 
 #: CONVO.SIDE_JAKE_ESCORT_2.STATE_BUYER.DIALOG_INTRO
 #, fuzzy
@@ -30806,7 +30797,7 @@ msgstr "Proposer de trahir le « donner » pour une part de l'argent"
 #, fuzzy
 msgctxt "CONVO.SIDE_REPO_PERSON.STATE_NO_MONEY.OPT_PAY_BACK_DEBT"
 msgid "Offer to settle their debt ({1#money})"
-msgstr "Offre zetage de la dette (1 euro)"
+msgstr "Offre zetage de la dette ({1})"
 
 #: CONVO.SIDE_REPO_PERSON.STATE_TARGET_INTRO.DIALOG_INTRO
 #, fuzzy
@@ -32371,7 +32362,7 @@ msgstr "<b>Journal délavé</b>: Améliore une carte de négociation"
 #, fuzzy
 msgctxt "CONVO_COMMON.OFFER_PEPPER_BOX"
 msgid "<b>Shrokian Pepper Box</b>: {1#card}, {2#card}"
-msgstr "Boîte à <b>poivre Shrokian</b>: '1 'carte', '2'card'"
+msgstr "Boîte à <b>poivre Shrokian</b>: '{1#card}, {2}card'"
 
 #: CONVO_COMMON.OFFER_SPARE_CHANGE
 #, fuzzy
@@ -33689,7 +33680,7 @@ msgstr "Mess sanglant"
 #, fuzzy
 msgctxt "GRAFT.BODY_PIERCING.DESC"
 msgid "At the end of every turn, gain {RIPOSTE 1} for every 3 {DEFEND} you have."
-msgstr "À la fin de chaque tour, gagnez 'RIPOSTE 1' pour chaque 3 'DEFEND' que vous avez."
+msgstr "À la fin de chaque tour, gagnez 'RIPOSTE 1' pour chaque 3 {DEFEND} que vous avez."
 
 #: GRAFT.BODY_PIERCING.NAME
 #, fuzzy
@@ -33737,7 +33728,7 @@ msgstr "Clamp Booster"
 #, fuzzy
 msgctxt "GRAFT.BOTTOM_EDGE.DESC"
 msgid "All attacks gain +{1} to minimum damage, up to their maximum damage."
-msgstr "Toutes les attaques gagnent 1 euro pour des dégâts minimaux, jusqu'à leurs dégâts maximums."
+msgstr "Toutes les attaques gagnent {1} pour des dégâts minimaux, jusqu'à leurs dégâts maximums."
 
 #: GRAFT.BOTTOM_EDGE.NAME
 #, fuzzy
@@ -33857,7 +33848,7 @@ msgstr "Troubles civils"
 #, fuzzy
 msgctxt "GRAFT.CLOISTER.DESC"
 msgid "Deal 2 bonus damage while you have any {DEFEND}."
-msgstr "Accordez 2 dégâts bonus pendant que vous avez n'importe quel 'DEFEND'."
+msgstr "Accordez 2 dégâts bonus pendant que vous avez n'importe quel {DEFEND}."
 
 #: GRAFT.CLOISTER.NAME
 #, fuzzy
@@ -33869,7 +33860,7 @@ msgstr "cloître"
 #, fuzzy
 msgctxt "GRAFT.CLOT_HAMMER.DESC"
 msgid "Attacking targets affected by {BLEED} grants 2 {DEFEND}."
-msgstr "Attaquer les cibles touchées par les subventions «BLEED» 2 'DEFEND'."
+msgstr "Attaquer les cibles touchées par les subventions «BLEED» 2 {DEFEND}."
 
 #: GRAFT.CLOT_HAMMER.NAME
 #, fuzzy
@@ -33917,7 +33908,7 @@ msgstr "chef"
 #, fuzzy
 msgctxt "GRAFT.COMPANY_BAND.DESC"
 msgid "Pets have +{1} health in battle."
-msgstr "Les animaux de compagnie ont une santé de 1 euro au combat."
+msgstr "Les animaux de compagnie ont une santé de {1} au combat."
 
 #: GRAFT.COMPANY_BAND.NAME
 #, fuzzy
@@ -34085,7 +34076,7 @@ msgstr "Fournisseur de drones"
 #, fuzzy
 msgctxt "GRAFT.DYNAMO.DESC"
 msgid "Whenever you shuffle your deck, gain {POWER {1}}."
-msgstr "Chaque fois que vous mélangez votre deck, gagnez le 'POWER '1'."
+msgstr "Chaque fois que vous mélangez votre deck, gagnez le 'POWER {1}."
 
 #: GRAFT.DYNAMO.NAME
 #, fuzzy
@@ -34133,7 +34124,7 @@ msgstr "Armure défectueuse"
 #, fuzzy
 msgctxt "GRAFT.FEEDBACK_LOOP.DESC"
 msgid "Your first attack each combat does x{1} damage."
-msgstr "Votre première attaque à chaque combat fait des dégâts x '1'."
+msgstr "Votre première attaque à chaque combat fait des dégâts x {1}."
 
 #: GRAFT.FEEDBACK_LOOP.NAME
 #, fuzzy
@@ -34181,7 +34172,7 @@ msgstr "Premières impressions"
 #, fuzzy
 msgctxt "GRAFT.FLOURISH.DESC"
 msgid "Whenever you spend all your combo, gain 5 {DEFEND}."
-msgstr "Chaque fois que vous dépensez tout votre combo, gagnez 5 'DEFEND'."
+msgstr "Chaque fois que vous dépensez tout votre combo, gagnez 5 {DEFEND}."
 
 #: GRAFT.FLOURISH.NAME
 #, fuzzy
@@ -34205,7 +34196,7 @@ msgstr "Santé fragile"
 #, fuzzy
 msgctxt "GRAFT.FRAGMENTER.DESC"
 msgid "Whenever you discard a card, apply 1 {WOUND} to a random enemy."
-msgstr "Chaque fois que vous jetez une carte, appliquez 1 'WOUND' à un ennemi aléatoire."
+msgstr "Chaque fois que vous jetez une carte, appliquez {1}WOUND' à un ennemi aléatoire."
 
 #: GRAFT.FRAGMENTER.NAME
 #, fuzzy
@@ -34277,7 +34268,7 @@ msgstr "sans cœur"
 #, fuzzy
 msgctxt "GRAFT.HEAVY_LIFTING.DESC"
 msgid "At the start of each battle, gain 4 {DEFEND} and 2 temporary {POWER}."
-msgstr "Au début de chaque combat, gagnez 4 'DEFEND' et 2 'POWER' temporaires."
+msgstr "Au début de chaque combat, gagnez 4 {DEFEND} et 2 {POWER} temporaires."
 
 #: GRAFT.HEAVY_LIFTING.NAME
 #, fuzzy
@@ -34325,7 +34316,7 @@ msgstr "Creux"
 #, fuzzy
 msgctxt "GRAFT.HUNTED.DESC"
 msgid "All enemy Admiralty gain 1 {POWER} at the start of combat."
-msgstr "Toute l'Amirauté ennemie gagne 1 'POWER' au début du combat."
+msgstr "Toute l'Amirauté ennemie gagne {1}POWER' au début du combat."
 
 #: GRAFT.HUNTED.NAME
 #, fuzzy
@@ -34385,7 +34376,7 @@ msgstr "Forage intérieur"
 #, fuzzy
 msgctxt "GRAFT.INTIMIDATED.DESC"
 msgid "Lose 1 {DEFEND} on all cards that apply {DEFEND}."
-msgstr "Perdre 1 'DEFEND' sur toutes les cartes qui s'appliquent 'DEFEND'."
+msgstr "Perdre 1 {DEFEND} sur toutes les cartes qui s'appliquent {DEFEND}."
 
 #: GRAFT.INTIMIDATED.NAME
 #, fuzzy
@@ -34469,7 +34460,7 @@ msgstr "Marqué"
 #, fuzzy
 msgctxt "GRAFT.MIDBRAIN_PADDING.DESC"
 msgid "Apply 1 {COMPOSURE} on all arguments at the end of your turn."
-msgstr "Appliquez 1 'COMPOSURE' sur tous les arguments à la fin de votre tour."
+msgstr "Appliquez {1}COMPOSURE' sur tous les arguments à la fin de votre tour."
 
 #: GRAFT.MIDBRAIN_PADDING.NAME
 #, fuzzy
@@ -34601,7 +34592,7 @@ msgstr "Recycleur perpétuel"
 #, fuzzy
 msgctxt "GRAFT.PIECE_OF_THE_PIE.DESC"
 msgid "Gain {1#money} every morning."
-msgstr "Gagnez 1 euro tous les matins."
+msgstr "Gagnez {1} tous les matins."
 
 #: GRAFT.PIECE_OF_THE_PIE.NAME
 #, fuzzy
@@ -34637,7 +34628,7 @@ msgstr "Brawling prédictive"
 #, fuzzy
 msgctxt "GRAFT.PROPAGANDA_MACHINE.DESC"
 msgid "Start each negotiation with 1 {negotiation.INFLUENCE}."
-msgstr "Commencez chaque négociation par 1 'négociation. INFLUENCE."
+msgstr "Commencez chaque négociation par {1}négociation. INFLUENCE."
 
 #: GRAFT.PROPAGANDA_MACHINE.NAME
 #, fuzzy
@@ -34781,7 +34772,7 @@ msgstr "Rouleau d'épaule"
 #, fuzzy
 msgctxt "GRAFT.SAVAGERY.DESC"
 msgid "+1 {BLEED} to all cards that apply {BLEED}."
-msgstr "1 'BLEED' à toutes les cartes qui s'appliquent 'BLEED'."
+msgstr "{1}BLEED' à toutes les cartes qui s'appliquent 'BLEED'."
 
 #: GRAFT.SAVAGERY.NAME
 #, fuzzy
@@ -34841,7 +34832,7 @@ msgstr "shell"
 #, fuzzy
 msgctxt "GRAFT.SHORT_CIRCUIT.DESC"
 msgid "Take 2 damage whenever you gain {POWER}."
-msgstr "Prenez 2 dégâts chaque fois que vous gagnez 'POWER'."
+msgstr "Prenez 2 dégâts chaque fois que vous gagnez {POWER}."
 
 #: GRAFT.SHORT_CIRCUIT.NAME
 #, fuzzy
@@ -34913,7 +34904,7 @@ msgstr "Snap Talon"
 #, fuzzy
 msgctxt "GRAFT.SPARK_VISOR.DESC"
 msgid "At the start of each turn, mark an enemy. Attacking that enemy grants you 3 {DEFEND}."
-msgstr "Au début de chaque tour, marquez un ennemi. Attaquer cet ennemi vous accorde 3 'DEFEND'."
+msgstr "Au début de chaque tour, marquez un ennemi. Attaquer cet ennemi vous accorde 3 {DEFEND}."
 
 #: GRAFT.SPARK_VISOR.NAME
 #, fuzzy
@@ -34925,7 +34916,7 @@ msgstr "Viseur d'étincelle"
 #, fuzzy
 msgctxt "GRAFT.SPARRING.DESC"
 msgid "Gain 1 bonus {DEFEND} on all cards that apply {DEFEND}."
-msgstr "Gagnez 1 bonus 'DEFEND' sur toutes les cartes qui s'appliquent 'DEFEND'."
+msgstr "Gagnez 1 bonus {DEFEND} sur toutes les cartes qui s'appliquent {DEFEND}."
 
 #: GRAFT.SPARRING.NAME
 #, fuzzy
@@ -34973,7 +34964,7 @@ msgstr "Mains stables"
 #, fuzzy
 msgctxt "GRAFT.SUCKER_PUNCH.DESC"
 msgid "+{1} Damage on the first attack in combat."
-msgstr "1 ' Dégâts sur la première attaque au combat."
+msgstr "{1} Dégâts sur la première attaque au combat."
 
 #: GRAFT.SUCKER_PUNCH.NAME
 #, fuzzy
@@ -34997,7 +34988,7 @@ msgstr "Attaque surprise"
 #, fuzzy
 msgctxt "GRAFT.SYSTEM_SHOCK.DESC"
 msgid "If you didn't attack last turn, gain 2 temporary {POWER}."
-msgstr "Si vous n'avez pas attaqué le dernier tour, gagnez 2 'POWER' temporaires."
+msgstr "Si vous n'avez pas attaqué le dernier tour, gagnez 2 {POWER} temporaires."
 
 #: GRAFT.SYSTEM_SHOCK.NAME
 #, fuzzy
@@ -35093,7 +35084,7 @@ msgstr "Torpor Fiend"
 #, fuzzy
 msgctxt "GRAFT.UNSTABLE_AUGMENTATION.DESC"
 msgid "Gain 4 temporary {POWER} on your 2nd, 4th or 6th turn once per battle. (Chosen randomly)"
-msgstr "Gagnez 4 'POWER' temporaires sur votre 2ème, 4ème ou 6ème tour une fois par combat. (Choisi au hasard)"
+msgstr "Gagnez 4 {POWER} temporaires sur votre 2ème, 4ème ou 6ème tour une fois par combat. (Choisi au hasard)"
 
 #: GRAFT.UNSTABLE_AUGMENTATION.NAME
 #, fuzzy
@@ -35967,7 +35958,7 @@ msgstr "accélérateur"
 #, fuzzy
 msgctxt "MODIFIER.ADMIRALTY_DIPLOMACY.DESC"
 msgid "At the end of your turn, deal {1} damage to a random enemy target for every {INFLUENCE} count."
-msgstr "À la fin de votre tour, accordez 1 euro de dégâts à une cible ennemie aléatoire pour chaque compte d'INFLUENCE."
+msgstr "À la fin de votre tour, accordez {1} de dégâts à une cible ennemie aléatoire pour chaque compte d'INFLUENCE."
 
 #: MODIFIER.ADMIRALTY_DIPLOMACY.NAME
 #, fuzzy
@@ -35979,7 +35970,7 @@ msgstr "application"
 #, fuzzy
 msgctxt "MODIFIER.ADMIRALTY_SUPPORT.DESC"
 msgid "When removed, receive {1#money}."
-msgstr "Une fois supprimé, recevez 1 euro."
+msgstr "Une fois supprimé, recevez {1}."
 
 #: MODIFIER.ADMIRALTY_SUPPORT.NAME
 #, fuzzy
@@ -36015,7 +36006,7 @@ msgstr "Airtight"
 #, fuzzy
 msgctxt "MODIFIER.ALL_BUSINESS.DESC"
 msgid "{1} gains {COMPOSURE {2}} for each hostile card you draw."
-msgstr "1 euros de gains pour chaque carte hostile que vous dessinez."
+msgstr "{1}s de gains pour chaque carte hostile que vous dessinez."
 
 #: MODIFIER.ALL_BUSINESS.NAME
 #, fuzzy
@@ -36123,7 +36114,7 @@ msgstr "Sur la liste noire"
 #, fuzzy
 msgctxt "MODIFIER.BONE_TIRED.DESC"
 msgid "When destroyed, {1} loses {2} resolve."
-msgstr "Lorsqu'il est détruit, le '1' perd la résolution de '2'."
+msgstr "Lorsqu'il est détruit, le {1} perd la résolution de {2}."
 
 #: MODIFIER.BONE_TIRED.NAME
 #, fuzzy
@@ -36135,7 +36126,7 @@ msgstr "Os fatigué"
 #, fuzzy
 msgctxt "MODIFIER.BONUS_PAYMENT.DESC"
 msgid "When destroyed, add {1#money} to your bonus\nReduce by {2#percent} at end of your turn.\nWhen destroyed, {4} gains {IMPATIENCE 1}.\n\n<#PENALTY>If you lose the negotiation, you lose all bonuses!</>"
-msgstr "Une fois détruit, ajoutez 1 euro à votre bonus\nRéduisez de 2 pour cent à la fin de votre tour.\nLorsqu'il est détruit, {4} gagne 'IMPATIENCE 1'.\n\n#PENALTY Si vous perdez la négociation, vous perdez tous les bonus!"
+msgstr "Une fois détruit, ajoutez {1} à votre bonus\nRéduisez de 2 pour cent à la fin de votre tour.\nLorsqu'il est détruit, {4} gagne 'IMPATIENCE 1'.\n\n#PENALTY Si vous perdez la négociation, vous perdez tous les bonus!"
 
 #: MODIFIER.BONUS_PAYMENT.NAME
 #, fuzzy
@@ -36639,7 +36630,7 @@ msgstr "Frontal Goad"
 #, fuzzy
 msgctxt "MODIFIER.GREEDY.DESC"
 msgid "When dismissed, lose {1#money} and you double your actions."
-msgstr "Lorsqu'il est congédié, perdez 1 euro et vous doublez vos actions."
+msgstr "Lorsqu'il est congédié, perdez {1} et vous doublez vos actions."
 
 #: MODIFIER.GREEDY.NAME
 #, fuzzy
@@ -36705,7 +36696,7 @@ msgstr "Impatience"
 #, fuzzy
 msgctxt "MODIFIER.IMPENDING_DOOM.DESC"
 msgid "When destroyed, gives {1} {2} {2*stack|stacks} of Existential Crisis in the next fight. When destroyed, {1} gains {IMPATIENCE 1}.\n\n<#PENALTY>If you lose the negotiation, all dread is lost!</>"
-msgstr "Lorsqu'il est détruit, donne '1 '2 '2 'stack'stacks'de crise existentielle dans le prochain combat. Lorsqu'il est détruit, le 1 ' gagne 'IMPATIENCE 1'.\n\n#PENALTY Si vous perdez la négociation, toute crainte est perdue!"
+msgstr "Lorsqu'il est détruit, donne '{1}2 '2 'stack'stacks'de crise existentielle dans le prochain combat. Lorsqu'il est détruit, le {1} gagne 'IMPATIENCE 1'.\n\n#PENALTY Si vous perdez la négociation, toute crainte est perdue!"
 
 #: MODIFIER.IMPENDING_DOOM.NAME
 #, fuzzy
@@ -36717,7 +36708,7 @@ msgstr "Doom imminent"
 #, fuzzy
 msgctxt "MODIFIER.INDOCTRINATION.DESC"
 msgid "When dismissed, gain 1 {DOMINANCE} per stack. At the end of each turn, gain 1 {INFLUENCE} and reduce this argument by 1."
-msgstr "Lorsqu'il est rejeté, gagnez 1 'DOMINANCE' par pile. À la fin de chaque tour, gagnez 1 'INFLUENCE' et réduisez cet argument de 1."
+msgstr "Lorsqu'il est rejeté, gagnez {1}DOMINANCE' par pile. À la fin de chaque tour, gagnez {1}INFLUENCE' et réduisez cet argument de 1."
 
 #: MODIFIER.INDOCTRINATION.NAME
 #, fuzzy
@@ -36891,7 +36882,7 @@ msgstr "Menacing Air"
 #, fuzzy
 msgctxt "MODIFIER.MIDBRAIN_PADDING.DESC"
 msgid "Apply 1 {COMPOSURE} on all arguments at the end of your turn."
-msgstr "Appliquez 1 'COMPOSURE' sur tous les arguments à la fin de votre tour."
+msgstr "Appliquez {1}COMPOSURE' sur tous les arguments à la fin de votre tour."
 
 #: MODIFIER.MIDBRAIN_PADDING.NAME
 #, fuzzy
@@ -36927,7 +36918,7 @@ msgstr "Moment de faiblesse"
 #, fuzzy
 msgctxt "MODIFIER.MONEY_TALKS.DESC"
 msgid "All cards cost an additional {1#money} to play."
-msgstr "Toutes les cartes coûtent un supplément de 1 euro pour jouer."
+msgstr "Toutes les cartes coûtent un supplément de {1} pour jouer."
 
 #: MODIFIER.MONEY_TALKS.NAME
 #, fuzzy
@@ -37017,7 +37008,7 @@ msgstr "Permis"
 #, fuzzy
 msgctxt "MODIFIER.PLANTED_EVIDENCE.DESC"
 msgid "When this argument is dismissed, deal {1} damage to the owner's core argument."
-msgstr "Lorsque cet argument est rejeté, accordez un préjudice de 1 euro à l'argument principal du propriétaire."
+msgstr "Lorsque cet argument est rejeté, accordez un préjudice de {1} à l'argument principal du propriétaire."
 
 #: MODIFIER.PLANTED_EVIDENCE.NAME
 #, fuzzy
@@ -37365,7 +37356,7 @@ msgstr "Dîme"
 #, fuzzy
 msgctxt "MODIFIER.TRIBUTE.DESC"
 msgid "When dismissed, gain: draw {1} extra {1*card|cards} at the start of your turn."
-msgstr "Lorsqu'il est rejeté, gagnez : tirez 1 euro de carte supplémentaire au début de votre tour."
+msgstr "Lorsqu'il est rejeté, gagnez : tirez {1} de carte supplémentaire au début de votre tour."
 
 #: MODIFIER.TRIBUTE.NAME
 #, fuzzy
@@ -37377,7 +37368,7 @@ msgstr "hommage"
 #, fuzzy
 msgctxt "MODIFIER.UNCERTAINTY.DESC"
 msgid "Whenever {1}'s attacks are fully mitigated, gain 1 {DREAD}."
-msgstr "Chaque fois que les attaques de {1} sont entièrement atténuées, gagnez 1 'DREAD'."
+msgstr "Chaque fois que les attaques de {1} sont entièrement atténuées, gagnez {1}DREAD'."
 
 #: MODIFIER.UNCERTAINTY.NAME
 #, fuzzy
@@ -37496,7 +37487,7 @@ msgstr "accélérateur"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.ADMIRALTY_DIPLOMACY.DESC"
 msgid "At the end of your turn, deal {1} damage to a random enemy target for every {INFLUENCE} count."
-msgstr "À la fin de votre tour, accordez 1 euro de dégâts à une cible ennemie aléatoire pour chaque compte d'INFLUENCE."
+msgstr "À la fin de votre tour, accordez {1} de dégâts à une cible ennemie aléatoire pour chaque compte d'INFLUENCE."
 
 #: NEGOTIATION_FEATURE.ADMIRALTY_DIPLOMACY.NAME
 #, fuzzy
@@ -37508,7 +37499,7 @@ msgstr "application"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.ADMIRALTY_SUPPORT.DESC"
 msgid "When removed, receive {1#money}."
-msgstr "Une fois supprimé, recevez 1 euro."
+msgstr "Une fois supprimé, recevez {1}."
 
 #: NEGOTIATION_FEATURE.ADMIRALTY_SUPPORT.NAME
 #, fuzzy
@@ -37544,7 +37535,7 @@ msgstr "Airtight"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.ALL_BUSINESS.DESC"
 msgid "{1} gains {COMPOSURE {2}} for each hostile card you draw."
-msgstr "1 euros de gains pour chaque carte hostile que vous dessinez."
+msgstr "{1}s de gains pour chaque carte hostile que vous dessinez."
 
 #: NEGOTIATION_FEATURE.ALL_BUSINESS.NAME
 #, fuzzy
@@ -37676,7 +37667,7 @@ msgstr "Sur la liste noire"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.BONE_TIRED.DESC"
 msgid "When destroyed, {1} loses {2} resolve."
-msgstr "Lorsqu'il est détruit, le '1' perd la résolution de '2'."
+msgstr "Lorsqu'il est détruit, le {1} perd la résolution de {2}."
 
 #: NEGOTIATION_FEATURE.BONE_TIRED.NAME
 #, fuzzy
@@ -37688,7 +37679,7 @@ msgstr "Os fatigué"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.BONUS_PAYMENT.DESC"
 msgid "When destroyed, add {1#money} to your bonus\nReduce by {2#percent} at end of your turn.\nWhen destroyed, {4} gains {IMPATIENCE 1}.\n\n<#PENALTY>If you lose the negotiation, you lose all bonuses!</>"
-msgstr "Une fois détruit, ajoutez 1 euro à votre bonus\nRéduisez de 2 pour cent à la fin de votre tour.\nLorsqu'il est détruit, {4} gagne 'IMPATIENCE 1'.\n\n#PENALTY Si vous perdez la négociation, vous perdez tous les bonus!"
+msgstr "Une fois détruit, ajoutez {1} à votre bonus\nRéduisez de 2 pour cent à la fin de votre tour.\nLorsqu'il est détruit, {4} gagne 'IMPATIENCE 1'.\n\n#PENALTY Si vous perdez la négociation, vous perdez tous les bonus!"
 
 #: NEGOTIATION_FEATURE.BONUS_PAYMENT.NAME
 #, fuzzy
@@ -38222,7 +38213,7 @@ msgstr "Gagnez une action supplémentaire au prochain tour."
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.FREE_ACTION.FEATURE_DESC"
 msgid "Gain {1} bonus {1*action|actions} next turn."
-msgstr "Gagnez 1 euro de bonus au prochain tour."
+msgstr "Gagnez {1} de bonus au prochain tour."
 
 #: NEGOTIATION_FEATURE.FREE_ACTION.NAME
 #, fuzzy
@@ -38240,7 +38231,7 @@ msgstr "Dessiner des cartes supplémentaires au prochain tour"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.FREE_DRAW.FEATURE_DESC"
 msgid "Gain {1} extra {1*card|cards} next turn."
-msgstr "Gagnez 1 euro de plus au prochain tour."
+msgstr "Gagnez {1} de plus au prochain tour."
 
 #: NEGOTIATION_FEATURE.FREE_DRAW.NAME
 #, fuzzy
@@ -38288,7 +38279,7 @@ msgstr "Frontal Goad"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.GREEDY.DESC"
 msgid "When dismissed, lose {1#money} and you double your actions."
-msgstr "Lorsqu'il est congédié, perdez 1 euro et vous doublez vos actions."
+msgstr "Lorsqu'il est congédié, perdez {1} et vous doublez vos actions."
 
 #: NEGOTIATION_FEATURE.GREEDY.NAME
 #, fuzzy
@@ -38390,7 +38381,7 @@ msgstr "Impatience"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.IMPENDING_DOOM.DESC"
 msgid "When destroyed, gives {1} {2} {2*stack|stacks} of Existential Crisis in the next fight. When destroyed, {1} gains {IMPATIENCE 1}.\n\n<#PENALTY>If you lose the negotiation, all dread is lost!</>"
-msgstr "Lorsqu'il est détruit, donne '1 '2 '2 'stack'stacks'de crise existentielle dans le prochain combat. Lorsqu'il est détruit, le 1 ' gagne 'IMPATIENCE 1'.\n\n#PENALTY Si vous perdez la négociation, toute crainte est perdue!"
+msgstr "Lorsqu'il est détruit, donne '{1}2 '2 'stack'stacks'de crise existentielle dans le prochain combat. Lorsqu'il est détruit, le {1} gagne 'IMPATIENCE 1'.\n\n#PENALTY Si vous perdez la négociation, toute crainte est perdue!"
 
 #: NEGOTIATION_FEATURE.IMPENDING_DOOM.NAME
 #, fuzzy
@@ -38426,7 +38417,7 @@ msgstr "Incept Incept (Incept)"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.INDOCTRINATION.DESC"
 msgid "When dismissed, gain 1 {DOMINANCE} per stack. At the end of each turn, gain 1 {INFLUENCE} and reduce this argument by 1."
-msgstr "Lorsqu'il est rejeté, gagnez 1 'DOMINANCE' par pile. À la fin de chaque tour, gagnez 1 'INFLUENCE' et réduisez cet argument de 1."
+msgstr "Lorsqu'il est rejeté, gagnez {1}DOMINANCE' par pile. À la fin de chaque tour, gagnez {1}INFLUENCE' et réduisez cet argument de 1."
 
 #: NEGOTIATION_FEATURE.INDOCTRINATION.NAME
 #, fuzzy
@@ -38606,7 +38597,7 @@ msgstr "Menacing Air"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.MIDBRAIN_PADDING.DESC"
 msgid "Apply 1 {COMPOSURE} on all arguments at the end of your turn."
-msgstr "Appliquez 1 'COMPOSURE' sur tous les arguments à la fin de votre tour."
+msgstr "Appliquez {1}COMPOSURE' sur tous les arguments à la fin de votre tour."
 
 #: NEGOTIATION_FEATURE.MIDBRAIN_PADDING.NAME
 #, fuzzy
@@ -38642,7 +38633,7 @@ msgstr "Moment de faiblesse"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.MONEY_TALKS.DESC"
 msgid "All cards cost an additional {1#money} to play."
-msgstr "Toutes les cartes coûtent un supplément de 1 euro pour jouer."
+msgstr "Toutes les cartes coûtent un supplément de {1} pour jouer."
 
 #: NEGOTIATION_FEATURE.MONEY_TALKS.NAME
 #, fuzzy
@@ -38744,7 +38735,7 @@ msgstr "Permis"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.PLANTED_EVIDENCE.DESC"
 msgid "When this argument is dismissed, deal {1} damage to the owner's core argument."
-msgstr "Lorsque cet argument est rejeté, accordez un préjudice de 1 euro à l'argument principal du propriétaire."
+msgstr "Lorsque cet argument est rejeté, accordez un préjudice de {1} à l'argument principal du propriétaire."
 
 #: NEGOTIATION_FEATURE.PLANTED_EVIDENCE.NAME
 #, fuzzy
@@ -39182,7 +39173,7 @@ msgstr "Dîme"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.TRIBUTE.DESC"
 msgid "When dismissed, gain: draw {1} extra {1*card|cards} at the start of your turn."
-msgstr "Lorsqu'il est rejeté, gagnez : tirez 1 euro de carte supplémentaire au début de votre tour."
+msgstr "Lorsqu'il est rejeté, gagnez : tirez {1} de carte supplémentaire au début de votre tour."
 
 #: NEGOTIATION_FEATURE.TRIBUTE.NAME
 #, fuzzy
@@ -39194,7 +39185,7 @@ msgstr "hommage"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.UNCERTAINTY.DESC"
 msgid "Whenever {1}'s attacks are fully mitigated, gain 1 {DREAD}."
-msgstr "Chaque fois que les attaques de {1} sont entièrement atténuées, gagnez 1 'DREAD'."
+msgstr "Chaque fois que les attaques de {1} sont entièrement atténuées, gagnez {1}DREAD'."
 
 #: NEGOTIATION_FEATURE.UNCERTAINTY.NAME
 #, fuzzy
@@ -47657,7 +47648,7 @@ msgstr "Des greffons que vous aurez rarement à travers une course"
 #, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.GRAFT_FILTER_RARITY_TT"
 msgid "<b><#TITLE>{1} grafts</></b>\n{2}"
-msgstr "<b><#TITLE>Greffes de 1 euro</#TITLE></b>\n{2}"
+msgstr "<b><#TITLE>Greffes de {1}</#TITLE></b>\n{2}"
 
 #: UI.CARDCOMPENDIUM.GRAFT_FILTER_RARITY_UNCOMMON_TT
 #, fuzzy
@@ -47699,7 +47690,7 @@ msgstr "Des greffes que les ennemis vous donnent"
 #, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.GRAFT_FILTER_SERIES_PLAYER_TT"
 msgid "Grafts you can get when you play as {1}.\n<#SUBTITLE>You've seen <b>{2}</> and installed <b>{3}</> out of this character's <b>{4}</> grafts.</>"
-msgstr "Les greffons que vous pouvez obtenir lorsque vous jouez en tant que '1'.\nVous avez vu 2 euros et installé 3 euros sur les greffes de ce personnage de <#SUBTITLE> <b>4 <b> <b>euros.</b> </b> </b> </#SUBTITLE>"
+msgstr "Les greffons que vous pouvez obtenir lorsque vous jouez en tant que {1}.\nVous avez vu 2 euros et installé 3 euros sur les greffes de ce personnage de <#SUBTITLE> <b>4 <b> <b>euros.</b> </b> </b> </#SUBTITLE>"
 
 #: UI.CARDCOMPENDIUM.GRAFT_FILTER_SERIES_PROGRESS
 #, fuzzy
@@ -47783,7 +47774,7 @@ msgstr "GRAFTS"
 #, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.NAV_GRAFTS_TT"
 msgid "<b><#TITLE>{1} / {2} UNLOCKS</></b>\nYou've unlocked {3#percent} of graft-related unlocks. These include seeing and installing each graft."
-msgstr "<b><#TITLE>UNLOCKS de 1 euro / 2</#TITLE></b>\nVous avez débloqué 3 pour cent de déverrouillages liés à la greffe. Il s'agit notamment de voir et d'installer chaque greffe."
+msgstr "<b><#TITLE>UNLOCKS de {1} / 2</#TITLE></b>\nVous avez débloqué 3 pour cent de déverrouillages liés à la greffe. Il s'agit notamment de voir et d'installer chaque greffe."
 
 #: UI.CARDCOMPENDIUM.NAV_PEOPLE
 #, fuzzy
@@ -47987,7 +47978,7 @@ msgstr "Tirage au sort"
 #, fuzzy
 msgctxt "UI.CARDS.DRAW_DECK_TT"
 msgid "<b><#TITLE>Draw Pile</></b>\nYou draw {1} cards per turn from this deck. Click to inspect."
-msgstr "<b><#TITLE>Dessiner Pile</#TITLE></b>\nVous tirez des cartes de 1 euro par tour à partir de ce deck. Cliquez pour inspecter."
+msgstr "<b><#TITLE>Dessiner Pile</#TITLE></b>\nVous tirez des cartes de {1} par tour à partir de ce deck. Cliquez pour inspecter."
 
 #: UI.CARDS.END_TURN
 #, fuzzy
@@ -49700,10 +49691,9 @@ msgstr "<Game over placeholder text> <Game over placeholder text>"
 #: UI.GAME_OVER_SCREEN.BUTTON_CLOSE
 msgctxt "UI.GAME_OVER_SCREEN.BUTTON_CLOSE"
 msgid "Close"
-msgstr "Retour"
+msgstr "Fermer"
 
 #: UI.GAME_OVER_SCREEN.BUTTON_CONTINUE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.BUTTON_CONTINUE"
 msgid "Continue"
 msgstr "Continuer"
@@ -49715,28 +49705,24 @@ msgid "<c img='l_all'> View details"
 msgstr "<c img='l_all'>Voir les détails"
 
 #: UI.GAME_OVER_SCREEN.CONTROLS_RIGHT_CLOSE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.CONTROLS_RIGHT_CLOSE"
 msgid "<c img='b'> Close"
-msgstr "<c img='b'>Proche"
+msgstr "<c img='b'> Fermer"
 
 #: UI.GAME_OVER_SCREEN.CONTROLS_RIGHT_CONTINUE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.CONTROLS_RIGHT_CONTINUE"
 msgid "<c img='b'> Continue"
-msgstr "<c img='b'>Continuer"
+msgstr "<c img='b'> Continuer"
 
 #: UI.GAME_OVER_SCREEN.CONTROLS_RIGHT_OPEN
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.CONTROLS_RIGHT_OPEN"
 msgid "<c img='a'> Open"
-msgstr "<c img='a'>Ouvert"
+msgstr "<c img='a'> Ouvert"
 
 #: UI.GAME_OVER_SCREEN.CONTROLS_RIGHT_SKIP
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.CONTROLS_RIGHT_SKIP"
 msgid "<c img='b'> Skip"
-msgstr "<c img='b'>Passer"
+msgstr "<c img='b'> Passer"
 
 #: UI.GAME_OVER_SCREEN.ENEMY_SUBTITLE
 #, fuzzy
@@ -49745,19 +49731,16 @@ msgid "{1.HeShe} seems to have that effect on people."
 msgstr "{1.HeShe} semble avoir cet effet sur les gens."
 
 #: UI.GAME_OVER_SCREEN.ENEMY_TITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.ENEMY_TITLE"
 msgid "KILLED BY {1.name}"
 msgstr "TUÉ PAR {1.name}"
 
 #: UI.GAME_OVER_SCREEN.EXP_FLOATER
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.EXP_FLOATER"
 msgid "PTS"
 msgstr "PTS"
 
 #: UI.GAME_OVER_SCREEN.EXP_FLOATER_VALUE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.EXP_FLOATER_VALUE"
 msgid "+{1}"
 msgstr "+{1}"
@@ -49769,7 +49752,6 @@ msgid "NEXT REWARD"
 msgstr "PROCHAINE RÉCOMPENSE"
 
 #: UI.GAME_OVER_SCREEN.POINTS
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.POINTS"
 msgid "{1} / {2}"
 msgstr "{1} / {2}"
@@ -49799,7 +49781,6 @@ msgid "PRESTIGE UNLOCKED"
 msgstr "PRESTIGE DÉBLOQUÉ"
 
 #: UI.GAME_OVER_SCREEN.REWARD_CHARACTER
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.REWARD_CHARACTER"
 msgid "NEW CHARACTER"
 msgstr "NOUVEAU PERSONNAGE"
@@ -49841,13 +49822,11 @@ msgid "NEGOTIATION GRAFT"
 msgstr "GRAFT DE NEGOCIATION"
 
 #: UI.GAME_OVER_SCREEN.REWARD_OUTFIT
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.REWARD_OUTFIT"
 msgid "OUTFIT"
 msgstr "TENUE"
 
 #: UI.GAME_OVER_SCREEN.REWARD_TT
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.REWARD_TT"
 msgid "<b><#TITLE>{1}</></>\n{2}"
 msgstr "<b><#TITLE>{1}</></>\n{2}"
@@ -49889,7 +49868,6 @@ msgid "Review Grafts"
 msgstr "Examiner les Garfts"
 
 #: UI.GAME_OVER_SCREEN.STATS_GRAFT_SUBTITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_GRAFT_SUBTITLE"
 msgid "INSTALLED"
 msgstr "INSTALLÉE"
@@ -49901,7 +49879,6 @@ msgid "GRAFTS"
 msgstr "GRAFTS"
 
 #: UI.GAME_OVER_SCREEN.STATS_JOB_SUBTITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_JOB_SUBTITLE"
 msgid "COMPLETED"
 msgstr "TERMINÉ"
@@ -49931,7 +49908,6 @@ msgid "WON"
 msgstr "GAGNÉ"
 
 #: UI.GAME_OVER_SCREEN.STATS_NEGOTIATION_TITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_NEGOTIATION_TITLE"
 msgid "NEGOTIATIONS"
 msgstr "NÉGOCIATIONS"
@@ -49955,7 +49931,6 @@ msgid "COMPLETED"
 msgstr "TERMINÉ"
 
 #: UI.GAME_OVER_SCREEN.STATS_PROGRESS_TITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_PROGRESS_TITLE"
 msgid "DAYS"
 msgstr "JOURS"
@@ -49979,25 +49954,21 @@ msgid "LOVED"
 msgstr "AIMÉE"
 
 #: UI.GAME_OVER_SCREEN.STATS_TITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_TITLE"
 msgid "STATS"
 msgstr "STATISTIQUES"
 
 #: UI.GAME_OVER_SCREEN.THANK_YOU
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.THANK_YOU"
 msgid "Thank you!"
 msgstr "Merci!"
 
 #: UI.GAME_OVER_SCREEN.TITLE_FAIL
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.TITLE_FAIL"
 msgid "GAME OVER"
 msgstr "FIN DE PARTIE"
 
 #: UI.GAME_OVER_SCREEN.TITLE_SUCCESS
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.TITLE_SUCCESS"
 msgid "SUCCESS!"
 msgstr "SUCCÈS!"
@@ -50033,7 +50004,6 @@ msgid "NEGOTIATION GRAFTS"
 msgstr "GRAFTS DE NEGOCIATION"
 
 #: UI.GRAFT_COLLECTION.SLOT_EMPTY
-#, fuzzy
 msgctxt "UI.GRAFT_COLLECTION.SLOT_EMPTY"
 msgid "EMPTY"
 msgstr "VIDE"
@@ -50045,7 +50015,6 @@ msgid "<#WHITE>NO GRAFT</>"
 msgstr "<#WHITE>PAS DE GRAFT</>"
 
 #: UI.GRAFT_COLLECTION.SLOT_SUBTITLE
-#, fuzzy
 msgctxt "UI.GRAFT_COLLECTION.SLOT_SUBTITLE"
 msgid "<#{1}>{2} {3}</>"
 msgstr "<#{1}>{2} {3}</>"
@@ -50075,7 +50044,6 @@ msgid "NEGOTIATION GRAFT"
 msgstr "GRAFT DE NEGOCIATION"
 
 #: UI.GRAFT_COLLECTION.SLOT_TYPE_NONE
-#, fuzzy
 msgctxt "UI.GRAFT_COLLECTION.SLOT_TYPE_NONE"
 msgid "GRAFT"
 msgstr "GRAFT"
@@ -50147,13 +50115,11 @@ msgid "<c img='b'> Decline"
 msgstr "<c img='b'>Déclin"
 
 #: UI.GRAFT_SCREEN.DETAILS_SUBTITLE
-#, fuzzy
 msgctxt "UI.GRAFT_SCREEN.DETAILS_SUBTITLE"
 msgid "<#{1}>{2#upper}</>"
 msgstr "<#{1}>{2#upper}</>"
 
 #: UI.GRAFT_SCREEN.SKIP_GRAFT
-#, fuzzy
 msgctxt "UI.GRAFT_SCREEN.SKIP_GRAFT"
 msgid "Skip"
 msgstr "Passer"
@@ -50183,7 +50149,6 @@ msgid "<b><#QUEST>Defend</></>\nDamage is removed from <b>Defend</> before healt
 msgstr "<b><# QUEST> Défendre</></>\nLes dommages sont enlevés de la<b>Défendre</> avant que les points de vie. La défense expire au début de votre prochain tour."
 
 #: UI.HEALTH_INDICATOR.TOOLTIP
-#, fuzzy
 msgctxt "UI.HEALTH_INDICATOR.TOOLTIP"
 msgid "<b><#HEALTH>Health</></>\n"
 msgstr "<b><#HEALTH>Santé</></>\n"
@@ -50255,31 +50220,26 @@ msgid "Basic cards have a random set of upgrades. It's wild!"
 msgstr "Les cartes de base ont un ensemble aléatoire de mises à niveau. C'est sauvage !"
 
 #: UI.JOB_POPUP.ACCEPT
-#, fuzzy
 msgctxt "UI.JOB_POPUP.ACCEPT"
 msgid "Accept"
 msgstr "Accepter"
 
 #: UI.JOB_POPUP.CONTROLS_RIGHT_ACCEPT
-#, fuzzy
 msgctxt "UI.JOB_POPUP.CONTROLS_RIGHT_ACCEPT"
 msgid "<c img='x'> Accept"
-msgstr "<c img='x'>Accepter"
+msgstr "<c img='x'> Accepter"
 
 #: UI.JOB_POPUP.CONTROLS_RIGHT_DECLINE
-#, fuzzy
 msgctxt "UI.JOB_POPUP.CONTROLS_RIGHT_DECLINE"
 msgid "<c img='b'> Decline"
-msgstr "<c img='b'>Déclin"
+msgstr "<c img='b'> Décliner"
 
 #: UI.JOB_POPUP.DECLINE
-#, fuzzy
 msgctxt "UI.JOB_POPUP.DECLINE"
 msgid "Decline"
-msgstr "Refuser"
+msgstr "Décliner"
 
 #: UI.JOB_POPUP.FOCUS_COMBAT
-#, fuzzy
 msgctxt "UI.JOB_POPUP.FOCUS_COMBAT"
 msgid "<#FIGHT>COMBAT</>"
 msgstr "<#FIGHT>COMBAT</>"
@@ -50321,19 +50281,16 @@ msgid "This quest will likely demand more negotiation than combat skills"
 msgstr "Cette quête exigera probablement plus de négociation que d'habileté au combat."
 
 #: UI.JOB_POPUP.RANK_LABEL
-#, fuzzy
 msgctxt "UI.JOB_POPUP.RANK_LABEL"
 msgid "DIFFICULTY"
 msgstr "DIFFICULTÉ"
 
 #: UI.JOB_POPUP.TITLE_LABEL
-#, fuzzy
 msgctxt "UI.JOB_POPUP.TITLE_LABEL"
 msgid "NEW QUEST"
 msgstr "NOUVELLE QUÊTE"
 
 #: UI.JOB_POPUP.TT_TITLE_LABEL
-#, fuzzy
 msgctxt "UI.JOB_POPUP.TT_TITLE_LABEL"
 msgid "QUEST AVAILABLE"
 msgstr "QUÊTE DISPONIBLE"
@@ -50351,10 +50308,9 @@ msgid "Do you want to set the language to {1}?\nYou can change it later in Optio
 msgstr "Voulez-vous définir la langue pour {1}?\nVous pouvez le modifier plus tard dans Options -Autres Langues"
 
 #: UI.LANGUAGES_SCREEN.CHANGE_LANGUAGE_CONFIRM_TITLE
-#, fuzzy
 msgctxt "UI.LANGUAGES_SCREEN.CHANGE_LANGUAGE_CONFIRM_TITLE"
 msgid "SELECT {1}"
-msgstr "SELECT {1}"
+msgstr "SÉLECTIONNER {1}"
 
 #: UI.LANGUAGES_SCREEN.CHANGE_LANGUAGE_TITLE
 #, fuzzy
@@ -50363,13 +50319,11 @@ msgid "Pick a Language"
 msgstr "Choisissez une langue"
 
 #: UI.LANGUAGES_SCREEN.TITLE
-#, fuzzy
 msgctxt "UI.LANGUAGES_SCREEN.TITLE"
 msgid "LANGUAGES"
-msgstr "LANGAGE"
+msgstr "LANGUES"
 
 #: UI.LOCATION_TOOLTIP.CLOSED
-#, fuzzy
 msgctxt "UI.LOCATION_TOOLTIP.CLOSED"
 msgid "Closed"
 msgstr "Fermé"
@@ -50399,7 +50353,6 @@ msgid "Pick a Negotiation Card"
 msgstr "Choisissez une carte de négociation"
 
 #: UI.LOOT_SCREEN.CARDS_UPGRADE_BATTLE_SUBTITLE
-#, fuzzy
 msgctxt "UI.LOOT_SCREEN.CARDS_UPGRADE_BATTLE_SUBTITLE"
 msgid "{1#listing}"
 msgstr "{1#listing}"
@@ -50411,7 +50364,6 @@ msgid "Battle {1*Upgrade|Upgrades} Available"
 msgstr "Combat {1}Amélioration(s) Disponible"
 
 #: UI.LOOT_SCREEN.CARDS_UPGRADE_NEGOTIATION_SUBTITLE
-#, fuzzy
 msgctxt "UI.LOOT_SCREEN.CARDS_UPGRADE_NEGOTIATION_SUBTITLE"
 msgid "{1#listing}"
 msgstr "{1#listing}"
@@ -50420,7 +50372,7 @@ msgstr "{1#listing}"
 #, fuzzy
 msgctxt "UI.LOOT_SCREEN.CARDS_UPGRADE_NEGOTIATION_TITLE"
 msgid "Negotiation {1*Upgrade|Upgrades} Available"
-msgstr "Negotiation {1} Amélioration(s) Disponible"
+msgstr "Negotiation {1*Upgrade|Upgrades} Disponible"
 
 #: UI.LOOT_SCREEN.CARD_BATTLE_TITLE
 #, fuzzy
@@ -50489,7 +50441,6 @@ msgid "Collect all mandatory loot items before leaving."
 msgstr "Ramassez tous les objets de butin obligatoires avant de partir."
 
 #: UI.LOOT_SCREEN.LOOT_TITLE
-#, fuzzy
 msgctxt "UI.LOOT_SCREEN.LOOT_TITLE"
 msgid "LOOT"
 msgstr "BUTIN"
@@ -50531,13 +50482,11 @@ msgid "Pick the loot you want to keep"
 msgstr "Choisissez le butin que vous voulez garder"
 
 #: UI.LOOT_SCREEN.TITLE_BATTLE
-#, fuzzy
 msgctxt "UI.LOOT_SCREEN.TITLE_BATTLE"
 msgid "BATTLE WON!"
-msgstr "combat GAGNÉE !"
+msgstr "COMBAT GAGNÉE!"
 
 #: UI.LOOT_SCREEN.TITLE_FOUND
-#, fuzzy
 msgctxt "UI.LOOT_SCREEN.TITLE_FOUND"
 msgid "FOUND LOOT!"
 msgstr "BUTIN TROUVÉ!"
@@ -50549,7 +50498,6 @@ msgid "NEGOTIATION FAILED"
 msgstr "ÉCHEC DE LA NÉGOCIATION"
 
 #: UI.LOOT_SCREEN.TITLE_NEGOTIATION_VICTORY
-#, fuzzy
 msgctxt "UI.LOOT_SCREEN.TITLE_NEGOTIATION_VICTORY"
 msgid "NEGOTIATION SUCCESSFUL!"
 msgstr "NÉGOCIATION RÉUSSIE!"
@@ -50561,16 +50509,14 @@ msgid "UPGRADES AVAILABLE"
 msgstr "AMÉLIORATION DISPONIBLES"
 
 #: UI.MAINMENU.BACK
-#, fuzzy
 msgctxt "UI.MAINMENU.BACK"
 msgid "BACK"
 msgstr "RETOUR"
 
 #: UI.MAINMENU.BATTLE
-#, fuzzy
 msgctxt "UI.MAINMENU.BATTLE"
 msgid "BATTLE"
-msgstr "combat"
+msgstr "COMBAT"
 
 #: UI.MAINMENU.BETA_BODY
 #, fuzzy
@@ -50604,10 +50550,9 @@ msgstr "COMPENDIUM"
 #: UI.MAINMENU.CLOSE
 msgctxt "UI.MAINMENU.CLOSE"
 msgid "Close"
-msgstr "Retour"
+msgstr "Fermer"
 
 #: UI.MAINMENU.CONTINUE
-#, fuzzy
 msgctxt "UI.MAINMENU.CONTINUE"
 msgid "CONTINUE"
 msgstr "CONTINUER"
@@ -50622,7 +50567,7 @@ msgstr "<c img='l_all'>Sélectionnez"
 #, fuzzy
 msgctxt "UI.MAINMENU.CONTROLS_LEFT_MOTD"
 msgid "<c img='lb'> Updates"
-msgstr "<c img='lb'>Updates"
+msgstr "<c img='lb'> Updates"
 
 #: UI.MAINMENU.CONTROLS_RIGHT_SELECT
 #, fuzzy
@@ -50631,28 +50576,26 @@ msgid "{1#binding} Select"
 msgstr "{1#binding} Sélectionnez"
 
 #: UI.MAINMENU.CONTROLS_SUBMENU_RIGHT_CLOSE
-#, fuzzy
 msgctxt "UI.MAINMENU.CONTROLS_SUBMENU_RIGHT_CLOSE"
 msgid "<c img='b'> Back"
-msgstr "<c img='b'>Précédent"
+msgstr "<c img='b'> Retour"
 
 #: UI.MAINMENU.CONTROLS_UPDATES_LEFT
-#, fuzzy
 msgctxt "UI.MAINMENU.CONTROLS_UPDATES_LEFT"
 msgid "<c img='l_all'> Select"
-msgstr "<c img='l_all'>Sélectionnez"
+msgstr "<c img='l_all'> Sélectionnez"
 
 #: UI.MAINMENU.CONTROLS_UPDATES_RIGHT_CLOSE
 #, fuzzy
 msgctxt "UI.MAINMENU.CONTROLS_UPDATES_RIGHT_CLOSE"
 msgid "<c img='b'> Close updates"
-msgstr "<c img='b'>Fermer les mises à jour"
+msgstr "<c img='b'> Fermer les mises à jour"
 
 #: UI.MAINMENU.CONTROLS_UPDATES_RIGHT_OPEN
 #, fuzzy
 msgctxt "UI.MAINMENU.CONTROLS_UPDATES_RIGHT_OPEN"
 msgid "<c img='a'> Read update"
-msgstr "<c img='a'>Lire la mise à jour"
+msgstr "<c img='a'> Lire la mise à jour"
 
 #: UI.MAINMENU.CONVOTEST
 #, fuzzy
@@ -50673,7 +50616,6 @@ msgid "FIGHT TEST"
 msgstr "TEST DE COMBAT"
 
 #: UI.MAINMENU.INFO_BTN_FORUMS
-#, fuzzy
 msgctxt "UI.MAINMENU.INFO_BTN_FORUMS"
 msgid "Forums"
 msgstr "Forums"
@@ -50691,25 +50633,21 @@ msgid "This game is in active development. Stay up to date by joining our mailin
 msgstr "Ce jeu est en développement actif. Tenez-vous au courant en vous inscrivant à notre liste de diffusion, ou rendez-vous sur les forums et participez à ladiscussion."
 
 #: UI.MAINMENU.INFO_TITLE
-#, fuzzy
 msgctxt "UI.MAINMENU.INFO_TITLE"
 msgid "DEVELOPMENT BUILD"
 msgstr "DEVELOPMENT BUILD"
 
 #: UI.MAINMENU.KLEI_COMMUNITY
-#, fuzzy
 msgctxt "UI.MAINMENU.KLEI_COMMUNITY"
 msgid "GAME COMMUNITY"
-msgstr "COMMUNAUTÉ\nDU JEU"
+msgstr "COMMUNAUTÉ DU JEU"
 
 #: UI.MAINMENU.KLEI_GAMES
-#, fuzzy
 msgctxt "UI.MAINMENU.KLEI_GAMES"
 msgid "MORE GAMES"
-msgstr "PLUS \nDE JEUX"
+msgstr "PLUS DE JEUX"
 
 #: UI.MAINMENU.LOAD
-#, fuzzy
 msgctxt "UI.MAINMENU.LOAD"
 msgid "LOAD GAME"
 msgstr "CHARGEMENT DU JEU"
@@ -50721,19 +50659,16 @@ msgid "More info"
 msgstr "Plus d′informations"
 
 #: UI.MAINMENU.NEGOTIATION
-#, fuzzy
 msgctxt "UI.MAINMENU.NEGOTIATION"
 msgid "NEGOTIATION"
 msgstr "NÉOCIATION"
 
 #: UI.MAINMENU.NEW
-#, fuzzy
 msgctxt "UI.MAINMENU.NEW"
 msgid "NEW GAME"
 msgstr "NOUVELLE PARTIE"
 
 #: UI.MAINMENU.OPTIONS
-#, fuzzy
 msgctxt "UI.MAINMENU.OPTIONS"
 msgid "OPTIONS"
 msgstr "OPTIONS"
@@ -50750,19 +50685,16 @@ msgid "QUICK JUMP {1}"
 msgstr "SAUT RAPIDE {1}"
 
 #: UI.MAINMENU.QUIT
-#, fuzzy
 msgctxt "UI.MAINMENU.QUIT"
 msgid "QUIT"
 msgstr "QUITTER"
 
 #: UI.MAINMENU.TOOLS
-#, fuzzy
 msgctxt "UI.MAINMENU.TOOLS"
 msgid "TOOLS"
 msgstr "OUTILS"
 
 #: UI.MAINMENU.TUTORIALS
-#, fuzzy
 msgctxt "UI.MAINMENU.TUTORIALS"
 msgid "TUTORIALS"
 msgstr "TUTORIELS"
@@ -50786,76 +50718,67 @@ msgid "JUST UPDATED!"
 msgstr "JE VIENS DE METTRE À JOUR!"
 
 #: UI.MAINMENU.UPDATE_TEXT_WEEKS
-#, fuzzy
 msgctxt "UI.MAINMENU.UPDATE_TEXT_WEEKS"
 msgid "{1} {1*WEEK|WEEKS}"
 msgstr "{1} {1*SEMAINE|SEMAINES}"
 
 #: UI.MAINMENU.UPDATE_TEXT_WEEKS_DAYS
-#, fuzzy
 msgctxt "UI.MAINMENU.UPDATE_TEXT_WEEKS_DAYS"
 msgid "{1} {1*WEEK|WEEKS}, {2} {2*DAY|DAYS}"
-msgstr "{1} {1*SEMAINE|SEMAINES},\n{2} {2*JOUR|JOURS}"
+msgstr "{1} {1*SEMAINE|SEMAINES}, {2} {2*JOUR|JOURS}"
 
 #: UI.MAINMENU.UPDATE_TITLE
-#, fuzzy
 msgctxt "UI.MAINMENU.UPDATE_TITLE"
 msgid "NEXT UPDATE"
 msgstr "MISE A JOUR:"
 
 #: UI.MAINMENU.WELCOME
-#, fuzzy
 msgctxt "UI.MAINMENU.WELCOME"
 msgid "Welcome to the Griftlands"
-msgstr "Bienvenue dans les Griftlands"
+msgstr "Bienvenue dans Griftlands"
 
 #: UI.MAIN_OVERLAY.CONTROLLER_TOP_BAR_TOGGLE
-#, fuzzy
 msgctxt "UI.MAIN_OVERLAY.CONTROLLER_TOP_BAR_TOGGLE"
 msgid "<c img='y' scale=1.0>"
-msgstr "échelle de 'c img'y' 1.0 '"
+msgstr "<c img='y' scale=1.0>"
 
 #: UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_LEFT
 #, fuzzy
 msgctxt "UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_LEFT"
 msgid "<c img='l_all'> Select"
-msgstr "<c img='l_all'>Sélectionnez"
+msgstr "<c img='l_all'> Sélectionnez"
 
 #: UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_RIGHT_CLOSE
 #, fuzzy
 msgctxt "UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_RIGHT_CLOSE"
 msgid "<c img='b'> Close menu bar"
-msgstr "<c img='b'>Fermer la barre de menu"
+msgstr "<c img='b'> Fermer la barre de menu"
 
 #: UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_RIGHT_INFO
-#, fuzzy
 msgctxt "UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_RIGHT_INFO"
 msgid "<c img='x'> Show info"
-msgstr "<c img='x'>Afficher les infos"
+msgstr "<c img='x'> Afficher les infos"
 
 #: UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_RIGHT_INFO_HIDE
 #, fuzzy
 msgctxt "UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_RIGHT_INFO_HIDE"
 msgid "<c img='x'> Hide info"
-msgstr "<c img='x'>Masquer les informations"
+msgstr "<c img='x'> Masquer les informations"
 
 #: UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_RIGHT_OPEN
-#, fuzzy
 msgctxt "UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_RIGHT_OPEN"
 msgid "<c img='a'> Open"
-msgstr "<c img='a'>Ouvert"
+msgstr "<c img='a'> Ouvert"
 
 #: UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_RIGHT_PAUSE
-#, fuzzy
 msgctxt "UI.MAIN_OVERLAY.CONTROLLER_TOP_CONTROLS_RIGHT_PAUSE"
 msgid "<c img='start'> Pause menu"
-msgstr "<c img='start'>Menu pause"
+msgstr "<c img='start'> Menu pause"
 
 #: UI.MAIN_OVERLAY.CREW_LABEL
-#, fuzzy
 msgctxt "UI.MAIN_OVERLAY.CREW_LABEL"
 msgid "PARTY"
-msgstr "Le groupe plein"
+msgstr "GROUPE"
 
 #: UI.MAIN_OVERLAY.FEEDBACK
 #, fuzzy
@@ -50864,7 +50787,6 @@ msgid "Send Us Feedback!"
 msgstr "Envoyez-nous vos commentaires!"
 
 #: UI.MAIN_OVERLAY.HOTKEY_BINDING
-#, fuzzy
 msgctxt "UI.MAIN_OVERLAY.HOTKEY_BINDING"
 msgid "{1}\nHotkey: {2#binding}"
 msgstr "{1}\nRaccourci: {2#binding}"
@@ -50906,10 +50828,9 @@ msgid "View Relationships"
 msgstr "Afficher les relations"
 
 #: UI.MINIGAME_OBJECTIVE
-#, fuzzy
 msgctxt "UI.MINIGAME_OBJECTIVE"
 msgid "OBJECTIVE"
-msgstr "<#OBJECTIVE>Progression de l'Amélioration</>"
+msgstr "OBJECTIF"
 
 #: UI.MONEY_INDICATOR.TOOLTIP
 #, fuzzy
@@ -50921,7 +50842,7 @@ msgstr "<b><#MONEY>Les Shills</#MONEY></b>\nShills sont la monnaie de Havaria."
 #, fuzzy
 msgctxt "UI.MOVIE_SCREEN.SKIP"
 msgid "Press {1#binding} to skip"
-msgstr "Appuyez sur le 1 'contraignant' pour sauter"
+msgstr "Appuyez sur le {1}contraignant' pour sauter"
 
 #: UI.NEGOTIATION_CARD_UPGRADES_READY
 #, fuzzy
@@ -50954,7 +50875,6 @@ msgid "Targets an opponent argument each turn for {1}-{2} damage."
 msgstr "Cible un argument d'adversaire à chaque tour pour {1} {2} dégâts."
 
 #: UI.NEGOTIATION_PANEL.ARGUMENT_RESOLVE
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.ARGUMENT_RESOLVE"
 msgid "Resolve {1}/{2}"
 msgstr "Détermination {1}/{2}"
@@ -50966,7 +50886,6 @@ msgid "Targets a friendly argument each turn for {1}-{2} damage."
 msgstr "Cible un argument amical à chaque tour pour des dégâts de {1}-{2}."
 
 #: UI.NEGOTIATION_PANEL.ARGUMENT_STRENGTH
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.ARGUMENT_STRENGTH"
 msgid "x{1}"
 msgstr "x{1}"
@@ -50984,7 +50903,6 @@ msgid "BOUNTY"
 msgstr "Chasseur de primes à double canon"
 
 #: UI.NEGOTIATION_PANEL.CHOOSE_CARDS
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.CHOOSE_CARDS"
 msgid "Choose {1} {1*card|cards}"
 msgstr "Choisissez {1} {1*carte|cartes}"
@@ -51014,10 +50932,9 @@ msgid "Are you sure you want to concede this negotiation?"
 msgstr "Etes-vous sûr de vouloir concéder cette né gociation ?"
 
 #: UI.NEGOTIATION_PANEL.CONFIRM_BTN
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.CONFIRM_BTN"
 msgid "CONFIRM"
-msgstr "Confirmer"
+msgstr "CONFIRMER"
 
 #: UI.NEGOTIATION_PANEL.CONTROLS_LEFT_CARD
 #, fuzzy
@@ -51038,10 +50955,9 @@ msgid "<c img='l_all'> Select argument"
 msgstr "<c img='l_all'>Sélectionner l'argument"
 
 #: UI.NEGOTIATION_PANEL.CONTROLS_RIGHT_CANCEL
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.CONTROLS_RIGHT_CANCEL"
 msgid "<c img='b'> Cancel"
-msgstr "<c img='b'>Annuler"
+msgstr "<c img='b'> Annuler"
 
 #: UI.NEGOTIATION_PANEL.CONTROLS_RIGHT_CHOOSE_CARD
 #, fuzzy
@@ -51053,7 +50969,7 @@ msgstr "<c img='a'>Choisissez la carte"
 #, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.CONTROLS_RIGHT_CONCEDE"
 msgid "<c img='rt'> Concede negotiation"
-msgstr "<c img='rt'>Négociation de concede"
+msgstr "<c img='rt'> Négociation de concede"
 
 #: UI.NEGOTIATION_PANEL.CONTROLS_RIGHT_ENDTURN
 #, fuzzy
@@ -51062,10 +50978,9 @@ msgid "<c img='x'> End turn {1}"
 msgstr "<c img='x'>Fin de {1} de tour"
 
 #: UI.NEGOTIATION_PANEL.CONTROLS_RIGHT_INSPECT
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.CONTROLS_RIGHT_INSPECT"
 msgid "<c img='r'> Inspect"
-msgstr "<c img='r'>Inspecter"
+msgstr "<c img='r'> Inspecter"
 
 #: UI.NEGOTIATION_PANEL.CONTROLS_RIGHT_OPEN_CARD
 #, fuzzy
@@ -51116,7 +51031,6 @@ msgid "Occurs in"
 msgstr "Se produit dans"
 
 #: UI.NEGOTIATION_PANEL.COUNTDOWN_VALUE
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.COUNTDOWN_VALUE"
 msgid "<b>{1}</b> {1*turn|turns}"
 msgstr "<b>{1}</b> {1*tour|tours}"
@@ -51131,7 +51045,7 @@ msgstr "Subira <#HEALTH>{1}  dégâts</> de {2}"
 #, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.EFFECT_DETAILS_TOOLTIP"
 msgid "\n\n<b>Modifiers Applied:</b>\n{1}"
-msgstr "<b>Modificateurs appliqués:</b>\n{1}"
+msgstr "\n\n<b>Modificateurs appliqués:</b>\n{1}"
 
 #: UI.NEGOTIATION_PANEL.END_TURN
 #, fuzzy
@@ -51140,7 +51054,6 @@ msgid "<b><#TITLE>End Turn</></>\nPasses this turn and redraws your hand.\nYour 
 msgstr "<b><#TITLE>Tour de fin\nPasse ce tour et redessine votre main.\nVos actions seront restaurées au début de votre prochain tour.</#TITLE></b>"
 
 #: UI.NEGOTIATION_PANEL.ENEMY_TURN
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.ENEMY_TURN"
 msgid "Enemy Turn"
 msgstr "Tour ennemi"
@@ -51158,7 +51071,6 @@ msgid "INCEPTION"
 msgstr "Création"
 
 #: UI.NEGOTIATION_PANEL.INTENT
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.INTENT"
 msgid "Intent"
 msgstr "intention"
@@ -51206,7 +51118,6 @@ msgid "Negotiation Success!"
 msgstr "Succès de négociation!"
 
 #: UI.NEGOTIATION_PANEL.NO_RESOLVE
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.NO_RESOLVE"
 msgid "INVULNERABLE"
 msgstr "INVULNÉRABLE"
@@ -51239,7 +51150,7 @@ msgstr "Détermination"
 #, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.STOLEN_CARD"
 msgid "Card stolen: {1#card}"
-msgstr "Carte volée : carte de 1 euro"
+msgstr "Carte volée : carte de {1}"
 
 #: UI.NEGOTIATION_PANEL.STRENGTH
 #, fuzzy
@@ -51266,7 +51177,6 @@ msgid "Reduce your opponent's core argument's resolve to 0 to win the negotiatio
 msgstr "Réduisez la détermination de l'argument de base de votre adversaire à 0 pour gagner la négociation !"
 
 #: UI.NEGOTIATION_PANEL.TOOLTIP
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.TOOLTIP"
 msgid "<b><#TITLE>Card Type</></b>\n{1}"
 msgstr "<b><#TITLE>Type de carte</#TITLE></b>\n{1}"
@@ -51278,7 +51188,6 @@ msgid "You are about to negotiate for the first time. Would you like to see a qu
 msgstr "Vous êtes sur le point de négocier pour la première fois. Aimeriez-vous voir un tutoriel rapide ? Vous pouvez le consulter à tout moment à partir du menu pause.."
 
 #: UI.NEGOTIATION_PANEL.TUTORIAL_NO
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.TUTORIAL_NO"
 msgid "No"
 msgstr "Non"
@@ -51325,7 +51234,6 @@ msgid "Start Negotiation"
 msgstr "Démarrer la négociation"
 
 #: UI.NEGOTIATION_PREVIEW.RESOLVE
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PREVIEW.RESOLVE"
 msgid "{1} / {2}"
 msgstr "{1} / {2}"
@@ -51337,13 +51245,11 @@ msgid "RESOLVE"
 msgstr "Détermination"
 
 #: UI.NEGOTIATION_PREVIEW.TITLE
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PREVIEW.TITLE"
 msgid "NEGOTIATION"
 msgstr "NÉOCIATION"
 
 #: UI.NEGOTIATION_PREVIEW.VS
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PREVIEW.VS"
 msgid "<i>VS</>"
 msgstr "<i>CONTRE</>"
@@ -51372,10 +51278,9 @@ msgid "LOCKED"
 msgstr "VERROUILLÉ"
 
 #: UI.NEW_GAME_SCREEN.ANIM_PROGRESS_PROGRESS
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.ANIM_PROGRESS_PROGRESS"
 msgid "UNLOCKED"
-msgstr "Déverrouillé"
+msgstr "DEVERROUILLÉ"
 
 #: UI.NEW_GAME_SCREEN.ANIM_PROGRESS_TOOLTIP
 #, fuzzy
@@ -51384,13 +51289,11 @@ msgid "<#TITLE>{1}'s overall unlock progress.</>\n{2}/{3} PRESTIGE\n{4}/{5} CARD
 msgstr "L'ensemble de <#TITLE>{1} débloque les progrès.\n{2}/{3} PRESTIGE\n{4}/{5} CARD SETS\n{6}/{7} OUTFITS"
 
 #: UI.NEW_GAME_SCREEN.ANIM_PROGRESS_VALUE
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.ANIM_PROGRESS_VALUE"
 msgid "{1#percent}"
-msgstr "TAUX DE RESTAURATION DU SOMMEIL: {1#percent}"
+msgstr "{1#percent}"
 
 #: UI.NEW_GAME_SCREEN.CLOSE_BUTTON
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.CLOSE_BUTTON"
 msgid "Main Menu"
 msgstr "Menu principal"
@@ -51399,13 +51302,12 @@ msgstr "Menu principal"
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.CONTROLS_LABEL_TAB_CHARACTERS"
 msgid "<c img='lb'><c img='rb'> Change character"
-msgstr "<c img='lb'><c img='rb'>Changer de caractère"
+msgstr "<c img='lb'><c img='rb'> Changer de caractère"
 
 #: UI.NEW_GAME_SCREEN.CONTROLS_RIGHT_BACK
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.CONTROLS_RIGHT_BACK"
 msgid "<c img='b'> Back"
-msgstr "<c img='b'>Précédent"
+msgstr "<c img='b'> Retour"
 
 #: UI.NEW_GAME_SCREEN.CONTROLS_RIGHT_CARD_PREVIEWUPGRADES
 #, fuzzy
@@ -51435,7 +51337,7 @@ msgstr "<c img='rt'>Désélectionnez tous les"
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.CONTROLS_RIGHT_SAVEFILE_DELETE"
 msgid "<c img='rt'> Delete save file"
-msgstr "<c img='rt'>Supprimer le fichier d'enregistrement"
+msgstr "<c img='rt'> Supprimer le fichier d'enregistrement"
 
 #: UI.NEW_GAME_SCREEN.CONTROLS_RIGHT_START
 #, fuzzy
@@ -51447,13 +51349,13 @@ msgstr "<c img='x'>Démarrer l'exécution"
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.CONTROLS_RIGHT_UNLOCK_CONTENTS"
 msgid "<c img='rt'> View contents"
-msgstr "<c img='rt'>Afficher le contenu"
+msgstr "<c img='rt'> Afficher le contenu"
 
 #: UI.NEW_GAME_SCREEN.SAVEFILE_LEGACY
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SAVEFILE_LEGACY"
 msgid "{1} {1*GENERATION|GENERATIONS}"
-msgstr "{1} '1'GENERATION' GÉNÉRATIONS"
+msgstr "{1} {1}GENERATION' GÉNÉRATIONS"
 
 #: UI.NEW_GAME_SCREEN.SAVEFILE_LEGACY_TT
 #, fuzzy
@@ -51465,7 +51367,7 @@ msgstr "Le nombre de fois où vous avez été tué dans cette course."
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SAVEFILE_MUTATORS"
 msgid "{1} {1*MUTATOR|MUTATORS}"
-msgstr "{1} '1'MUTATOR' MUTATORSMD"
+msgstr "{1} {1}MUTATOR' MUTATORSMD"
 
 #: UI.NEW_GAME_SCREEN.SAVEFILE_MUTATORS_TT
 #, fuzzy
@@ -51480,7 +51382,6 @@ msgid "ACTIVE RUN"
 msgstr "PARTIE EN COUR"
 
 #: UI.NEW_GAME_SCREEN.SAVEFILE_TITLE_DEV
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SAVEFILE_TITLE_DEV"
 msgid "DEV: {1}"
 msgstr "DEV: {1}"
@@ -51560,7 +51461,7 @@ msgstr "Mutators actifs!"
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_MUTATORS_SUBTITLE"
 msgid "{1} {1*MUTATOR|MUTATORS} ENABLED"
-msgstr "{1} '1'MUTATOR' MUTATORSMD ACTIVÉ"
+msgstr "{1} {1}MUTATOR' MUTATORSMD ACTIVÉ"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_MUTATORS_SUBTITLE_NONE
 #, fuzzy
@@ -51590,7 +51491,7 @@ msgstr "Démarrer une nouvelle partie"
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_NEW_RUN_CANCEL"
 msgid "<p img='UI/newgame_sidebar_back.tex'> BACK TO SAVEFILES"
-msgstr "<p img='UI/newgame_sidebar_back.tex'>RETOUR À SAVEFILES"
+msgstr "<p img='UI/newgame_sidebar_back.tex'> RETOUR À SAVEFILES"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_OUTFITS_LOCKED
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_OUTFITS_LOCKED"
@@ -51648,7 +51549,6 @@ msgid "Use <c img='rt'> to delete save files."
 msgstr "Utilisez <c img='rt'>pour supprimer les fichiers sauvez."
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_UNLOCKS_LOCKED
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_UNLOCKS_LOCKED"
 msgid "LOCKED"
 msgstr "VERROUILLÉ"
@@ -51659,7 +51559,6 @@ msgid "{1}/{2}"
 msgstr "{1}/{2}"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_UNLOCKS_SUBTITLE
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_UNLOCKS_SUBTITLE"
 msgid "{1} {1*SET|SETS} DISABLED"
 msgstr "{1} {1*SET|SETS} DÉSACTIVÉS"
@@ -51680,7 +51579,7 @@ msgstr "ENSEMBLES DE CARTES"
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MUTATORS_INFO"
 msgid "{1} {1*mutator|mutators} active."
-msgstr "{1} actif de 1'mutator'mutators'."
+msgstr "{1} {1*mutator|mutators} activé'."
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MUTATORS_RANDOM
 #, fuzzy
@@ -51689,10 +51588,9 @@ msgid "Randomize 3"
 msgstr "Randomiser 3"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MUTATORS_RANDOM_CONTROLLER
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MUTATORS_RANDOM_CONTROLLER"
 msgid "<c img='lt'> Randomize 3"
-msgstr "<c img='lt'>Randomiser 3"
+msgstr "<c img='lt'> Randomiser 3"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MUTATORS_TEXT
 #, fuzzy
@@ -51754,7 +51652,6 @@ msgid "Pick {1}'s starting outfit. You can change it at home during your run."
 msgstr "Choisissez {1}'est la tenue de départ. Vous pouvez le changer à la maison pendant votre course."
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_OUTFITS_TITLE
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_OUTFITS_TITLE"
 msgid "OUTFIT"
 msgstr "TENUE"
@@ -51771,7 +51668,6 @@ msgid "LOCKED"
 msgstr "VERROUILLÉ"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_PRESTIGE_NEW
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_PRESTIGE_NEW"
 msgid "New"
 msgstr "NOUVEAU"
@@ -51792,13 +51688,13 @@ msgstr "DIFFICULTER"
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_INFO"
 msgid "Use <p img='icons_mouse/rmb.tex'> to toggle sets. <#PENALTY>{1} {1*set|sets} disabled.</>"
-msgstr "Utiliser<p img='icons_mouse/rmb.tex'>pour basculer les ensembles. <#PENALTY>{1} '1'set's's' désactivé.</#PENALTY>"
+msgstr "Utiliser<p img='icons_mouse/rmb.tex'>pour basculer les ensembles. <#PENALTY>{1} {1}set's's' désactivé.</#PENALTY>"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_INFO_CONTROLLER
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_INFO_CONTROLLER"
 msgid "Use <c img='x'> to preview sets. <#PENALTY>{1} {1*set|sets} disabled.</>"
-msgstr "Utilisez <c img='x'>pour prévisualiser les ensembles. <#PENALTY>{1} '1'set's's' désactivé.</#PENALTY> "
+msgstr "Utilisez <c img='x'>pour prévisualiser les ensembles. <#PENALTY>{1} {1}set's's' désactivé.</#PENALTY> "
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_SELECTALL
 #, fuzzy
@@ -51813,13 +51709,11 @@ msgid "<c img='lt'> Enable all"
 msgstr "<c img='lt'>Activer tous les"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_STATUS_DISABLED
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_STATUS_DISABLED"
 msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_STATUS_ENABLED
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_STATUS_ENABLED"
 msgid "ENABLED"
 msgstr "ACTIVÉE"
@@ -51845,13 +51739,12 @@ msgstr "ENSEMBLES DE CARTES"
 #, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_UNSELECTALL"
 msgid "Disable all"
-msgstr "Désactiver Mods"
+msgstr "Désactiver tout"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_UNSELECTALL_CONTROLLER
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_UNLOCKS_UNSELECTALL_CONTROLLER"
 msgid "<c img='rt'> Disable all"
-msgstr "<c img='rt'>Désactiver tous les"
+msgstr "<c img='rt'> Désactiver tous"
 
 #: UI.NEW_GAME_SCREEN.START_BUTTON
 #, fuzzy
@@ -51872,7 +51765,6 @@ msgid "Bloom"
 msgstr "Floue"
 
 #: UI.OPTIONS_SCREEN.BLOOM_OFF
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.BLOOM_OFF"
 msgid "OFF"
 msgstr "NON"
@@ -51884,7 +51776,6 @@ msgid "Increased performance by hiding the glow."
 msgstr "Augmentation de la performance en cachant la lueur"
 
 #: UI.OPTIONS_SCREEN.BLOOM_ON
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.BLOOM_ON"
 msgid "ON"
 msgstr "ON"
@@ -51902,7 +51793,6 @@ msgid "Color Blind Settings"
 msgstr "RÉGLAGES DES COULEURS"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND_DEFAULT
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_DEFAULT"
 msgid "Default"
 msgstr "DÉFAUT"
@@ -51974,7 +51864,6 @@ msgid "Confirm Card Selection"
 msgstr "CONFIRMER LA SÉLECTION DE LA CARTE"
 
 #: UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED"
 msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
@@ -51986,7 +51875,6 @@ msgid "During card selection, a single click will select a card."
 msgstr "Lors de la sélection de la carte, un seul clic sélectionnera une carte."
 
 #: UI.OPTIONS_SCREEN.CONFIRM_SELECT_ENABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_ENABLED"
 msgid "ENABLED"
 msgstr "ACTIVÉE"
@@ -51998,13 +51886,11 @@ msgid "During card selection, two clicks are required to select a card (good for
 msgstr "Lors de la sélection de la carte, deux clics sont nécessaires pour sélectionner une carte.\n(bon pour les touchpad)"
 
 #: UI.OPTIONS_SCREEN.CONTROLS_LABEL_TAB_LEFT
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONTROLS_LABEL_TAB_LEFT"
 msgid "<c img='lb'>"
 msgstr "<c img='lb'>"
 
 #: UI.OPTIONS_SCREEN.CONTROLS_LABEL_TAB_RIGHT
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONTROLS_LABEL_TAB_RIGHT"
 msgid "<c img='rb'>"
 msgstr "<c img='rb'>"
@@ -52013,7 +51899,7 @@ msgstr "<c img='rb'>"
 #, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONTROLS_LEFT"
 msgid "<c img='l_all'> Select option"
-msgstr "<c img='l_all'>Sélectionner l'option"
+msgstr "<c img='l_all'> Sélectionner l'option"
 
 #: UI.OPTIONS_SCREEN.CONTROLS_RIGHT_APPLY
 #, fuzzy
@@ -52035,13 +51921,12 @@ msgstr "<c img='a'> Ouvrir"
 #, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONTROLS_RIGHT_REVERT"
 msgid "<c img='lt'> Revert changes"
-msgstr "<c img='lt'>Revenir les changements"
+msgstr "<c img='lt'> Revenir les changements"
 
 #: UI.OPTIONS_SCREEN.CREDITS
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CREDITS"
 msgid "Credits"
-msgstr "CrÉdits"
+msgstr "CRÉDITS"
 
 #: UI.OPTIONS_SCREEN.CREDITS_DESC
 #, fuzzy
@@ -52067,13 +51952,11 @@ msgid "You're in fullscreen mode, so the game window uses the exact resolution o
 msgstr "Vous êtes en mode plein écran, la fenêtre du jeu utilise donc la résolution exacte de votre écran.\n<#SOUS-TITRE> Résolution maximale</> ci-dessous."
 
 #: UI.OPTIONS_SCREEN.DETAILLEVEL
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL"
 msgid "Level Of Detail"
 msgstr "NIVEAU DE DÉTAIL"
 
 #: UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH"
 msgid "HIGH"
 msgstr "HAUT"
@@ -52085,7 +51968,6 @@ msgid "High quality fog and distance blur."
 msgstr "Haute qualité pour le flou de distance"
 
 #: UI.OPTIONS_SCREEN.DETAILLEVEL_LOW
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_LOW"
 msgid "LOW"
 msgstr "BAS"
@@ -52103,13 +51985,11 @@ msgid "Not implemented yet"
 msgstr "Pas encore mis en oeuvre"
 
 #: UI.OPTIONS_SCREEN.FAST_MODE
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FAST_MODE"
 msgid "Fast Mode"
 msgstr "MODE RAPIDE"
 
 #: UI.OPTIONS_SCREEN.FAST_MODE_DISABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_DISABLED"
 msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
@@ -52121,7 +52001,6 @@ msgid "The game will play at normal speed."
 msgstr "Le jeu se déroulera à une vitesse normale."
 
 #: UI.OPTIONS_SCREEN.FAST_MODE_ENABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_ENABLED"
 msgid "ENABLED"
 msgstr "ACTIVÉE"
@@ -52139,7 +52018,6 @@ msgid "Framerate Limiter"
 msgstr "Limiteur de framerate"
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER_30HZ
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FRAMELIMITER_30HZ"
 msgid "30Hz"
 msgstr "30Hz"
@@ -52151,10 +52029,9 @@ msgid "The game will render at a maximum of 30 frames per second, possibly savin
 msgstr "Le jeu rendra à un maximum de 30 images par seconde, peut-être économiser la vie de la batterie sur les ordinateurs portables."
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER_60HZ
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FRAMELIMITER_60HZ"
 msgid "60Hz"
-msgstr "60Hz (en)"
+msgstr "60Hz"
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER_60HZ_DESC
 #, fuzzy
@@ -52163,7 +52040,6 @@ msgid "The game will render at a maximum of 60 frames per second."
 msgstr "Le jeu rendra à un maximum de 60 images par seconde."
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER_OFF
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FRAMELIMITER_OFF"
 msgid "OFF"
 msgstr "NON"
@@ -52175,13 +52051,11 @@ msgid "The game will render as fast as the refresh rate of the monitor."
 msgstr "Le jeu rendra aussi rapide que le taux de rafraîchissement de l'écran."
 
 #: UI.OPTIONS_SCREEN.FULLSCREEN
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN"
 msgid "Fullscreen"
 msgstr "PLEIN ÉCRAN"
 
 #: UI.OPTIONS_SCREEN.FULLSCREEN_OFF
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_OFF"
 msgid "OFF"
 msgstr "NON"
@@ -52193,7 +52067,6 @@ msgid "The game window can be positioned and resized at will."
 msgstr "La fenêtre de jeu peuvent être positionnées et redimensionnées à volonté."
 
 #: UI.OPTIONS_SCREEN.FULLSCREEN_ON
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_ON"
 msgid "ON"
 msgstr "ON"
@@ -52205,13 +52078,11 @@ msgid "The game window fills up your display."
 msgstr "La fenêtre de jeu prend tout votre écran."
 
 #: UI.OPTIONS_SCREEN.FX
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FX"
 msgid "Sound Effects Volume"
 msgstr "EFFECT SONORES"
 
 #: UI.OPTIONS_SCREEN.FX_ACTIONS
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FX_ACTIONS"
 msgid "Action Sounds"
 msgstr "SON ACTION"
@@ -52271,10 +52142,9 @@ msgid "The volume of user interface sounds (clicks, mouse hovers, transitions, e
 msgstr "Le volume des sons de l'interface utilisateur (clics, survol de la souris, transitions, etc.)"
 
 #: UI.OPTIONS_SCREEN.LANGUAGES
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.LANGUAGES"
 msgid "Languages"
-msgstr "Langue"
+msgstr "Langues"
 
 #: UI.OPTIONS_SCREEN.LANGUAGES_DESC
 msgctxt "UI.OPTIONS_SCREEN.LANGUAGES_DESC"
@@ -52282,13 +52152,11 @@ msgid "<#SUBTITLE>WARNING:</> Changing the language will require the game to re-
 msgstr "<#SUBTITLE>ATTENTION:</> Changer la langue nécessitera de relancer le jeu. Assurez-vous que vos progrès sont sauvegardés."
 
 #: UI.OPTIONS_SCREEN.LANGUAGES_ENABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.LANGUAGES_ENABLED"
 msgid "ENABLED"
 msgstr "ACTIVÉE"
 
 #: UI.OPTIONS_SCREEN.MASTER
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.MASTER"
 msgid "Master Volume"
 msgstr "VOLUME PRINCIPAL"
@@ -52312,13 +52180,11 @@ msgid "The game will render at a maximum of {1} vertical pixels. Increases perfo
 msgstr "Le jeu rendra à un maximum de 1 pixels verticaux. Augmente les performances pour les hautes résolutions tout en sacrifiant la qualité de l'image."
 
 #: UI.OPTIONS_SCREEN.METRICS
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.METRICS"
 msgid "Metrics"
 msgstr "TÉLÉMÉTRIE"
 
 #: UI.OPTIONS_SCREEN.METRICS_DISABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.METRICS_DISABLED"
 msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
@@ -52329,7 +52195,6 @@ msgid "The game won't upload any gameplay data to Klei's servers."
 msgstr "Le jeu ne transfère aucune donnée de gameplay sur les serveurs de Klei.."
 
 #: UI.OPTIONS_SCREEN.METRICS_ENABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.METRICS_ENABLED"
 msgid "ENABLED"
 msgstr "ACTIVÉE"
@@ -52341,7 +52206,6 @@ msgid "The game will send gameplay data to Klei's servers, to help us improve th
 msgstr "le jeu enverra des données de jeu au serveur de Klei, pour nous aider à améliorer le jeu."
 
 #: UI.OPTIONS_SCREEN.MUSIC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.MUSIC"
 msgid "Music Volume"
 msgstr "MUSIQUE"
@@ -52361,7 +52225,7 @@ msgstr "RÉINITIALISER LE PROFIL"
 #, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_BODY"
 msgid "<b><#PENALTY>WARNING:</></> This will reset all of your character XP and unlocks. This action can not be undone. Are you <b>absolutely sure</> you want to do this?"
-msgstr "<b><#PENALTY>AVERTISSEMENT:</></>\nCeci réinitialise tout votre personnage XP et objet déverrouille. Cette action ne peut pas être annulée. Êtes-vous <b>absolument sûr</> de vouloir faire cela?"
+msgstr "<b><#PENALTY>AVERTISSEMENT:</></> Ceci réinitialise tout votre personnage XP et objet déverrouille. Cette action ne peut pas être annulée. Êtes-vous <b>absolument sûr</> de vouloir faire cela?"
 
 #: UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_BODY
 #, fuzzy
@@ -52388,13 +52252,11 @@ msgid "Reset your meta progression, stats, and unlocks. <b>You can't do this whi
 msgstr "Réinitialisez votre méta progression, vos statistiques et vos déverrouillages. <b>Vous ne pouvez pas faire cela pendant que vous êtes au milieu d'une course.</b>"
 
 #: UI.OPTIONS_SCREEN.RESET_PROFILE_TITLE
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_TITLE"
 msgid "Reset Profile"
 msgstr "Réinitialiser le profil"
 
 #: UI.OPTIONS_SCREEN.RESOLUTION
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.RESOLUTION"
 msgid "Resolution"
 msgstr "RÉSOLUTION"
@@ -52418,7 +52280,6 @@ msgid "Skip Cinematics"
 msgstr "Passer les cinématiques"
 
 #: UI.OPTIONS_SCREEN.SKIP_MOVIES_DISABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.SKIP_MOVIES_DISABLED"
 msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
@@ -52430,7 +52291,6 @@ msgid "The game will play cinematics."
 msgstr "Le jeu va jouer les cinématiques."
 
 #: UI.OPTIONS_SCREEN.SKIP_MOVIES_ENABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.SKIP_MOVIES_ENABLED"
 msgid "ENABLED"
 msgstr "ACTIVÉE"
@@ -52442,13 +52302,11 @@ msgid "The game will skip cinematics."
 msgstr "Le jeu va sauter les cinématiques."
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE"
 msgid "Streaming Mode"
 msgstr "MODE STREAMING"
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED"
 msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
@@ -52460,7 +52318,6 @@ msgid "Default game UI."
 msgstr "Interface par défaut du jeu"
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED"
 msgid "LEFT SIDE"
 msgstr "CÔTÉ GAUCHE"
@@ -52478,25 +52335,21 @@ msgid "The game UI will leave a safe area on the bottom right corner for a camer
 msgstr "L'interface utilisateur du jeu laissera une zone libre dans le coin inférieur droit pour une positionner une webcam."
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_RIGHT
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_RIGHT"
 msgid "RIGHT SIDE"
 msgstr "CÔTÉ DROIT"
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE_OVERLAY_TEXT
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_OVERLAY_TEXT"
 msgid "SAFE AREA FOR STREAMING OVERLAY"
 msgstr "ZONE LIBRE POUR SUPERPOSER UN CONTENUE"
 
 #: UI.OPTIONS_SCREEN.TAB_AUDIO
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.TAB_AUDIO"
 msgid "AUDIO"
 msgstr "SON"
 
 #: UI.OPTIONS_SCREEN.TAB_GAMEPLAY
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.TAB_GAMEPLAY"
 msgid "GAMEPLAY"
 msgstr "JOUABILITÉ"
@@ -52508,7 +52361,6 @@ msgid "GRAPHICS"
 msgstr "VIDEO"
 
 #: UI.OPTIONS_SCREEN.TAB_OTHER
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.TAB_OTHER"
 msgid "OTHER"
 msgstr "AUTRE"
@@ -52526,19 +52378,16 @@ msgid "The volume of character and narrator voices."
 msgstr "Volume des voix des personnage et du narrateur"
 
 #: UI.OPTION_INDICATOR.REASON
-#, fuzzy
 msgctxt "UI.OPTION_INDICATOR.REASON"
 msgid "Reason: {1}"
-msgstr "Motif: '1'"
+msgstr "Motif: {1}"
 
 #: UI.OPTION_PICKER.SKIP
-#, fuzzy
 msgctxt "UI.OPTION_PICKER.SKIP"
 msgid "Skip"
 msgstr "Passer"
 
 #: UI.OVERLAYS.BACK
-#, fuzzy
 msgctxt "UI.OVERLAYS.BACK"
 msgid "Back"
 msgstr "Retour"
@@ -52561,7 +52410,6 @@ msgid "Forward"
 msgstr "En avant"
 
 #: UI.PAUSEMENU.ABANDONRUN
-#, fuzzy
 msgctxt "UI.PAUSEMENU.ABANDONRUN"
 msgid "ABANDON THIS RUN"
 msgstr "ABANDONNER CETTE PATIE"
@@ -52579,7 +52427,6 @@ msgid "Abandon this run"
 msgstr "Abandonner cette partie"
 
 #: UI.PAUSEMENU.BACK
-#, fuzzy
 msgctxt "UI.PAUSEMENU.BACK"
 msgid "BACK"
 msgstr "RETOUR"
@@ -52598,58 +52445,50 @@ msgstr "COMPENDIUM"
 #, fuzzy
 msgctxt "UI.PAUSEMENU.CONTROLS_LEFT_SELECT"
 msgid "<c img='l_all'> Select"
-msgstr "<c img='l_all'>Sélectionnez"
+msgstr "<c img='l_all'> Sélectionnez"
 
 #: UI.PAUSEMENU.CONTROLS_RIGHT_ACCEPT
 #, fuzzy
 msgctxt "UI.PAUSEMENU.CONTROLS_RIGHT_ACCEPT"
 msgid "<c img='a'> Pick option"
-msgstr "<c img='a'>Option de sélection"
+msgstr "<c img='a'> Option de sélection"
 
 #: UI.PAUSEMENU.CONTROLS_RIGHT_BACK
-#, fuzzy
 msgctxt "UI.PAUSEMENU.CONTROLS_RIGHT_BACK"
 msgid "<c img='b'> Back"
-msgstr "<c img='b'>Précédent"
+msgstr "<c img='b'> Retour"
 
 #: UI.PAUSEMENU.EXIT
-#, fuzzy
 msgctxt "UI.PAUSEMENU.EXIT"
 msgid "EXIT"
 msgstr "SORTIE"
 
 #: UI.PAUSEMENU.LOAD
-#, fuzzy
 msgctxt "UI.PAUSEMENU.LOAD"
 msgid "LOAD"
 msgstr "CHARGER"
 
 #: UI.PAUSEMENU.NEGOTIATION
-#, fuzzy
 msgctxt "UI.PAUSEMENU.NEGOTIATION"
 msgid "NEGOTIATION"
 msgstr "NÉOCIATION"
 
 #: UI.PAUSEMENU.OPTIONS
-#, fuzzy
 msgctxt "UI.PAUSEMENU.OPTIONS"
 msgid "OPTIONS"
 msgstr "OPTIONS"
 
 #: UI.PAUSEMENU.RESUME
-#, fuzzy
 msgctxt "UI.PAUSEMENU.RESUME"
 msgid "RESUME"
 msgstr "REPRENDRE"
 
 #: UI.PAUSEMENU.RETURNTOMAINMENU
-#, fuzzy
 msgctxt "UI.PAUSEMENU.RETURNTOMAINMENU"
 msgid "RETURN TO MAIN MENU"
 msgstr "RETOUR AU MENU PRINCIPAL"
 
 #: UI.PAUSEMENU.SAVE
-#, fuzzy
 msgctxt "UI.PAUSEMENU.SAVE"
 msgid "SAVE"
 msgstr "SAUVEGARDER"
@@ -52661,13 +52500,11 @@ msgid "PAUSED"
 msgstr "PAUSE"
 
 #: UI.PAUSEMENU.TUTORIALS
-#, fuzzy
 msgctxt "UI.PAUSEMENU.TUTORIALS"
 msgid "TUTORIALS"
 msgstr "TUTORIELS"
 
 #: UI.PICKLEGACY_SCREEN.BACK_DIALOG_NO
-#, fuzzy
 msgctxt "UI.PICKLEGACY_SCREEN.BACK_DIALOG_NO"
 msgid "Cancel"
 msgstr "Cancel"
@@ -52679,7 +52516,6 @@ msgid "If you leave, you forgo your current legacy and have to start a new run f
 msgstr "Si vous partez, vous renoncerà à votre héritage actuel et devez commencer une nouvelle course à partir de zéro.\nVos déverrouillages permanents restent à travers les pistes."
 
 #: UI.PICKLEGACY_SCREEN.BACK_DIALOG_TITLE
-#, fuzzy
 msgctxt "UI.PICKLEGACY_SCREEN.BACK_DIALOG_TITLE"
 msgid "Abandon run?"
 msgstr "Abandonner la partie?"
@@ -52691,7 +52527,6 @@ msgid "Leave to Menu"
 msgstr "Laisser au menu"
 
 #: UI.PICKLEGACY_SCREEN.BUTTON_CONTINUE
-#, fuzzy
 msgctxt "UI.PICKLEGACY_SCREEN.BUTTON_CONTINUE"
 msgid "Continue"
 msgstr "Continuer"
@@ -52700,19 +52535,19 @@ msgstr "Continuer"
 #, fuzzy
 msgctxt "UI.PICKLEGACY_SCREEN.CONTROLS_LEFT"
 msgid "<c img='l_all'> Select legacy"
-msgstr "<c img='l_all'>Sélectionnez l'héritage"
+msgstr "<c img='l_all'> Sélectionnez l'héritage"
 
 #: UI.PICKLEGACY_SCREEN.CONTROLS_RIGHT_BACK
 #, fuzzy
 msgctxt "UI.PICKLEGACY_SCREEN.CONTROLS_RIGHT_BACK"
 msgid "<c img='b'> Leave to menu"
-msgstr "<c img='b'>Laisser au menu"
+msgstr "<c img='b'> Laisser au menu"
 
 #: UI.PICKLEGACY_SCREEN.CONTROLS_RIGHT_CONTINUE
 #, fuzzy
 msgctxt "UI.PICKLEGACY_SCREEN.CONTROLS_RIGHT_CONTINUE"
 msgid "<c img='a'> Pick legacy"
-msgstr "<c img='a'>Choisissez l'héritage"
+msgstr "<c img='a'> Choisissez l'héritage"
 
 #: UI.PICKLEGACY_SCREEN.PERMA_DESC
 #, fuzzy
@@ -52727,7 +52562,6 @@ msgid "Choose Your Legacy"
 msgstr "Choisissez votre héritage"
 
 #: UI.PICK_COIN_SCREEN.CAN_NOT_INSTALL
-#, fuzzy
 msgctxt "UI.PICK_COIN_SCREEN.CAN_NOT_INSTALL"
 msgid "<#PENALTY>CAN NOT INSTALL\nNO EMPTY SLOT</>"
 msgstr "<#PENALTY>NE PEUT PAS INSTALLER\nPAS D'EMPLACEMENT VIDE</>"
@@ -52751,19 +52585,16 @@ msgid "<c img='b'> Decline (Gain {1} shills instead)"
 msgstr "<c img='b'>Déclin (Gain {1} shills à la place)"
 
 #: UI.PICK_COIN_SCREEN.CONTROLS_RIGHT_NO_MONEY
-#, fuzzy
 msgctxt "UI.PICK_COIN_SCREEN.CONTROLS_RIGHT_NO_MONEY"
 msgid "<c img='b'> Decline"
-msgstr "<c img='b'>Déclin"
+msgstr "<c img='b'> Décliner"
 
 #: UI.PICK_COIN_SCREEN.DETAILS_SUBTITLE
-#, fuzzy
 msgctxt "UI.PICK_COIN_SCREEN.DETAILS_SUBTITLE"
 msgid "<#{1}>{2#upper}</>"
 msgstr "<#{1}>{2#upper}</>"
 
 #: UI.PICK_COIN_SCREEN.SKIP_GRAFT
-#, fuzzy
 msgctxt "UI.PICK_COIN_SCREEN.SKIP_GRAFT"
 msgid "Skip"
 msgstr "Passer"
@@ -52772,7 +52603,7 @@ msgstr "Passer"
 #, fuzzy
 msgctxt "UI.PICK_COIN_SCREEN.SLOT_SUBTITLE"
 msgid "<#{1}>{2} COIN</>"
-msgstr "{1}'{2} COIN"
+msgstr "<#{1}>{2} COIN</>"
 
 #: UI.PICK_COIN_SCREEN.SUBTITLE
 #, fuzzy
@@ -52853,25 +52684,21 @@ msgid "Available Job: <b>{1}</>\n\n{2}"
 msgstr "Emploi disponible: <b>{1}\n\n{2}</b>"
 
 #: UI.QUEST_RANK.TOOLTIP
-#, fuzzy
 msgctxt "UI.QUEST_RANK.TOOLTIP"
 msgid "Rank {1}"
 msgstr "Rang {1}"
 
 #: UI.QUEST_STATUS.ACTIVE_TYPE
-#, fuzzy
 msgctxt "UI.QUEST_STATUS.ACTIVE_TYPE"
 msgid "ACTIVE QUEST"
 msgstr "QUÊTE ACTIVE"
 
 #: UI.QUEST_STATUS.COMPLETED_DESC
-#, fuzzy
 msgctxt "UI.QUEST_STATUS.COMPLETED_DESC"
 msgid "<#BONUS>QUEST COMPLETE</>\n{1}"
 msgstr "<#BONUS>QUETE TERMINER</>\n{1}"
 
 #: UI.QUEST_STATUS.COMPLETED_TYPE
-#, fuzzy
 msgctxt "UI.QUEST_STATUS.COMPLETED_TYPE"
 msgid "<#BONUS>COMPLETED QUEST</>"
 msgstr "<#BONUS>QUETE TERMINER</>"
@@ -52895,7 +52722,6 @@ msgid "Drop Quest"
 msgstr "Abandonner la quête"
 
 #: UI.QUEST_STATUS.FAILED_DESC
-#, fuzzy
 msgctxt "UI.QUEST_STATUS.FAILED_DESC"
 msgid "<#PENALTY>QUEST FAILED</>\n{1}"
 msgstr "<#PENALTY>ECHEC DE LA QUETE</>\n{1}"
@@ -52907,7 +52733,6 @@ msgid "<#PENALTY>FAILED QUEST</>"
 msgstr "<#PENALTY>ECHEC DE LA QUETE</>"
 
 #: UI.QUEST_STATUS.NEW_TYPE
-#, fuzzy
 msgctxt "UI.QUEST_STATUS.NEW_TYPE"
 msgid "NEW QUEST"
 msgstr "NOUVELLE QUÊTE"
@@ -52925,7 +52750,6 @@ msgid "Will become active if this person hates you"
 msgstr "Deviendra actif si cette personne vous hais"
 
 #: UI.RELATIONSHIP_SCREEN.BANE_UNKNOWN_NAME
-#, fuzzy
 msgctxt "UI.RELATIONSHIP_SCREEN.BANE_UNKNOWN_NAME"
 msgid "UNKNOWN"
 msgstr "INCONNU"
@@ -52943,7 +52767,6 @@ msgid "Will become active if this person loves you"
 msgstr "Deviendra actif si cette personne vous aime"
 
 #: UI.RELATIONSHIP_SCREEN.BOON_UNKNOWN_NAME
-#, fuzzy
 msgctxt "UI.RELATIONSHIP_SCREEN.BOON_UNKNOWN_NAME"
 msgid "UNKNOWN"
 msgstr "INCONNU"
@@ -52955,7 +52778,6 @@ msgid "<c img='lb'> "
 msgstr "<c img='lb'>"
 
 #: UI.RELATIONSHIP_SCREEN.CONTROLS_LABEL_TAB_RIGHT
-#, fuzzy
 msgctxt "UI.RELATIONSHIP_SCREEN.CONTROLS_LABEL_TAB_RIGHT"
 msgid " <c img='rb'>"
 msgstr "<c img='rb'>"
@@ -52964,13 +52786,12 @@ msgstr "<c img='rb'>"
 #, fuzzy
 msgctxt "UI.RELATIONSHIP_SCREEN.CONTROLS_LEFT"
 msgid "<c img='l_all'> Select person"
-msgstr "<c img='l_all'>Sélectionner une personne"
+msgstr "<c img='l_all'> Sélectionner une personne"
 
 #: UI.RELATIONSHIP_SCREEN.CONTROLS_RIGHT_CLOSE
-#, fuzzy
 msgctxt "UI.RELATIONSHIP_SCREEN.CONTROLS_RIGHT_CLOSE"
 msgid "<c img='b'> Close"
-msgstr "<c img='b'>Proche"
+msgstr "<c img='b'> Fermer"
 
 #: UI.RELATIONSHIP_SCREEN.EMPTY_DESC_DISLIKED
 #, fuzzy
@@ -53003,7 +52824,6 @@ msgid "Nobody selected"
 msgstr "Personne n'a été sélectionné"
 
 #: UI.RELATIONSHIP_SCREEN.EMPTY_TITLE
-#, fuzzy
 msgctxt "UI.RELATIONSHIP_SCREEN.EMPTY_TITLE"
 msgid "NONE"
 msgstr "AUCUN"
@@ -53042,25 +52862,24 @@ msgstr "AIME\n{1}"
 #, fuzzy
 msgctxt "UI.REPLACE_GRAFT_SCREEN.CONTROLS_LEFT_SELECT"
 msgid "<c img='l_all'> Select graft"
-msgstr "<c img='l_all'>Sélectionnez la greffe"
+msgstr "<c img='l_all'>Sélectionnez le graft"
 
 #: UI.REPLACE_GRAFT_SCREEN.CONTROLS_RIGHT_ACCEPT
 #, fuzzy
 msgctxt "UI.REPLACE_GRAFT_SCREEN.CONTROLS_RIGHT_ACCEPT"
 msgid "<c img='a'> Replace graft"
-msgstr "<c img='a'>Remplacer la greffe"
+msgstr "<c img='a'>Remplacer le graft"
 
 #: UI.REPLACE_GRAFT_SCREEN.CONTROLS_RIGHT_BACK
-#, fuzzy
 msgctxt "UI.REPLACE_GRAFT_SCREEN.CONTROLS_RIGHT_BACK"
 msgid "<c img='b'> Cancel"
-msgstr "<c img='b'>Annuler"
+msgstr "<c img='b'> Annuler"
 
 #: UI.REPLACE_GRAFT_SCREEN.SUBTITLE
 #, fuzzy
 msgctxt "UI.REPLACE_GRAFT_SCREEN.SUBTITLE"
 msgid "Too many grafts make you less human than Sal would like. To install this new {2}, you'll have to replace an existing one."
-msgstr "Trop de greffes vous rendent moins humain que Sal voudrait. Pour installer ce nouveau '2', vous devrez remplacer un existant."
+msgstr "Trop de greffes vous rendent moins humain que Sal voudrait. Pour installer ce nouveau {2}, vous devrez remplacer un existant."
 
 #: UI.REPLACE_GRAFT_SCREEN.TITLE
 #, fuzzy
@@ -53078,7 +52897,7 @@ msgstr "Vous ne pouvez pas posséder d'animaux de compagnie"
 #, fuzzy
 msgctxt "UI.REQ_MAX_PETS"
 msgid "You can only have {1} {1*pet|pets}."
-msgstr "Vous ne pouvez avoir que {1} '1'pet'pets'."
+msgstr "Vous ne pouvez avoir que {1} {1}pet'pets'."
 
 #: UI.RESOLVE_INDICATOR.TOOLTIP_PREFIX
 #, fuzzy
@@ -53105,7 +52924,6 @@ msgid "This person likes you"
 msgstr "Cette personne t'aime bien."
 
 #: UI.REWARDS_WIDGET.CARDS_SUFFIX
-#, fuzzy
 msgctxt "UI.REWARDS_WIDGET.CARDS_SUFFIX"
 msgid " cards"
 msgstr " cartes"
@@ -53114,7 +52932,7 @@ msgstr " cartes"
 #, fuzzy
 msgctxt "UI.REWARDS_WIDGET.EXTRACASH_DESC"
 msgid "Get a bonus payment of {1#money}"
-msgstr "Obtenez un paiement de bonus de 1 euro"
+msgstr "Obtenez un paiement de bonus de {1}"
 
 #: UI.REWARDS_WIDGET.EXTRACASH_TITLE
 #, fuzzy
@@ -53129,19 +52947,16 @@ msgid "Lump sum bonus"
 msgstr "Bonus forfaitaire"
 
 #: UI.REWARDS_WIDGET.FREEITEM_DESC
-#, fuzzy
 msgctxt "UI.REWARDS_WIDGET.FREEITEM_DESC"
 msgid "Get a new card: {1#card}"
-msgstr "Obtenir une nouvelle carte : '1'carte'"
+msgstr "Obtenir une nouvelle carte : {1#card}"
 
 #: UI.REWARDS_WIDGET.FREEITEM_TITLE
-#, fuzzy
 msgctxt "UI.REWARDS_WIDGET.FREEITEM_TITLE"
 msgid "{1#card}"
 msgstr "{1#card}"
 
 #: UI.REWARDS_WIDGET.FREEITEM_TT
-#, fuzzy
 msgctxt "UI.REWARDS_WIDGET.FREEITEM_TT"
 msgid "Get a new card"
 msgstr "Obtenir une nouvelle carte"
@@ -53174,7 +52989,7 @@ msgstr "De l'argent fait de mou."
 #, fuzzy
 msgctxt "UI.REWARDS_WIDGET.PENALTY_PERCENT"
 msgid "REWARDS PENALTY -{1#percent}"
-msgstr "REWARDS PENALTY - 1 pour cent"
+msgstr "REWARDS PENALTY -{1#percent}"
 
 #: UI.REWARDS_WIDGET.PENALTY_PERCENT_DESC
 #, fuzzy
@@ -53207,7 +53022,6 @@ msgid "Restore <#HEALTH>{1} health</> or <#RESOLVE>{2} resolve</>"
 msgstr "Restaurer la santé de #HEALTH {1} ou de #RESOLVE {2} Détermination"
 
 #: UI.REWARDS_WIDGET.RESTORATION_TITLE
-#, fuzzy
 msgctxt "UI.REWARDS_WIDGET.RESTORATION_TITLE"
 msgid "Restoration"
 msgstr "Restauration"
@@ -53219,7 +53033,6 @@ msgid "Restore <#HEALTH>{1} health</> or <#RESOLVE>{2} resolve</>"
 msgstr "Restaurer la santé de #HEALTH {1} ou de #RESOLVE {2} Détermination"
 
 #: UI.REWARDS_WIDGET.REWARDS
-#, fuzzy
 msgctxt "UI.REWARDS_WIDGET.REWARDS"
 msgid "REWARDS"
 msgstr "RÉCOMPENSES"
@@ -53249,7 +53062,6 @@ msgid "Upgrade a negotiation or battle card"
 msgstr "Améliorer une carte de négociation ou de combat"
 
 #: UI.REWARDS_WIDGET.UPGRADE_TITLE
-#, fuzzy
 msgctxt "UI.REWARDS_WIDGET.UPGRADE_TITLE"
 msgid "Upgrade Card"
 msgstr "CARTES AMÉLIORER"
@@ -53273,7 +53085,6 @@ msgid "Cards Upgraded:"
 msgstr "Cartes améliorées:"
 
 #: UI.SCORE_DISPLAY.JOBS_COMPLETED
-#, fuzzy
 msgctxt "UI.SCORE_DISPLAY.JOBS_COMPLETED"
 msgid "Jobs Completed:"
 msgstr "Contrat terminés:"
@@ -53309,13 +53120,11 @@ msgid "Number Loved"
 msgstr "Nombre aimé"
 
 #: UI.SCORE_DISPLAY.SUCCESS_BONUS
-#, fuzzy
 msgctxt "UI.SCORE_DISPLAY.SUCCESS_BONUS"
 msgid "Success Bonus:"
 msgstr "Bonus Réussite:"
 
 #: UI.SCORE_DISPLAY.TOTAL
-#, fuzzy
 msgctxt "UI.SCORE_DISPLAY.TOTAL"
 msgid "TOTAL:"
 msgstr "TOTAL:"
@@ -53327,7 +53136,6 @@ msgid "{1} has these cards available for sale"
 msgstr "{1} Ces cartes sont-elles disponibles à la vente ?"
 
 #: UI.SHOP_SCREEN.CARD_SHOP_TITLE
-#, fuzzy
 msgctxt "UI.SHOP_SCREEN.CARD_SHOP_TITLE"
 msgid "Card Shop"
 msgstr "Boutique de cartes"
@@ -53351,13 +53159,11 @@ msgid "Battle"
 msgstr "Combat"
 
 #: UI.SHOW_DECK_SCREEN.BATTLE_DECK_TITLE
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.BATTLE_DECK_TITLE"
 msgid "Battle Deck"
 msgstr "Deck de combat"
 
 #: UI.SHOW_DECK_SCREEN.BATTLE_DECK_UPPERCASE
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.BATTLE_DECK_UPPERCASE"
 msgid "BATTLE DECK"
 msgstr "DECK DE COMBAT"
@@ -53369,7 +53175,6 @@ msgid "{1} {1*CARD|CARDS}"
 msgstr "{1} {1*CARD|CARDS}"
 
 #: UI.SHOW_DECK_SCREEN.CHARGES_COUNT
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.CHARGES_COUNT"
 msgid "{1%d}/{2%d}"
 msgstr "{1%d}/{2%d}"
@@ -53402,7 +53207,7 @@ msgstr "<c img='l_all'>Sélectionnez le filtre"
 #, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.CONTROLS_FILTERS_RIGHT_CLOSE"
 msgid "<c img='b'> Close filters"
-msgstr "<c img='b'>Fermer les filtres"
+msgstr "<c img='b'> Fermer les filtres"
 
 #: UI.SHOW_DECK_SCREEN.CONTROLS_FILTERS_RIGHT_SELECT
 #, fuzzy
@@ -53411,28 +53216,24 @@ msgid "<c img='a'> Toggle filter"
 msgstr "<c img='a'>Filtre de bascule"
 
 #: UI.SHOW_DECK_SCREEN.CONTROLS_LEFT
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.CONTROLS_LEFT"
 msgid "<c img='l_all'> Select"
-msgstr "<c img='l_all'>Sélectionnez"
+msgstr "<c img='l_all'> Sélectionnez"
 
 #: UI.SHOW_DECK_SCREEN.CONTROLS_LEFT_FILTERS
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.CONTROLS_LEFT_FILTERS"
 msgid "<c img='lb'> Filters"
-msgstr "<c img='lb'>Filtres"
+msgstr "<c img='lb'> Filtres"
 
 #: UI.SHOW_DECK_SCREEN.CONTROLS_LEFT_OTHER_DECK
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.CONTROLS_LEFT_OTHER_DECK"
 msgid "<c img='rb'> {1}"
-msgstr "<c img='rb'>{1}"
+msgstr "<c img='rb'> {1}"
 
 #: UI.SHOW_DECK_SCREEN.CONTROLS_RIGHT_CLOSE
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.CONTROLS_RIGHT_CLOSE"
 msgid "<c img='b'> Close"
-msgstr "<c img='b'>Proche"
+msgstr "<c img='b'> Fermer"
 
 #: UI.SHOW_DECK_SCREEN.CONTROLS_RIGHT_INFO
 #, fuzzy
@@ -53456,13 +53257,12 @@ msgstr "<c img='a'>Sélectionnez"
 #, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.CONTROLS_RIGHT_TRASH"
 msgid "<c img='lt'> Trash"
-msgstr "<c img='lt'>Poubelle"
+msgstr "<c img='lt'> Poubelle"
 
 #: UI.SHOW_DECK_SCREEN.CONTROLS_RIGHT_UPGRADE
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.CONTROLS_RIGHT_UPGRADE"
 msgid "<c img='a'> Upgrade"
-msgstr "<c img='a'>Améliorer"
+msgstr "<c img='a'> Améliorer"
 
 #: UI.SHOW_DECK_SCREEN.DETAILS_NOCARDNAME
 #, fuzzy
@@ -53471,25 +53271,21 @@ msgid "No card selected"
 msgstr "Aucune carte sélectionnée"
 
 #: UI.SHOW_DECK_SCREEN.DETAILS_NOCARDSUBTITLE
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.DETAILS_NOCARDSUBTITLE"
 msgid "NONE"
 msgstr "AUCUN"
 
 #: UI.SHOW_DECK_SCREEN.DETAILS_SUBTITLE
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.DETAILS_SUBTITLE"
 msgid "<#{1}>{2#upper}</> <#{3}>{4#upper}</>"
 msgstr "<#{1}>{2#upper}</> <#{3}>{4#upper}</>"
 
 #: UI.SHOW_DECK_SCREEN.NEGOTIATION
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.NEGOTIATION"
 msgid "Negotiation"
 msgstr "Négociation"
 
 #: UI.SHOW_DECK_SCREEN.NEGOTIATION_DECK_TITLE
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.NEGOTIATION_DECK_TITLE"
 msgid "Negotiation Deck"
 msgstr "Deck de Négociation"
@@ -53543,7 +53339,6 @@ msgid "This card is now ready to upgrade"
 msgstr "Cette carte est maintenant prête à être améliorer"
 
 #: UI.SHOW_DECK_SCREEN.SUBCARDINFO_CAN_TRASH
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.SUBCARDINFO_CAN_TRASH"
 msgid "TRASH"
 msgstr "DÉFAUSE"
@@ -53555,7 +53350,6 @@ msgid "NO USES LEFT"
 msgstr "IL N'Y A PLUS D'UTILISATIONS"
 
 #: UI.SHOW_DECK_SCREEN.SUBCARDINFO_CLASS_BATTLE
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.SUBCARDINFO_CLASS_BATTLE"
 msgid "BATTLE CARD"
 msgstr "CARTE DE COMBAT"
@@ -53579,7 +53373,6 @@ msgid "EXPENDED CARD{1}"
 msgstr "CARTE ÉPUISEMENT {1}"
 
 #: UI.SHOW_DECK_SCREEN.SUBCARDINFO_TRASHED_SUFFIX
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.SUBCARDINFO_TRASHED_SUFFIX"
 msgid " x{1}"
 msgstr " x{1}"
@@ -53591,7 +53384,6 @@ msgid "UPGRADE READY"
 msgstr "AMÉLIORATION PRÊTE"
 
 #: UI.SHOW_DECK_SCREEN.TRASH
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.TRASH"
 msgid "Trash"
 msgstr "Défause"
@@ -53615,7 +53407,6 @@ msgid "UPGRADE"
 msgstr "AMÉLIORER"
 
 #: UI.SHOW_DECK_SCREEN.UPGRADE_PROGRESS
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.UPGRADE_PROGRESS"
 msgid "{1%d}/{2%d}"
 msgstr "{1%d}/{2%d}"
@@ -53645,13 +53436,11 @@ msgid "<#OBJECTIVE><b>Upgrade Progress: {1%d}/{2%d}</></>\nPlay this card {3%d} 
 msgstr "<#OBJECTIVE><b>Progression de l'amélioration: {1%d}/{2%d}</></>\nJouez cette carte {3%d} plus de fois et elle sera prête à être améliorer."
 
 #: UI.SLIDESHOW_SCREEN.SKIP
-#, fuzzy
 msgctxt "UI.SLIDESHOW_SCREEN.SKIP"
 msgid "Press {1#binding} to skip"
-msgstr "Appuyez sur le 1 'contraignant' pour sauter"
+msgstr "Appuyez sur {1#binding} pour passer"
 
 #: UI.SLOT_SELECT_SCREEN.ABANDON
-#, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.ABANDON"
 msgid "Abandon"
 msgstr "Abandonner"
@@ -53663,46 +53452,40 @@ msgid "<#ADVANCEMENT>PRESTIGE</>\nLevel {1}"
 msgstr "<#ADVANCEMENT>PRESTIGE</>\nNiveau {1}"
 
 #: UI.SLOT_SELECT_SCREEN.BACK
-#, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.BACK"
 msgid "Back"
 msgstr "Retour"
 
 #: UI.SLOT_SELECT_SCREEN.CONTINUE
-#, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.CONTINUE"
 msgid "Continue"
 msgstr "Continuer"
 
 #: UI.SLOT_SELECT_SCREEN.CONTROLS_LEFT
-#, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.CONTROLS_LEFT"
 msgid "<c img='l_all'> Select slot"
-msgstr "<c img='l_all'>Sélectionnez la Emplacement"
+msgstr "<c img='l_all'> Sélectionner l'emplacement"
 
 #: UI.SLOT_SELECT_SCREEN.CONTROLS_RIGHT_ABANDON
 #, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.CONTROLS_RIGHT_ABANDON"
 msgid "<c img='rt'> Abandon run"
-msgstr "<c img='rt'>Abandon de la course"
+msgstr "<c img='rt'> Abandon de la course"
 
 #: UI.SLOT_SELECT_SCREEN.CONTROLS_RIGHT_BACK
-#, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.CONTROLS_RIGHT_BACK"
 msgid "<c img='b'> Back"
-msgstr "<c img='b'>Précédent"
+msgstr "<c img='b'> Retour"
 
 #: UI.SLOT_SELECT_SCREEN.CONTROLS_RIGHT_CONTINUE
-#, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.CONTROLS_RIGHT_CONTINUE"
 msgid "<c img='a'> Continue"
-msgstr "<c img='a'>Continuer"
+msgstr "<c img='a'> Continuer"
 
 #: UI.SLOT_SELECT_SCREEN.CONTROLS_RIGHT_START
-#, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.CONTROLS_RIGHT_START"
 msgid "<c img='a'> New run"
-msgstr "<c img='a'>Nouvelle course"
+msgstr "<c img='a'> Nouvelle partie"
 
 #: UI.SLOT_SELECT_SCREEN.EMPTYSLOT_DESC
 #, fuzzy
@@ -53711,19 +53494,16 @@ msgid "Start a new run"
 msgstr "Démarrer une nouvelle partie"
 
 #: UI.SLOT_SELECT_SCREEN.EMPTYSLOT_TITLE
-#, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.EMPTYSLOT_TITLE"
 msgid "EMPTY RUN SLOT"
 msgstr "EMPLACEMENT VIDE"
 
 #: UI.SLOT_SELECT_SCREEN.SUBTITLE
-#, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.SUBTITLE"
 msgid "{1}/{2} SLOTS USED"
 msgstr "{1}/{2} EMPLACEMENT UTILISÉS"
 
 #: UI.SLOT_SELECT_SCREEN.TITLE
-#, fuzzy
 msgctxt "UI.SLOT_SELECT_SCREEN.TITLE"
 msgid "CURRENTLY ACTIVE RUNS"
 msgstr "PARTIE EN COUR"
@@ -53741,10 +53521,9 @@ msgid "NEW SOCIAL BOON ACTIVE"
 msgstr "NOUVEAU OPPORTUNITÉ SOCIAL ACTIVE"
 
 #: UI.SOCIAL_GRAFT_SCREEN.CONTROLS_RIGHT_BACK
-#, fuzzy
 msgctxt "UI.SOCIAL_GRAFT_SCREEN.CONTROLS_RIGHT_BACK"
 msgid "<c img='b'> Continue"
-msgstr "<c img='b'>Continuer"
+msgstr "<c img='b'> Continuer"
 
 #: UI.SOCIAL_GRAFT_SCREEN.REASON
 #, fuzzy
@@ -53807,40 +53586,34 @@ msgid "Base Resolve: {1%d}"
 msgstr "Détermination de base: {1%d}"
 
 #: UI.TOOLTIP_CONVO_OPTION.MODIFIER_BONUS
-#, fuzzy
 msgctxt "UI.TOOLTIP_CONVO_OPTION.MODIFIER_BONUS"
 msgid "\t<i>{1} : <#BONUS>{2%+d} resolve</></>"
 msgstr "\t<i>{1} : <#BONUS>{2%+d} détermination</></>"
 
 #: UI.TOOLTIP_CONVO_OPTION.MODIFIER_PENALTY
-#, fuzzy
 msgctxt "UI.TOOLTIP_CONVO_OPTION.MODIFIER_PENALTY"
 msgid "\t<i>{1} : <#PENALTY>{2%+d} resolve</></>"
 msgstr "\t<i>{1} : <#PENALTY>{2%+d} détermination</></>"
 
 #: UI.TO_DO_LIST_LABEL
-#, fuzzy
 msgctxt "UI.TO_DO_LIST_LABEL"
 msgid "ACTIVE OBJECTIVE"
 msgstr "OBJECTIF ACTIF"
 
 #: UI.TRAINED_PET
-#, fuzzy
 msgctxt "UI.TRAINED_PET"
 msgid "Trained {1}"
-msgstr "{1} formés"
+msgstr "Entraînés {1}"
 
 #: UI.TRAVEL_SCREEN.CONTROLS_LEFT
-#, fuzzy
 msgctxt "UI.TRAVEL_SCREEN.CONTROLS_LEFT"
 msgid "<c img='l_all'> Change location"
-msgstr "<c img='l_all'>Changer d'emplacement"
+msgstr "<c img='l_all'> Changer d'emplacement"
 
 #: UI.TRAVEL_SCREEN.CONTROLS_RIGHT_INFO
-#, fuzzy
 msgctxt "UI.TRAVEL_SCREEN.CONTROLS_RIGHT_INFO"
 msgid "<c img='x'> Show info"
-msgstr "<c img='x'>Afficher les infos"
+msgstr "<c img='x'> Afficher les infos"
 
 #: UI.TRAVEL_SCREEN.CONTROLS_RIGHT_INFO_HIDE
 #, fuzzy
@@ -53849,16 +53622,14 @@ msgid "<c img='x'> Hide info"
 msgstr "<c img='x'>Masquer les informations"
 
 #: UI.TRAVEL_SCREEN.CONTROLS_RIGHT_OPEN
-#, fuzzy
 msgctxt "UI.TRAVEL_SCREEN.CONTROLS_RIGHT_OPEN"
 msgid "<c img='a'> Travel"
-msgstr "<c img='a'>Voyage"
+msgstr "<c img='a'> Voyager"
 
 #: UI.TRAVEL_SCREEN.LOCATION_CLOSED
-#, fuzzy
 msgctxt "UI.TRAVEL_SCREEN.LOCATION_CLOSED"
 msgid "{1} <#PENALTY>Currently Closed</>"
-msgstr "{1}<#PENALTY>actuellement fermé</>"
+msgstr "{1}<#PENALTY>Actuellement Fermé</>"
 
 #: UI.TRAVEL_SCREEN.LOCATION_DISRUPTED
 #, fuzzy
@@ -53867,19 +53638,16 @@ msgid "{1} <#PENALTY>DISRUPTED</>"
 msgstr "{1} <#PENALTY>DISCUTÉ</>"
 
 #: UI.TRAVEL_SCREEN.LOCATION_SUBTITLE
-#, fuzzy
 msgctxt "UI.TRAVEL_SCREEN.LOCATION_SUBTITLE"
 msgid "LOCATION"
 msgstr "EMPLACEMENT"
 
 #: UI.TRAVEL_SCREEN.OKAY
-#, fuzzy
 msgctxt "UI.TRAVEL_SCREEN.OKAY"
 msgid "Okay"
 msgstr "D'accord"
 
 #: UI.TRAVEL_SCREEN.PLAYER_PORTRAIT_TOOLTIP
-#, fuzzy
 msgctxt "UI.TRAVEL_SCREEN.PLAYER_PORTRAIT_TOOLTIP"
 msgid "You are here!"
 msgstr "Vous êtes ici!"
@@ -53915,7 +53683,6 @@ msgid "Will {SURRENDER} this turn"
 msgstr "Est-ce que 'SURRENDER' ce tour"
 
 #: UI.UNIT_FRAME.ATTACK_FLOATER
-#, fuzzy
 msgctxt "UI.UNIT_FRAME.ATTACK_FLOATER"
 msgid "<#{1}>{2}</>"
 msgstr "<#{1}>{2}</>"
@@ -53927,7 +53694,6 @@ msgid "\nA status effect will also be applied!"
 msgstr "\nUn effet de statut sera également appliqué!"
 
 #: UI.UNIT_FRAME.CONDITION_BLOCKED
-#, fuzzy
 msgctxt "UI.UNIT_FRAME.CONDITION_BLOCKED"
 msgid "IMMUNE"
 msgstr "IMMUNISÉ"
@@ -53942,7 +53708,7 @@ msgstr "Subira <#HEALTH>{1}  dégâts</> de {2}"
 #, fuzzy
 msgctxt "UI.UNIT_FRAME.PIERCING_DAMAGE_RECEIVED_TOOLTIP"
 msgid "Will receive <#HEALTH>{1} {PIERCING} damage</> from {2}"
-msgstr "Vous recevrez des dommages de #HEALTH {1} ' 'PIERCING' de {2}"
+msgstr "Vous recevrez des dommages de #HEALTH {1} ' {PIERCING} de {2}"
 
 #: UI.UNIT_FRAME.STATUS_TOOLTIP
 #, fuzzy
@@ -53951,13 +53717,11 @@ msgid "A status effect will be applied by {1}!"
 msgstr "Un effet d'état sera appliqué par {1}!"
 
 #: UI.UNLOCK_INSPECTOR.COMBAT_CARDS_TITLE
-#, fuzzy
 msgctxt "UI.UNLOCK_INSPECTOR.COMBAT_CARDS_TITLE"
 msgid "BATTLE CARDS"
-msgstr "CARTES DE combat"
+msgstr "CARTES DE COMBAT"
 
 #: UI.UNLOCK_INSPECTOR.CONTINUE_BTN
-#, fuzzy
 msgctxt "UI.UNLOCK_INSPECTOR.CONTINUE_BTN"
 msgid "Continue"
 msgstr "Continuer"
@@ -53969,31 +53733,26 @@ msgid "<c img='l_all'> View items"
 msgstr "<c img='l_all'>Afficher les éléments"
 
 #: UI.UNLOCK_INSPECTOR.CONTROLS_RIGHT_BACK
-#, fuzzy
 msgctxt "UI.UNLOCK_INSPECTOR.CONTROLS_RIGHT_BACK"
 msgid "<c img='b'> Back"
-msgstr "<c img='b'>Précédent"
+msgstr "<c img='b'> Précédent"
 
 #: UI.UNLOCK_INSPECTOR.CONTROLS_RIGHT_CONTINUE
-#, fuzzy
 msgctxt "UI.UNLOCK_INSPECTOR.CONTROLS_RIGHT_CONTINUE"
 msgid "<c img='x'> Continue"
-msgstr "<c img='x'>Continuer"
+msgstr "<c img='x'> Continuer"
 
 #: UI.UNLOCK_INSPECTOR.CONTROLS_RIGHT_TOGGLEOFF
-#, fuzzy
 msgctxt "UI.UNLOCK_INSPECTOR.CONTROLS_RIGHT_TOGGLEOFF"
 msgid "<c img='lt'> Disable"
-msgstr "<c img='lt'>Désactiver"
+msgstr "<c img='lt'> Désactiver"
 
 #: UI.UNLOCK_INSPECTOR.CONTROLS_RIGHT_TOGGLEON
-#, fuzzy
 msgctxt "UI.UNLOCK_INSPECTOR.CONTROLS_RIGHT_TOGGLEON"
 msgid "<c img='lt'> Enable"
-msgstr "<c img='lt'>Activer"
+msgstr "<c img='lt'> Activer"
 
 #: UI.UNLOCK_INSPECTOR.NEGOTIATION_CARDS_TITLE
-#, fuzzy
 msgctxt "UI.UNLOCK_INSPECTOR.NEGOTIATION_CARDS_TITLE"
 msgid "NEGOTIATION CARDS"
 msgstr "CARTES DE NÉGOCIATION"
@@ -54004,10 +53763,9 @@ msgid "OUTFIT"
 msgstr "TENUE"
 
 #: UI.UNLOCK_INSPECTOR.TITLE_NEW
-#, fuzzy
 msgctxt "UI.UNLOCK_INSPECTOR.TITLE_NEW"
 msgid "New Items Added to Pool!"
-msgstr "Nouveaux articles ajoutés à la piscine!"
+msgstr "Nouveaux articles ajoutés au Groupe!"
 
 #: UI.UNLOCK_INSPECTOR.TITLE_UNLOCKED
 msgctxt "UI.UNLOCK_INSPECTOR.TITLE_UNLOCKED"
@@ -54065,7 +53823,7 @@ msgstr "<c img='lt'> Activer"
 #, fuzzy
 msgctxt "UI.UNLOCK_TRACK.CONTROLS_TOOLTIP_SUFFIX"
 msgid "\n\n<p img='icons_mouse/rmb.tex'> Toggle these items"
-msgstr "<p img='icons_mouse/rmb.tex'>Basculer ces articles"
+msgstr "\n\n<p img='icons_mouse/rmb.tex'> Basculer ces articles"
 
 #: UI.UNLOCK_TRACK.LOCKED_TOOLTIP
 #, fuzzy
@@ -54088,7 +53846,7 @@ msgstr "<b><#TITLE>{1}</></>\n<b><#PENALTY>DÉSACTIVÉ</></>\nVous avez déverro
 #: UI.UNTRAINED_PET
 msgctxt "UI.UNTRAINED_PET"
 msgid "Untrained {1}"
-msgstr "Non formé {1}"
+msgstr "Sans formation {1}"
 
 #: UI.UPGRADE_CARD_POPUP.CONFIRM_UPGRADE
 msgctxt "UI.UPGRADE_CARD_POPUP.CONFIRM_UPGRADE"
