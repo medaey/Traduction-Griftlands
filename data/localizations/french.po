@@ -21446,10 +21446,9 @@ msgid "agent:\nI'll take your word on it, I guess."
 msgstr "Agent:\nJe vais vous croire sur parole, je suppose."
 
 #: CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_ATTACK
-#, fuzzy
 msgctxt "CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_ATTACK"
 msgid "Attack {agent}"
-msgstr "Attaque {agent}"
+msgstr "Attaquer {agent}"
 
 #: CONVO.KERFUFFLE_CHAT.STATE_RESPOND_TO_KERFUFFLE.OPT_DEFEND_SELF
 #, fuzzy
