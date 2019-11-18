@@ -53,7 +53,7 @@ Nous Rejoindre:
 2) Double clic sur le dossier `data`
 3) Supprimer le dossier `localizations`
 
-## Comment trouver son dossier d'installation Griftlands ?
+## Trouver son dossier d'installation
 1) Dans la bibliothèque EpicGame clic sur l'engrenage ![](https://i.ibb.co/kK0Pchb/image.png) ou sur ![](https://i.ibb.co/6wJR0Qr/image.png) selon votre affichage
 2) Clic sur ![](https://i.ibb.co/yBFyyXs/image.png)
 3) Retourner sur votre bureau
