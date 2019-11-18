@@ -27,7 +27,12 @@ Statistique:
 
 Nous Rejoindre:
 
-<a href=https://discord.gg/PT4NFkk><img src="https://img.icons8.com/color/50/000000/discord-logo.png">
+<a href=https://discord.gg/PT4NFkk><img src="https://img.icons8.com/color/50/000000/discord-logo.png"></a>
+
+<b>Téléchargez la dernière version</b>
+
+<a href=https://github.com/leghort/Traduction-Griftlands/releases/latest><img src="https://i.ibb.co/ck3Rxky/Download-Button.png"></a>
+
 
 ## Installation:
 1) Rendez-vous dans votre dossier d'installation `Griflands`
