@@ -33,12 +33,15 @@ Nous Rejoindre:
 
 <a href=https://github.com/leghort/Traduction-Griftlands/releases/latest><img src="https://i.ibb.co/ck3Rxky/Download-Button.png"></a>
 
+### Table of Contents
+[Installation](https://github.com/leghort/test/blob/master/README.md#installation)
 
-## Installation:
+
+# Installation:
 1) Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
-  ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à la session.     
-**Comment trouver son dossier d'installation Griftlands ?**
+  ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à la session.
+**[Comment trouver son dossier d'installation Griftlands ?](## Comment trouver son dossier d'installation Griftlands ?)**<br>     
 2) Faite un clic gauche sur le dossier `Griftlands`
 3) Fusionner le dossier `data` que vous venez de télécharger avec le dossier `data` existant
 4) Dans le menu ![](https://i.ibb.co/FbcGSQ1/image.png) allez dans l'onglet ![](https://i.ibb.co/R0hpqdj/image.png) et choisissez la langue ![](https://i.ibb.co/qN62Zbq/image.png)
