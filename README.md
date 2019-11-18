@@ -30,15 +30,15 @@ Statistique:
 **[Installation](https://github.com/leghort/Traduction-Griftlands#installation)**</br>
 **[Désistallation](https://github.com/leghort/Traduction-Griftlands#d%C3%A9sinstallation)**</br>
 **[Trouver son dossier d'installation](https://github.com/leghort/Traduction-Griftlands#trouver-son-dossier-dinstallation)**</br>
-**[Contact](https://github.com/leghort/test#Contact)**<br>
+**[Contact](https://github.com/leghort/Traduction-Griftlands#contact)**<br>
 ## Télécharger la dernière version
 <a href=https://github.com/leghort/Traduction-Griftlands/releases/latest><img src="https://i.ibb.co/ck3Rxky/Download-Button.png"></a>
 
 ## Installation
 1) Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
-  ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à la session.
-**[Trouver son dossier d'installation](https://github.com/leghort/Traduction-Griftlands/trouver-son-dossier-dinstallation)**</br>    
+  ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à **[Trouver son dossier d'installation ⚠️](https://github.com/leghort/Traduction-Griftlands/trouver-son-dossier-dinstallation)**</br>
+   
 2) Faite un clic gauche sur le dossier `Griftlands`
 3) Fusionner le dossier `data` que vous venez de télécharger avec le dossier `data` existant
 4) Dans le menu ![](https://i.ibb.co/FbcGSQ1/image.png) allez dans l'onglet ![](https://i.ibb.co/R0hpqdj/image.png) et choisissez la langue ![](https://i.ibb.co/qN62Zbq/image.png)
