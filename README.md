@@ -17,11 +17,11 @@ red         16.7%
 
 ```lua
 Statistique:
-| Statistique sur la Traduction | Éléments     | Mots  | Caractères |
-| ----------------------------- | ------------ | ----- | ---------- |
-| Traduit                       |  ‪ 673  (7 %) |  1606 |       9572 |
-| À réviser                     ‪|  8376 (93 %) |126580 |     785216 |
-| Total                         |  9049(100 %) |128186 |     794788 |
+| Statistique sur la Traduction | Éléments     |  Mots  | Caractères |
+| ----------------------------- | ------------ | ------ | ---------- |
+| Traduit                       |  ‪ 758  (8 %) |   2322 |      13992 |
+| À réviser                     ‪|  8291 (92 %) | 125784 |     779430 |
+| Total                         |  9049(100 %) | 128106 |    793 422 |
 ```
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
