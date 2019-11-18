@@ -25,29 +25,26 @@ Statistique:
 ```
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
-Nous Rejoindre:
-
-<a href=https://discord.gg/PT4NFkk><img src="https://img.icons8.com/color/50/000000/discord-logo.png"></a>
-
-<b>Téléchargez la dernière version</b>
-
+### Table des matières
+**[Télécharger](https://github.com/leghort/Traduction-Griftlands#t%C3%A9l%C3%A9charger-la-derni%C3%A8re-version)**</br>
+**[Installation](https://github.com/leghort/Traduction-Griftlands#installation)**</br>
+**[Désistallation](https://github.com/leghort/Traduction-Griftlands#d%C3%A9sinstallation)**</br>
+**[Trouver son dossier d'installation](https://github.com/leghort/Traduction-Griftlands#trouver-son-dossier-dinstallation)**</br>
+**[Contact](https://github.com/leghort/test#Contact)**<br>
+## Télécharger la dernière version
 <a href=https://github.com/leghort/Traduction-Griftlands/releases/latest><img src="https://i.ibb.co/ck3Rxky/Download-Button.png"></a>
 
-### Table of Contents
-[Installation](https://github.com/leghort/test/blob/master/README.md#installation)
-
-
-# Installation:
+## Installation
 1) Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
   ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à la session.
-**[Comment trouver son dossier d'installation Griftlands ?](## Comment trouver son dossier d'installation Griftlands ?)**<br>     
+**[Trouver son dossier d'installation](https://github.com/leghort/Traduction-Griftlands/trouver-son-dossier-dinstallation)**</br>    
 2) Faite un clic gauche sur le dossier `Griftlands`
 3) Fusionner le dossier `data` que vous venez de télécharger avec le dossier `data` existant
 4) Dans le menu ![](https://i.ibb.co/FbcGSQ1/image.png) allez dans l'onglet ![](https://i.ibb.co/R0hpqdj/image.png) et choisissez la langue ![](https://i.ibb.co/qN62Zbq/image.png)
 5) Jouer 🕹️
 
-## Désinstallation:
+## Désinstallation
 1) Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
 2) Double clic sur le dossier `data`
@@ -61,3 +58,7 @@ Nous Rejoindre:
 5) Glisser-déposer du Raccourci Griftlands
 6) Votre dossier d'installation est indiqué à la ligne 8
 `IconFile=C:\Program Files\Epic Games\Griftlands\bin\Griftlands.exe`
+
+### Contact
+<a href=https://discord.gg/PT4NFkk><img src="https://img.icons8.com/color/50/000000/discord-logo.png"></a>
+<a href=mailto:medaey@hotmail.com><img src="https://i.ibb.co/Pr1Mtf9/mail.png"></a>
