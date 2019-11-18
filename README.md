@@ -37,7 +37,7 @@ Statistique:
 ## Installation
 1) Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
-  ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à **[Trouver son dossier d'installation ⚠️](https://github.com/leghort/Traduction-Griftlands/trouver-son-dossier-dinstallation)**</br>
+  ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à **[Trouver son dossier d'installation ⚠️](https://github.com/leghort/Traduction-Griftlands#trouver-son-dossier-dinstallation)**</br>
    
 2) Faite un clic gauche sur le dossier `Griftlands`
 3) Fusionner le dossier `data` que vous venez de télécharger avec le dossier `data` existant
