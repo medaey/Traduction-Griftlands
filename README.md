@@ -15,14 +15,6 @@ orange      33.4%
 red         16.7%
 -->
 
-```lua
-Statistique:
-| Statistique sur la Traduction | Éléments     |  Mots  | Caractères |
-| ----------------------------- | ------------ | ------ | ---------- |
-| Traduit                       |  ‪ 758  (8 %) |   2322 |      13992 |
-| À réviser                     ‪|  8291 (92 %) | 125784 |     779430 |
-| Total                         |  9049(100 %) | 128106 |    793 422 |
-```
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
 
 ### Table des matières
@@ -30,7 +22,9 @@ Statistique:
 **[Installation](https://github.com/leghort/Traduction-Griftlands#installation)**</br>
 **[Désistallation](https://github.com/leghort/Traduction-Griftlands#d%C3%A9sinstallation)**</br>
 **[Trouver son dossier d'installation](https://github.com/leghort/Traduction-Griftlands#trouver-son-dossier-dinstallation)**</br>
+**[Statistique](https://github.com/leghort/Traduction-Griftlands#Statistique)**<br>
 **[Contact](https://github.com/leghort/Traduction-Griftlands#contact)**<br>
+
 ## Télécharger la dernière version
 <a href=https://github.com/leghort/Traduction-Griftlands/releases/latest><img src="https://i.ibb.co/ck3Rxky/Download-Button.png"></a>
 
@@ -59,6 +53,15 @@ Statistique:
 6. Votre dossier d'installation est indiqué à la ligne 8
 `IconFile=C:\Program Files\Epic Games\Griftlands\bin\Griftlands.exe`
 
-### Contact
+## Statistique
+```lua
+| Statistique sur la Traduction | Éléments     |  Mots  | Caractères |
+| ----------------------------- | ------------ | ------ | ---------- |
+| Traduit                       |  ‪ 758  (8 %) |   2322 |      13992 |
+| À réviser                     ‪|  8291 (92 %) | 125784 |     779430 |
+| Total                         |  9049(100 %) | 128106 |    793 422 |
+```
+
+## Contact
 <a href=https://discord.gg/PT4NFkk><img src="https://img.icons8.com/color/50/000000/discord-logo.png"></a>
 <a href=mailto:medaey@hotmail.com><img src="https://i.ibb.co/Pr1Mtf9/mail.png"></a>
