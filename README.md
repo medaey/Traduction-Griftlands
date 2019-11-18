@@ -35,28 +35,28 @@ Statistique:
 <a href=https://github.com/leghort/Traduction-Griftlands/releases/latest><img src="https://i.ibb.co/ck3Rxky/Download-Button.png"></a>
 
 ## Installation
-1) Rendez-vous dans votre dossier d'installation `Griflands`
+1. Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
   ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à **[Trouver son dossier d'installation ⚠️](https://github.com/leghort/Traduction-Griftlands#trouver-son-dossier-dinstallation)**</br>
    
-2) Faite un clic gauche sur le dossier `Griftlands`
-3) Fusionner le dossier `data` que vous venez de télécharger avec le dossier `data` existant
-4) Dans le menu ![](https://i.ibb.co/FbcGSQ1/image.png) allez dans l'onglet ![](https://i.ibb.co/R0hpqdj/image.png) et choisissez la langue ![](https://i.ibb.co/qN62Zbq/image.png)
-5) Jouer 🕹️
+2. Faite un clic gauche sur le dossier `Griftlands`
+3. Fusionner le dossier `data` que vous venez de télécharger avec le dossier `data` existant
+4. Dans le menu ![](https://i.ibb.co/FbcGSQ1/image.png) allez dans l'onglet ![](https://i.ibb.co/R0hpqdj/image.png) et choisissez la langue ![](https://i.ibb.co/qN62Zbq/image.png)
+5. Jouer 🕹️
 
 ## Désinstallation
-1) Rendez-vous dans votre dossier d'installation `Griflands`
+1. Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
-2) Double clic sur le dossier `data`
-3) Supprimer le dossier `localizations`
+2. Double clic sur le dossier `data`
+3. Supprimer le dossier `localizations`
 
 ## Trouver son dossier d'installation
-1) Dans la bibliothèque EpicGame clic sur l'engrenage ![](https://i.ibb.co/kK0Pchb/image.png) ou sur ![](https://i.ibb.co/6wJR0Qr/image.png) selon votre affichage
-2) Clic sur ![](https://i.ibb.co/yBFyyXs/image.png)
-3) Retourner sur votre bureau
-4) Lancer le programme ![](https://i.ibb.co/grx0sdk/image.png)
-5) Glisser-déposer du Raccourci Griftlands
-6) Votre dossier d'installation est indiqué à la ligne 8
+1. Dans la bibliothèque EpicGame clic sur l'engrenage ![](https://i.ibb.co/kK0Pchb/image.png) ou sur ![](https://i.ibb.co/6wJR0Qr/image.png) selon votre affichage
+2. Clic sur ![](https://i.ibb.co/yBFyyXs/image.png)
+3. Retourner sur votre bureau
+4. Lancer le programme ![](https://i.ibb.co/grx0sdk/image.png)
+5. Glisser-déposer du Raccourci Griftlands
+6. Votre dossier d'installation est indiqué à la ligne 8
 `IconFile=C:\Program Files\Epic Games\Griftlands\bin\Griftlands.exe`
 
 ### Contact
