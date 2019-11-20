@@ -24887,7 +24887,7 @@ msgstr "Remise de other_handler"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_CAPTURE_NADAN_4.DIALOG_TELL_DEAD"
 msgid "player:\nSorry, {handler}. I know you wanted {other_handler.himher} alive, but {other_handler} is dead.\nhandler:\n!palm\n...\n$angrySeething\nDo you recall, {player}, that I specifically asked you to bring him in alive?\n{other_handler.HeShe} had information. Extremely valuable information. \nplayer:\n\t!overthere\n\t$angryTakenAback\nHey, at least your enemy is dead, right?\nhandler:\n\t!angry_accuse\n\t$angryDefault\nI'd have let {other_handler} destroy the whole Bay just to increase the satisfaction of finally one-upping him. \n$miscMocking\nI thought we were on the same wavelength, {player}. But it seems you're just a mindless goon.\n!crossed\n$neutralDirect\n\t            Tomorrow's the auction. I'll get you in, as promised, but then our dealings are over."
-msgstr "player:\nDésolé, {handler}. Je sais que tu voulais être \"autre\".\nhandler:\n(palme)\n...\n$angrySeething\nVous souvenez-vous, {player}, que je vous ai spécifiquement demandé de l'amener vivant ?\nL'autre-handler. Il avait des informations. Informations extrêmement précieuses. \nplayer:\n\t!là-bas\n\t$angryTakenAback\nAu moins, ton ennemi est mort, non ?\nhandler:\n\t!angry-accuse\n\t$angryDefault\nJ'aurais laissé 'd'autres{handler} détruire toute la baie juste pour augmenter la satisfaction de finalement one-upping lui. \n$miscMocking\nJe pensais que nous étions sur la même longueur d'onde, joueur. Mais il semble que vous êtes juste un goon insensé.\n!crossed\n$neutralDirect\n\t            Demain, c'est la vente aux enchères. Je vais vous faire entrer, comme promis, mais nos relations sont terminées."
+msgstr "player:\nDésolé, {handler}. Je sais que tu voulais être \"autre\".\nhandler:\n(palme)\n...\n$angrySeething\nVous souvenez-vous, {player}, que je vous ai spécifiquement demandé de l'amener vivant ?\nL'autre-handler. Il avait des informations. Informations extrêmement précieuses. \nplayer:\n\t!overthere\n\t$angryTakenAback\nAu moins, ton ennemi est mort, non ?\nhandler:\n\t!angry-accuse\n\t$angryDefault\nJ'aurais laissé 'd'autres{handler} détruire toute la baie juste pour augmenter la satisfaction de finalement one-upping lui. \n$miscMocking\nJe pensais que nous étions sur la même longueur d'onde, joueur. Mais il semble que vous êtes juste un goon insensé.\n!crossed\n$neutralDirect\n\t            Demain, c'est la vente aux enchères. Je vais vous faire entrer, comme promis, mais nos relations sont terminées."
 
 #: CONVO.SAL_STORY_CAPTURE_NADAN_4.OPT_TELL_DEAD
 #, fuzzy
@@ -24911,7 +24911,7 @@ msgstr "player:\n\t\t!oublieux\n\t\t$neutralTakenAback\n\t\tIl m'a assommé quan
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_CAPTURE_NADAN_5.DIALOG_CONVINCE_SUCCESS"
 msgid "player:\n\t\t!overthere\n\t\t$neutralResigned\n\t\tWe had to take a detour to avoid Admiralty patrols, and he slipped off while I slept. \n\t\tI'd triple bound him and everything.\nagent:\n\t!disappoint\n\t$neutralResigned\nIt wouldn't be the first time {other_handler} got the slip on a skilled professional.\nSome opportunities are just too good to be true. \nplayer:\n\t!interest\n\t$miscPersuasive\nWe're still good for tomorrow right? You'll help me get into the auction?\nagent:\n\t!agree\nMy word's my word. We're good, {player}. You've done your part, and we need to take down Kashio.\n!eureka\nBesides, this just means I still get a chance to catch {other_handler} myself."
-msgstr "player:\n\t\t!là-bas\n\t\t$neutralResigned\n\t\tNous avons dû faire un détour pour éviter les patrouilles de l'Amirauté, et il a glissé pendant que je dormais. \n\t\tJe l'avais triplement lié et tout.\nagent:\n\t!décevoir\n\t$neutralResigned\nCe ne serait pas la première fois que other_handler a eu le lapsus sur un professionnel qualifié.\nCertaines opportunités sont tout simplement trop beau pour être vrai. \nplayer:\n\t!intérêt\n\t$miscPersuasive\nOn est toujours bons pour demain, non ? Tu vas m'aider à entrer dans la vente aux enchères ?\nagent:\n\t!d'accord\nMa parole est ma parole. On est bons, {player}. Tu as fait ta part, et on doit faire tomber Kashio.\n!eureka (en)\nD'ailleurs, cela signifie juste que j'ai encore une chance d'attraper moi-même other_handler."
+msgstr "player:\n\t\t!overthere\n\t\t$neutralResigned\n\t\tNous avons dû faire un détour pour éviter les patrouilles de l'Amirauté, et il a glissé pendant que je dormais. \n\t\tJe l'avais triplement lié et tout.\nagent:\n\t!décevoir\n\t$neutralResigned\nCe ne serait pas la première fois que other_handler a eu le lapsus sur un professionnel qualifié.\nCertaines opportunités sont tout simplement trop beau pour être vrai. \nplayer:\n\t!intérêt\n\t$miscPersuasive\nOn est toujours bons pour demain, non ? Tu vas m'aider à entrer dans la vente aux enchères ?\nagent:\n\t!d'accord\nMa parole est ma parole. On est bons, {player}. Tu as fait ta part, et on doit faire tomber Kashio.\n!eureka (en)\nD'ailleurs, cela signifie juste que j'ai encore une chance d'attraper moi-même other_handler."
 
 #: CONVO.SAL_STORY_CAPTURE_NADAN_5.OPT_CONVINCE_ESCAPED
 #, fuzzy
@@ -25063,22 +25063,19 @@ msgid "fssh:\n!right\n* {fssh} is waiting for you, her hip cocked against the ba
 msgstr "fssh:\n!right\n{fssh} vous attend, sa hanche coiffé contre la barre. \nplayer:\n!left\nfssh:\n!greeting\n$happyDefault\nLongtemps, Sal. Mais j'ai l'impression de t'avoir vu.\nplayer:\n!bashful\n$happyResigned\nJe suppose que je n'ai pas beaucoup changé, hein ? \nfssh:\n!crossed\n$neutralResigned\nCertaines choses ne le font pas. Et en te connaissant, il y a une chose que tu cherches : cette prime.\nTu fais du boulot aujourd'hui, et je te promets de t'aider demain. \n!give\n$neutralDirect\nPour l'instant, prenez ceci pour vous accueillir à la maison."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3A
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3A"
 msgid "fssh:\n!right\n* {fssh} welcomes you, and it's back to the hunt for another day. \nplayer:\n!left\nfssh:\n!sigh\n$neutralResigned\nYou look like you got plans to take on the biggest crime lord in the Bay, no matter what I might say to stop you.\n!give \nJust promise me you won't do it without help."
-msgstr "fssh:\n!right\n{fssh} vous accueille, et c'est de retour à la chasse pour un autre jour. \nplayer:\n!left\nfssh:\n!sigh\n$neutralResigned\nTu as l'air d'avoir l'intention d'affronter le plus grand seigneur du crime de la baie, peu importe ce que je pourrais dire pour t'arrêter.\n!donner \nPromets-moi que tu ne le feras pas sans aide."
+msgstr "fssh:\n!right\n* {fssh} vous accueille, encore de retour de la chasse. \nplayer:\n!left\nfssh:\n!sigh\n$neutralResigned\nJ'ai entendu dire que tu avais l'intention d'affronter le plus gros poisson de la bay. Peu importe ce que je pourrais te dirait tu ne renonceras pas, pas vrais?\n!give \nJuste une chose promets-moi de ne pas y aller toute seule."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3B
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3B"
 msgid "fssh:\n!right\n* {fssh} has a drink waiting for you. Even though it's been years, she remembered your favorite.\nplayer:\n!left\nfssh:\n!offer\n$neutralDirect\nYou're not the only one who wants {kashio} out of the picture.\n!agree\n$happyDefault\nPlay your cards right, and that revenge you want so bad? It'll deliver itself."
-msgstr "fssh:\n!right\n{fssh} a un verre qui vous attend. Même si ça fait des an nées, elle se souvenait de ton préféré.\nplayer:\n!left\nfssh:\nL'offre !\n$neutralDirect\nTu n'es pas le seul à vouloir sortir de l'image.\n!agree\n$happyDefault\nJouer vos cartes à droite, et cette vengeance que vous voulez si mauvais? Il va se livrer."
+msgstr "fssh:\n!right\n* Même si ça fait des années, {fssh} ta préparée un verre et c'est ton préféré\nplayer:\n!left\nfssh:\n!offer\n$neutralDirect\nTu n'es pas la seule à vouloir voir {kashio} disparaitre.\n!agree\n$happyDefault\nSi tu joues bien ton coup, elle viendra à toi d'elle-même. Et tu pourras assouvir cette vengeance que tu veux tant?"
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3C
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3C"
 msgid "fssh:\n!right\n* You're back in Havaria, and {fssh} welcomes you like you were only gone for a wink.\nplayer:\n!left\nfssh:\n!eureka\n$neutralDirect\nWelcome back, Sal. Let's not waste much time, huh? You got work to do, and I got things to help you do it."
-msgstr "fssh:\n!right\nVous êtes de retour à Havaria, et {fssh} vous accueille comme si vous n'étiez parti que pour un clin d'œil.\nplayer:\n!left\nfssh:\n!eureka (en)\n$neutralDirect\nBienvenue, Sal. Ne perdons pas beaucoup de temps, hein ? Tu as du travail à faire, et j'ai des choses pour t'aider à le faire."
+msgstr "fssh:\n!right\n* Tu est retour à la Havane, et {fssh} t'accueille comme si tu n'étais parti il n'y a  seulment que quelque jours.\nplayer:\n!left\nfssh:\n!eureka\n$neutralDirect\nRavi de te voir, Sal. Ne perdons pas de temps? Tu as du pain sur la planche, et j'ai quelques choses qui pourront t'aider."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_INTRO
 #, fuzzy
@@ -26418,7 +26415,7 @@ msgstr "player:\n\t!salutation\n\t$happyGreeting\n\tHé, c'est {agent} ! Mon pot
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_KILL_OOLO_4.DIALOG_CONVINCE_TO_HELP_FAILURE"
 msgid "player:\n\t\t!overthere\n\t\t$miscAlluring\n\t\tIt's a big job! Big rewards! Don't you want in?\nagent:\n\t!dubious\n\t$neutralDubious\n\tYou kiddin'? No way. Everyone knows we're going after {other_handler}. \n\tBoss sent you 'cause you're <i>disposable</i>. You're on your own.\nplayer:\n\t!disappoint\n\t$miscDepressed\n\tAw, sea spit."
-msgstr "player:\n\t\t!là-bas\n\t\t$miscAlluring\n\t\tC'est un gros boulot ! De grandes récompenses! Tu ne veux pas entrer ?\nagent:\n\t!douteux\n\t$neutralDubious\n\tTu as pleurné ? Pas question. Tout le monde sait qu'on s'en occupe pour other_handler. \n\tBoss vous a envoyé parce que vous êtes <i>jetable</i>. Tu es tout seul.\nplayer:\n\t!décevoir\n\t$miscDepressed\n\tAw, crachat de mer."
+msgstr "player:\n\t\t!overthere\n\t\t$miscAlluring\n\t\tC'est un gros boulot ! De grandes récompenses! Tu ne veux pas entrer ?\nagent:\n\t!douteux\n\t$neutralDubious\n\tTu as pleurné ? Pas question. Tout le monde sait qu'on s'en occupe pour other_handler. \n\tBoss vous a envoyé parce que vous êtes <i>jetable</i>. Tu es tout seul.\nplayer:\n\t!décevoir\n\t$miscDepressed\n\tAw, crachat de mer."
 
 #: CONVO.SAL_STORY_KILL_OOLO_4.DIALOG_CONVINCE_TO_HELP_SUCCESS
 #, fuzzy
@@ -26766,7 +26763,7 @@ msgstr "player:\n!overthere\n$miscAlluring\nJe suis votre escorte personnelle, e
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_KILL_OOLO_7.STATE_SIBLING_ARRIVE.DIALOG_CONVINCE_SUCCESS"
 msgid "player:\n\t\t!overthere\n\t\t$miscPersuasive\n\t\tThe bandits in the area have been keeping a close eye on the Admiralty. \n{other_handler} thought you'd be safer with off-the-books protection.\nsibling:\n\t$neutralDirect\n\tShe <i>knows</i> I prefer to travel with fanfare.\n\t!disappoint\n\t$neutralResigned\n\tBut this cloak-and-dagger nonsense is very typical for {other_handler.himher}. Well, lead on."
-msgstr "player:\n\t\t!là-bas\n\t\t$miscPersuasive\n\t\tLes bandits de la région ont gardé un œil sur l'Amirauté. \n\"other_handler\" pensait que vous seriez plus en sécurité avec une protection hors des livres.\nFrère:\n\t$neutralDirect\n\tElle <i>sait que</i> je préfère voyager en fanfare.\n\t!décevoir\n\t$neutralResigned\n\tMais ce nœud de camouflage et de poignard est très typique pour 'other_handler.himher'. Eh bien, continuez."
+msgstr "player:\n\t\t!overthere\n\t\t$miscPersuasive\n\t\tLes bandits de la région ont gardé un œil sur l'Amirauté. \n\"other_handler\" pensait que vous seriez plus en sécurité avec une protection hors des livres.\nFrère:\n\t$neutralDirect\n\tElle <i>sait que</i> je préfère voyager en fanfare.\n\t!décevoir\n\t$neutralResigned\n\tMais ce nœud de camouflage et de poignard est très typique pour 'other_handler.himher'. Eh bien, continuez."
 
 #: CONVO.SAL_STORY_KILL_OOLO_7.STATE_SIBLING_ARRIVE.DIALOG_INTRO
 #, fuzzy
@@ -27354,7 +27351,7 @@ msgstr "Refuser l'emploi"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_COMBAT.STATE_QUESTIONS.ASK_ABOUT_DIALOG_1"
 msgid "player:\n!dubious\n$neutralDubious\nHow much do you owe, anyway?\nnight_merchant:\n$neutralWhatever\nI've lost track, to be honest. I just try to make the minimum payments.\n!scared_shrug\n$neutralWhatever\nBut it's never enough. Kashio just keeps cranking up the interest. If I had a head for numbers, I might be able to figure it out. \nplayer:\n!left\n!surprised\n$neutralDubious\nWait, the debt broker is <i>Kashio</i>?\nnight_merchant:\n\t!agree\n\tYeah—mine and every other sad sucker's in Murder Bay. I only ever talk to her proxy though. Why, you know her?\nplayer:\n\t!tired\n\tShe, uh, has a reputation. Even back on the derrick.\nnight_merchant:\n\t!overthere\n\tThen you know I'm in big trouble if I don't pay her back."
-msgstr "player:\n!dubious\n$neutralDubious\nCombien tu dois ?\nmarchand de nuit:\n$neutralWhatever\nJ'ai perdu la trace, pour être honnête. J'essaie juste de faire les paiements minimums.\n!effrayé-shrug\n$neutralWhatever\nMais ce n'est jamais assez. Kashio ne cesse de monter l'intérêt. Si j'avais une tête pour les chiffres, je pourrais peut-être le comprendre. \nplayer:\n!left\n!surpris\n$neutralDubious\nAttendez, le courtier de la dette est <i>Kashio?</i>\nmarchand de nuit:\n\t!d'accord\n\tOui, le mien et tous les autres tristes à Murder Bay. Je ne parle jamais à son mandataire si. Pourquoi, tu la connais ?\nplayer:\n\t!fatigué\n\tElle a une réputation. Même de retour sur le derrick.\nmarchand de nuit:\n\t!là-bas\n\tAlors tu sais que j'ai de gros ennuis si je ne la rembourse pas."
+msgstr "player:\n!dubious\n$neutralDubious\nCombien tu dois ?\nmarchand de nuit:\n$neutralWhatever\nJ'ai perdu la trace, pour être honnête. J'essaie juste de faire les paiements minimums.\n!effrayé-shrug\n$neutralWhatever\nMais ce n'est jamais assez. Kashio ne cesse de monter l'intérêt. Si j'avais une tête pour les chiffres, je pourrais peut-être le comprendre. \nplayer:\n!left\n!surpris\n$neutralDubious\nAttendez, le courtier de la dette est <i>Kashio?</i>\nmarchand de nuit:\n\t!d'accord\n\tOui, le mien et tous les autres tristes à Murder Bay. Je ne parle jamais à son mandataire si. Pourquoi, tu la connais ?\nplayer:\n\t!fatigué\n\tElle a une réputation. Même de retour sur le derrick.\nmarchand de nuit:\n\t!overthere\n\tAlors tu sais que j'ai de gros ennuis si je ne la rembourse pas."
 
 #: CONVO.SAL_STORY_MERCHANT_COMBAT.STATE_QUESTIONS.ASK_ABOUT_OPT_1
 #, fuzzy
@@ -33407,7 +33404,7 @@ msgstr "Votre première carte jouée à chaque tour endommage également un argu
 #, fuzzy
 msgctxt "GRAFT.BRAIN_SPUR.NAME"
 msgid "Brain Spur"
-msgstr "Éperon de cerveau"
+msgstr "Brain Spur"
 
 #: GRAFT.BRUTALITY.DESC
 #, fuzzy
@@ -33464,10 +33461,9 @@ msgid "Draw one extra card per turn."
 msgstr "Piocher une carte supplémentaire par tour."
 
 #: GRAFT.CEREBRAL_STIMULANTS.NAME
-#, fuzzy
 msgctxt "GRAFT.CEREBRAL_STIMULANTS.NAME"
 msgid "Cerebral Stimulants"
-msgstr "Stimulants cérébraux"
+msgstr "Stimulant Cérébral"
 
 #: GRAFT.CHARISMA.DESC
 #, fuzzy
@@ -34843,10 +34839,9 @@ msgid "Mutator"
 msgstr "Mutateur"
 
 #: GRAFT_TYPES.NEGOTIATION
-#, fuzzy
 msgctxt "GRAFT_TYPES.NEGOTIATION"
 msgid "Negotiation Graft"
-msgstr "GRAFT DE NEGOCIATION"
+msgstr "GRAFT DE NÉGOCIATION"
 
 #: LOCATION.ADMIRALTY_BARRACKS.DESC
 #, fuzzy
@@ -35873,7 +35868,6 @@ msgid "Card Draw"
 msgstr "Card Piocher"
 
 #: MODIFIER.CEREBRAL_STIMULANTS.DESC
-#, fuzzy
 msgctxt "MODIFIER.CEREBRAL_STIMULANTS.DESC"
 msgid "Draw one extra card per turn."
 msgstr "Piocher une carte supplémentaire par tour."
@@ -39015,7 +39009,6 @@ msgid "Gained <!userdata_2>{1}</>"
 msgstr "Obtenu <!userdata_2>{1}</>"
 
 #: NOTIFICATION.DECK_CHANGED_GAINED_NEGOTIATION
-#, fuzzy
 msgctxt "NOTIFICATION.DECK_CHANGED_GAINED_NEGOTIATION"
 msgid "NEW NEGOTIATION CARD"
 msgstr "NOUVELLE CARTE DE NÉGOCIATION"
@@ -46176,7 +46169,7 @@ msgstr "Je suis soûl, mais vous ne le sauriez jamais à moins que je vous le di
 #, fuzzy
 msgctxt "QUIPS.tavern.smalltalk.2"
 msgid "!overthere\nSometimes I like drinking alone, but surrounded by a crowd of people.\nAlone and surrounded.\n!shrug\nIs that strange?"
-msgstr "!là-bas\nParfois, j'aime boire seul, mais entouré par une foule de gens.\nSeul et entouré.\n!shrug\nC'est étrange ?"
+msgstr "!overthere\nParfois, j'aime boire seul, mais entouré par une foule de gens.\nSeul et entouré.\n!shrug\nC'est étrange ?"
 
 #: QUIPS.tavern.smalltalk.3
 #, fuzzy
@@ -46272,103 +46265,90 @@ msgstr "* Votre yote soulève sa jambe de façon inquiétante."
 #, fuzzy
 msgctxt "QUIPS.very_convincing_card.negotiation.1"
 msgid "!overthere\n$miscPersuasive\n\nAnd another thing!"
-msgstr "!là-bas\n$miscPersuasive\n\nEt une autre chose!"
+msgstr "!overthere\n$miscPersuasive\n\nEt une autre chose!"
 
 #: QUIPS.very_convincing_card.negotiation.2
 #, fuzzy
 msgctxt "QUIPS.very_convincing_card.negotiation.2"
 msgid "!overthere\n$miscPersuasive\n\nFirst of all..."
-msgstr "!là-bas\n$miscPersuasive\n\nTout d'abord..."
+msgstr "!overthere\n$miscPersuasive\n\nTout d'abord..."
 
 #: QUIPS.very_convincing_card.negotiation.3
 #, fuzzy
 msgctxt "QUIPS.very_convincing_card.negotiation.3"
 msgid "!overthere\n$miscPersuasive\n\nI got a lot of points to make, pal."
-msgstr "!là-bas\n$miscPersuasive\n\nJ'ai beaucoup de points à faire, mon pote."
+msgstr "!overthere\n$miscPersuasive\n\nJ'ai beaucoup de points à faire, mon pote."
 
 #: SLIDESHOW.BATTLE_TUTORIAL.1.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.BATTLE_TUTORIAL.1.TXT"
 msgid "<b>Battles:</>\n\nEach turn you draw 5 cards from the <b>draw pile</> and use action points to play them."
-msgstr "<b>combats:\n\nChaque tour vous tirez 5 cartes de la pioche et utiliser des <b>points d'action pour les jouer.</b></b>"
+msgstr "<b>combats:</>\n\nChaque tour vous tirez 5 cartes de votre <b>pioche</> et utiliser des points d'action pour jouer vos cartes."
 
 #: SLIDESHOW.BATTLE_TUTORIAL.2.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.BATTLE_TUTORIAL.2.TXT"
 msgid "<b>Health and Breaking Point:</>\n\nYou can win a battle by killing all of your opponents or by making them surrender.\nEnemies will surrender when their <b>health</> dips below their <b>breaking point</> indicator. Killing enemies may have diplomatic consequences!\n"
-msgstr "<b>Santé et point de rupture :\n\nVous pouvez gagner une combat en tuant tous vos adversaires ou en les faisant se rendre.\nLes ennemis se rendront lorsque leur santé descend en dessous de leur indicateur de point de <b> <b>rupture. Tuer des ennemis peut avoir des conséquences diplomatiques !\n</b></b></b>"
+msgstr "<b>Santé et Point de rupture:</>\n\nVous pouvez gagner un combat en tuant tous vos adversaires ou en les faisans se rendre.\nLes ennemis se rendront lorsque leur santé descend en dessous de leur indicateur de point de rupture. Tuer vos ennemis peut avoir des conséquences!\n"
 
 #: SLIDESHOW.BATTLE_TUTORIAL.3.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.BATTLE_TUTORIAL.3.TXT"
 msgid "<b>Intents:</>\n\nYou can preview what your enemies and allies will do on their next turn. \nYour allies all act before your enemies."
-msgstr "<b>Intentions:\n\nVous pouvez prévisualiser ce que vos ennemis et alliés feront lors de leur prochain tour. \nVos alliés agissent tous devant vos ennemis.</b>"
+msgstr "<b>Intentions:</>\n\nVous pouvez voir à l'avance ce que vos ennemis et alliés feront lors du prochain tour. \nVos alliés agiront avant vos ennemis."
 
 #: SLIDESHOW.NEGOTIATION_TUTORIAL.1.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.NEGOTIATION_TUTORIAL.1.TXT"
 msgid "<b>Negotiations:</>\n\nEach turn you draw 5 cards from the <b>draw pile</> and use action points to play them."
-msgstr "<b>négociations:\n\nChaque tour vous tirez 5 cartes de la pioche et utiliser des <b>points d'action pour les jouer.</b></b>"
+msgstr "<b>négociations:</>\n\nChaque tour vous tirez 5 cartes de votre <b>pioche</> et utiliser des points d'action pour jouer vos cartes."
 
 #: SLIDESHOW.NEGOTIATION_TUTORIAL.2.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.NEGOTIATION_TUTORIAL.2.TXT"
 msgid "<b>Resolve:</>\n\nYou win a negotiation by destroying your opponent's <b>core resolve</>.\nYour <b>resolve</> carries over between negotiations. \nIf you have no <b>resolve</>, you can no longer negotiate!"
-msgstr "<b>Détermination:\n\nVous gagnez une négociation en détruisant la détermination de base de votre <b>adversaire.\nVotre <b>détermination se répercute entre les négociations. \nSi vous n'avez pas de <b>détermination, vous ne pouvez plus négocier!</b> </b> </b></b>"
+msgstr "<b>Détermination:</>\n\nVous gagnez une négociation en détruisant la <b>détermination</> de votre adversaire.\nVotre <b>détermination</> n'est pas restaurée à la fin d'une négociation. \nSi vous n'avez plus de <b>détermination</>, vous ne pouvez plus négocier!"
 
 #: SLIDESHOW.NEGOTIATION_TUTORIAL.3.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.NEGOTIATION_TUTORIAL.3.TXT"
 msgid "<b>Intents:</>\n\nYour opponent's <b>intents</> for the next turn are shown in their inner ring."
-msgstr "<b>Intentions:\n\nLes intentions de votre adversaire <b>pour le tour suivant sont affichées dans leur anneau intérieur.</b></b>"
+msgstr "<b>Intentions</>:\n\nLes <b>intentions</> de votre adversaire pour le tour suivant sont affichés dans le cercle intérieur."
 
 #: SLIDESHOW.NEGOTIATION_TUTORIAL.4.TXT
 #, fuzzy
 msgctxt "SLIDESHOW.NEGOTIATION_TUTORIAL.4.TXT"
 msgid "<b>Arguments:</>\n\nYou and your opponent can deploy <b>arguments</> to help win the negotiation.\n<b>Arguments</> can be attacked or defended like the <b>core resolve</>."
-msgstr "<b>Arguments:\n\nVous et votre adversaire pouvez déployer <b>des arguments pour aider à gagner la négociation.\n<b>Les arguments peuvent être attaqués ou défendus comme la détermination de <b>base.</b> </b> </b></b>"
+msgstr "<b>Arguments:</>\n\nVous et votre adversaire pouvez déployer <b>des arguments</> pour vous aider à gagner la négociation.\n<b>Les arguments</> peuvent être attaqués ou défendus comme votre <b>détermination principal</>."
 
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW.1.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW.1.TXT"
 msgid "You’re a bounty hunter. You escaped a life of indentured labor by hunting criminals and debt-dodgers.\n\nThe work has earned you your freedom, if not any friends."
-msgstr "Tu es un chasseur de primes. Vous avez échappé à une vie de travail sous contrat en chassant les criminels et les fraudeurs.\n\nLe travail vous a valu votre liberté, si ce n'est des amis."
+msgstr "Vous êtes une chasseuse de primes. Qui a échappé à une vie de dur labeur en chassant les criminels et les mauvais payeurs.\n\nCe travail vous a permis de gagner votre liberté, mais vous ne vous êtes pas fait que des amis."
 
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW.2.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW.2.TXT"
 msgid "Now, you're back home—for the first time in ten years. But freedom comes with its own dangers, and making a living in Havaria won’t be easy. \n\nHere, the gangs are feral, the law enforcement are corrupt, and the people are treated like chattel, indebted to merciless criminals."
-msgstr "Maintenant, vous êtes de retour à la maison, pour la première fois en dix ans. Mais la liberté vient avec ses propres dangers, et gagner sa vie à Havaria ne sera pas facile. \n\nIci, les gangs sont sauvages, les forces de l'ordre sont corrompues, et les gens sont traités comme des bavards, redevables à des criminels impitoyables."
+msgstr "Maintenant, vous êtes de retour à la maison, pour la première fois en dix ans. Libres mais avec cette liberté viennent ses dangers, et gagner sa vie à la Havane ne sera pas facile. \n\nIci, les gangs sont sauvages, les forces de l'ordre sont corrompues, et les gens sont traités comme des marchandises, endettés auprès de criminels sans pitié."
 
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW.3.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW.3.TXT"
 msgid "Criminals like Kashio, the ruthless debt broker who sold you to the derricks in the first place. But now, Kashio's grip has weakened, and there's a bounty on her head too rich to ignore. \n\nYou’ll die before you go into debt again. And so will she, if you have your say."
-msgstr "Des criminels comme Kashio, l'impitoyable courtier en dettes qui t'a vendu aux derricks en premier lieu. Mais maintenant, l'emprise de Kashio s'est affaiblie, et il y a une prime sur sa tête trop riche pour être ignorée. \n\nTu mourras avant de t'endetter à nouveau. Et elle aussi, si tu as ton mot à dire."
+msgstr "Des criminels comme Kashio, l'impitoyable prêteur sur gages, au tout début c'est elle qui vous à vendu sûr les quais. Mais maintenant, son emprise s'est affaiblie, et qu'il y a cette prime très alléchante sur sa tête. \n\nTu mourras avant de t'endetter à nouveau. Et elle aussi mourra, si tu as ton mot à dire."
 
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW.4.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW.4.TXT"
 msgid "Your first stop is a dive called the Grog n’ Dog, where an old friend will help you get your revenge—provided you can prove yourself."
-msgstr "Votre premier arrêt est une plongée appelée le Grog n'Dog, où un vieil ami vous aidera à prendre votre revanche, à condition que vous puissiez faire vos preuves."
+msgstr "Votre premier arrêt est un bar appelée le Grog n'Dog, où une vieille amie t'aidera à te venger, à condition que tu fasses tes preuves."
 
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW_2.1.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW_2.1.TXT"
 msgid "You've never been one to back down from a challenge. You enter the Grog n' Dog, shrugging off the weird sense of deja vu that hits you.\n\nFirst thing is to find your old friend Fssh, who might have a lead on where to find Kashio."
-msgstr "Tu n'as jamais été du temps pour te détourner d'un défi. Vous entrez dans le Grog n'Dog, haussant les épaules au large du sens étrange de déjà-vu qui vous frappe.\n\nLa première chose est de trouver votre vieil ami Fssh, qui pourrait avoir une piste sur l'endroit où trouver Kashio."
+msgstr "Vous n'êtes pas du genre a reculé devant un défi. Vous entrez dans le Grog n' Dog, en haussant les épaules face à ce sentiment de déjà-vu qui vous envahit.\n\nLa première chose à faire est de trouver votre vieille amie Fssh, qui pourrait avoir une piste pour trouver Kashio."
 
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW_3.1.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW_3.1.TXT"
 msgid "Last time someone made your life miserable, you kept tabs, called in favors, and stayed alert. You took them down, and climbed out of the gutter they kept you in. Kashio's no different."
-msgstr "La dernière fois que quelqu'un t'a rendu ta vie misé rable, tu as gardé un œil, appelé en faveur, et tu es resté alerte. Tu les as descendus, et tu es sorti du caniveau où ils t'ont gardé. Kashio n'est pas différent."
+msgstr "La dernière fois que quelqu'un vous a rendu la vie impossible, vous aviez gardé l'œil ouvert, demandé des services, et vos êtes restées vigilantes. Ils ont plongé, et vous êtes sorti du gouffre. Kashio n'est pas différent."
 
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW_4.1.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW_4.1.TXT"
 msgid "You've pictured your revenge so many times. But what if she gets you first? What if someone <i>else</i> does? \n            \nBut you scratch those thoughts out like lines on the paper. You're here for Kashio. That's the only way this story ends."
-msgstr "Tu as imaginé ta vengeance tant de fois. Et si elle t'attrape d'abord ? Et si <i>quelqu'un d'autre</i> le fait ? \n            \nMais vous grattez ces pensées comme des lignes sur le papier. Tu es là pour Kashio. C'est la seule façon pour cette histoire de se terminer."
+msgstr "Vous avait imaginé votre vengeance tant de fois. Et si c'était elle qui finit par gagner? Et si <i>quelqu'un d'autre/i> avait déjà? \n            \nVous oubliez vite ces pensées. Vous êtes là pour Kashio. C'est la seule façon de mettre fin à cette histoire."
 
 #: SPECIES.BEAST
 #, fuzzy
@@ -46879,7 +46859,6 @@ msgid "BATTLE CARDS"
 msgstr "COMBAT"
 
 #: UI.CARDCOMPENDIUM.CARD_FILTER_MINIGAME_TITLE_NEGOTIATION
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.CARD_FILTER_MINIGAME_TITLE_NEGOTIATION"
 msgid "NEGOTIATION CARDS"
 msgstr "NÉGOCIATION"
@@ -47202,10 +47181,9 @@ msgid "BATTLE GRAFTS"
 msgstr "COMBAT"
 
 #: UI.CARDCOMPENDIUM.GRAFT_FILTER_MINIGAME_TITLE_NEGOTIATION
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.GRAFT_FILTER_MINIGAME_TITLE_NEGOTIATION"
 msgid "NEGOTIATION GRAFTS"
-msgstr "NEGOCIATION"
+msgstr "NÉGOCIATION"
 
 #: UI.CARDCOMPENDIUM.GRAFT_FILTER_RARITY
 #, fuzzy
@@ -47221,7 +47199,7 @@ msgstr "Les Grafts obtenues en battant un boss."
 #: UI.CARDCOMPENDIUM.GRAFT_FILTER_RARITY_COMMON_TT
 msgctxt "UI.CARDCOMPENDIUM.GRAFT_FILTER_RARITY_COMMON_TT"
 msgid "Grafts you are likely to get through a run"
-msgstr "Les Grafts que vous pouvez obtenir sans trop de difficulté."
+msgstr "Les Grafts que vous pouvez obtenir sans difficulté."
 
 #: UI.CARDCOMPENDIUM.GRAFT_FILTER_RARITY_RARE_TT
 #, fuzzy
@@ -47310,15 +47288,14 @@ msgid "???"
 msgstr "???"
 
 #: UI.CARDCOMPENDIUM.GRAFT_LOCKED_TT
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.GRAFT_LOCKED_TT"
 msgid "<b><#TITLE>Unknown</></b>\nYou haven't seen this graft yet. When you find it in game, its details will show here."
-msgstr "<b><#TITLE>Inconnu</#TITLE></b>\nTu n'as pas encore vu cette greffe. Lorsque vous le trouvez dans le jeu, ses détails seront montrés ici."
+msgstr "<b><#TITLE>Inconnu</#TITLE></b>\nTu n'as pas encore vu ce graft. Lorsque vous le trouvez dans le jeu, ses détails seront afficher ici."
 
 #: UI.CARDCOMPENDIUM.GRAFT_NEGOTIATION_TITLE
 msgctxt "UI.CARDCOMPENDIUM.GRAFT_NEGOTIATION_TITLE"
 msgid "NEGOTIATION GRAFT"
-msgstr "NEGOCIATION"
+msgstr "NÉGOCIATION"
 
 #: UI.CARDCOMPENDIUM.GRAFT_SEEN
 msgctxt "UI.CARDCOMPENDIUM.GRAFT_SEEN"
@@ -47791,7 +47768,6 @@ msgid "BATTLE CARD"
 msgstr "CARTE DE COMBAT"
 
 #: UI.CARD_WIDGET.CARD_CLASS_NEGOTIATION
-#, fuzzy
 msgctxt "UI.CARD_WIDGET.CARD_CLASS_NEGOTIATION"
 msgid "NEGOTIATION CARD"
 msgstr "CARTE DE NÉGOCIATION"
@@ -49373,7 +49349,7 @@ msgstr "DECK DE NEGOTIATION"
 #: UI.GAME_OVER_SCREEN.REWARD_NEGOTIATION_GRAFT
 msgctxt "UI.GAME_OVER_SCREEN.REWARD_NEGOTIATION_GRAFT"
 msgid "NEGOTIATION GRAFT"
-msgstr "GRAFT DE NEGOCIATION"
+msgstr "GRAFT DE NÉGOCIATION"
 
 #: UI.GAME_OVER_SCREEN.REWARD_OUTFIT
 msgctxt "UI.GAME_OVER_SCREEN.REWARD_OUTFIT"
@@ -49555,7 +49531,7 @@ msgstr "GRAFTS DE COMBAT"
 #, fuzzy
 msgctxt "UI.GRAFT_COLLECTION.NEGOTIATION_GRAFTS"
 msgid "NEGOTIATION GRAFTS"
-msgstr "GRAFTS DE NEGOCIATION"
+msgstr "GRAFTS DE NÉGOCIATION"
 
 #: UI.GRAFT_COLLECTION.SLOT_EMPTY
 msgctxt "UI.GRAFT_COLLECTION.SLOT_EMPTY"
@@ -49595,7 +49571,7 @@ msgstr "MUTATEUR"
 #, fuzzy
 msgctxt "UI.GRAFT_COLLECTION.SLOT_TYPE_NEGOTIATION"
 msgid "NEGOTIATION GRAFT"
-msgstr "GRAFT DE NEGOCIATION"
+msgstr "GRAFT DE NÉGOCIATION"
 
 #: UI.GRAFT_COLLECTION.SLOT_TYPE_NONE
 msgctxt "UI.GRAFT_COLLECTION.SLOT_TYPE_NONE"
@@ -49642,7 +49618,7 @@ msgstr "GRAFT DE COMBAT"
 #, fuzzy
 msgctxt "UI.GRAFT_SCREEN.CLASS_LABEL_NEGOTIATION"
 msgid "NEGOTIATION GRAFT"
-msgstr "GRAFT DE NEGOCIATION"
+msgstr "GRAFT DE NÉGOCIATION"
 
 #: UI.GRAFT_SCREEN.CONTROLS_LEFT_SELECT
 #, fuzzy
