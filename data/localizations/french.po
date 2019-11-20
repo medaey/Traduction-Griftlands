@@ -9327,7 +9327,7 @@ msgstr "La prochaine carte jouée est jouée deux fois.\nPuis, la {CONSUME}."
 #, fuzzy
 msgctxt "CARD.AMNESIATOR.NAME"
 msgid "Amnesiator"
-msgstr "Amnesiateur"
+msgstr "Amnesitator"
 
 #: CARD.ANIMOSITY.DESC
 #, fuzzy
@@ -16147,7 +16147,7 @@ msgstr "agent:\n!right\n!facepalm\nQu'est-ce que j'ai dit ? J'ai dit <i>de ne pa
 #, fuzzy
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_FIGHT_SOMEONE_ELSE.DIALOG_THANKS"
 msgid "player:\n!tired\nRight, the job's done.\nagent:\n!right\n!agree\nThanks for that. I saw that fight go down—I wouldn't have made it far compared to you.\n!permit\nI know I forced your hand, but I owe you one. For real."
-msgstr "player:\n!tired\nC'est vrai, le travail est fait.\nagent:\n!right\n!agree\nMerci pour ça. J'ai vu ce combat s'éteindre, je n'aurais pas été loin par rapport à vous.\nPermis !\nJe sais que je t'ai forcé la main, mais je t'en dois une. Pour de vrai."
+msgstr "player:\n!tired\nC'est vrai, le travail est fait.\nagent:\n!right\n!agree\nMerci pour ça. J'ai vu ce combat s'éteindre, je n'aurais pas été loin par rapport à vous.\n!permit\nJe sais que je t'ai forcé la main, mais je t'en dois une. Pour de vrai."
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_FIGHT_SOMEONE_ELSE.OPT_DEFEND_SELF
 #, fuzzy
@@ -16195,7 +16195,7 @@ msgstr "player:\nVraiment? <i>Vraiment</i>?\nagent:\n!hips\nBien. Puisque c'est 
 #, fuzzy
 msgctxt "CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_PLANT_CONTRABAND.DIALOG_TOOK_MONEY_LARGE"
 msgid "player:\n!disappoint\n$angryDefault\nUgh. Fine. \n!give\n$neutralResigned\nI don't want any trouble. Just take it.\nagent:\n!surprised\nWha-<i>really</i>?\n!angry_accuse\nI mean... don't let me catch you doing it again."
-msgstr "player:\n!décevoir\n$angryDefault\nUgh, je ne sais pas. bien. \n!give\n$neutralResigned\nJe ne veux pas d'ennuis. Prends-le.\nagent:\n!surpris\nWha-<i>vraiment</i>?\n!angry_accuse\nJe veux dire... Ne me laisse pas t'attraper en le refaisant."
+msgstr "player:\n!disappoint\n$angryDefault\nUgh, je ne sais pas. bien. \n!give\n$neutralResigned\nJe ne veux pas d'ennuis. Prends-le.\nagent:\n!surpris\nWha-<i>vraiment</i>?\n!angry_accuse\nJe veux dire... Ne me laisse pas t'attraper en le refaisant."
 
 #: CONVO.ADMIRALTY_SHAKE_DOWN_PLAYER.STATE_PLANT_CONTRABAND.DIALOG_TOOK_MONEY_SMALL
 #, fuzzy
@@ -16351,7 +16351,7 @@ msgstr "player:\n!left\n!triste\nLes deux {agent} et {pet} sont morts à vos pie
 #, fuzzy
 msgctxt "CONVO.ANIMAL_CONTROL.CONFRONT.DIALOG_HAND_OVER"
 msgid "* You turn to {pet}.\npet:\n!right\nplayer:\n!permit\nGo on, {pet}."
-msgstr "* Vous vous tournez vers 'pet'.\npet:\n!right\nplayer:\nPermis !\nVas-y, {pet}."
+msgstr "* Vous vous tournez vers 'pet'.\npet:\n!right\nplayer:\n!permit\nVas-y, {pet}."
 
 #: CONVO.ANIMAL_CONTROL.CONFRONT.DIALOG_HAND_OVER_2
 #, fuzzy
@@ -16698,7 +16698,7 @@ msgstr "* {1}"
 #, fuzzy
 msgctxt "CONVO.BRAVE_MERCHANT.FOO.DIALOG_ASK_ABOUT_SELF"
 msgid "player:\nYou are... threatening me?\nagent:\nYes.\nplayer:\n!dubious\nReally?\nagent:\nYes. What's so hard to understand about this?\nplayer:\n!permit\nWell, it's just that, I'm a hardened bounty hunter, and you're...\nagent:\n!cruel\nI'm your worst nightmare.\nplayer:\nYeah, sure.\n*** {agent} is extremely confident in {agent.hisher} martial abilities. You're not sure why."
-msgstr "player:\nC'est toi... me menaçant ?\nagent:\nYes.\nplayer:\n!dubious\nReally?\nagent:\nouais. Qu'y a-t-il de si difficile à comprendre ?\nplayer:\nPermis !\nEh bien, c'est juste que, je suis un chasseur de primes endurcis, et vous êtes ...\nagent:\n!cruel\nJe suis ton pire cauchemar.\nplayer:\nOui, bien sûr.\n*** {agent} est extrêmement confiant dans les capacités martiales de {agent.hisher} Vous ne savez pas pourquoi."
+msgstr "player:\nC'est toi... me menaçant ?\nagent:\nYes.\nplayer:\n!dubious\nReally?\nagent:\nouais. Qu'y a-t-il de si difficile à comprendre ?\nplayer:\n!permit\nEh bien, c'est juste que, je suis un chasseur de primes endurcis, et vous êtes ...\nagent:\n!cruel\nJe suis ton pire cauchemar.\nplayer:\nOui, bien sûr.\n*** {agent} est extrêmement confiant dans les capacités martiales de {agent.hisher} Vous ne savez pas pourquoi."
 
 #: CONVO.BRAVE_MERCHANT.FOO.DIALOG_DEFEND
 #, fuzzy
@@ -18580,7 +18580,7 @@ msgstr "* Vous trouvez la cachette du bandit assez facilement, et vous vous inst
 #, fuzzy
 msgctxt "CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_ENCOUNTER.DIALOG_NEGOTIATION_INTRO"
 msgid "player:\n!left\n* You step out of hiding.\ngoon1:\n!right\n!surprised\n$scaredTakenAback\nHesh's salty tentacles. You scared the crap outta me.\n* {goon1} looks you up and down as {goon1.heshe} brushes off the start you gave {goon1.himher}.\ngoon1: \n!permit\n$neutralDirect\nYou here for {target}? To deal with {target.himher}?\nplayer:\n!agree\n$neutralDirect\nThat's right."
-msgstr "player:\n!left\nTu sortez de la clandestinité.\ngoon1:\n!right\n!surpris\n$scaredTakenAback\nLes tentacules salés de Hesh. Tu m'as fait peur.\n'goon1' vous regarde de haut en bas comme 'goon1.heshe' brosses sur le début que vous avez donné 'goon1.himher'.\ngoon1: \nPermis !\n$neutralDirect\nVous êtes ici pour {target}? Pour faire face à 'target.himher'?\nplayer:\n!agree\n$neutralDirect\nC'est juste."
+msgstr "player:\n!left\nTu sortez de la clandestinité.\ngoon1:\n!right\n!surpris\n$scaredTakenAback\nLes tentacules salés de Hesh. Tu m'as fait peur.\n'goon1' vous regarde de haut en bas comme 'goon1.heshe' brosses sur le début que vous avez donné 'goon1.himher'.\ngoon1: \n!permit\n$neutralDirect\nVous êtes ici pour {target}? Pour faire face à 'target.himher'?\nplayer:\n!agree\n$neutralDirect\nC'est juste."
 
 #: CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_ENCOUNTER.DIALOG_PASS_STEALTH
 #, fuzzy
@@ -19288,13 +19288,13 @@ msgstr "L'amirauté peut être se balançant plus facilement si vous remettez le
 #, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_2.STATE_TRY_PRE_KILL.DIALOG_ACCEPTED_DEAL"
 msgid "player:\n!disappoint\n$neutralResigned\nI can't exactly fault you for wanting revenge. \n$neutralResigned\nSorry {admiralty_mole}, but {agent.heshe} and I have something in common.\nadmiralty_mole:\n!right\n!scared\n$scaredStammering\nD-don't you work for Nadan? You gotta do what he would want, don't you?\nplayer:\n!thought\n$neutralDubious\nDon't recall ever agreeing to that. This is where we part, friend. I'll go my way, and you'll—\n!exit\n* {agent} dispatches {admiralty_mole} with a single stroke, and whatever words you might've had die along with {admiralty_mole.himher}.\nplayer:\n!left\n!wince\n$scaredAside\nYikes.\nagent:\n!right\n!tired \n$happyThanks\nThanks, hunter. I've waited too long to let Nadan decide when I should live and let live. \nNow, I believe we made a deal. Let's go rescue {spree_prisoner}.\n* {agent} may be the type to commmit cold murder, but then, you let it happen. The two of you make a likely pair. \n*** You allow {agent} to kill {admiralty_mole} in exchange for {agent.hisher} help."
-msgstr "player:\n!décevoir\n$neutralResigned\nJe ne peux pas vous reprocher de vouloir te venger. \n$neutralResigned\nDésolée admiralty_mole, mais \"agent.heshe\" et moi avons quelque chose en commun.\nadmiralty_mole:\n!right\n!scared\n$scaredStammering\nTu ne travailles pas pour Nadan ? Tu dois faire ce qu'il voudrait, n'est-ce pas ?\nplayer:\n!thought\n$neutralDubious\nNe vous souvenez pas avoir jamais accepté ça. C'est ici qu'on se sépare, mon ami. Je vais suivre mon chemin, et vous.\n!exit\n* {agent} envoie « admiralty_mole » d'un seul coup, et quels que soient les mots que vous auriez pu avoir mourir avec « admiralty_mole.himher ».\nplayer:\n!left\n!wince\n$scaredAside\nAïe.\nagent:\n!right\n!fatigué \n$happyThanks\nMerci, chasseur. J'ai attendu trop longtemps pour laisser Nadan décider quand je devrais vivre et laisser vivre. \nJe crois qu'on a fait un marché. Allons nous courir les spree_prisoner.\n* {agent} peut être le type de commmit meurtre à froid, mais alors, vous laissez cela se produire. Vous faites une paire probable. \nVous autorisez {agent} à tuer «admiralty_mole» en échange de l'aide {agent.hisher}."
+msgstr "player:\n!disappoint\n$neutralResigned\nJe ne peux pas vous reprocher de vouloir te venger. \n$neutralResigned\nDésolée admiralty_mole, mais \"agent.heshe\" et moi avons quelque chose en commun.\nadmiralty_mole:\n!right\n!scared\n$scaredStammering\nTu ne travailles pas pour Nadan ? Tu dois faire ce qu'il voudrait, n'est-ce pas ?\nplayer:\n!thought\n$neutralDubious\nNe vous souvenez pas avoir jamais accepté ça. C'est ici qu'on se sépare, mon ami. Je vais suivre mon chemin, et vous.\n!exit\n* {agent} envoie « admiralty_mole » d'un seul coup, et quels que soient les mots que vous auriez pu avoir mourir avec « admiralty_mole.himher ».\nplayer:\n!left\n!wince\n$scaredAside\nAïe.\nagent:\n!right\n!fatigué \n$happyThanks\nMerci, chasseur. J'ai attendu trop longtemps pour laisser Nadan décider quand je devrais vivre et laisser vivre. \nJe crois qu'on a fait un marché. Allons nous courir les spree_prisoner.\n* {agent} peut être le type de commmit meurtre à froid, mais alors, vous laissez cela se produire. Vous faites une paire probable. \nVous autorisez {agent} à tuer «admiralty_mole» en échange de l'aide {agent.hisher}."
 
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_2.STATE_TRY_PRE_KILL.DIALOG_ATTACKED_DEAD
 #, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_2.STATE_TRY_PRE_KILL.DIALOG_ATTACKED_DEAD"
 msgid "* The dust settles on {agent}'s fallen body. \nadmiratly_mole:\n!right\n!angry_shrug\n$scaredDefault\nThis snitchin' business has been nothing but grief.\nplayer:\n!disappoint\n$neutralResigned\nYou're in it now. Get used to it."
-msgstr "* La poussière se dépose sur le corps tombé de l'agent. \nadmiratly_mole:\n!right\n!angry_shrug\n$scaredDefault\nCette affaire de snitchin' n'a été rien d'autre que le chagrin.\nplayer:\n!décevoir\n$neutralResigned\nTu es dedans maintenant. Habituez-vous."
+msgstr "* La poussière se dépose sur le corps tombé de l'agent. \nadmiratly_mole:\n!right\n!angry_shrug\n$scaredDefault\nCette affaire de snitchin' n'a été rien d'autre que le chagrin.\nplayer:\n!disappoint\n$neutralResigned\nTu es dedans maintenant. Habituez-vous."
 
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_2.STATE_TRY_PRE_KILL.DIALOG_ATTACKED_SURVIVED
 #, fuzzy
@@ -19306,7 +19306,7 @@ msgstr "* La poussière se dépose, laissant l'air d'agent.\nagent:\n!injured\n$
 #, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_2.STATE_TRY_PRE_KILL.DIALOG_FAILED_TALK_DOWN"
 msgid "player:\n!permit\n$neutralDirect\nYou're bigger than this. You can be better.\nagent:\n!angry_accuse\n$angrySeething\nDon't patronize me, hunter. You've left the moral high ground for the mire.\nYou're so happy to do Nadan's bidding? Then you can die for it, along with {admiralty_mole}.\n*** You fail to convince {agent} to back down and now {agent.heshe} is hostile."
-msgstr "player:\nPermis !\n$neutralDirect\nTu es plus grand que ça. Tu peux être meilleur.\nagent:\n!angry-accuse\n$angrySeething\nNe me condescendez pas, chasseur. Vous avez laissé le haut moral pour le bourbier.\nTu es si heureuse de faire l'offre de Nadan ? Ensuite, vous pouvez mourir pour elle, avec 'admiralty'mole'.\nVous ne parvenez pas à convaincre {agent} de faire marche arrière et maintenant {agent.heshe} est hostile."
+msgstr "player:\n!permit\n$neutralDirect\nTu es plus grand que ça. Tu peux être meilleur.\nagent:\n!angry-accuse\n$angrySeething\nNe me condescendez pas, chasseur. Vous avez laissé le haut moral pour le bourbier.\nTu es si heureuse de faire l'offre de Nadan ? Ensuite, vous pouvez mourir pour elle, avec 'admiralty'mole'.\nVous ne parvenez pas à convaincre {agent} de faire marche arrière et maintenant {agent.heshe} est hostile."
 
 #: CONVO.HANDLER_SPREE_PRISONER_EXCHANGE_2.STATE_TRY_PRE_KILL.DIALOG_INTRO
 #, fuzzy
@@ -19858,7 +19858,7 @@ msgstr "player:\nPoint !\n$neutralDubious\nC'est immoral de faire un profit sur 
 #, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_SHAKE_DOWN.STATE_MEET_VENDOR.DIALOG_HAGGLE_SUCCESS"
 msgid "player:\n!overthere\n$miscPersuasive\nYou and I both know this isn't legit. I'll give you a fair price for it. \nagent:\n!surprise\n$angryTakenAback\nI've never been so insulted in my life! How dare you besmirch my product!\nplayer:\n!crossed\n...\nagent:\n... \n!disappoint\n$neutralResigned\nAll right, fine. But you tell anyone who asks it's the real deal!\nplayer:\n$happyThanks\nOh don't worry—I intend to do exactly that.\n* The trinket is fun to look at, but not much else. You pocket it for later."
-msgstr "player:\n!overthere\n$miscPersuasive\nToi et moi savons tous les deux que ce n'est pas légitime. Je vais vous donner un juste prix pour cela. \nagent:\n!surprise\n$angryTakenAback\nJe n'ai jamais été aussi insulté de ma vie ! Comment oses-tu s'en faire pour mon produit ?\nplayer:\n!crossed\n...\nagent:\n... \n!décevoir\n$neutralResigned\nD'accord, d'accord. Mais dites à tous ceux qui demandent que c'est la vraie affaire!\nplayer:\n$happyThanks\nOh ne vous inquiétez pas, j'ai l'intention de faire exactement cela.\nLe bijou est amusant à regarder, mais pas grand-chose d'autre. Tu l'empoches pour plus tard."
+msgstr "player:\n!overthere\n$miscPersuasive\nToi et moi savons tous les deux que ce n'est pas légitime. Je vais vous donner un juste prix pour cela. \nagent:\n!surprise\n$angryTakenAback\nJe n'ai jamais été aussi insulté de ma vie ! Comment oses-tu s'en faire pour mon produit ?\nplayer:\n!crossed\n...\nagent:\n... \n!disappoint\n$neutralResigned\nD'accord, d'accord. Mais dites à tous ceux qui demandent que c'est la vraie affaire!\nplayer:\n$happyThanks\nOh ne vous inquiétez pas, j'ai l'intention de faire exactement cela.\nLe bijou est amusant à regarder, mais pas grand-chose d'autre. Tu l'empoches pour plus tard."
 
 #: CONVO.HANDLER_SPREE_SHAKE_DOWN.STATE_MEET_VENDOR.DIALOG_INTRO
 #, fuzzy
@@ -19906,7 +19906,7 @@ msgstr "player:\nSi je n'avais pas volé, vous n'auriez jamais appris, e uh, le 
 #, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_SHAKE_DOWN_2.STATE_LUMINARI.DIALOG_CONVINCE_SUCCESS"
 msgid "player:\n!interest\n$miscPersuasive\nYou wanna die for a trinket? You wanna <i>kill</i> for one?\nagent:\n!disappoint\n$neutralResigned\n... No. I refuse to believe Hesh cares for such petty things. \nplayer:\n!happy\n$happyThanks\nThat's the spirit. Consider this a failing of the Admiralty. You don't like it? Be sure to trash-talk them to your masters.\n!placate\nNow I'll just...\n* You carefully edge away from {agent}, watching {agent.himher} until {agent.heshe} is out of sight."
-msgstr "player:\n!interest\n$miscPersuasive\nTu veux mourir pour un bijou ? Tu veux <i>tuer</i> pour un ?\nagent:\n!décevoir\n$neutralResigned\n... Non, je refuse de croire que Hesh se soucie de ces petites choses. \nplayer:\n!happy\n$happyThanks\nC'est l'esprit. Considérez cela comme un échec de l'Amirauté. Tu n'aimes pas ça ? N'oubliez pas de les trash-parler à vos maîtres.\n!placate\nMaintenant, je vais juste ...\nVous soigneusement bord loin de {agent}, en regardant {agent.himher} jusqu'à ce que {agent.heshe} est hors de vue."
+msgstr "player:\n!interest\n$miscPersuasive\nTu veux mourir pour un bijou ? Tu veux <i>tuer</i> pour un ?\nagent:\n!disappoint\n$neutralResigned\n... Non, je refuse de croire que Hesh se soucie de ces petites choses. \nplayer:\n!happy\n$happyThanks\nC'est l'esprit. Considérez cela comme un échec de l'Amirauté. Tu n'aimes pas ça ? N'oubliez pas de les trash-parler à vos maîtres.\n!placate\nMaintenant, je vais juste ...\nVous soigneusement bord loin de {agent}, en regardant {agent.himher} jusqu'à ce que {agent.heshe} est hors de vue."
 
 #: CONVO.HANDLER_SPREE_SHAKE_DOWN_2.STATE_LUMINARI.DIALOG_DONATE
 #, fuzzy
@@ -20038,13 +20038,13 @@ msgstr "Leave"
 #, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_SHAKE_DOWN_3.DIALOG_GIVE_RELIC"
 msgid "player:\n!permit\n$happyGreeting\nHey, here's the antiquity. You were right: it's just decor. But it's your decor now, boss.\nhandler:\n!angry_shrug\n$neutralDubious\nWhat am I supposed to do with this? Hang it in my war room and pretend it's a weapon?\n!thinking\n$neutralThoughtful\nHuh. Actually, yeah. That'll do."
-msgstr "player:\nPermis !\n$happyGreeting\nHé, voici l'antiquité. Vous aviez raison : c'est juste un décor. Mais c'est ton décor maintenant, patron.\nhandler:\n!angry_shrug\n$neutralDubious\nQu'est-ce que je suis censé faire avec ça ? Accrochez-le dans ma salle de guerre et prétendez que c'est une arme ?\nLa pensée !\n$neutralThoughtful\nHein. En fait, oui. C'est ce que je ferai."
+msgstr "player:\n!permit\n$happyGreeting\nHé, voici l'antiquité. Vous aviez raison : c'est juste un décor. Mais c'est ton décor maintenant, patron.\nhandler:\n!angry_shrug\n$neutralDubious\nQu'est-ce que je suis censé faire avec ça ? Accrochez-le dans ma salle de guerre et prétendez que c'est une arme ?\nLa pensée !\n$neutralThoughtful\nHein. En fait, oui. C'est ce que je ferai."
 
 #: CONVO.HANDLER_SPREE_SHAKE_DOWN_3.DIALOG_TURN_IN
 #, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_SHAKE_DOWN_3.DIALOG_TURN_IN"
 msgid "player:\n!permit\n$happyGreeting\nYou were right- the antiquity was just for decoration.\nhandler:\n!shrug\n$neutralWhatever\nJust as I thought. Do you have it?\nplayer:\nNot... exactly. But the Admiralty doesn't.\nhandler:\nGood enough. If the Admiralty don't have it, I'm happy.\n!thinking\nWell, not <i>happy</>, but at least not angry."
-msgstr "player:\nPermis !\n$happyGreeting\nTu avais raison, l'antiquité était juste pour la décoration.\nhandler:\n!shrug\n$neutralWhatever\nComme je le pensais. Tu l'as ?\nplayer:\nPas... Exactement. Mais pas l'Amirauté.\nhandler:\nC'est pas grave. Si l'Amirauté ne l'a pas, je suis heureux.\nLa pensée !\nPas <i>heureux, mais du moins pas en colère.</i>"
+msgstr "player:\n!permit\n$happyGreeting\nTu avais raison, l'antiquité était juste pour la décoration.\nhandler:\n!shrug\n$neutralWhatever\nComme je le pensais. Tu l'as ?\nplayer:\nPas... Exactement. Mais pas l'Amirauté.\nhandler:\nC'est pas grave. Si l'Amirauté ne l'a pas, je suis heureux.\nLa pensée !\nPas <i>heureux, mais du moins pas en colère.</i>"
 
 #: CONVO.HANDLER_SPREE_SHAKE_DOWN_3.OPT_GIVE_RELIC
 #, fuzzy
@@ -20080,7 +20080,7 @@ msgstr "Renseignez-vous sur l'Antiquité"
 #, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_SHAKE_DOWN_5.DIALOG_INTRO"
 msgid "handler:\n!permit\n$neutralDirect\nThe Admiralty have gotten hold of an antiquity. They want to gift it to the Cult—to butter them up for negotiations.\nLet's sour that butter, shall we?\nplayer:\n!dubious\n$neutralDubious\nYou want me to steal the antiquity? \nhandler:\n!handwring\n$neutralWhatever\nSteal it. Destroy it. Whatever you like, so long as the Admiralty can't profit off of it."
-msgstr "dresseur:\nPermis !\n$neutralDirect\nL'Amirauté a mis la main sur une antiquité. Ils veulent le donner au Culte, pour les beurrer pour les négociations.\nOn va aigrer ce beurre, d'accord ?\nplayer:\n!dubious\n$neutralDubious\nTu veux que je vole l'antiquité ? \nhandler:\n!handwring\n$neutralWhatever\nVole-le. Détruisez-le. Quoi que vous aimiez, tant que l'Amirauté ne pourra pas en profiter."
+msgstr "dresseur:\n!permit\n$neutralDirect\nL'Amirauté a mis la main sur une antiquité. Ils veulent le donner au Culte, pour les beurrer pour les négociations.\nOn va aigrer ce beurre, d'accord ?\nplayer:\n!dubious\n$neutralDubious\nTu veux que je vole l'antiquité ? \nhandler:\n!handwring\n$neutralWhatever\nVole-le. Détruisez-le. Quoi que vous aimiez, tant que l'Amirauté ne pourra pas en profiter."
 
 #: CONVO.HANDLER_SPREE_SHAKE_DOWN_5.DIALOG_ON_TAKEN
 #, fuzzy
@@ -21293,7 +21293,7 @@ msgstr "* C'est dangereux sur les routes, mais toutes les rencontres ne sont pas
 #, fuzzy
 msgctxt "CONVO.MERCENARY_OFFER.STATE_HIRE.DIALOG_LOWERED_FEE"
 msgid "Player:\n!permit\n$miscAlluring\nBe reasonable—I gotta keep some money for myself, don't I?\nagent:\n!shrug\n$neutralResigned\nYeah, guess we all gotta make a living. I'll call it {1#money}, but only 'cause you're a hunter.\nI expect you to have my back as much as I have yours."
-msgstr "player:\nPermis !\n$miscAlluring\nSoyez raisonnable, je dois garder un peu d'argent pour moi, n'est-ce pas?\nagent:\n!shrug\n$neutralResigned\nOuais, je suppose qu'on doit tous gagner notre vie. Je vais l'appeler {1#money}argent', mais seulement parce que vous êtes un chasseur.\nJe m'attends à ce que tu sois aussi bien que le tien."
+msgstr "player:\n!permit\n$miscAlluring\nSoyez raisonnable, je dois garder un peu d'argent pour moi, n'est-ce pas?\nagent:\n!shrug\n$neutralResigned\nOuais, je suppose qu'on doit tous gagner notre vie. Je vais l'appeler {1#money}argent', mais seulement parce que vous êtes un chasseur.\nJe m'attends à ce que tu sois aussi bien que le tien."
 
 #: CONVO.MERCENARY_OFFER.STATE_HIRE.DIALOG_NO_DISCOUNT
 #, fuzzy
@@ -21635,7 +21635,7 @@ msgstr "Soigner <#HEALTH>{1} HP</>"
 #, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_BOON.HIRE.DIALOG_ACCEPT_HIRE"
 msgid "player:\n!happy\n$happyDefault\nAlways happy to have you along, {agent}.\nagent:\n!chuckle\n$miscMischievous\nGreat! Just, uh, don't get me killed.\nplayer:\n!placate\nWoah, no promises.\nagent:\nHah! Lead the way.\n!exit\nplayer:\n!disappoint\n$neutralResigned\nI wasn't kidding.\n* {agent} joins you."
-msgstr "player:\n!happy\n$happyDefault\nToujours heureux de vous avoir le long, {agent}.\nagent:\n!chuckle\n$miscMischievous\ngénial! Ne me fais pas tuer.\nplayer:\n!placate\nWoah, pas de promesses.\nagent:\nHah! Avancez la voie.\n!exit\nplayer:\n!décevoir\n$neutralResigned\nJe ne plaisantais pas.\n* {agent} vous rejoint."
+msgstr "player:\n!happy\n$happyDefault\nToujours heureux de vous avoir le long, {agent}.\nagent:\n!chuckle\n$miscMischievous\ngénial! Ne me fais pas tuer.\nplayer:\n!placate\nWoah, pas de promesses.\nagent:\nHah! Avancez la voie.\n!exit\nplayer:\n!disappoint\n$neutralResigned\nJe ne plaisantais pas.\n* {agent} vous rejoint."
 
 #: CONVO.OPPO_FRIEND_BOON.HIRE.DIALOG_DID_NOT_TAKE
 #, fuzzy
@@ -21827,13 +21827,13 @@ msgstr "player:\n!shrug\n$neutralDubious\nDésolé, mon pote. Je dois être d' <
 #, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.DIALOG_INTRO"
 msgid "friend:\n!right\n!greeting\n{player}! You want work?\nplayer:\n!left\nfriend:\n!cagey\n$miscHushedUrgent\nA little birdie told me that a nice, fat target is headed this way, with enough shills to fat-line both our pockets.\nBetter still: apparently the idiot cheaped out on guards.\nplayer:\n!interest\nSounds like easy pickings. Why loop me in?\nfriend:\n!dubious\n$neutralDubious\nUh, 'cause you're my pal? What kinda question is that.\n$miscAlluring\nBesides, you got a way with words. And if it comes to blows, you got a way with knives, too.\n$miscPersuasive\n!permit\nWhaddya say?"
-msgstr "friend:\n!right\n!greeting\n{player}! Tu veux du travail ?\nplayer:\n!left\nfriend:\n!cagey\n$miscHushedUrgent\nUn petit birdie m'a dit qu'une belle grosse cible se dirige par là, avec assez de shills pour grossir nos deux poches.\nMieux encore: apparemment l'idiot bon marché sur les gardes.\nplayer:\n!interest\nOn dirait des cueillettes faciles. Pourquoi m'enboucler ?\nfriend:\n!dubious\n$neutralDubious\nEuh, parce que tu es mon pote ? Quelle sorte de question est que.\n$miscAlluring\nEn plus, tu as un moyen avec les mots. Et s'il s'agit de coups, vous avez un moyen avec des couteaux, aussi.\n$miscPersuasive\nPermis !\nWhaddya dire?"
+msgstr "friend:\n!right\n!greeting\n{player}! Tu veux du travail ?\nplayer:\n!left\nfriend:\n!cagey\n$miscHushedUrgent\nUn petit birdie m'a dit qu'une belle grosse cible se dirige par là, avec assez de shills pour grossir nos deux poches.\nMieux encore: apparemment l'idiot bon marché sur les gardes.\nplayer:\n!interest\nOn dirait des cueillettes faciles. Pourquoi m'enboucler ?\nfriend:\n!dubious\n$neutralDubious\nEuh, parce que tu es mon pote ? Quelle sorte de question est que.\n$miscAlluring\nEn plus, tu as un moyen avec les mots. Et s'il s'agit de coups, vous avez un moyen avec des couteaux, aussi.\n$miscPersuasive\n!permit\nWhaddya dire?"
 
 #: CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.DIALOG_LET_PASS
 #, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.DIALOG_LET_PASS"
 msgid "player:\nOh, uh...\n* You look over {target}, quivering in {target.hisher} hole-ridden boots. \nplayer:\n!bashful\nHm. My bad—I thought you were someone else.\ntarget:\n!permit\nSure. Easy mistake to make. \n!exit\n* {target} hurries down the road, casting nervous glances over {target.hisher} shoulder.\nfriend:\n!right\n!angry_shrug\n$angryDefault\nWhat the Hesh, Sal?!\nplayer:\n!dubious\n$neutralDubious\nDid that person look rich to you?\nfriend:\n!disappointed\nI told you they were <i>cheap</i>! If rags is all it takes to keep goons off my back, I'd wear 'em, too.\n$angryResigned\nAnd you fell for it like a soft-boiled egg. Pathetic.\n!exit\n* {friend} skulks into the bush, likely to catch up to their prey. But at least you didn't waste your time on the poor and down-trodden.\n!exit"
-msgstr "player:\nOh, e uh...\nVous regardez par-dessus {target}, frémissant dans des bottes 'target.hisher'. \nplayer:\n!bashful\nHm. Mon mauvais, je pensais que vous étiez quelqu'un d'autre.\ntarget:\nPermis !\nne pas manquer de. Erreur facile à faire. \n!exit\nLa cible se précipite sur la route, jetant des regards nerveux sur l'épaule de target.hisher.\nse lier d'amitié avec:\n!right\n!angry-shrug\n$angryDefault\nQu'est-ce que le Hesh, Sal?!\nplayer:\n!dubious\n$neutralDubious\nCette personne avait-elle l'air riche pour toi ?\nse lier d'amitié avec:\n!déçu\nJe vous ai dit qu'ils étaient <i>bon marché</i>! Si les chiffons sont tout ce qu'il faut pour garder les goons de mon dos, je les porterais aussi.\n$angryResigned\nEt tu as craqué comme un œuf à la coque. lamentable.\n!exit\n« Ami » se cache dans la brousse, susceptible de rattraper sa proie. Mais au moins tu n'as pas perdu ton temps avec les pauvres et les opprimés.\n!exit"
+msgstr "player:\nOh, e uh...\nVous regardez par-dessus {target}, frémissant dans des bottes 'target.hisher'. \nplayer:\n!bashful\nHm. Mon mauvais, je pensais que vous étiez quelqu'un d'autre.\ntarget:\n!permit\nne pas manquer de. Erreur facile à faire. \n!exit\nLa cible se précipite sur la route, jetant des regards nerveux sur l'épaule de target.hisher.\nse lier d'amitié avec:\n!right\n!angry-shrug\n$angryDefault\nQu'est-ce que le Hesh, Sal?!\nplayer:\n!dubious\n$neutralDubious\nCette personne avait-elle l'air riche pour toi ?\nse lier d'amitié avec:\n!déçu\nJe vous ai dit qu'ils étaient <i>bon marché</i>! Si les chiffons sont tout ce qu'il faut pour garder les goons de mon dos, je les porterais aussi.\n$angryResigned\nEt tu as craqué comme un œuf à la coque. lamentable.\n!exit\n« Ami » se cache dans la brousse, susceptible de rattraper sa proie. Mais au moins tu n'as pas perdu ton temps avec les pauvres et les opprimés.\n!exit"
 
 #: CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.DIALOG_LET_PASS_AFTER_NEGOTIATION_FAIL
 #, fuzzy
@@ -21935,7 +21935,7 @@ msgstr "friend:\n!right\n!dubious\n$neutralDubious\nTrès bien là, {player} ? T
 #, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_DO_ROBBERY.STATE_TAKE_MONEY.DIALOG_FAIR_SHARE"
 msgid "friend:\n!right\n!interest\nWell, on to the spoils. What d'we got?\nplayer:\n!permit\n$neutralDirect\nThe take is good. Let's split it fifty-fifty—you had the lead, but I did the legwork.\nfriend:\n!happy\n$happyDefault\nYou got it, {player}. Always a pleasure workin' with you.\nI'll see you on the burnt side, friend. \n!exit\n* {friend} heads down the road, whistling a tune you're sure is off-key."
-msgstr "friend:\n!right\n!interest\nEh bien, sur le butin. Qu'est-ce qu'on a ?\nplayer:\nPermis !\n$neutralDirect\nLa prise est bonne. Partageons-le cinquante-cinquante-vous aviez la tête, mais j'ai fait le travail de jambes.\nfriend:\n!happy\n$happyDefault\nTu l'as eu, {player}. Toujours un plaisir à travailler avec toi.\nOn se voit sur le côté brûlé, mon ami. \n!exit\n« Ami » descend la route en sifflant un air qui, vous en êtes sûr, est hors-clé."
+msgstr "friend:\n!right\n!interest\nEh bien, sur le butin. Qu'est-ce qu'on a ?\nplayer:\n!permit\n$neutralDirect\nLa prise est bonne. Partageons-le cinquante-cinquante-vous aviez la tête, mais j'ai fait le travail de jambes.\nfriend:\n!happy\n$happyDefault\nTu l'as eu, {player}. Toujours un plaisir à travailler avec toi.\nOn se voit sur le côté brûlé, mon ami. \n!exit\n« Ami » descend la route en sifflant un air qui, vous en êtes sûr, est hors-clé."
 
 #: CONVO.OPPO_FRIEND_DO_ROBBERY.STATE_TAKE_MONEY.DIALOG_TAKE_MONEY
 #, fuzzy
@@ -22391,7 +22391,7 @@ msgstr "player:\n!give\n$neutralResigned\nQu'est-ce que je peux dire, je suis un
 #, fuzzy
 msgctxt "CONVO.PET_SELLER.STATE_MERCHANT.DIALOG_WON_NEGOTIATION"
 msgid "player:\n!interest\n$miscPersuasive\nIt must be giving you a lot of hassle. Is this really worth your time?\nagent:\n!disappoint\n$neutralResigned\nNo, it's a menace. Honestly, you'd be doing me a favor."
-msgstr "player:\n!interest\n$miscPersuasive\nIl doit vous donner beaucoup de tracunes. Est-ce que ça vaut vraiment le coup ?\nagent:\n!décevoir\n$neutralResigned\nNon, c'est une menace. Honnêtement, tu me ferais une faveur."
+msgstr "player:\n!interest\n$miscPersuasive\nIl doit vous donner beaucoup de tracunes. Est-ce que ça vaut vraiment le coup ?\nagent:\n!disappoint\n$neutralResigned\nNon, c'est une menace. Honnêtement, tu me ferais une faveur."
 
 #: CONVO.PET_SELLER.STATE_MERCHANT.OPT_ASK_ABOUT_VROC
 #, fuzzy
@@ -22649,7 +22649,7 @@ msgstr "player:\n!interest\nParlez-moi de 'luminari'.\nagent:\n!crossed\nQue vou
 #, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST.STATE_QUESTIONS.ASK_ABOUT_DIALOG_3"
 msgid "player:\n!interest\nI'm still not entirely sure what the deal is with this auction. \n$neutralDubious\nMy parents dug up relics in Grout Bog for a living. But I never once saw anything I'd call holy.\nagent:\n$angryReluctant\nThe Spark Barons wish to return to the star-faring ways of the Vagrant Age.\n!angry_Shrug\nSo they only rebuild what they find, rather than truly learn from it. \n!interest\nPerhaps a small lesson is called for, if you can stomach the sermon.\nplayer:\n!agree\nEnh, go on, then. \nagent:\n!overthere\n$miscAlluring\nThe relics of the Vagrant Age are from a time before the Abyss.\nThe waters of fate were stagnant, and the star-faring people grew fetid.\nplayer:\n$neutralDubious\nSeems odd, considering they were free to leave the planet. \nagent:\n!disappoint\nTheir bodies were free. But spiritually, they were bound. \nWe keep our chains close because they remind us. But also they give us power.\n!eureka\nBecause, after all, it was something the star-farers did that <i>woke</i> Hesh from the Abyss in the first place.\nplayer:\n!dubious\n$neutralTakenAback\nWhat? You don't mean literally. Hesh doesn't <i>actually</i> live out in the ocean.\nagent:\n!crossed\nThe ocean runs all the way to the planet's core. \nAnd yet the star-farers did <i>something</i> to stir the slumbering Hesh.\n$miscAlluring\nThere may be other dormant gods waiting for a similar upheaval. \n!interest\nI, for one, would be interested in knowing how to wake them. \nplayer:\n!forgetful\nWow. That's a tall order."
-msgstr "player:\n!interest\nJe ne suis toujours pas tout à fait sûr de ce que l'affaire est avec cette vente aux enchères. \n$neutralDubious\nMes parents ont déterré des reliques à Grout Bog pour gagner leur vie. Mais je n'ai jamais rien vu que j'appellerais sacré.\nagent:\n$angryReluctant\nLes Barons de l'étincelle souhaitent revenir aux voies étoilées de l'âge des vagabonds.\n!angry-Shrug\nDonc, ils ne reconstruisent que ce qu'ils trouvent, plutôt que d'en tirer des leçons. \n!interest\nPeut-être une petite leçon est nécessaire, si vous pouvez l'estomac du sermon.\nplayer:\n!agree\nEnh, vas-y, alors. \nagent:\n!overthere\n$miscAlluring\nLes reliques de l'âge vagabond datent d'une époque avant l'Abîme.\nLes eaux du destin étaient stagnantes, et les étoiles-faring les gens ont grandi fétide.\nplayer:\n$neutralDubious\nCela semble étrange, étant donné qu'ils étaient libres de quitter la planète. \nagent:\n!décevoir\nLeurs corps étaient libres. Mais spirituellement, ils étaient liés. \nNous gardons nos chaînes proches parce qu'elles nous le rappellent. Mais ils nous donnent aussi le pouvoir.\n!eureka (en)\nParce que, après tout, c'est quelque chose que les star-farers ont fait qui <i>a réveillé</i> Hesh de l'abîme en premier lieu.\nplayer:\n!dubious\n$neutralTakenAback\nquel? Tu ne veux pas dire littéralement. Hesh ne vit pas <i>dans</i> l'océan.\nagent:\n!crossed\nL'océan va jusqu'au cœur de la planète. \nEt pourtant, les star-farers ont fait <i>quelque chose</i> pour remuer le Hesh endormi.\n$miscAlluring\nIl peut y avoir d'autres dieux dormants en attente d'un bouleversement similaire. \n!interest\nPour ma part, je serais intéressé à savoir comment les réveiller. \nplayer:\n!oublieux\nouah. C'est une grosse commande."
+msgstr "player:\n!interest\nJe ne suis toujours pas tout à fait sûr de ce que l'affaire est avec cette vente aux enchères. \n$neutralDubious\nMes parents ont déterré des reliques à Grout Bog pour gagner leur vie. Mais je n'ai jamais rien vu que j'appellerais sacré.\nagent:\n$angryReluctant\nLes Barons de l'étincelle souhaitent revenir aux voies étoilées de l'âge des vagabonds.\n!angry-Shrug\nDonc, ils ne reconstruisent que ce qu'ils trouvent, plutôt que d'en tirer des leçons. \n!interest\nPeut-être une petite leçon est nécessaire, si vous pouvez l'estomac du sermon.\nplayer:\n!agree\nEnh, vas-y, alors. \nagent:\n!overthere\n$miscAlluring\nLes reliques de l'âge vagabond datent d'une époque avant l'Abîme.\nLes eaux du destin étaient stagnantes, et les étoiles-faring les gens ont grandi fétide.\nplayer:\n$neutralDubious\nCela semble étrange, étant donné qu'ils étaient libres de quitter la planète. \nagent:\n!disappoint\nLeurs corps étaient libres. Mais spirituellement, ils étaient liés. \nNous gardons nos chaînes proches parce qu'elles nous le rappellent. Mais ils nous donnent aussi le pouvoir.\n!eureka (en)\nParce que, après tout, c'est quelque chose que les star-farers ont fait qui <i>a réveillé</i> Hesh de l'abîme en premier lieu.\nplayer:\n!dubious\n$neutralTakenAback\nquel? Tu ne veux pas dire littéralement. Hesh ne vit pas <i>dans</i> l'océan.\nagent:\n!crossed\nL'océan va jusqu'au cœur de la planète. \nEt pourtant, les star-farers ont fait <i>quelque chose</i> pour remuer le Hesh endormi.\n$miscAlluring\nIl peut y avoir d'autres dieux dormants en attente d'un bouleversement similaire. \n!interest\nPour ma part, je serais intéressé à savoir comment les réveiller. \nplayer:\n!oublieux\nouah. C'est une grosse commande."
 
 #: CONVO.SAL_HESH_OUTPOST.STATE_QUESTIONS.ASK_ABOUT_OPT_1
 #, fuzzy
@@ -22661,7 +22661,7 @@ msgstr "Demandez à {agent} à propos de cet endroit"
 #, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST.STATE_QUESTIONS.ASK_ABOUT_OPT_2"
 msgid "Ask about {luminari}"
-msgstr "Renseignez-vous sur 'luminari'"
+msgstr "Renseignez-vous sur {luminari}"
 
 #: CONVO.SAL_HESH_OUTPOST.STATE_QUESTIONS.ASK_ABOUT_OPT_3
 #, fuzzy
@@ -22733,7 +22733,7 @@ msgstr "player:\n!interest\nainsi... Quel est le problème avec cet avant-poste 
 #, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST_2.STATE_QUESTIONS.ASK_ABOUT_DIALOG_2"
 msgid "player:\nWhat can you tell me about {priest}? \n!chuckle\n{priest.HeShe}'s kind of a hardass, huh?\nagent:\n!surprised\n$scaredTakenAback\nI, uh—this is not—\nplayer:\n!wink\n$miscAlluring\nOh, come on, {agent}. We're friends, aren't we?\n$miscPersuasive\nIf you can't vent to me, who <i>can</i> you talk to?\nagent:\n!disappoint\n...\n$neutralDefault\n{priest} is extremely principled. I would be honored to have half {priest.hisher} conviction. \n!eureka\nBut {priest.heshe} doesn't always believe in my potential. So... I have much to prove.\nplayer:\n!dubious\nHuh. \nagent:\nYou want me to speak and think poorly of {priest.himher}, I know. \n!permit\nAnd I understand why. You get strength from opposing those who are powerful.\nBut I'm made stronger by {priest}'s resolve."
-msgstr "player:\nQue pouvez-vous me dire à propos de {priest}? \n!chuckle\nPrêtre. C'est un dur à cœur, hein ?\nagent:\n!surpris\n$scaredTakenAback\nJe, e uh, ce n'est pas.\nplayer:\nClin d'œil !\n$miscAlluring\nOh, allez, {agent}. On est amis, n'est-ce pas ?\n$miscPersuasive\nSi tu ne peux pas m'évacuer, à qui <i>peux-tu</i> parler ?\nagent:\n!décevoir\n...\n$neutralDefault\n« prêtre » est extrêmement fondé sur des principes. Je serais honoré d'avoir une demi-conviction de prêtre. \n!eureka (en)\nMais le prêtre.heshe ne croit pas toujours en mon potentiel. ainsi... J'ai beaucoup à prouver.\nplayer:\n!dubious\nHein. \nagent:\nTu veux que je parle et que je pense mal à \"priest.himher\", je sais. \nPermis !\nEt je comprends pourquoi. Vous obtenez la force de s'opposer à ceux qui sont puissants.\nMais je suis rendu plus fort par la détermination du prêtre."
+msgstr "player:\nQue pouvez-vous me dire à propos de {priest}? \n!chuckle\nPrêtre. C'est un dur à cœur, hein ?\nagent:\n!surpris\n$scaredTakenAback\nJe, e uh, ce n'est pas.\nplayer:\nClin d'œil !\n$miscAlluring\nOh, allez, {agent}. On est amis, n'est-ce pas ?\n$miscPersuasive\nSi tu ne peux pas m'évacuer, à qui <i>peux-tu</i> parler ?\nagent:\n!disappoint\n...\n$neutralDefault\n« prêtre » est extrêmement fondé sur des principes. Je serais honoré d'avoir une demi-conviction de prêtre. \n!eureka (en)\nMais le prêtre.heshe ne croit pas toujours en mon potentiel. ainsi... J'ai beaucoup à prouver.\nplayer:\n!dubious\nHein. \nagent:\nTu veux que je parle et que je pense mal à \"priest.himher\", je sais. \n!permit\nEt je comprends pourquoi. Vous obtenez la force de s'opposer à ceux qui sont puissants.\nMais je suis rendu plus fort par la détermination du prêtre."
 
 #: CONVO.SAL_HESH_OUTPOST_2.STATE_QUESTIONS.ASK_ABOUT_DIALOG_3
 #, fuzzy
@@ -22751,7 +22751,7 @@ msgstr "Demandez à {agent} à propos de cet endroit"
 #, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST_2.STATE_QUESTIONS.ASK_ABOUT_OPT_2"
 msgid "Ask about {priest}"
-msgstr "Renseignez-vous sur le « prêtre »"
+msgstr "Renseignez-vous sur le {priest}"
 
 #: CONVO.SAL_HESH_OUTPOST_2.STATE_QUESTIONS.ASK_ABOUT_OPT_3
 #, fuzzy
@@ -22769,13 +22769,13 @@ msgstr "Cela permettra de gagner jusqu'à {1} carte de combat aléatoire XP"
 #, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST_ENTRY_1.FOO.DIALOG_ASK_WHATS_IN_IT"
 msgid "player:\n!hips\n$miscMocking\nI don't like to get my boots wet. So what's in it for me, Luminari?\nagent:\n!disappoint\n$neutralResigned\nAh, a heathen. I should've expected as much in this Heshless part of the Griftlands.\n!handwave\n$neutralResigned\nVery well. Hesh can also provide {1#money}.\nplayer:\n!happy\n$neutralJoke\nSo kind of Hesh to offer. \nagent:\n!interest\n$miscAlluring\nHesh can offer enrichment of the <i>soul</i>, if you prefer.\nplayer:\n$neutralDirect\nPass."
-msgstr "player:\n!hips\n$miscMocking\nJe n'aime pas mouiller mes bottes. Qu'est-ce que j'y a dedans, Luminari ?\nagent:\n!décevoir\n$neutralResigned\nAh, un païen. J'aurais dû m'attendre autant dans cette partie heshless des Griftlands.\nOnde de main de !\n$neutralResigned\nTrès bien. Hesh peut aussi fournir {1#money} d'argent.\nplayer:\n!happy\n$neutralJoke\nDonc une sorte de Hesh à offrir. \nagent:\n!interest\n$miscAlluring\nHesh peut offrir l'enrichissement de <i>l'âme,</i>si vous préférez.\nplayer:\n$neutralDirect\nPasser."
+msgstr "player:\n!hips\n$miscMocking\nJe n'aime pas mouiller mes bottes. Qu'est-ce que j'y a dedans, Luminari ?\nagent:\n!disappoint\n$neutralResigned\nAh, un païen. J'aurais dû m'attendre autant dans cette partie heshless des Griftlands.\nOnde de main de !\n$neutralResigned\nTrès bien. Hesh peut aussi fournir {1#money} d'argent.\nplayer:\n!happy\n$neutralJoke\nDonc une sorte de Hesh à offrir. \nagent:\n!interest\n$miscAlluring\nHesh peut offrir l'enrichissement de <i>l'âme,</i>si vous préférez.\nplayer:\n$neutralDirect\nPasser."
 
 #: CONVO.SAL_HESH_OUTPOST_ENTRY_1.FOO.DIALOG_ASK_WHY_NEED_HELP
 #, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST_ENTRY_1.FOO.DIALOG_ASK_WHY_NEED_HELP"
 msgid "player:\n!dubious\n$neutralDubious\nThere isn't much of it. Why do you need help at all?\nI thought Luminari were the best and boldest of the throng. \nagent:\n!permit\nIndeed. And as such, I'm prohibited from touching that which is an abomination unto Hesh.\n!angry_accuse\nSpark is a nefarious sludge, the fruit of a wicked land.\nplayer:\nI've heard it works just as good as lumin. And comes out of the ground with a simple machine. \n!cruel\n$miscMocking\nOr is it only <i>holy</i> if it's harvested by unpaid labor?\nagent:\n!disappoint\n$neutralResigned\nI've offered you a job, grifter. I don't appreciate having my time wasted."
-msgstr "player:\n!dubious\n$neutralDubious\nIl n'y en a pas grand-chose. Pourquoi avez-vous besoin d'aide?\nJe pensais que Luminari était le meilleur et le plus audacieux de la foule. \nagent:\nPermis !\nEn effet. Et en tant que tel, il m'est interdit de toucher ce qui est une abomination à Hesh.\n!angry_accuse\nSpark est une boue infâme, le fruit d'une terre méchante.\nplayer:\nJ'ai entendu dire qu'il fonctionne aussi bien que lumin. Et sort du sol avec une simple machine. \n!cruel\n$miscMocking\nOu est-il seulement <i>saint</i> si elle est récoltée par le travail non rémunéré?\nagent:\n!décevoir\n$neutralResigned\nJe t'ai offert un boulot, grifter. Je n'apprécie pas de perdre mon temps."
+msgstr "player:\n!dubious\n$neutralDubious\nIl n'y en a pas grand-chose. Pourquoi avez-vous besoin d'aide?\nJe pensais que Luminari était le meilleur et le plus audacieux de la foule. \nagent:\n!permit\nEn effet. Et en tant que tel, il m'est interdit de toucher ce qui est une abomination à Hesh.\n!angry_accuse\nSpark est une boue infâme, le fruit d'une terre méchante.\nplayer:\nJ'ai entendu dire qu'il fonctionne aussi bien que lumin. Et sort du sol avec une simple machine. \n!cruel\n$miscMocking\nOu est-il seulement <i>saint</i> si elle est récoltée par le travail non rémunéré?\nagent:\n!disappoint\n$neutralResigned\nJe t'ai offert un boulot, grifter. Je n'apprécie pas de perdre mon temps."
 
 #: CONVO.SAL_HESH_OUTPOST_ENTRY_1.FOO.DIALOG_DECLINE
 #, fuzzy
@@ -22997,7 +22997,7 @@ msgstr "player:\nQui m'a amené à toi, hein, sinon Hesh lui-même ?"
 #, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST_ENTRY_1_4.FOO.DIALOG_CONVINCE_FAIL"
 msgid "player:\nWho's to say it's not the will of your fishlord, huh?\npriest:\n<i>I</i> say, grifter. \n{luminari}, dispose of her, will you?\nluminari:\n!right\n!disappoint\n$miscReluctant\nI—yes, priest."
-msgstr "player:\nQui est pour dis-le n'est pas la volonté de ton poisson, hein ?\nPrêtre:\n<i>Je</i> dis, grifter. \n\"Luminari\", débarrassez-vous d'elle, voulez-vous ?\nluminari:\n!right\n!décevoir\n$miscReluctant\nJe:oui, prêtre."
+msgstr "player:\nQui est pour dis-le n'est pas la volonté de ton poisson, hein ?\nPrêtre:\n<i>Je</i> dis, grifter. \n\"Luminari\", débarrassez-vous d'elle, voulez-vous ?\nluminari:\n!right\n!disappoint\n$miscReluctant\nJe:oui, prêtre."
 
 #: CONVO.SAL_HESH_OUTPOST_ENTRY_1_4.FOO.DIALOG_CONVINCE_SUCCESS
 #, fuzzy
@@ -23063,7 +23063,7 @@ msgstr "Leave"
 #, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST_ENTRY_1_4.STATE_WON_FIGHT.DIALOG_FOUGHT_BOTH_ALIVE"
 msgid "priest:\n!right\n* The priest crouches over the Luminari, both looking like they took more hits than they could handle.\npriest:\n!injured\n$scaredStammering\nEnough! You've played your part, grifter.\n$miscHopeless \nNow all you see are two broken believers. \nplayer: \n!angry_accuse\n<i>You</i> were the ones who attacked <i>me</i>, don't forget. \nI just did a job. It's not my fault you have trust issues.\npriest:\n...\nluminari:\n!right\n!injured\n$miscHopeless\nShe's right. We must remember, priest, that Hesh's whims are mysterious. We challenged when we should've submitted.\npriest:\n!right\n!disappoint\nForgive us, hunter. Clearly my friend and I have much to consider. \nplayer:\n!overthere\n$miscReluctant\nUgh, whatever. Just get out of here, both of you.\nAnd tell your lunatic god to stop sending its slippery feelers into my business.\n* The priest and Luminari support one another carefully as you leave them behind."
-msgstr "Prêtre:\n!right\nLe prêtre s'accroupit sur les Luminari, les deux ressemblant à ils ont pris plus de coups qu'ils ne pouvaient gérer.\nPrêtre:\n!injured\n$scaredStammering\nAssez! Tu as joué ton rôle, grifter.\n$miscHopeless \nMaintenant, tout ce que vous voyez sont deux croyants brisés. \nJoueur: \n!angry_accuse\n<i>C'est toi</i> qui <i>m'</i>as attaqué, n'oublie pas. \nJe viens de faire un boulot. Ce n'est pas ma faute si tu as des problèmes de confiance.\nPrêtre:\n...\nluminari:\n!right\n!injured\n$miscHopeless\nElle a raison. Nous devons nous rappeler, prêtre, que les caprices de Hesh sont mystérieux. Nous avons contesté quand nous aurions dû soumettre.\nPrêtre:\n!right\n!décevoir\nPardonnez-nous, chasseur. Il est clair que mon ami et moi avons beaucoup à considérer. \nplayer:\n!overthere\n$miscReluctant\nUgh, peu importe. Sortez d'ici, tous les deux.\nEt dis à ton dieu fou d'arrêter d'envoyer ses culottes glissantes dans mes affaires.\n* Le prêtre et les Luminari se soutiennent soigneusement lorsque vous les laissez derrière vous."
+msgstr "Prêtre:\n!right\nLe prêtre s'accroupit sur les Luminari, les deux ressemblant à ils ont pris plus de coups qu'ils ne pouvaient gérer.\nPrêtre:\n!injured\n$scaredStammering\nAssez! Tu as joué ton rôle, grifter.\n$miscHopeless \nMaintenant, tout ce que vous voyez sont deux croyants brisés. \nJoueur: \n!angry_accuse\n<i>C'est toi</i> qui <i>m'</i>as attaqué, n'oublie pas. \nJe viens de faire un boulot. Ce n'est pas ma faute si tu as des problèmes de confiance.\nPrêtre:\n...\nluminari:\n!right\n!injured\n$miscHopeless\nElle a raison. Nous devons nous rappeler, prêtre, que les caprices de Hesh sont mystérieux. Nous avons contesté quand nous aurions dû soumettre.\nPrêtre:\n!right\n!disappoint\nPardonnez-nous, chasseur. Il est clair que mon ami et moi avons beaucoup à considérer. \nplayer:\n!overthere\n$miscReluctant\nUgh, peu importe. Sortez d'ici, tous les deux.\nEt dis à ton dieu fou d'arrêter d'envoyer ses culottes glissantes dans mes affaires.\n* Le prêtre et les Luminari se soutiennent soigneusement lorsque vous les laissez derrière vous."
 
 #: CONVO.SAL_HESH_OUTPOST_ENTRY_1_4.STATE_WON_FIGHT.DIALOG_FOUGHT_BOTH_DEAD
 #, fuzzy
@@ -23621,7 +23621,7 @@ msgstr "vente aux enchères:\n$happyTakenAback\n!overthere\nTout d'abord, un art
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_6.AUCTION.DIAL_FINAL_AUCTION"
 msgid "auction_caller:\n!wink\nLastly, up on the block, if you'll forgive the expression: gently used debts!                    \n!permit\n$miscNostalgic\nThese tireless souls have worked in the divine derricks as Hesh decreed, but they've indentured themselves deeply.\n$miscAlluring\nThere's still years of good labor left in each of these diligent workers.  \nplayer:\n$neutralDubious\n!dubious\nWell <i>that's</i> super sketchy. \nNo wonder the Cult wants 'em off-loaded. They look worked to half to death.\n!disappoint\n$neutralResigned\nThis doesn't look good for those Admiralty hopes and dreams.\nauction_caller:\n$miscAlluring\nNow, let's open the bids, shall we?"
-msgstr "auction_caller:\nClin d'œil !\nEnfin, sur le bloc, si vous pardonnez l'expression: doucement utilisé des dettes!                    \nPermis !\n$miscNostalgic\nCes âmes infatigables ont travaillé dans les derricks divins comme Hesh a décrété, mais ils se sont profondément engagés.\n$miscAlluring\nIl reste encore des an nées de bon travail dans chacun de ces travailleurs diligents.  \nplayer:\n$neutralDubious\n!dubious\nEh <i>bien, c'est</i> super sommaire. \nPas étonnant que le Culte veuille qu'ils soient déchargés. Ils ont l'air travaillés à moitié à mort.\n!décevoir\n$neutralResigned\nCela ne semble pas bon pour ces espoirs et les rêves de l'Amirauté.\nauction_caller:\n$miscAlluring\nMaintenant, ouvrons les enchères, d'accord ?"
+msgstr "auction_caller:\nClin d'œil !\nEnfin, sur le bloc, si vous pardonnez l'expression: doucement utilisé des dettes!                    \n!permit\n$miscNostalgic\nCes âmes infatigables ont travaillé dans les derricks divins comme Hesh a décrété, mais ils se sont profondément engagés.\n$miscAlluring\nIl reste encore des an nées de bon travail dans chacun de ces travailleurs diligents.  \nplayer:\n$neutralDubious\n!dubious\nEh <i>bien, c'est</i> super sommaire. \nPas étonnant que le Culte veuille qu'ils soient déchargés. Ils ont l'air travaillés à moitié à mort.\n!disappoint\n$neutralResigned\nCela ne semble pas bon pour ces espoirs et les rêves de l'Amirauté.\nauction_caller:\n$miscAlluring\nMaintenant, ouvrons les enchères, d'accord ?"
 
 #: CONVO.SAL_STORY_AUCTION_6.AUCTION_INTRO.DIAL_AUCTION_START
 #, fuzzy
@@ -23717,7 +23717,7 @@ msgstr "Attack"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_ADMIRALTY.INTRO.DIAL_ARRIVE_AT_AUCTION"
 msgid "player:\n!left\nhandler:\n!right\n!permit\n$miscRelieved\n<i>There</i> you are. Was a little worried you might be bleeding out in an alley somewhere.\nThough after what you've survived I'd have found that hard to believe.\nplayer:\n!cheerful\n$miscNostalgic\nThat's cute, {handler}. Didn't know you'd come to care.\nhandler:\n!agree\nYou're fungal like that.\n* {handler} hands you a badge so shiny it leaves an after image. \nhandler:\n!give\nHere's your badge.\nplayer:\n!take\n$neutralDubious\nUh—\nhandler:\n$neutralDirect\nYou're on guard duty. And your shift starts now. \n!overthere\nHandle the door for a few hours and then once the auction starts, I'll get someone to relieve you. \nNo doubt Kashio will arrive fashionably late, so you'll still have time to get the jump on her."
-msgstr "player:\n!left\nhandler:\n!right\nPermis !\n$miscRelieved\nTu es <i>là.</i> J'avais un peu peur que tu saignes dans une ruelle quelque part.\nMais après ce que tu as survécu, j'aurais eu du mal à le croire.\nplayer:\n!gai\n$miscNostalgic\nC'est mignon, {handler}. Je ne savais pas que tu t'en soucierais.\nhandler:\n!agree\nTu es fongique comme ça.\n* Le {handler} vous tend un badge si brillant qu'il laisse une image après. \nhandler:\n!give\nVoilà ton badge.\nplayer:\n!take\n$neutralDubious\nEuh—\nhandler:\n$neutralDirect\nVous êtes de garde. Et ton quart commence maintenant. \n!overthere\nManipulez la porte pendant quelques heures, puis une fois que la vente aux enchères commencera, je trouverai quelqu'un pour vous soulager. \nSans doute Kashio arrivera à la mode en retard, de sorte que vous aurez encore le temps d'obtenir le saut sur elle."
+msgstr "player:\n!left\nhandler:\n!right\n!permit\n$miscRelieved\nTu es <i>là.</i> J'avais un peu peur que tu saignes dans une ruelle quelque part.\nMais après ce que tu as survécu, j'aurais eu du mal à le croire.\nplayer:\n!gai\n$miscNostalgic\nC'est mignon, {handler}. Je ne savais pas que tu t'en soucierais.\nhandler:\n!agree\nTu es fongique comme ça.\n* Le {handler} vous tend un badge si brillant qu'il laisse une image après. \nhandler:\n!give\nVoilà ton badge.\nplayer:\n!take\n$neutralDubious\nEuh—\nhandler:\n$neutralDirect\nVous êtes de garde. Et ton quart commence maintenant. \n!overthere\nManipulez la porte pendant quelques heures, puis une fois que la vente aux enchères commencera, je trouverai quelqu'un pour vous soulager. \nSans doute Kashio arrivera à la mode en retard, de sorte que vous aurez encore le temps d'obtenir le saut sur elle."
 
 #: CONVO.SAL_STORY_AUCTION_ADMIRALTY_ASSASSINATION.ALONE_WITH_ASSASSIN_TARGET.DIAL_ALONE_WITH_ASSASSIN_TARGET_ENEMY
 #, fuzzy
@@ -23765,7 +23765,7 @@ msgstr "player:\n!angry_shrug\nbien. J'ai essayé de t'avertir. C'est ton enterr
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_ADMIRALTY_ASSASSINATION.ASSASSINATION.DIAL_LET_PASS_WARNED_FRIEND"
 msgid "player:\n!disappoint\nStill think you shouldn't go in there. But it's your call, I guess.\nassassination_target:\n!thumb\nHey, I'll feel safer surrounded by witnesses. Good luck out here!"
-msgstr "player:\n!décevoir\nTu penses toujours que tu ne devrais pas y aller. Mais c'est à toi de décider, je suppose.\nassassination_target:\n!thumb\nJe me sentirai plus en sécurité entouré de témoins. Bonne chance ici!"
+msgstr "player:\n!disappoint\nTu penses toujours que tu ne devrais pas y aller. Mais c'est à toi de décider, je suppose.\nassassination_target:\n!thumb\nJe me sentirai plus en sécurité entouré de témoins. Bonne chance ici!"
 
 #: CONVO.SAL_STORY_AUCTION_ADMIRALTY_ASSASSINATION.ASSASSINATION.DIAL_PROVOKE_FAIL_ENEMY
 #, fuzzy
@@ -23837,7 +23837,7 @@ msgstr "player:\n!happy\nCe n'est pas souvent que vous arrivez à éliminer une 
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_ADMIRALTY_ASSASSINATION.ASSASSINATION.DIAL_TARGET_FRIEND"
 msgid "player:\n!disappoint\n* You've done your share of hits as a bounty hunter, and sometimes you've had to choose between a friend and a payday. Unfortunately this is going to be one of those times."
-msgstr "player:\n!décevoir\nVous avez fait votre part de hits en tant que chasseur de primes, et parfois vous avez eu à choisir entre un ami et un jour de paie. Malheureusement, cela va être un de ces moments."
+msgstr "player:\n!disappoint\nVous avez fait votre part de hits en tant que chasseur de primes, et parfois vous avez eu à choisir entre un ami et un jour de paie. Malheureusement, cela va être un de ces moments."
 
 #: CONVO.SAL_STORY_AUCTION_ADMIRALTY_ASSASSINATION.ASSASSINATION.DIAL_WARNED_OF_ATTACK_ENEMY
 #, fuzzy
@@ -24719,7 +24719,7 @@ msgstr "* Vous trouvez la ruelle que le « manipulateur » indiquait, et quelqu'
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_CAPTURE_NADAN.THE_STATE.DIALOG_TAKE_OSHNU"
 msgid "player:\n!thought\n$neutralThoughtful\nI'm horrified, but then, the noodles are damn good. \nnoodle_chef:\n!permit\n$neutralWhatever\nSomehow I suspect you sleep just fine at night. \n!shrug\nGood luck out there, hunter. Not that I care much.\n* {noodle_chef} heads back inside the restaurant, leaving you with your new mucousy friend."
-msgstr "player:\n!thought\n$neutralThoughtful\nJe suis horrifié, mais les nouilles sont sacré ment bonnes. \nnoodle_chef:\nPermis !\n$neutralWhatever\nD'une certaine façon, je soupçonne que vous dormez très bien la nuit. \n!shrug\nBonne chance, chasseur. Non pas que je m'en soucie beaucoup.\nNoodle_chef retourne à l'intérieur du restaurant, vous laissant avec votre nouvel ami muqueux."
+msgstr "player:\n!thought\n$neutralThoughtful\nJe suis horrifié, mais les nouilles sont sacré ment bonnes. \nnoodle_chef:\n!permit\n$neutralWhatever\nD'une certaine façon, je soupçonne que vous dormez très bien la nuit. \n!shrug\nBonne chance, chasseur. Non pas que je m'en soucie beaucoup.\nNoodle_chef retourne à l'intérieur du restaurant, vous laissant avec votre nouvel ami muqueux."
 
 #: CONVO.SAL_STORY_CAPTURE_NADAN.THE_STATE.OPT_CONVINCE_COME
 #, fuzzy
@@ -24749,7 +24749,7 @@ msgstr "player:\n!fight\n$angrySeething\nJ'ai l'ordre de garder other_handler en
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_CAPTURE_NADAN_2.STATE_DEAL_WITH_GOONS.DIALOG_GOON_CONFRONT_FRIEND"
 msgid "goon_leader:\n!right\n!disappoint\n$angryResigned\nI'm sorry, {player}, but I've got my orders and I don't intend to refuse them."
-msgstr "goon_leader:\n!right\n!décevoir\n$angryResigned\nJe suis désolé, {player}, mais j'ai mes ordres et je n'ai pas l'intention de les refuser."
+msgstr "goon_leader:\n!right\n!disappoint\n$angryResigned\nJe suis désolé, {player}, mais j'ai mes ordres et je n'ai pas l'intention de les refuser."
 
 #: CONVO.SAL_STORY_CAPTURE_NADAN_2.STATE_DEAL_WITH_GOONS.DIALOG_GOON_CONFRONT_NOT_FRIEND
 #, fuzzy
@@ -24779,7 +24779,7 @@ msgstr "goon_leader:\n(palme)\n$neutralResigned\nbien. Je ne peux pas prendre le
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_CAPTURE_NADAN_2.STATE_DEAL_WITH_GOONS.DIALOG_POST_GOON_FIGHT"
 msgid "agent:\n!exit\n* {other_handler} watches impassively as you cut through {other_handler.hisher} goons.\nplayer:\n!angry_threaten\n$angryDefault\nNow how about you, {other_handler}? You gonna come quiet?\nother_handler:\n!right\n!disappoint\n$angryResigned\nYou ain't half bad, for a butcher. Too bad—in another life, maybe you could've come and worked for me. \n<i>This</i> life will soon be over, though. \n!fight"
-msgstr "agent:\n!exit\nLes montres de other_handler ' impassibles pendant que vous coupez à travers les goons de 'other_handler.hisher'.\nplayer:\nangry_threaten !\n$angryDefault\nEt toi, other_handler ? Tu vas te taire ?\nother_handler:\n!right\n!décevoir\n$angryResigned\nTu n'es pas à moitié mauvais, pour un boucher. Dommage, dans une autre vie, peut-être que tu aurais pu venir travailler pour moi. \n<i>Cette</i> vie sera bien tôt finie. \n!fight"
+msgstr "agent:\n!exit\nLes montres de other_handler ' impassibles pendant que vous coupez à travers les goons de 'other_handler.hisher'.\nplayer:\nangry_threaten !\n$angryDefault\nEt toi, other_handler ? Tu vas te taire ?\nother_handler:\n!right\n!disappoint\n$angryResigned\nTu n'es pas à moitié mauvais, pour un boucher. Dommage, dans une autre vie, peut-être que tu aurais pu venir travailler pour moi. \n<i>Cette</i> vie sera bien tôt finie. \n!fight"
 
 #: CONVO.SAL_STORY_CAPTURE_NADAN_2.STATE_DEAL_WITH_GOONS.OPT_DEFEND
 #, fuzzy
@@ -24905,7 +24905,7 @@ msgstr "player:\n\t!bashful\n\t$miscEmbarrassed\nDésolé, patron. Mais other_ha
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_CAPTURE_NADAN_5.DIALOG_CONVINCE_FAIL"
 msgid "player:\n\t\t!forgetful\n\t\t$neutralTakenAback\n\t\tHe knocked me out when I wasn't looking! A real clock to the old noggin. It's a miracle I'm still alive, really!\nagent:\n!angry\n$neutralDirect\nReally? Because it sounds to me like you just screwed up and don't want to admit it.\n$angryDefault\nFool of me to trust a grifter. I won't make the same mistake again. \nplayer:\n\t!shrug\n\t$scaredDefault\nWhat about the auction tomorrow?\nagent:\n\t!angry_accuse\n\t$angryDefault\nHah! And trust <i>you</i> to take on Kashio? \n...\n!disappoint\n$neutralResigned\nFortunately for you, there's no one else. So we're still on for tomorrow.\n$angry\n$angryCruel\nBut screw this up and I guarantee the only place you'll find work is back on the derrick."
-msgstr "player:\n\t\t!oublieux\n\t\t$neutralTakenAback\n\t\tIl m'a assommé quand je ne regardais pas ! Une vraie horloge pour le vieux noggin. C'est un miracle que je sois encore en vie, vraiment !\nagent:\n!angry\n$neutralDirect\nVraiment? Parce que ça me semble que tu viens de foirer et que tu ne veux pas l'admettre.\n$angryDefault\nImbécile de moi de faire confiance à un grifter. Je ne referai plus la même erreur. \nplayer:\n\t!haussement d'épaules\n\t$scaredDefault\nEt la vente aux enchères de demain ?\nagent:\n\tangry_accuse\n\t$angryDefault\nHah! Et <i>vous</i> faire confiance pour prendre Sur Kashio? \n...\n!décevoir\n$neutralResigned\nHeureusement pour toi, il n'y a personne d'autre. Donc on est toujours là pour demain.\n$angry\n$angryCruel\nMais merde, merde et je vous garantis que le seul endroit où vous trouverez du travail est de retour sur le derrick."
+msgstr "player:\n\t\t!oublieux\n\t\t$neutralTakenAback\n\t\tIl m'a assommé quand je ne regardais pas ! Une vraie horloge pour le vieux noggin. C'est un miracle que je sois encore en vie, vraiment !\nagent:\n!angry\n$neutralDirect\nVraiment? Parce que ça me semble que tu viens de foirer et que tu ne veux pas l'admettre.\n$angryDefault\nImbécile de moi de faire confiance à un grifter. Je ne referai plus la même erreur. \nplayer:\n\t!haussement d'épaules\n\t$scaredDefault\nEt la vente aux enchères de demain ?\nagent:\n\tangry_accuse\n\t$angryDefault\nHah! Et <i>vous</i> faire confiance pour prendre Sur Kashio? \n...\n!disappoint\n$neutralResigned\nHeureusement pour toi, il n'y a personne d'autre. Donc on est toujours là pour demain.\n$angry\n$angryCruel\nMais merde, merde et je vous garantis que le seul endroit où vous trouverez du travail est de retour sur le derrick."
 
 #: CONVO.SAL_STORY_CAPTURE_NADAN_5.DIALOG_CONVINCE_SUCCESS
 #, fuzzy
@@ -24982,7 +24982,7 @@ msgstr "agent:\nPoint ! \n$neutralDirect\nVous faites ce travail et vous entrere
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_CAPTURE_NADAN_8.STATE_QUESTIONS.ASK_ABOUT_DIALOG_1"
 msgid "player:\n!dubious\n$neutralThoughtful\nWhat were the caravans transporting?\nagent:\n!handwave\n$neutralWhatever\nRelics for the Cult, mostly. You know the Admiralty's trying to get the Heshians on side for the annex. \nWe had \"offerings\" we were transporting. Best security in the Bay, you figure.\n!disappoint\n$angryResigned\n{other_handler} must've figured the blow would sting twice as hard—on our coffers and our authority. \nPretty sure he knew I was overseeing it, too, which would just be the meringue on the seaslug for him.\nplayer:\n!wince_critical\n$neutralDubious\nIs that ... meant to be delicious?\nagent:\n!chuckle\n$miscMischievous\nIt's a Havarian delicacy, slick! Best enjoyed alongside a dish of cold, spiteful revenge, of course.\n$miscAlluring\nYou do this job and I'll treat you to it. \nplayer:\n!dubious\n$neutralDubious\nHm."
-msgstr "player:\n!dubious\n$neutralThoughtful\nQu'est-ce que les caravanes transportaient ?\nagent:\nOnde de main de !\n$neutralWhatever\nDes reliques pour le Culte, surtout. Vous savez que l'Amirauté essaie d'amener les Heshians à l'annexe. \nNous avions des «offrandes» que nous transportions. La meilleure sécurité de la baie, vous vous dites.\n!décevoir\n$angryResigned\n{other_handler} piquerait deux fois plus fort sur nos coffres et notre autorité. \nJe suis presque sûr qu'il savait que je le surveillais aussi, ce qui serait juste la meringue sur le saslug pour lui.\nplayer:\n!wince-critique\n$neutralDubious\nEst-ce que ... destiné à être délicieux?\nagent:\n!chuckle\n$miscMischievous\nC'est une délicatesse havarian, lisse! Mieux apprécié à côté d'un plat de froid, vengeance méchante, bien sûr.\n$miscAlluring\nTu fais ce boulot et je t'en offrirai. \nplayer:\n!dubious\n$neutralDubious\nHm."
+msgstr "player:\n!dubious\n$neutralThoughtful\nQu'est-ce que les caravanes transportaient ?\nagent:\nOnde de main de !\n$neutralWhatever\nDes reliques pour le Culte, surtout. Vous savez que l'Amirauté essaie d'amener les Heshians à l'annexe. \nNous avions des «offrandes» que nous transportions. La meilleure sécurité de la baie, vous vous dites.\n!disappoint\n$angryResigned\n{other_handler} piquerait deux fois plus fort sur nos coffres et notre autorité. \nJe suis presque sûr qu'il savait que je le surveillais aussi, ce qui serait juste la meringue sur le saslug pour lui.\nplayer:\n!wince-critique\n$neutralDubious\nEst-ce que ... destiné à être délicieux?\nagent:\n!chuckle\n$miscMischievous\nC'est une délicatesse havarian, lisse! Mieux apprécié à côté d'un plat de froid, vengeance méchante, bien sûr.\n$miscAlluring\nTu fais ce boulot et je t'en offrirai. \nplayer:\n!dubious\n$neutralDubious\nHm."
 
 #: CONVO.SAL_STORY_CAPTURE_NADAN_8.STATE_QUESTIONS.ASK_ABOUT_DIALOG_2
 #, fuzzy
@@ -25000,31 +25000,30 @@ msgstr "Renseignez-vous sur les caravanes"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_CAPTURE_NADAN_8.STATE_QUESTIONS.ASK_ABOUT_OPT_2"
 msgid "Ask about {other_handler}"
-msgstr "Renseignez-vous sur 'other{handler}"
+msgstr "Renseignez-vous sur {other_handler}"
 
 #: CONVO.SAL_STORY_DAY_1.STATE_QUESTIONS.DIALOG_1
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_QUESTIONS.DIALOG_1"
 msgid "player:\n!permit\n$neutralDefault\nHelp me get my bearings. It's been a long time since I was last in Havaria.\nagent:\n!shrug\n$angryReluctant\nIt's dirty and broken, like always. If debt brokering was bad when you were a kid, it's worse now. \nHalf the population is indentured, and them's that hold contracts sell them to pay off their own. \nplayer:\n!thought\n$neutralThoughtful\nNo wonder customs was so uptight on my way back in. Must be a lot of fraud. \nagent:\n!permit\n$angryDefault\nThat ain't the half of it. The Admiralty is pushing for an official annex. \nThey wanna make everyone real Deltrean citizens, with papers and everything.\nplayer:\n!dubious\n$neutralDubious\nIn Havaria? You're joking.\nFssh:\n$neutralResigned\n!disappoint\nThey say it'll stop illegal debt brokering. Now anyone with a hand in labor contracts is real ornery—from the poor to the powerful.\n!chuckle\n$neutralJoke\nYou can imagine the reaction.\nplayer:\n!wince\n$miscHopeless\nI can."
-msgstr "player:\nPermis !\n$neutralDefault\nAide-moi à prendre mes repères. Cela fait longtemps que je n'ai pas été à Havaria.\nagent:\n!shrug\n$angryReluctant\nC'est sale et cassé, comme toujours. Si le courtage de dettes était mauvais quand vous étiez enfant, c'est pire maintenant. \nLa moitié de la population est sous contrat, et les personnes qui détiennent des contrats les vendent pour payer les leurs. \nplayer:\n!thought\n$neutralThoughtful\nPas étonnant que les douanes étaient si tendues sur mon chemin de retour. Ca doit être beaucoup de fraude. \nagent:\nPermis !\n$angryDefault\nCe n'est pas la moitié. L'Amirauté fait pression pour une annexe officielle. \nIls veulent faire de tout le monde de vrais citoyens Deltrean, avec des papiers et tout.\nplayer:\n!dubious\n$neutralDubious\nA Havaria ? Tu plaisantes.\nFssh:\n$neutralResigned\n!décevoir\nIls dis-le vont arrêter le courtage illégal de dettes. Maintenant, n'importe qui avec une main dans les contrats de travail est ornery réel-des pauvres aux puissants.\n!chuckle\n$neutralJoke\nVous pouvez imaginer la réaction.\nplayer:\n!wince\n$miscHopeless\nJe peux."
+msgstr "player:\n!permit\n$neutralDefault\nTu peux m'aider à prendre mes marques. Cela fait longtemps que je ne suis pas venue à la Havane.\nagent:\n!shrug\n$angryReluctant\nC'est crasseux et en ruines, comme toujours. Si les créancier étaient pourie quand tu étais enfant, c'est pire maintenant. \nLa moitié de la population est endettée, et ceux qui possèdent les contrats les vendent pour s'en sortir. \nplayer:\n!thought\n$neutralThoughtful\nPas étonnant que les douaniers que j'ai croisés sur le chemin du retour soient si tendus. Il doit y avoir beaucoup de Contrebande. \nagent:\n!permit\n$angryDefault\nIl n'y a pas que ça. L'Amirauté réclame une annexe officielle. \nIls veulent faire de tout le monde de vrais citoyens de Deltrean, avec des papiers et tout.\nplayer:\n!dubious\n$neutralDubious\nDe la Havane ? Tu plaisantes.\nFssh:\n$neutralResigned\n!disappoint\nIls disent que cela mettra fin au commerce illégal des créancier aujourd'hui, tous ceux qui ont des contrats sont de vrais ordure, du pauvre au puissant.\n!chuckle\n$neutralJoke\nTu imaginer la réaction.\nplayer:\n!wince\n$miscHopeless\nJ'imagine bien."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_QUESTIONS.DIALOG_2
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_QUESTIONS.DIALOG_2"
 msgid "player:\n$neutralDubious\nThe annex can't be a popular move. Most come here to get <i>away</i> from the Admiralty.\nagent:\n$angryDefault\nIt ain't. Both the Spree <i>and</i> the Cult are in arms about it. The Spree 'cause they're criminals, the Cult 'cause they profit off the labor more than anybody.\nplayer: \n$miscDepressed\n!sigh\nNo need to tell me that.\nagent:\n!interest\n$neutralDubious\nThe Cult's holding a big shindig in a few days—their usual wheelin' and dealin' in the name of the divine.\nWord is, the Admiralty's gonna use it to make their proposition: <i>mandatory citizenship</i>. \n!disappoint\n$neutralResigned\nIt's gonna need to be a mighty good pitch to convince the Cult. And I wouldn't put it past the Spree to set fire to the whole affair, if they can.\n* {fssh} casts a dour eye over the bar, like it's a garden on the near side of winter.\nagent:\n!tired\n$miscDepressed\nSuffice it to say, kid, tensions are <i>real</i> high. You'd be smart to keep your head <i>down</i> instead of looking for trouble."
-msgstr "player:\n$neutralDubious\nL'annexe ne peut pas être un mouvement populaire. La plupart viennent ici pour <i>s'éloigner</i> de l'Amirauté.\nagent:\n$angryDefault\nCe n'est pas le cas. La Spree <i>et</i> le Culte sont tous deux en armes à ce sujet. Les Spree parce que ce sont des criminels, le Culte parce qu'ils profitent du travail plus que quiconque.\nlecteur: \n$miscDepressed\n!sigh\nPas besoin de me le dire.\nagent:\n!interest\n$neutralDubious\nLe Culte tient un grand shindig en quelques jours, leur wheelin' habituel et dealin', au nom du divin.\nOn dit que l'Amirauté va l'utiliser pour faire sa proposition : <i>citoyenneté obligatoire</i>. \n!décevoir\n$neutralResigned\nIl va bien faire un bon pitch pour convaincre le Culte. Et je ne mettrais pas le feu à la Spree pour mettre le feu à toute cette affaire, s'ils le peuvent.\n{fssh} jette un oeil triste sur le bar, comme si c'était un jardin sur le côté proche de l'hiver.\nagent:\n!tired\n$miscDepressed\nQu'il suffise de dire, gamin, les tensions sont <i>vraiment</i> élevées. Tu serais malin de garder la tête <i>baissée</i> au lieu de chercher des ennuis."
+msgstr "player:\n$neutralDubious\nL'annexe ne peut pas être un mouvement populaire. La plupart viennent ici pour <i>s'éloigner</i> de l'Amirauté.\nagent:\n$angryDefault\nCe n'est pas le cas. La Spree <i>et</i> le Culte sont tous deux en armes à ce sujet. Les Spree parce que ce sont des criminels, le Culte parce qu'ils profitent du travail plus que quiconque.\nlecteur: \n$miscDepressed\n!sigh\nPas besoin de me le dire.\nagent:\n!interest\n$neutralDubious\nLe Culte tient un grand shindig en quelques jours, leur wheelin' habituel et dealin', au nom du divin.\nOn dit que l'Amirauté va l'utiliser pour faire sa proposition : <i>citoyenneté obligatoire</i>. \n!disappoint\n$neutralResigned\nIl va bien faire un bon pitch pour convaincre le Culte. Et je ne mettrais pas le feu à la Spree pour mettre le feu à toute cette affaire, s'ils le peuvent.\n{fssh} jette un oeil triste sur le bar, comme si c'était un jardin sur le côté proche de l'hiver.\nagent:\n!tired\n$miscDepressed\nQu'il suffise de dire, gamin, les tensions sont <i>vraiment</i> élevées. Tu serais malin de garder la tête <i>baissée</i> au lieu de chercher des ennuis."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_QUESTIONS.DIALOG_3
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_QUESTIONS.DIALOG_3"
 msgid "player:\n!interest\n$neutralDubious\nSo what do I owe you for this, Fssh? A cut of my takings?\nagent:\n!wave\n$neutralDirect\nHesh no. I left my bounty hunting days behind me. I owed your parents, once. I don't like leaving debts unsettled. Even to dead folks.\n$miscNostalgic\nThey were decent people, Sal Fallon. Watch you don't end up like them.\nplayer:\n!dubious\n$miscDepressed\nYou know even when you pay off the debts, the derrick still owns your name? I'm an ik-Derrick now. Or so they tell me.\nagent:\n!spit\n$angryDefault\nYeah. That's some messed up bladderwrack, though.\nplayer: \n!disappoint\n$miscDepressed\nYeah."
-msgstr "player:\n!interest\n$neutralDubious\nQu'est-ce que je te dois pour ça, Fssh ? Une part de mes prises ?\nagent:\n!vague\n$neutralDirect\nHesh non, j'ai laissé mes jours de chasse aux primes derrière moi. Je devais tes parents, une fois. Je n'aime pas laisser les dettes déstabilisées. Même aux morts.\n$miscNostalgic\nC'était des gens bien, Sal Fallon. Regarde que tu ne finis pas comme eux.\nplayer:\n!dubious\n$miscDepressed\nTu sais que même quand tu rembourses les dettes, le derrick possède toujours ton nom ? Je suis un ik-Derrick maintenant. C'est ce qu'ils me disent.\nagent:\n!cracher\n$angryDefault\nouais. C'est un peu foiré bladderwrack, cependant.\nlecteur: \n!décevoir\n$miscDepressed\nouais."
+msgstr "player:\n!interest\n$neutralDubious\nQu'est-ce que je te dois pour ça, Fssh ? Une part de mes prises ?\nagent:\n!vague\n$neutralDirect\nHesh non, j'ai laissé mes jours de chasse aux primes derrière moi. Je devais tes parents, une fois. Je n'aime pas laisser les dettes déstabilisées. Même aux morts.\n$miscNostalgic\nC'était des gens bien, Sal Fallon. Regarde que tu ne finis pas comme eux.\nplayer:\n!dubious\n$miscDepressed\nTu sais que même quand tu rembourses les dettes, le derrick possède toujours ton nom ? Je suis un ik-Derrick maintenant. C'est ce qu'ils me disent.\nagent:\n!cracher\n$angryDefault\nouais. C'est un peu foiré bladderwrack, cependant.\nlecteur: \n!disappoint\n$miscDepressed\nouais."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_QUESTIONS.DIALOG_4
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_QUESTIONS.DIALOG_4"
 msgid "player:\n$neutralThanks\nYou lined up work for me real fast. You some kind of mover, here?\nagent:\n!handwave\n$neutralWhatever\nNaw, I just know people, and people know me. \nYou don't need to go after Kashio, kid. I have enough work to keep you busy.\nplayer:\n!dubious\n$neutralTakenAback\nI spent my childhood in a lumin pipe because of her. And now she's worth more money than either of us can count.\nfssh:\n!shrug\n$angryAside\nAnd she's <i>more dangerous</i> than either of us can figure. You go after her, and she'll clap back with a knife for each kidney.\n!permit\n$neutralThoughtful\nI may have extras to spare, but you only got two.\nplayer:\n!thumb\n$angryDefault\nI worked off a lifetime's debt in ten years just so I could get back here and settle the score. \n!crossed\nIf you were my friend, you wouldn't be tellin' me to drop it.\nFssh:\n!scared_shrug\n$neutralResigned\nAw, Hesh, that ain't what I meant. You know it ain't.  \nplayer:\n!sigh\nfssh:\n!neutral\nI'll give you a roof, a bed, and at least one good meal a day. You live your life the way you want. It's yours.\nplayer:\n!neutral\n!agree\n$miscRelieved\nI'll pay you back. \nfssh:\n!agree\n$miscRelieved\nI know. Let's get you to work."
-msgstr "player:\n$neutralThanks\nTu as fait la queue pour moi très vite. Vous êtes une sorte de déménageur, ici ?\nagent:\nOnde de main de !\n$neutralWhatever\nNaw, je connais juste des gens, et les gens me connaissent. \nTu n'as pas besoin de t'en prendre à Kashio. J'ai assez de travail pour t'occuper.\nplayer:\n!dubious\n$neutralTakenAback\nJ'ai passé mon enfance dans une pipe lumin à cause d'elle. Et maintenant, elle vaut plus d'argent que nous ne pouvons compter.\nfssh:\n!shrug\n$angryAside\nEt elle est <i>plus dangereuse</i> que nous ne pouvons le comprendre. Tu la poursuis, et elle va riposter avec un couteau pour chaque rein.\nPermis !\n$neutralThoughtful\nJ'ai peut-être des extras à revendre, mais tu n'en as que deux.\nplayer:\n!thumb\n$angryDefault\nJ'ai travaillé sur la dette d'une vie en dix ans juste pour pouvoir revenir ici et régler le compte. \n!crossed\nSi tu étais mon ami, tu ne me dirais pas de le laisser tomber.\nFssh:\n!effrayé-shrug\n$neutralResigned\nAw, Hesh, ce n'est pas ce que je voulais dire. Tu sais que ce n'est pas le cas.  \nplayer:\n!sigh\nfssh:\n!neutre\nJe te donnerai un toit, un lit et au moins un bon repas par jour. Tu vis ta vie comme tu veux. C'est à toi.\nplayer:\n!neutre\n!agree\n$miscRelieved\nJe te rembourserai. \nfssh:\n!agree\n$miscRelieved\nJe sais. On va te faire travailler."
+msgstr "player:\n$neutralThanks\nTu as fait la queue pour moi très vite. Vous êtes une sorte de déménageur, ici ?\nagent:\nOnde de main de !\n$neutralWhatever\nNaw, je connais juste des gens, et les gens me connaissent. \nTu n'as pas besoin de t'en prendre à Kashio. J'ai assez de travail pour t'occuper.\nplayer:\n!dubious\n$neutralTakenAback\nJ'ai passé mon enfance dans une pipe lumin à cause d'elle. Et maintenant, elle vaut plus d'argent que nous ne pouvons compter.\nfssh:\n!shrug\n$angryAside\nEt elle est <i>plus dangereuse</i> que nous ne pouvons le comprendre. Tu la poursuis, et elle va riposter avec un couteau pour chaque rein.\n!permit\n$neutralThoughtful\nJ'ai peut-être des extras à revendre, mais tu n'en as que deux.\nplayer:\n!thumb\n$angryDefault\nJ'ai travaillé sur la dette d'une vie en dix ans juste pour pouvoir revenir ici et régler le compte. \n!crossed\nSi tu étais mon ami, tu ne me dirais pas de le laisser tomber.\nFssh:\n!effrayé-shrug\n$neutralResigned\nAw, Hesh, ce n'est pas ce que je voulais dire. Tu sais que ce n'est pas le cas.  \nplayer:\n!sigh\nfssh:\n!neutre\nJe te donnerai un toit, un lit et au moins un bon repas par jour. Tu vis ta vie comme tu veux. C'est à toi.\nplayer:\n!neutre\n!agree\n$miscRelieved\nJe te rembourserai. \nfssh:\n!agree\n$miscRelieved\nJe sais. On va te faire travailler."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_QUESTIONS.OPT_1
 #, fuzzy
@@ -25054,7 +25053,7 @@ msgstr "Renseignez-vous sur Kashio"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_1"
 msgid "* The Grog n' Dog has its charm: the patrons look lively, and the floorboards creek like a well-fed toad. \nplayer:\n!left\nfssh:\n!right\n!greeting\n$miscRelieved\nThere you are. I started to think you mighta gotten mugged before you even made it through the door.\nplayer:\n!interest\n$neutralJoke\nYour faith moves me, {fssh}. But I <i>do</i> feel ready for a fight. Like my blood is pumping, ya know? \n!eureka \n$happyDefault\nShould serve me well up against {kashio}.       \nfssh:\n!chuckle\n$neutralJoke\nFirst breath of fresh air in ten years, and you get straight to the point. \nBut you won't get nowhere without making some friends. Get your bearings, and maybe tomorrow we can talk about {kashio}.\n!permit\n$miscRelieved\nLet me give you something. People leave the damnedest things behind in the bar.\n\n** {fssh} will give you something every time you start over."
-msgstr "* Le Grog n'Dog a son charme: les clients ont l'air animés, et les planchers ruissellent comme un couple bien nourri. \nplayer:\n!left\nfssh:\n!right\n!greeting\n$miscRelieved\nTe voilà. J'ai commencé à penser que tu pourrais te faire agresser avant même que tu ne franchisses la porte.\nplayer:\n!interest\n$neutralJoke\nTa foi m'émeut, {fssh}. Mais <i>je</i> me sens prêt pour un combat. Comme si mon sang pompe, tu sais ? \n!eureka (en) \n$happyDefault\nDevrait me servir bien contre {kashio}.       \nfssh:\n!chuckle\n$neutralJoke\nPremière bouffée d'air frais en dix ans, et vous obtenez directement au point. \nMais tu n'i retrouverez nulle part sans te faire des amis. Prenez vos repères, et peut-être que demain nous pourrons parler de «kashio».\nPermis !\n$miscRelieved\nLaissez-moi vous donner quelque chose. Les gens laissent les choses les plus maudites dans le bar.\n\n{fssh} vous donnera quelque chose chaque fois que vous recommencez."
+msgstr "* Le Grog n'Dog a son charme: les clients ont l'air animés, et les planchers ruissellent comme un couple bien nourri. \nplayer:\n!left\nfssh:\n!right\n!greeting\n$miscRelieved\nTe voilà. J'ai commencé à penser que tu pourrais te faire agresser avant même que tu ne franchisses la porte.\nplayer:\n!interest\n$neutralJoke\nTa foi m'émeut, {fssh}. Mais <i>je</i> me sens prêt pour un combat. Comme si mon sang pompe, tu sais ? \n!eureka (en) \n$happyDefault\nDevrait me servir bien contre {kashio}.       \nfssh:\n!chuckle\n$neutralJoke\nPremière bouffée d'air frais en dix ans, et vous obtenez directement au point. \nMais tu n'i retrouverez nulle part sans te faire des amis. Prenez vos repères, et peut-être que demain nous pourrons parler de «kashio».\n!permit\n$miscRelieved\nLaissez-moi vous donner quelque chose. Les gens laissent les choses les plus maudites dans le bar.\n\n{fssh} vous donnera quelque chose chaque fois que vous recommencez."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_2
 #, fuzzy
@@ -25075,19 +25074,19 @@ msgstr "fssh:\n!right\n* Même si ça fait des années, {fssh} ta préparée un 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3C
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3C"
 msgid "fssh:\n!right\n* You're back in Havaria, and {fssh} welcomes you like you were only gone for a wink.\nplayer:\n!left\nfssh:\n!eureka\n$neutralDirect\nWelcome back, Sal. Let's not waste much time, huh? You got work to do, and I got things to help you do it."
-msgstr "fssh:\n!right\n* Tu est retour à la Havane, et {fssh} t'accueille comme si tu n'étais parti il n'y a  seulment que quelque jours.\nplayer:\n!left\nfssh:\n!eureka\n$neutralDirect\nRavi de te voir, Sal. Ne perdons pas de temps? Tu as du pain sur la planche, et j'ai quelques choses qui pourront t'aider."
+msgstr "fssh:\n!right\n* Vous êtes de retour à la Havane, et {fssh} vous accueille comme si vous n'étier parti que quelques jours.\nplayer:\n!left\nfssh:\n!eureka\n$neutralDirect\nRavi de te voir, Sal. Ne perdons pas de temps? Tu as du pain sur la planche, et j'ai quelques choses qui pourrait t'aider."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_INTRO
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_INTRO"
 msgid "* At first sniff the Grog n' Dog smells like stale hops and dried blood. \nfssh:\n!right\n!dubious\n$neutralResigned\nWell, look what the tide dredged up. \nplayer:\n!left\n!greeting\n$happyDefault\n{fssh}! By the holy brine. I'd tear up if I weren't dead inside. \n!handwring\n$happyCocky\nSpeaking of... that <i>bounty</i> on {kashio}. How do we—\nFssh:\n!crossed\n$neutralDirect\nForget it. You might have grown up strong but you ain't <b>that</> strong.\nplayer:\n!scared\nFssh:\n!sigh\nBut that's not going to stop you from trying, is it? \n!point\n$neutralDirect \nIf you want a <i>chance</> at surviving this, you better make yourself some friends, fast. \n!thumb\nI can help you with that.\nplayer:\n!cruel\n$happyDefault\nKnew I could count on you, {fssh}.\n* She hauls out a flimsy old box, sodden with some stain or another, and invites you to look inside.\nFssh:\n!permit\n$miscAlluring\nHave a look in the lost and found. Something's bound to be in your size."
-msgstr "* Au début renifler le Grog n'Dog sent comme le houblon rassis et le sang séché. \nfssh:\n!right\n!dubious\n$neutralResigned\nRegarde ce que la marée a dragué. \nplayer:\n!left\n!greeting\n$happyDefault\n{fssh}! Par la saumure sainte. Je me déchirerais si je n'étais pas mort à l'intérieur. \n!handwring\n$happyCocky\nEn parlant de... cette <i>prime</i> sur {kashio}. Comment pouvons-nous...\nFssh:\n!crossed\n$neutralDirect\nN'y pense plus. Tu as peut-être grandi fort, mais tu n'es pas <b>si fort.\nplayer:\n!scared\nFssh:\n!sigh\nMais ça ne va pas t'empêcher d'essayer, n'est-ce pas ? \nPoint !\n$neutralDirect \nSi tu veux avoir une chance de survivre à ça, tu ferais mieux de <i>te faire des amis, vite. \n!thumb\nJe peux t'aider avec ça.\nplayer:\n!cruel\n$happyDefault\nJe savais que je pouvais compter sur toi, fssh.\nElle sort une vieille boîte fragile, détrempée d'une tache ou d'une autre, et vous invite à regarder à l'intérieur.\nFssh:\nPermis !\n$miscAlluring\nJetez un oeil dans le perdu et trouvé. Quelque chose va être dans ta taille.</i> </b>"
+msgstr "* Au début renifler le Grog n'Dog sent comme le houblon rassis et le sang séché. \nfssh:\n!right\n!dubious\n$neutralResigned\nRegarde ce que la marée a dragué. \nplayer:\n!left\n!greeting\n$happyDefault\n{fssh}! Par la saumure sainte. Je me déchirerais si je n'étais pas mort à l'intérieur. \n!handwring\n$happyCocky\nEn parlant de... cette <i>prime</i> sur {kashio}. Comment pouvons-nous...\nFssh:\n!crossed\n$neutralDirect\nN'y pense plus. Tu as peut-être grandi fort, mais tu n'es pas <b>si fort.\nplayer:\n!scared\nFssh:\n!sigh\nMais ça ne va pas t'empêcher d'essayer, n'est-ce pas ? \nPoint !\n$neutralDirect \nSi tu veux avoir une chance de survivre à ça, tu ferais mieux de <i>te faire des amis, vite. \n!thumb\nJe peux t'aider avec ça.\nplayer:\n!cruel\n$happyDefault\nJe savais que je pouvais compter sur toi, fssh.\nElle sort une vieille boîte fragile, détrempée d'une tache ou d'une autre, et vous invite à regarder à l'intérieur.\nFssh:\n!permit\n$miscAlluring\nJetez un oeil dans le perdu et trouvé. Quelque chose va être dans ta taille.</i> </b>"
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_REMIND_ME
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_REMIND_ME"
 msgid "player:\n!thought\n$miscNostalgic\nI can take a second to catch up. It's been long enough.\nFssh:\n!permit\n$miscNostalgic\nGood to see you in one piece, after what you've been through. But could you maybe try to blend in a little?\n!dubious\n$neutralResigned\nBounty hunters are bad for business, and this place feels emptier already.\n* Sure enough, a couple of patrons make for the exit, their drinks still bubbling in their mugs.\nplayer:\n!overthere\n$neutralTakenAback\nI don't wanna cause you trouble. You want me gone, I'm gone.\nFssh:\n!point\n$neutralDirect\nSuckerspit. It took you ten years to earn your freedom. I'd be a piss-poor friend to your folks if I let you throw it in the gutter now.\n$neutralThanks\nYou're staying. At least until you get on your feet.\nplayer:\n!wince2\nKindness makes me uncomfortable. But... thanks."
-msgstr "player:\n!thought\n$miscNostalgic\nJe peux prendre une seconde pour rattraper le temps. C'est assez long.\nFssh:\nPermis !\n$miscNostalgic\nC'est bon de te voir en un seul morceau, après ce que tu as vécu. Mais pourriez-vous peut-être essayer de se fondre dans un peu?\n!dubious\n$neutralResigned\nLes chasseurs de primes sont mauvais pour les affaires, et cet endroit se sent déjà plus vide.\nBien sûr, un couple de clients font pour la sortie, leurs boissons bouillonnant encore dans leurs tasses.\nplayer:\n!overthere\n$neutralTakenAback\nJe ne veux pas te causer d'ennuis. Si tu veux que je parte, je m'en vais.\nFssh:\nPoint !\n$neutralDirect\nC'est Suckerspit. Il vous a fallu dix ans pour gagner votre liberté. Je serais un ami pauvre en pisse pour tes parents si je te laissais le jeter dans le caniveau maintenant.\n$neutralThanks\nTu restes. Au moins jusqu'à ce que tu te relèves.\nplayer:\n!wince2\nLa gentillesse me met mal à l'aise. mais... merci."
+msgstr "player:\n!thought\n$miscNostalgic\nJe peux prendre une seconde pour rattraper le temps. C'est assez long.\nFssh:\n!permit\n$miscNostalgic\nC'est bon de te voir en un seul morceau, après ce que tu as vécu. Mais pourriez-vous peut-être essayer de se fondre dans un peu?\n!dubious\n$neutralResigned\nLes chasseurs de primes sont mauvais pour les affaires, et cet endroit se sent déjà plus vide.\nBien sûr, un couple de clients font pour la sortie, leurs boissons bouillonnant encore dans leurs tasses.\nplayer:\n!overthere\n$neutralTakenAback\nJe ne veux pas te causer d'ennuis. Si tu veux que je parte, je m'en vais.\nFssh:\nPoint !\n$neutralDirect\nC'est Suckerspit. Il vous a fallu dix ans pour gagner votre liberté. Je serais un ami pauvre en pisse pour tes parents si je te laissais le jeter dans le caniveau maintenant.\n$neutralThanks\nTu restes. Au moins jusqu'à ce que tu te relèves.\nplayer:\n!wince2\nLa gentillesse me met mal à l'aise. mais... merci."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_REMIND_ME2
 #, fuzzy
@@ -25111,13 +25110,13 @@ msgstr "player:\nLa pensée !\n$neutralThoughtful\nCe bar vous semble familier. 
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_REMIND_ME5"
 msgid "player:\n!scared_shrug\n$neutralResigned\nI feel like I've dreamt about this a hundred times, but in my dreams it always turns sour.\n$neutralResigned\nI end up on the wrong end of someone's grudge and it all goes to hell. \nfssh:\n!permit\nYou're home, kid. But I'd be lyin' if I said life here was gonna be much easier than life on the derrick. \n$neutralDirect\nThe big difference is you can make progress. You can move forward.  \n!point\nMight take brains, and flex, and a bit of luck. But you got all three. \nplayer:\n!dubious\n$neutralJoke\nWell, geez, Fssh, that was... actually a decent pep talk.  \n!eureka\n$happyDefault\nSo... let's get started, I guess."
-msgstr "player:\nscared_shrug\n$neutralResigned\nJ'ai l'impression d'en avoir rêvé cent fois, mais dans mes rêves, ça tourne toujours au vinaigre.\n$neutralResigned\nJe me retrouve du mauvais côté de la rancune de quelqu'un et tout va en enfer. \nfssh:\nPermis !\nTu es à la maison, gamin. Mais je serais lyin ' si je disais la vie ici allait être beaucoup plus facile que la vie sur le derrick. \n$neutralDirect\nLa grande différence est que vous pouvez faire des progrès. Vous pouvez aller de l'avant.  \nPoint !\nPeut-être prendre des cerveaux, et fléchir, et un peu de chance. Mais vous avez tous les trois. \nplayer:\n!dubious\n$neutralJoke\nEh bien, geez, Fssh, c'était ... en fait un discours pep décent.  \n!eureka (en)\n$happyDefault\nainsi... Commençons, je suppose."
+msgstr "player:\nscared_shrug\n$neutralResigned\nJ'ai l'impression d'en avoir rêvé cent fois, mais dans mes rêves, ça tourne toujours au vinaigre.\n$neutralResigned\nJe me retrouve du mauvais côté de la rancune de quelqu'un et tout va en enfer. \nfssh:\n!permit\nTu es à la maison, gamin. Mais je serais lyin ' si je disais la vie ici allait être beaucoup plus facile que la vie sur le derrick. \n$neutralDirect\nLa grande différence est que vous pouvez faire des progrès. Vous pouvez aller de l'avant.  \nPoint !\nPeut-être prendre des cerveaux, et fléchir, et un peu de chance. Mais vous avez tous les trois. \nplayer:\n!dubious\n$neutralJoke\nEh bien, geez, Fssh, c'était ... en fait un discours pep décent.  \n!eureka (en)\n$happyDefault\nainsi... Commençons, je suppose."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_TALK_ABOUT_GIVERS
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_TALK_ABOUT_GIVERS"
 msgid "agent:\n!shrug\n$neutralDirect\nI got people in my pocket who owe me a favor: {giver1}, {giver2}, and {giver3}. They're easy people to find.\n!permit\n$neutralDirect\nTell 'em I sent you, and they can settle their tabs by giving you work. Get that done, and I'll get you a plate of popped oshnu eyes on the house.\nplayer: \n!wink\n$miscNostalgic\nBless your warty hide, Fssh. I'll hold you to that.\n*** Fssh has some jobs you can do to get strong enough to take on {kashio}."
-msgstr "agent:\n!shrug\n$neutralDirect\nJ'ai des gens dans ma poche qui me doivent une faveur: {giver1}, {giver2}, et {giver3}. Ce sont des gens faciles à trouver.\nPermis !\n$neutralDirect\nDis-leur que je t'ai envoyé, et qu'ils peuvent régler leurs onglets en te donnant du travail. Fais-le, et je t'aurai une assiette d'yeux oshnu sur la maison.\nJoueur: \nClin d'œil !\n$miscNostalgic\nBénis ta peau de verrue, Fssh. Je t'en tiendrai à ça.\nFssh a quelques emplois que vous pouvez faire pour obtenir assez fort pour prendre sur {kashio}."
+msgstr "agent:\n!shrug\n$neutralDirect\nJ'ai des gens dans ma poche qui me doivent une faveur: {giver1}, {giver2}, et {giver3}. Ce sont des gens faciles à trouver.\n!permit\n$neutralDirect\nDis-leur que je t'ai envoyé, et qu'ils peuvent régler leurs onglets en te donnant du travail. Fais-le, et je t'aurai une assiette d'yeux oshnu sur la maison.\nJoueur: \nClin d'œil !\n$miscNostalgic\nBénis ta peau de verrue, Fssh. Je t'en tiendrai à ça.\nFssh a quelques emplois que vous pouvez faire pour obtenir assez fort pour prendre sur {kashio}."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.OPT_GET_WORK
 #, fuzzy
@@ -25159,7 +25158,7 @@ msgstr "kashio:\n!angry\n!right\nfssh:\n!left\n!injured\nIl est tard quand vous 
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1_2.STATE_KASHIO_STUFF.DIALOG_INTRO_2"
 msgid "kashio:\n!angry\n!right\nfssh:\n!left\n!injured\n* Something in the Grog n' Dog isn't right, but you've learned to expect trouble. You approach from the shadows.\nkashio:\n!cruel\n$miscMocking\nWhy, <i>Fssh</i>. This is a lot of hostility comin' from someone I used to think was a friend.\nfssh:\n$angryAside\nAnd how many friends do you got left these days? That bounty on your head didn't come from nowhere.\nkashio: \n!angry\n$angryDefault\nAbout that⁠—\n* You know an entrance when you see it. \nplayer:\n!left\n!cruel\n$angryCruel\nYeah. <i>About</i> that. \nkashio:\n!interest\n...\n!chuckle\n$neutralJoke\nThought it might be you, Sal. I always knew you'd either die on that derrick or come back for my jugular. \n!disappoint\n$angryAside\nOnce was a time when you said you wanted to grow up to be just like me. But <i>I</i> would've been smart enough to keep my head on my shoulders.\n* Kashio jerks her head in your direction, speaking to the two goons at her side.\nkashio:\n$angrySeething\nKill her. And do it right.\n!exit\nplayer:\n!fight\nagent:\n!right\n* You make to pursue Kashio as she leaves, but the goon blocks your path. No way to her unless it's through {agent.himher}.\n*** Kashio leaves her goons to finish you off."
-msgstr "kashio:\n!angry\n!right\nfssh:\n!left\n!injured\nQuelque chose dans le Grog n'Dog n'est pas juste, mais vous avez appris à vous attendre à des ennuis. Vous vous approchez de l'ombre.\nkashio:\n!cruel\n$miscMocking\nPourquoi, <i>Fssh</i>. C'est beaucoup d'hostilité de la part de quelqu'un que je pensais être un ami.\nfssh:\n$angryAside\nEt combien d'amis vous reste-t-il ces jours-ci ? Cette prime sur ta tête n'est pas venue de nulle part.\nkashio: \n!angry\n$angryDefault\nÀ ce sujet...\nVous connaissez une entrée quand vous la voyez. \nplayer:\n!left\n!cruel\n$angryCruel\nouais. <i>À propos de</i> ça. \nkashio:\n!interest\n...\n!chuckle\n$neutralJoke\nJe pensais que c'était toi, Sal. J'ai toujours su que tu mourrais sur ce derrick ou que tu reviendrais pour ma jugulaire. \n!décevoir\n$angryAside\nC'était une fois où tu disais que tu voulais grandir pour être comme moi. Mais <i>j'</i> aurais été assez malin pour garder la tête sur mes épaules.\nKashio se branle la tête dans votre direction, en parlant aux deux goons à ses côtés.\nkashio:\n$angrySeething\nTue-la. Et fais-le bien.\n!exit\nplayer:\n!fight\nagent:\n!right\nVous faites pour poursuivre Kashio comme elle part, mais le goon bloque votre chemin. Pas moyen pour elle à moins que ce ne soit par l'intermédiaire de 'agent.himher'.\nKashio laisse ses goons pour t'achever."
+msgstr "kashio:\n!angry\n!right\nfssh:\n!left\n!injured\nQuelque chose dans le Grog n'Dog n'est pas juste, mais vous avez appris à vous attendre à des ennuis. Vous vous approchez de l'ombre.\nkashio:\n!cruel\n$miscMocking\nPourquoi, <i>Fssh</i>. C'est beaucoup d'hostilité de la part de quelqu'un que je pensais être un ami.\nfssh:\n$angryAside\nEt combien d'amis vous reste-t-il ces jours-ci ? Cette prime sur ta tête n'est pas venue de nulle part.\nkashio: \n!angry\n$angryDefault\nÀ ce sujet...\nVous connaissez une entrée quand vous la voyez. \nplayer:\n!left\n!cruel\n$angryCruel\nouais. <i>À propos de</i> ça. \nkashio:\n!interest\n...\n!chuckle\n$neutralJoke\nJe pensais que c'était toi, Sal. J'ai toujours su que tu mourrais sur ce derrick ou que tu reviendrais pour ma jugulaire. \n!disappoint\n$angryAside\nC'était une fois où tu disais que tu voulais grandir pour être comme moi. Mais <i>j'</i> aurais été assez malin pour garder la tête sur mes épaules.\nKashio se branle la tête dans votre direction, en parlant aux deux goons à ses côtés.\nkashio:\n$angrySeething\nTue-la. Et fais-le bien.\n!exit\nplayer:\n!fight\nagent:\n!right\nVous faites pour poursuivre Kashio comme elle part, mais le goon bloque votre chemin. Pas moyen pour elle à moins que ce ne soit par l'intermédiaire de 'agent.himher'.\nKashio laisse ses goons pour t'achever."
 
 #: CONVO.SAL_STORY_DAY_1_2.STATE_KASHIO_STUFF.DIALOG_INTRO_3
 #, fuzzy
@@ -25247,7 +25246,7 @@ msgstr "Cartes de Fssh"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1_2.STATE_REWARD.DIALOG_DONE"
 msgid "fssh:\n!injured\nplayer:\n!disappoint\n$miscDepressed\nI should've gone for Kashio as soon as I arrived. Now you're dragged into it, too. \nfssh:\n!disappoint\n$miscDepressed\nNone of that. You've got a bit of grit in your eye. You'll wink it out once you get some sleep.\nI got a room set up for you in the back. \n* With Kashio gone, the few patrons that remain return to their drinks—them that weren't spilled, anyway.\n*** Fssh suggests you talk to her when you're ready to sleep the day off."
-msgstr "fssh:\n!injured\nplayer:\n!décevoir\n$miscDepressed\nJ'aurais dû aller chercher Kashio dès mon arrivée. Maintenant, tu es entraîné dedans aussi. \nfssh:\n!décevoir\n$miscDepressed\nRien de tout ça. Tu as un peu de cran dans l'oeil. Tu le ferai un clin d'oeil une fois que tu auras dormi.\nJ'ai une chambre pour toi à l'arrière. \nAvec Kashio parti, les quelques clients qui restent revenir à leurs boissons,eux qui n'ont pas été renversés, de toute façon.\nFssh vous suggère de lui parler quand vous êtes prêt à dormir un jour de congé."
+msgstr "fssh:\n!injured\nplayer:\n!disappoint\n$miscDepressed\nJ'aurais dû aller chercher Kashio dès mon arrivée. Maintenant, tu es entraîné dedans aussi. \nfssh:\n!disappoint\n$miscDepressed\nRien de tout ça. Tu as un peu de cran dans l'oeil. Tu le ferai un clin d'oeil une fois que tu auras dormi.\nJ'ai une chambre pour toi à l'arrière. \nAvec Kashio parti, les quelques clients qui restent revenir à leurs boissons,eux qui n'ont pas été renversés, de toute façon.\nFssh vous suggère de lui parler quand vous êtes prêt à dormir un jour de congé."
 
 #: CONVO.SAL_STORY_DAY_1_2.STATE_REWARD.DIALOG_WON_FIGHT
 #, fuzzy
@@ -25319,7 +25318,7 @@ msgstr "fssh: \n$neutralThanks\nAvant de partir, j'ai quelque chose pour toi.\n!
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_2.START.DIALOG_INTRO"
 msgid "* It's early morning, but the Grog n' Dog's patrons are already hard at work on their drinks.\nplayer:\n!left\n!forgetful\nSo I know you thought I should hold off on that bounty, but after last night... \n$miscMischievous\nIf Kashio wants me to be her worst nightmare, I'd like to oblige.\nfssh:\n!chuckle\n$happyJoke\nAnd how you gonna do that? She knows you're here, and she's got money and goons to keep her safe. What do <i>you</i> got?\nplayer:\n!thought\n$miscAlluring\nHm. You?\nfssh:\n!agree\n$neutralDirect\nYou're damn right. Lucky for you, I have a couple of contacts who want Kashio dead almost as much as you do, if you can convince them to work with you.\nplayer:\n$neutralDubious\nWill they need convincing?\nfssh:\n'Fraid so. The Admiralty doesn't trust hunters as a rule, but talk to my contact, and see if you can convince her otherwise.  \n!permit\n$neutralTakenAback\nBut taking out Kashio would make a space the Spree'd be more than happy to fill. I know somebody who'll talk to you, especially if you can bring him Kashio's head on a platter.\n*** {fssh} knows some people who can help you with your Kashio problem. You're going to have to choose one to work with if you want access to the auction."
-msgstr "* Il est tôt le matin, mais les clients du Grog n'Dog travaillent déjà dur sur leurs boissons.\nplayer:\n!left\n!oublieux\nDonc je sais que tu as pensé que je devrais tenir à distance sur cette prime, mais après la nuit dernière ... \n$miscMischievous\nSi Kashio veut que je sois son pire cauchemar, j'aimerais t'obliger.\nfssh:\n!chuckle\n$happyJoke\nEt comment tu vas faire ça ? Elle sait que tu es là, et elle a de l'argent et des goons pour la protéger. Qu'est-ce que <i>tu</i> as ?\nplayer:\n!thought\n$miscAlluring\nHm. on?\nfssh:\n!agree\n$neutralDirect\nTu as raison. Heureusement pour toi, j'ai quelques contacts qui veulent que Kashio meure presque autant que toi, si tu peux les convaincre de travailler avec toi.\nplayer:\n$neutralDubious\nAuront-ils besoin d'être convaincants?\nfssh:\n'Fraid donc. L'Amirauté ne fait pas confiance aux chasseurs en règle générale, mais parlez à mon contact, et voyez si vous pouvez la convaincre du contraire.  \nPermis !\n$neutralTakenAback\nMais sortir Kashio ferait un espace que le Spree serait plus qu'heureux de remplir. Je connais quelqu'un qui vous parlera, surtout si vous pouvez lui apporter la tête de Kashio sur un plateau.\n{fssh} connaît des gens qui peuvent vous aider avec votre problème Kashio. Vous allez devoir en choisir un pour travailler avec si vous voulez avoir accès à la vente aux enchères."
+msgstr "* Il est tôt le matin, mais les clients du Grog n'Dog travaillent déjà dur sur leurs boissons.\nplayer:\n!left\n!oublieux\nDonc je sais que tu as pensé que je devrais tenir à distance sur cette prime, mais après la nuit dernière ... \n$miscMischievous\nSi Kashio veut que je sois son pire cauchemar, j'aimerais t'obliger.\nfssh:\n!chuckle\n$happyJoke\nEt comment tu vas faire ça ? Elle sait que tu es là, et elle a de l'argent et des goons pour la protéger. Qu'est-ce que <i>tu</i> as ?\nplayer:\n!thought\n$miscAlluring\nHm. on?\nfssh:\n!agree\n$neutralDirect\nTu as raison. Heureusement pour toi, j'ai quelques contacts qui veulent que Kashio meure presque autant que toi, si tu peux les convaincre de travailler avec toi.\nplayer:\n$neutralDubious\nAuront-ils besoin d'être convaincants?\nfssh:\n'Fraid donc. L'Amirauté ne fait pas confiance aux chasseurs en règle générale, mais parlez à mon contact, et voyez si vous pouvez la convaincre du contraire.  \n!permit\n$neutralTakenAback\nMais sortir Kashio ferait un espace que le Spree serait plus qu'heureux de remplir. Je connais quelqu'un qui vous parlera, surtout si vous pouvez lui apporter la tête de Kashio sur un plateau.\n{fssh} connaît des gens qui peuvent vous aider avec votre problème Kashio. Vous allez devoir en choisir un pour travailler avec si vous voulez avoir accès à la vente aux enchères."
 
 #: CONVO.SAL_STORY_DAY_2_2.START.DIALOG_POST
 #, fuzzy
@@ -25331,7 +25330,7 @@ msgstr "player:\n!take\n$neutralTakenAback\nMerci. Qu'est-ce que c'est?\nfssh:\n
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_2.START.DIALOG_REMIND_ME"
 msgid "player:\n!disappoint\n$miscDepressed\nI didn't think I could get angry like that anymore. You spend years on the derrick, you learn to tamp it down, you know?\nFssh:\n!interest\n$neutralThoughtful\nKashio has that effect on people. And you have more reason than most. 'Cept for all the other folks she sent to the derrick, maybe.\nplayer:\n!shrug\n$neutralDefault\nThey're not here, though. I am."
-msgstr "player:\n!décevoir\n$miscDepressed\nJe ne pensais plus pouvoir me mettre en colère comme ça. Tu passes des an nées sur le derrick, tu apprends à le tetamp, tu sais ?\nFssh:\n!interest\n$neutralThoughtful\nKashio a cet effet sur les gens. Et vous avez plus de raison que la plupart. «Cept pour tous les autres gens qu'elle a envoyé au derrick, peut-être.\nplayer:\n!shrug\n$neutralDefault\nMais ils ne sont pas là. Je suis."
+msgstr "player:\n!disappoint\n$miscDepressed\nJe ne pensais plus pouvoir me mettre en colère comme ça. Tu passes des an nées sur le derrick, tu apprends à le tetamp, tu sais ?\nFssh:\n!interest\n$neutralThoughtful\nKashio a cet effet sur les gens. Et vous avez plus de raison que la plupart. «Cept pour tous les autres gens qu'elle a envoyé au derrick, peut-être.\nplayer:\n!shrug\n$neutralDefault\nMais ils ne sont pas là. Je suis."
 
 #: CONVO.SAL_STORY_DAY_2_2.START.OPT_HEAD_OUT
 #, fuzzy
@@ -25415,13 +25414,13 @@ msgstr "player:\n$miscAlluring\n!agree\nUn contrat est un contrat. Je suis heure
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_3.STATE_INTRO.DIALOG_GET_WORK"
 msgid "player:\n!permit\n$happyCocky\nSo, put me to work, boss. I'm here to impress, ain't I?\nhandler:\n!agree\n$neutralDirect\nYou're hungry. That's good."
-msgstr "player:\nPermis !\n$happyCocky\nAlors, mets-moi au travail, patron. Je suis là pour impressionner, n'est-ce pas ?\nhandler:\n!agree\n$neutralDirect\nTu as faim. Bien."
+msgstr "player:\n!permit\n$happyCocky\nAlors, mets-moi au travail, patron. Je suis là pour impressionner, n'est-ce pas ?\nhandler:\n!agree\n$neutralDirect\nTu as faim. Bien."
 
 #: CONVO.SAL_STORY_DAY_2_3.STATE_INTRO.DIALOG_INTRO
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_3.STATE_INTRO.DIALOG_INTRO"
 msgid "* The man meets your gaze with a face like a barbed wire.\nplayer:\n!permit\n$neutralThoughtful\nNadan, right? I'm Sal. I hear you're a guy worth knowing.  \nagent: \n!cruel\n$miscAlluring\nAnd I hear you've got an axe to grind. So I figure, why don't we bury it in a few skulls, huh?\n!point\nWord is you're after the biggest bounty in the bay: Kashio. And I guarantee you won't get anywhere near her without me.\n!crossed\nBut my help don't come cheap or easy. You do good work and survive to reap the benefits? Then maybe we're in business.\n*** Nadan has agreed to work with you, though he remains hostile."
-msgstr "* L'homme rencontre votre regard avec un visage comme un fil barbelé.\nplayer:\nPermis !\n$neutralThoughtful\nNadan, c'est ça ? Je suis Sal. J'ai entendu dire que tu étais un gars qui vaut la peine d'être connu.  \nagent: \n!cruel\n$miscAlluring\nEt j'ai entendu dire que tu avais une hache à moudre. Alors je me dis, pourquoi ne pas l'enterrer dans quelques crânes, hein ?\nPoint !\nOn dit que vous êtes après la plus grosse prime de la baie : Kashio. Et je vous garantis que vous ne vous approchez pas d'elle sans moi.\n!crossed\nMais mon aide ne vient pas bon marché ou facile. Vous faites du bon travail et survivre à récolter les avantages? Alors peut-être qu'on est en affaires.\nNadan a accepté de travailler avec vous, bien qu'il reste hostile."
+msgstr "* L'homme rencontre votre regard avec un visage comme un fil barbelé.\nplayer:\n!permit\n$neutralThoughtful\nNadan, c'est ça ? Je suis Sal. J'ai entendu dire que tu étais un gars qui vaut la peine d'être connu.  \nagent: \n!cruel\n$miscAlluring\nEt j'ai entendu dire que tu avais une hache à moudre. Alors je me dis, pourquoi ne pas l'enterrer dans quelques crânes, hein ?\nPoint !\nOn dit que vous êtes après la plus grosse prime de la baie : Kashio. Et je vous garantis que vous ne vous approchez pas d'elle sans moi.\n!crossed\nMais mon aide ne vient pas bon marché ou facile. Vous faites du bon travail et survivre à récolter les avantages? Alors peut-être qu'on est en affaires.\nNadan a accepté de travailler avec vous, bien qu'il reste hostile."
 
 #: CONVO.SAL_STORY_DAY_2_3.STATE_INTRO.DIALOG_LATER
 #, fuzzy
@@ -25499,7 +25498,7 @@ msgstr "player:\n!interest\n$neutralThoughtful\nDonc, ce travail que vous me fai
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_3.STATE_QUESTIONS.ASK_ABOUT_DIALOG_5"
 msgid "player:\n!agree\n$neutralDubious\nI take it you're not a fan of the annex?\nagent:\n!dubious\n$neutralDubious\nYou're an ik-Derrick, ain't ya? What has the Admiralty ever done for you?\nplayer:\n!permit\n$neutralResigned\nIt's the <i>Cult</i> that runs the derricks.\nagent:\n!angry_shrug\n$angryPatienceLost\nAnd it's the Admiralty that plays their lapdog, turning a blind eye.\n$angryDefault\nThey don't care for law and order in Havaria—they only care to please their fishlords back across the sea.\n!spit\n$angrySeething\nEven if it means throwing good folk to the abyss. \nplayer:\n!scared\n$neutralResigned\nHeavy.\nagent:\n$angrySeething\nI didn't make it that way. I'm just livin' with the consequences.  \nplayer:\n!neutral"
-msgstr "player:\n!agree\n$neutralDubious\nJe crois que tu n'es pas fan de l'annexe ?\nagent:\n!dubious\n$neutralDubious\nTu es un ik-Derrick, n'est-ce pas ? Qu'a fait l'Amirauté pour vous ?\nplayer:\nPermis !\n$neutralResigned\nC'est le <i>Culte</i> qui dirige les derricks.\nagent:\n!angry_shrug\n$angryPatienceLost\nEt c'est l'Amirauté qui joue leur lapdog, en fermer les yeux.\n$angryDefault\nIls ne se soucient pas de la loi et l'ordre à Havaria, ils ne se soucient de s'il vous plaît leurs seigneurs de poissons de retour à travers la mer.\n!cracher\n$angrySeething\nMême si cela signifie jeter les gens bien à l'abîme. \nplayer:\n!scared\n$neutralResigned\nLourd.\nagent:\n$angrySeething\nJe ne l'ai pas fait comme ça. Je suis juste vivre avec les con séquences.  \nplayer:\n!neutre"
+msgstr "player:\n!agree\n$neutralDubious\nJe crois que tu n'es pas fan de l'annexe ?\nagent:\n!dubious\n$neutralDubious\nTu es un ik-Derrick, n'est-ce pas ? Qu'a fait l'Amirauté pour vous ?\nplayer:\n!permit\n$neutralResigned\nC'est le <i>Culte</i> qui dirige les derricks.\nagent:\n!angry_shrug\n$angryPatienceLost\nEt c'est l'Amirauté qui joue leur lapdog, en fermer les yeux.\n$angryDefault\nIls ne se soucient pas de la loi et l'ordre à Havaria, ils ne se soucient de s'il vous plaît leurs seigneurs de poissons de retour à travers la mer.\n!cracher\n$angrySeething\nMême si cela signifie jeter les gens bien à l'abîme. \nplayer:\n!scared\n$neutralResigned\nLourd.\nagent:\n$angrySeething\nJe ne l'ai pas fait comme ça. Je suis juste vivre avec les con séquences.  \nplayer:\n!neutre"
 
 #: CONVO.SAL_STORY_DAY_2_3.STATE_QUESTIONS.ASK_ABOUT_OPT_1
 #, fuzzy
@@ -25565,7 +25564,7 @@ msgstr "Gestionnaire:\n!overthere\n$miscPersuasive\nJe l'ai? Maintenant scoot. J
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_4.STATE_INTRO.DIALOG_INTRO"
 msgid "player:\n!permit\n$happyGreeting\nHey, are you Oolo? I'm Sal. Fssh mentioned we might be able to help each other out.\nagent:\n!crossed\n$miscMischievous\nI've been waiting to meet someone with just your particular set of skills. \n!point\nYou're a hunter who wants Kashio dead, and it just so happens I do, too. Do me a solid, and I'll get you where you need to be.\n!happy\n$miscAlluring\nPlay by my rules, and the killing blow will be yours, I promise. What do you say, hunter?\n*** Oolo has agreed to work with you, though her motives are suspicious."
-msgstr "player:\nPermis !\n$happyGreeting\nTu es Oolo ? Je suis Sal. Fssh a mentionné que nous pourrions être en mesure de s'entraider.\nagent:\n!crossed\n$miscMischievous\nJ'attendais de rencontrer quelqu'un avec juste vos compétences. \nPoint !\nTu es un chasseur qui veut la mort de Kashio, et il se trouve que moi aussi. Fais-moi un solide, et je t'amenai là où tu dois être.\n!happy\n$miscAlluring\nJouez selon mes règles, et le coup mortel sera le vôtre, je vous le promets. Qu'est-ce que tu dis, chasseur ?\nOolo a accepté de travailler avec vous, bien que ses motivations soient suspectes."
+msgstr "player:\n!permit\n$happyGreeting\nTu es Oolo ? Je suis Sal. Fssh a mentionné que nous pourrions être en mesure de s'entraider.\nagent:\n!crossed\n$miscMischievous\nJ'attendais de rencontrer quelqu'un avec juste vos compétences. \nPoint !\nTu es un chasseur qui veut la mort de Kashio, et il se trouve que moi aussi. Fais-moi un solide, et je t'amenai là où tu dois être.\n!happy\n$miscAlluring\nJouez selon mes règles, et le coup mortel sera le vôtre, je vous le promets. Qu'est-ce que tu dis, chasseur ?\nOolo a accepté de travailler avec vous, bien que ses motivations soient suspectes."
 
 #: CONVO.SAL_STORY_DAY_2_4.STATE_INTRO.DIALOG_LATER
 #, fuzzy
@@ -25691,7 +25690,7 @@ msgstr "player:\nIl est temps de frapper le sac.\nagent:\n!cagey\n$scaredDefault
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_6.DIALOG_ASSASSIN_WARNING"
 msgid "agent:\n!cagey\n$scaredDefault\nSay... someone came in looking for you earlier. I sent them packing, of course.\n!interest\nYou make any enemies you might be expecting? They didn't look friendly. \nplayer:\n!shrug\n$miscMocking\nI'm a hunter, Fssh. I literally make enemies for a living.\nagent:\n!point\nI'm just saying you might want to keep your guard up. <i>Extra</i> up. Tomorrow I'm gonna look into getting some boobytraps for the bar. \n!disappoint\n$neutralResigned\nAmbush me once, shame on me. Ambush me twice—\n* {fssh} shakes her head. \n*** {fssh} warned you that someone was looking for you earlier."
-msgstr "agent:\n!cagey\n$scaredDefault\nDire... quelqu'un est venu te chercher plus tôt. Je leur ai envoyé faire leurs valises, bien sûr.\n!interest\nVous vous faites des ennemis que vous pourriez attendre? Ils n'avaient pas l'air sympa. \nplayer:\n!shrug\n$miscMocking\nJe suis un chasseur, Fssh. Je me fais littéralement des ennemis pour gagner ma vie.\nagent:\nPoint !\nJe dis juste que tu devrais garder ta garde. <i>Extra</i> up. Demain, je vais chercher à trouver des pièges pour le bar. \n!décevoir\n$neutralResigned\nEmbuscade-moi une fois, honte à moi. Embuscade-moi deux fois—\n{fssh} secoue la tête. \n\"fssh\" vous a averti que quelqu'un vous cherchait plus tôt."
+msgstr "agent:\n!cagey\n$scaredDefault\nDire... quelqu'un est venu te chercher plus tôt. Je leur ai envoyé faire leurs valises, bien sûr.\n!interest\nVous vous faites des ennemis que vous pourriez attendre? Ils n'avaient pas l'air sympa. \nplayer:\n!shrug\n$miscMocking\nJe suis un chasseur, Fssh. Je me fais littéralement des ennemis pour gagner ma vie.\nagent:\nPoint !\nJe dis juste que tu devrais garder ta garde. <i>Extra</i> up. Demain, je vais chercher à trouver des pièges pour le bar. \n!disappoint\n$neutralResigned\nEmbuscade-moi une fois, honte à moi. Embuscade-moi deux fois—\n{fssh} secoue la tête. \n\"fssh\" vous a averti que quelqu'un vous cherchait plus tôt."
 
 #: CONVO.SAL_STORY_DAY_2_6.DIALOG_GET_ROOM
 #, fuzzy
@@ -25917,7 +25916,7 @@ msgstr "Partons sur le quai"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_3_2.STATE_QUESTIONS.ASK_ABOUT_DIALOG_1"
 msgid "player:\n!permit\n$neutralDubious\nIs this really necessary, Fssh? We've done all right so far.\nagent:\n$neutralWhatever\nSure, if you don't count last night. \nplayer:\n!interest\nI'm alive, aren't I?\nagent:\n$neutralResigned\nMight not have gone that way. Might've gone <i>very</i> different."
-msgstr "player:\nPermis !\n$neutralDubious\nC'est vraiment né cessaire, Fssh ? On s'en est bien débrouillés jusqu'ici.\nagent:\n$neutralWhatever\nBien sûr, si tu ne comptes pas hier soir. \nplayer:\n!interest\nJe suis vivant, n'est-ce pas ?\nagent:\n$neutralResigned\nPeut-être pas par là. Ca aurait pu être <i>très</i> différent."
+msgstr "player:\n!permit\n$neutralDubious\nC'est vraiment né cessaire, Fssh ? On s'en est bien débrouillés jusqu'ici.\nagent:\n$neutralWhatever\nBien sûr, si tu ne comptes pas hier soir. \nplayer:\n!interest\nJe suis vivant, n'est-ce pas ?\nagent:\n$neutralResigned\nPeut-être pas par là. Ca aurait pu être <i>très</i> différent."
 
 #: CONVO.SAL_STORY_DAY_3_2.STATE_QUESTIONS.ASK_ABOUT_DIALOG_2
 #, fuzzy
@@ -26073,13 +26072,13 @@ msgstr "player:\n!interest\n$miscPersuasive\nDonnez-moi au moins une estimation.
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_FSSHCAKES.STATE_CONFRONT_ADMIRALTY.DIALOG_BRIBE"
 msgid "player:\n!permit\nMaybe I didn't make myself clear. \n* You shake out a few shills into your palm and fan them out prettily. \nagent:\n!interest\n$happyTakenAback\nOh, I see we've just had a little misunderstanding. \n!take\n$happyDefault\nEverything's clear as rainwater now, hunter. You head right on in.\n!exit\nplayer:\n!exit\n*** You pay off {agent} and {agent.heshe} lets you through."
-msgstr "player:\nPermis !\nPeut-être que je n'ai pas été clair. \nVous secouez quelques shills dans votre paume et les éventez joliment. \nagent:\n!interest\n$happyTakenAback\nOh, je vois qu'on vient d'avoir un petit malentendu. \n!take\n$happyDefault\nTout est clair comme l'eau de pluie maintenant, chasseur. Tu t'en vas droit dans le coup.\n!exit\nplayer:\n!exit\nVous payez {agent} et {agent.heshe} vous laisse passer."
+msgstr "player:\n!permit\nPeut-être que je n'ai pas été clair. \nVous secouez quelques shills dans votre paume et les éventez joliment. \nagent:\n!interest\n$happyTakenAback\nOh, je vois qu'on vient d'avoir un petit malentendu. \n!take\n$happyDefault\nTout est clair comme l'eau de pluie maintenant, chasseur. Tu t'en vas droit dans le coup.\n!exit\nplayer:\n!exit\nVous payez {agent} et {agent.heshe} vous laisse passer."
 
 #: CONVO.SAL_STORY_FSSHCAKES.STATE_CONFRONT_ADMIRALTY.DIALOG_FIGHT_THROUGH
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_FSSHCAKES.STATE_CONFRONT_ADMIRALTY.DIALOG_FIGHT_THROUGH"
 msgid "player:\n!disappoint\n$neutralResigned\nSorry, switches. It ain't nothing personal. You're just... in my way.\n!fight"
-msgstr "player:\n!décevoir\n$neutralResigned\nDésolé, les commutateurs. Ce n'est rien de personnel. Vous êtes juste ... sur mon chemin.\n!fight"
+msgstr "player:\n!disappoint\n$neutralResigned\nDésolé, les commutateurs. Ce n'est rien de personnel. Vous êtes juste ... sur mon chemin.\n!fight"
 
 #: CONVO.SAL_STORY_FSSHCAKES.STATE_CONFRONT_ADMIRALTY.DIALOG_FOUGHT_KILLED
 #, fuzzy
@@ -26199,7 +26198,7 @@ msgstr "player:\n!left\nLe pont du navire est recouvert d'ichor et de sang. Vous
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_FSSHCAKES.STATE_FIGHT_BEAST.DIALOG_PST_FIGHT_CLERK"
 msgid "player:\n!left\n!tired\n$neutralTakenAback\nIs this normal for the Roaloch?!\nclerk:\n!right\n!disappoint\n$neutralResigned\nNever seen a Roalochian abberation quite like that. It was lucky you were here, hunter.\nYou can keep that parcel as payment—I'll turn a blind eye to its contents just this once. \n!dubious\n$neutralDubious\nAs long as it's not from the Roaloch, of course.\n!exit\n* {clerk} rallies {clerk.hisher} troops for a clean-up brigade.\n*** You have defeated the monster, and {clerk} lets you leave with {fssh}'s package."
-msgstr "player:\n!left\n!tired\n$neutralTakenAback\nC'est normal pour le Roaloch ?\nclerk:\n!right\n!décevoir\n$neutralResigned\nJe n'ai jamais vu une abbération roalochienne comme ça. Heureusement que tu étais là, chasseur.\nVous pouvez garder ce colis comme paiement, je vais fermer les yeux sur son contenu juste cette fois. \n!dubious\n$neutralDubious\nTant que ce n'est pas du Roaloch, bien sûr.\n!exit\n- Rassemblements de {clerk}' troupes pour une brigade de nettoyage.\nVous avez vaincu le monstre, et {clerk} vous permet de partir avec le paquet de {fssh}."
+msgstr "player:\n!left\n!tired\n$neutralTakenAback\nC'est normal pour le Roaloch ?\nclerk:\n!right\n!disappoint\n$neutralResigned\nJe n'ai jamais vu une abbération roalochienne comme ça. Heureusement que tu étais là, chasseur.\nVous pouvez garder ce colis comme paiement, je vais fermer les yeux sur son contenu juste cette fois. \n!dubious\n$neutralDubious\nTant que ce n'est pas du Roaloch, bien sûr.\n!exit\n- Rassemblements de {clerk}' troupes pour une brigade de nettoyage.\nVous avez vaincu le monstre, et {clerk} vous permet de partir avec le paquet de {fssh}."
 
 #: CONVO.SAL_STORY_FSSHCAKES.STATE_FIGHT_BEAST.DIALOG_PST_FIGHT_JAKE
 #, fuzzy
@@ -26475,7 +26474,7 @@ msgstr "player:\n!overthere\n$miscPersuasive\nSi vous restez, nos chances contre
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_KILL_OOLO_5.THE_STATE.DIALOG_INTRO_CAPTIVE"
 msgid "* You find the Spree safehouse. {sibling} stares at it, dumbstruck, and you take the opportunity to push {sibling.himher} roughly inside.\nplayer:\n!left\nsibling:\n!right\n!injured\n$scaredPowerless\nOw! Stop manhandling me, peasant! \n$angryAside\nYour criminal lifestyle choices are no excuse for poor breeding. \nplayer:\n$neutralAside\nReally? It's done all right so far. \n* {agent} greets you, casting a disdainful look in {sibling}'s direction.\nagent:\n!right\n$neutralWhatever\nWas he like that the whole way here?\nplayer:\n!disappoint\n$neutralResigned\nHe <i>is</i> a Heshian, after all."
-msgstr "* Vous trouvez la planque Spree. \"frère\" regarde, stupéfait, et vous en profitez pour pousser 'sibling.himher' à peu près à l'intérieur.\nplayer:\n!left\nFrère:\n!right\n!injured\n$scaredPowerless\nOw! Arrête de me malmener, paysan ! \n$angryAside\nVos choix de vie criminels ne sont pas une excuse pour une mauvaise reproduction. \nplayer:\n$neutralAside\nVraiment? C'est bien fait jusqu'ici. \n* {agent} vous accueille, jetant un regard dédaigneux dans la direction de « frère ».\nagent:\n!right\n$neutralWhatever\nIl était comme ça jusqu'ici ?\nplayer:\n!décevoir\n$neutralResigned\n<i>C'est</i> un Heshian, après tout."
+msgstr "* Vous trouvez la planque Spree. \"frère\" regarde, stupéfait, et vous en profitez pour pousser 'sibling.himher' à peu près à l'intérieur.\nplayer:\n!left\nFrère:\n!right\n!injured\n$scaredPowerless\nOw! Arrête de me malmener, paysan ! \n$angryAside\nVos choix de vie criminels ne sont pas une excuse pour une mauvaise reproduction. \nplayer:\n$neutralAside\nVraiment? C'est bien fait jusqu'ici. \n* {agent} vous accueille, jetant un regard dédaigneux dans la direction de « frère ».\nagent:\n!right\n$neutralWhatever\nIl était comme ça jusqu'ici ?\nplayer:\n!disappoint\n$neutralResigned\n<i>C'est</i> un Heshian, après tout."
 
 #: CONVO.SAL_STORY_KILL_OOLO_5.THE_STATE.DIALOG_INTRO_DEAD
 #, fuzzy
@@ -26679,7 +26678,7 @@ msgstr "player:\n!agree\nAffaire."
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_KILL_OOLO_6.THE_STATE.DIALOG_TAKE_OOLO_DEAL_2"
 msgid "other_handler:\n!interest\nThere. This is the kind of information that it takes a lifetime to earn.\nplayer:\n!happy\n$happYDefault\nI've always been a fan of shortcuts. Now, take your brother and get outta here. \nother_handler:\n!disappoint\n$miscDepressed\nToo bad you didn't come to me from the start, hunter. I could've used someone pragmatic like you.\nNext time, pick better friends than people like {handler}.\nplayer:\n!dubious\n$neutralDubious\nI'll pick my friends as I like 'em, thanks.\n!exit\n* {other_handler} gathers {sibling} and they both escape into the wilderness. You're going to have to smooth things over with {handler}."
-msgstr "other_handler:\n!interest\nIl. C'est le genre d'information qu'il faut toute une vie pour gagner.\nplayer:\n!happy\n$happYDefault\nJ'ai toujours été un fan de raccourcis. Prends ton frère et sors d'ici. \nother_handler:\n!décevoir\n$miscDepressed\nDommage que tu ne sois pas venu me voir depuis le début, chasseur. J'aurais pu utiliser quelqu'un de pragmatique comme toi.\nLa prochaine fois, Choisir de meilleurs amis que des gens comme {handler}.\nplayer:\n!dubious\n$neutralDubious\nJe vais choisir mes amis comme je les aime, merci.\n!exit\n{other_handler} rassemble « frère » et ils s'échappent tous les deux dans le désert. Vous allez devoir lisser les choses avec {handler}."
+msgstr "other_handler:\n!interest\nIl. C'est le genre d'information qu'il faut toute une vie pour gagner.\nplayer:\n!happy\n$happYDefault\nJ'ai toujours été un fan de raccourcis. Prends ton frère et sors d'ici. \nother_handler:\n!disappoint\n$miscDepressed\nDommage que tu ne sois pas venu me voir depuis le début, chasseur. J'aurais pu utiliser quelqu'un de pragmatique comme toi.\nLa prochaine fois, Choisir de meilleurs amis que des gens comme {handler}.\nplayer:\n!dubious\n$neutralDubious\nJe vais choisir mes amis comme je les aime, merci.\n!exit\n{other_handler} rassemble « frère » et ils s'échappent tous les deux dans le désert. Vous allez devoir lisser les choses avec {handler}."
 
 #: CONVO.SAL_STORY_KILL_OOLO_6.THE_STATE.DIALOG_WON_OOLO_ALIVE_SIBLING_ALIVE
 #, fuzzy
@@ -26901,7 +26900,7 @@ msgstr "Se défendre"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_KILL_OOLO_8.DIALOG_INTRO"
 msgid "agent:\n!happy\nplayer:\n!dubious\n$neutralDubious\nWhat's up, {handler}? You look... happy? Is that your happy face?\nagent:\n!interest\nYou know {other_handler}? \nplayer:\n!agree\nName rings a bell. She's an Admiralty officer, right?\nagent:\n!handwring\nThat's her. Kra'deshi. Slippery as Hesh itself. Only one person living I hate as much as {kashio}—and that's {other_handler}. \nBut like most of her kind, she's got a big family, lots of obligations. \n!permit\nTurns out one of her brothers is in the Cult and {sibling.heshe}'s coming to town for the auction.\n!cruel\nYou see where I'm going with this? I've got a big barbed hook—all I need is the worm."
-msgstr "agent:\n!happy\nplayer:\n!dubious\n$neutralDubious\nQu'est-ce qui se passe, {handler} ? Vous regardez... content? C'est ton visage heureux ?\nagent:\n!interest\nTu sais que other_handler ? \nplayer:\n!agree\nLe nom sonne une cloche. C'est une officier de l'Amirauté, n'est-ce pas ?\nagent:\n!handwring\nC'est elle. Kra'deshi. Slippery comme Hesh lui-même. Une seule personne vivant que je déteste autant que «kashio» et c'est «other_handler». \nMais comme la plupart de son espèce, elle a une grande famille, beaucoup d'obligations. \nPermis !\nIl s'avère qu'un de ses frères est dans le Culte et qu'il vient en ville pour la vente aux enchères.\n!cruel\nTu vois où je vais avec ça ? J'ai un gros crochet barbelé, tout ce dont j'ai besoin, c'est du ver."
+msgstr "agent:\n!happy\nplayer:\n!dubious\n$neutralDubious\nQu'est-ce qui se passe, {handler} ? Vous regardez... content? C'est ton visage heureux ?\nagent:\n!interest\nTu sais que other_handler ? \nplayer:\n!agree\nLe nom sonne une cloche. C'est une officier de l'Amirauté, n'est-ce pas ?\nagent:\n!handwring\nC'est elle. Kra'deshi. Slippery comme Hesh lui-même. Une seule personne vivant que je déteste autant que «kashio» et c'est «other_handler». \nMais comme la plupart de son espèce, elle a une grande famille, beaucoup d'obligations. \n!permit\nIl s'avère qu'un de ses frères est dans le Culte et qu'il vient en ville pour la vente aux enchères.\n!cruel\nTu vois où je vais avec ça ? J'ai un gros crochet barbelé, tout ce dont j'ai besoin, c'est du ver."
 
 #: CONVO.SAL_STORY_KILL_OOLO_9.DIALOG_ON_TAKEN
 #, fuzzy
@@ -26937,7 +26936,7 @@ msgstr "Renseignez-vous sur le {handler}"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_KILL_OOLO_9.STATE_QUESTIONS.ASK_ABOUT_OPT_2"
 msgid "Ask about {other_handler}"
-msgstr "Renseignez-vous sur 'other{handler}"
+msgstr "Renseignez-vous sur {other_handler}"
 
 #: CONVO.SAL_STORY_LIVING_AT_GROG.DIALOG_BUY_FOOD
 #, fuzzy
@@ -27033,7 +27032,7 @@ msgstr "Retirer une carte de combat"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANTS.STATE_ATTRACT.DIALOG_FIRST_TIME"
 msgid "* There's a rough combat ring scratched into the sand. {agent} stands guard over it, scrutinizing your approach.\nplayer:\n!left\nagent:\n!right\n!happy\n$happyGreeting\nYou look tough for a lumin worker. \nplayer:\n!crossed\n$neutralWhatever\nDon't let the stains fool you. I didn't work lumin for long.\nagent:\n$happyDefault\nYeah? Then you're probably big on self improvement.\n!thumb\n$miscPersuasive\nTrain with me, and I'll teach you to fight Havarian-style. \n!permit\n$happyCocky\nThey don't call it Murder Bay for nothing."
-msgstr "* Il y a un anneau de combat rugueux rayé dans le sable. L'agent monte la garde à ce sujet, scrutant votre approche.\nplayer:\n!left\nagent:\n!right\n!happy\n$happyGreeting\nTu as l'air dur pour un travailleur de lumin. \nplayer:\n!crossed\n$neutralWhatever\nNe laissez pas les taches vous tromper. Je n'ai pas travaillé lumin pendant longtemps.\nagent:\n$happyDefault\nouais? Alors vous êtes probablement grand sur l'auto-amélioration.\n!thumb\n$miscPersuasive\nEntraînez-vous avec moi, et je vous apprendrai à combattre le style Havarien. \nPermis !\n$happyCocky\nIls n'appellent pas ça Murder Bay pour rien."
+msgstr "* Il y a un anneau de combat rugueux rayé dans le sable. L'agent monte la garde à ce sujet, scrutant votre approche.\nplayer:\n!left\nagent:\n!right\n!happy\n$happyGreeting\nTu as l'air dur pour un travailleur de lumin. \nplayer:\n!crossed\n$neutralWhatever\nNe laissez pas les taches vous tromper. Je n'ai pas travaillé lumin pendant longtemps.\nagent:\n$happyDefault\nouais? Alors vous êtes probablement grand sur l'auto-amélioration.\n!thumb\n$miscPersuasive\nEntraînez-vous avec moi, et je vous apprendrai à combattre le style Havarien. \n!permit\n$happyCocky\nIls n'appellent pas ça Murder Bay pour rien."
 
 #: CONVO.SAL_STORY_MERCHANTS.STATE_ATTRACT.DIALOG_INTRO
 #, fuzzy
@@ -27327,7 +27326,7 @@ msgstr "player:\n\t!fatigué\nDésolé, mon pote, mais je suis un peu battu. Pre
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_COMBAT.DIALOG_STRANGER_INTRO"
 msgid "player:\n\t!permit\n$neutralGreeting\nHey, stranger. {fssh} says you're looking for help.\nnight_merchant:\n!right\n!bashful\n$miscEmbarrassed\nGuess I am. Y'see, normally I just punch my problems until they stop moving. But some problems are too big to punch. \nplayer:\n\t!interest\nSo what can I do for you?\nnight_merchant:\nI run a little combat training operation, but I need an extension on my debts, or I might have to close up shop.\n!burp\nIf you help me buy a little more time, I'll take you to our secret market—you can get your hands on good... goods.\n!neutral\n\n*** {night_merchant} asks if you'll help them buy some time for their debt."
-msgstr "player:\n\tPermis !\n$neutralGreeting\nHé, étranger. \"Fssh\" dit que vous cherchez de l'aide.\nmarchand de nuit:\n!right\n!bashful\n$miscEmbarrassed\nJe suppose que je le suis. Normalement, je frappe mes problèmes jusqu'à ce qu'ils cessent de bouger. Mais certains problèmes sont trop gros pour être frappés. \nplayer:\n\t!intérêt\nQu'est-ce que je peux faire pour toi ?\nmarchand de nuit:\nJe fais une petite opéra tion d'entraînement au combat, mais j'ai besoin d'une extension de mes dettes, ou je pourrais devoir fermer boutique.\nBurp !\nSi vous m'aidez à gagner un peu plus de temps, je vous emmènerai à notre marché secret, vous pouvez mettre la main sur le bien... marchandises.\n!neutre\n\n\"night-merchant\" demande si vous allez les aider à gagner du temps pour leur dette."
+msgstr "player:\n\t!permit\n$neutralGreeting\nHé, étranger. \"Fssh\" dit que vous cherchez de l'aide.\nmarchand de nuit:\n!right\n!bashful\n$miscEmbarrassed\nJe suppose que je le suis. Normalement, je frappe mes problèmes jusqu'à ce qu'ils cessent de bouger. Mais certains problèmes sont trop gros pour être frappés. \nplayer:\n\t!intérêt\nQu'est-ce que je peux faire pour toi ?\nmarchand de nuit:\nJe fais une petite opéra tion d'entraînement au combat, mais j'ai besoin d'une extension de mes dettes, ou je pourrais devoir fermer boutique.\nBurp !\nSi vous m'aidez à gagner un peu plus de temps, je vous emmènerai à notre marché secret, vous pouvez mettre la main sur le bien... marchandises.\n!neutre\n\n\"night-merchant\" demande si vous allez les aider à gagner du temps pour leur dette."
 
 #: CONVO.SAL_STORY_MERCHANT_COMBAT.OPT_AGREE
 #, fuzzy
@@ -27435,7 +27434,7 @@ msgstr "player:\n!tired\nNon, quelque chose ne semble pas bien à ce sujet.\nmar
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_GRAFTS.DIALOG_STRANGER_INTRO"
 msgid "player:\n!permit\n{fssh} says you're looking for some hired muscle.\n* {night_merchant} looks you up and down. You feel like an oshnu on market day.\nnight_merchant:\nYes, you'll do.\nplayer:\nWait, do for what? What is the actual job?\nnight_merchant:\nYou just need to stand behind me and look intimidating. \nYou can handle that, right?\nplayer:\nDepends. What's standing in front of you?\nnight_merchant:\nDon't worry about that part.\nYou do this job, and I'll let you in to the night market.\n\n*** {night_merchant} asks if you'll be hired muscle tonight."
-msgstr "player:\nPermis !\n\"Fssh\" dit que vous êtes à la recherche d'un muscle engagé.\n\"Nuit\"marchand\" vous regarde de haut en bas. Vous vous sentez comme un oshnu le jour du marché.\nmarchand de nuit:\nOui, tu le feras.\nplayer:\nAttends, fais quoi ? Quel est le travail réel?\nmarchand de nuit:\nTu as juste besoin de te tenir derrière moi et d'avoir l'air intimidant. \nTu peux t'en occuper, non ?\nplayer:\nDépend. Qu'est-ce qu'il y a devant toi ?\nmarchand de nuit:\nNe t'inquiète pas pour cette partie.\nTu fais ce boulot, et je te laisse au marché de nuit.\n\n\"Night-merchant\" demande si vous serez engagé muscle ce soir."
+msgstr "player:\n!permit\n\"Fssh\" dit que vous êtes à la recherche d'un muscle engagé.\n\"Nuit\"marchand\" vous regarde de haut en bas. Vous vous sentez comme un oshnu le jour du marché.\nmarchand de nuit:\nOui, tu le feras.\nplayer:\nAttends, fais quoi ? Quel est le travail réel?\nmarchand de nuit:\nTu as juste besoin de te tenir derrière moi et d'avoir l'air intimidant. \nTu peux t'en occuper, non ?\nplayer:\nDépend. Qu'est-ce qu'il y a devant toi ?\nmarchand de nuit:\nNe t'inquiète pas pour cette partie.\nTu fais ce boulot, et je te laisse au marché de nuit.\n\n\"Night-merchant\" demande si vous serez engagé muscle ce soir."
 
 #: CONVO.SAL_STORY_MERCHANT_GRAFTS.OPT_AGREE
 #, fuzzy
@@ -27501,7 +27500,7 @@ msgstr "marchand de nuit:\nEt maintenant, comme promis, je vais vous montrer le 
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_GRAFTS_2.STATE_CONFRONT.DIALOG_INTRO"
 msgid "* {night_merchant} opens the door to a nondescript hovel and ushers you through.\nnight_merchant:\n!left\nSay nothing, {player}, until I tell you to say something.\ntarget: \n!right\n!angry\nI was just looking for you!\nThe graft you sold me... it stopped working!\nnight_merchant:\n!sigh\nThe graft I so graciously extended credit for you to buy?\nI disabled it when you fell behind on your payments.\nAgain.\ntarget:\n!flinch\nI can pay! I have the money!\nnight_merchant:\n!disappoint\nIt's too late for that. I'm losing money just taking the time to talk to you.\n!cruel\nI'm going to need the graft back.\ntarget:\nBut it's - it's installed! They don't just come out unless you...\n...unless you cut them out. You can't make me do that! Please!\ntarget:\n!neutral\nnight_merchant:\n!permit\nI wouldn't dream of asking you to do that to yourself. \nnight_merchant:                    \nWhich is why I brought my friend here. \n\ntarget:\n!scared\nnight_merchant:                                        \n{player}, extract the graft from {target}, if you please.\nplayer:\n!left   \n!wince\nUh...\n*** {night_merchant} has asked you to forcefully remove a graft from {target}."
-msgstr "* Le « marchand de nuit » ouvre la porte à un taudis non descriptif et vous inaugure.\nmarchand de nuit:\n!left\nNe dis rien, {player}, jusqu'à ce que je te dise quelque chose.\ncible: \n!right\n!angry\nJe te cherchais !\nLa greffe que vous m'avez vendue... il a cessé de fonctionner!\nmarchand de nuit:\n!sigh\nLa greffe que j'ai si gracieusement accordé pour que tu achètes ?\nJe l'ai désactivé quand tu as pris du retard sur tes paiements.\nà nouveau.\ntarget:\n!flinch\nJe peux payer ! J'ai l'argent !\nmarchand de nuit:\n!décevoir\nC'est trop tard pour ça. Je perds de l'argent en prenant le temps de te parler.\n!cruel\nJe vais avoir besoin de la greffe.\ntarget:\nMais c'est - il est installé! Ils ne sortent pas seulement à moins que vous ...\n... à moins que vous ne les coupiez. Tu ne peux pas me faire faire ça ! S'il vous plaît!\ntarget:\n!neutre\nmarchand de nuit:\nPermis !\nJe ne rêverais pas de te demander de te faire ça. \nmarchand de nuit:                    \nC'est pour ça que j'ai amené mon ami ici. \n\ntarget:\n!scared\nmarchand de nuit:                                        \n{player}, extraire la greffe de {target}, s'il vous plaît.\nplayer:\n!à gauche   \n!wince\nEuh...\n«night-merchant» vous a demandé d'enlever de force une greffe de {target}."
+msgstr "* Le « marchand de nuit » ouvre la porte à un taudis non descriptif et vous inaugure.\nmarchand de nuit:\n!left\nNe dis rien, {player}, jusqu'à ce que je te dise quelque chose.\ncible: \n!right\n!angry\nJe te cherchais !\nLa greffe que vous m'avez vendue... il a cessé de fonctionner!\nmarchand de nuit:\n!sigh\nLa greffe que j'ai si gracieusement accordé pour que tu achètes ?\nJe l'ai désactivé quand tu as pris du retard sur tes paiements.\nà nouveau.\ntarget:\n!flinch\nJe peux payer ! J'ai l'argent !\nmarchand de nuit:\n!disappoint\nC'est trop tard pour ça. Je perds de l'argent en prenant le temps de te parler.\n!cruel\nJe vais avoir besoin de la greffe.\ntarget:\nMais c'est - il est installé! Ils ne sortent pas seulement à moins que vous ...\n... à moins que vous ne les coupiez. Tu ne peux pas me faire faire ça ! S'il vous plaît!\ntarget:\n!neutre\nmarchand de nuit:\n!permit\nJe ne rêverais pas de te demander de te faire ça. \nmarchand de nuit:                    \nC'est pour ça que j'ai amené mon ami ici. \n\ntarget:\n!scared\nmarchand de nuit:                                        \n{player}, extraire la greffe de {target}, s'il vous plaît.\nplayer:\n!à gauche   \n!wince\nEuh...\n«night-merchant» vous a demandé d'enlever de force une greffe de {target}."
 
 #: CONVO.SAL_STORY_MERCHANT_GRAFTS_2.STATE_CONFRONT.DIALOG_REFUSE
 #, fuzzy
@@ -27567,13 +27566,13 @@ msgstr "player:\n!happy\nne pas manquer de. De plus, tu l'as fait paraître si e
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_NEGOTIATION.DIALOG_DISAGREE"
 msgid "player:\n!shrug\nIt's been a long day, and that sounds like a lot of work.\nRain check?\nnight_merchant:\n!disappoint\nI don't have that luxury. But you'll go your way, and I'll go mine."
-msgstr "player:\n!shrug\nLa jour née a été longue, et ça a l'air de beaucoup de travail.\ncontremarque?\nmarchand de nuit:\n!décevoir\nJe n'ai pas ce luxe. Mais tu iras dans ton sens, et je vais le mien."
+msgstr "player:\n!shrug\nLa jour née a été longue, et ça a l'air de beaucoup de travail.\ncontremarque?\nmarchand de nuit:\n!disappoint\nJe n'ai pas ce luxe. Mais tu iras dans ton sens, et je vais le mien."
 
 #: CONVO.SAL_STORY_MERCHANT_NEGOTIATION.DIALOG_STRANGER_INTRO
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_NEGOTIATION.DIALOG_STRANGER_INTRO"
 msgid "player:\n!permit\nHey, I'm a friend of Fssh's. How can I help?\nnight_merchant:\n!right\n!interest\n{fssh} tells me you're pretty good with a blade.\nplayer:\n!crossed\nI get by. Sounds like you need something stabbed. Is it something with four legs or two?\nnight_merchant:\nHmmmmmm. \n!agree\nYes.\nplayer:\n!dubious\nnight_merchant:\n!overthere\nLet's just call it an infestation, and it's getting in the way of my good deeds. \nI'll get you there, and you... flash your steel, or whatever it is hunters do. Agreed?\n\n*** {night_merchant} asks if you'll clear out an infestation for {night_merchant.himher}."
-msgstr "player:\nPermis !\nJe suis un ami de Fssh. Comment puis-je vous aider?\nmarchand de nuit:\n!right\n!interest\nIl me dit que tu es plutôt doué e avec une lame.\nplayer:\n!crossed\nJe m'en s'en sortez. On dirait que tu as besoin de quelque chose de poignardé. C'est quelque chose avec quatre jambes ou deux ?\nmarchand de nuit:\nHmmmmmm. \n!agree\nouais.\nplayer:\n!dubious\nmarchand de nuit:\n!overthere\nAppelons ça une infestation, et ça me fait obstacle à mes bonnes et bonnes. \nJe vais vous y amener, et vous ... clignotez votre acier, ou quoi que ce soit que les chasseurs font. convenu?\n\n\"night-merchant\" demande si vous allez effacer une infestation pour 'night'merchant.himher'."
+msgstr "player:\n!permit\nJe suis un ami de Fssh. Comment puis-je vous aider?\nmarchand de nuit:\n!right\n!interest\nIl me dit que tu es plutôt doué e avec une lame.\nplayer:\n!crossed\nJe m'en s'en sortez. On dirait que tu as besoin de quelque chose de poignardé. C'est quelque chose avec quatre jambes ou deux ?\nmarchand de nuit:\nHmmmmmm. \n!agree\nouais.\nplayer:\n!dubious\nmarchand de nuit:\n!overthere\nAppelons ça une infestation, et ça me fait obstacle à mes bonnes et bonnes. \nJe vais vous y amener, et vous ... clignotez votre acier, ou quoi que ce soit que les chasseurs font. convenu?\n\n\"night-merchant\" demande si vous allez effacer une infestation pour 'night'merchant.himher'."
 
 #: CONVO.SAL_STORY_MERCHANT_NEGOTIATION.OPT_AGREE
 #, fuzzy
@@ -27621,7 +27620,7 @@ msgstr "agent:\n!exit\nle combat a gagné, mais malheureusement , la nuit n'a pa
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_NEGOTIATION_2.STATE_CONFRONT.DIALOG_MERCHANT_SURVIVED"
 msgid "player:\n!tired\nHeshin' Hesh spit. \nnight_merchant:\n!right\n!angry_accuse\nEnough! The god of salt didn't slither forth so you could squander its holy name.\n!disappoint\nAll the same, you've done what I asked—and I'm grateful. \nThe market awaits. Let's be off."
-msgstr "player:\n!tired\nHeshin' Hesh crache. \nmarchand de nuit:\n!right\n!angry-accuse\nassez! Le dieu du sel n'a pas glissé pour que tu puisses gaspiller son saint nom.\n!décevoir\nTout de même, vous avez fait ce que j'ai demandé, et je vous en suis reconnaissant. \nLe marché vous attend. On s'en va."
+msgstr "player:\n!tired\nHeshin' Hesh crache. \nmarchand de nuit:\n!right\n!angry-accuse\nassez! Le dieu du sel n'a pas glissé pour que tu puisses gaspiller son saint nom.\n!disappoint\nTout de même, vous avez fait ce que j'ai demandé, et je vous en suis reconnaissant. \nLe marché vous attend. On s'en va."
 
 #: CONVO.SAL_STORY_MERCHANT_NEGOTIATION_2.STATE_CONFRONT.OPT_DEFEND
 #, fuzzy
@@ -27639,7 +27638,7 @@ msgstr "player:\n!left\n!dubious\n$miscMocking\nC'est ça, hein ? Assez modeste.
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCS.DIALOG_HIRED"
 msgid "player:\n!permit\n$miscAlluring\nI'm hiring, if you're not afraid of trouble.\nagent:\n!shrug\n$neutralWhatever\nBetter than sitting here all day. Lead the way, boss."
-msgstr "player:\nPermis !\n$miscAlluring\nJ'embauche, si tu n'as pas peur des ennuis.\nagent:\n!shrug\n$neutralWhatever\nC'est mieux que de rester assis ici toute la jour née. Avancez la voie, patron."
+msgstr "player:\n!permit\n$miscAlluring\nJ'embauche, si tu n'as pas peur des ennuis.\nagent:\n!shrug\n$neutralWhatever\nC'est mieux que de rester assis ici toute la jour née. Avancez la voie, patron."
 
 #: CONVO.SAL_STORY_MERCS.DIALOG_INTRO
 #, fuzzy
@@ -27651,7 +27650,7 @@ msgstr "* Un hétéroclite d'opportunistes se sont réunis ici à la recherche d
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCS.DIALOG_REPLACED_MERC"
 msgid "player:\n!permit\n$miscAlluring\nI hope you can do better than {old_merc}.\nagent:\nBest in the business."
-msgstr "player:\nPermis !\n$miscAlluring\nJ'espère que vous pouvez faire mieux que 'old'merc'.\nagent:\nLe meilleur dans l'entreprise."
+msgstr "player:\n!permit\n$miscAlluring\nJ'espère que vous pouvez faire mieux que 'old'merc'.\nagent:\nLe meilleur dans l'entreprise."
 
 #: CONVO.SAL_STORY_MERCS.OPT_HIRE_MERC
 #, fuzzy
@@ -27705,7 +27704,7 @@ msgstr "player:\n!shrug\n{giver} a des dettes à payer. Si 'giver.heshe' ne peut
 #, fuzzy
 msgctxt "CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.DIALOG_NEGOTIATE_WIN"
 msgid "player:\n!permit\n$miscPersuasive\n{giver}'s desperate. And I hear desperation works like a charm for productivity.\n!eureka\nDon't you want employees who are too afraid to talk back or complain?\nagent:\n!thought\n$neutralResigned\nHuh. That <i>would</i> be nice. \nWe got an extra shipment that needs taking care of but most won't work after dark. Say it's \"too dangerous\" or some such. \n!agree\nSure. Tell {giver} to go get started. {giver.HeShe} can take triple shifts until we meet quota.\nplayer:\n!happy\nExcellent. I'm, er, sure {giver.heshe}'ll be very grateful."
-msgstr "player:\nPermis !\n$miscPersuasive\n{giver} est désespéré. Et j'entends dire que le désespoir fonctionne comme un charme pour la productivité.\n!eureka (en)\nNe voulez-vous pas que les employés qui ont trop peur de se redire ou de se plaindre?\nagent:\n!thought\n$neutralResigned\nHein. Ce <i>serait</i> bien. \nNous avons obtenu un envoi supplémentaire qui a besoin de prendre soin de mais la plupart ne fonctionnera pas après la tombée de la nuit. Dis-le est \"trop dangereux\" ou certains. \n!agree\nSûr. Dites à {giver} d'aller commencer. Le donner. Il peut prendre trois quarts de travail jusqu'à ce que nous atteignions le quota.\nplayer:\n!happy\nExcellente. Je suis, e, sûr que 'giver.heshe''sera très reconnaissant."
+msgstr "player:\n!permit\n$miscPersuasive\n{giver} est désespéré. Et j'entends dire que le désespoir fonctionne comme un charme pour la productivité.\n!eureka (en)\nNe voulez-vous pas que les employés qui ont trop peur de se redire ou de se plaindre?\nagent:\n!thought\n$neutralResigned\nHein. Ce <i>serait</i> bien. \nNous avons obtenu un envoi supplémentaire qui a besoin de prendre soin de mais la plupart ne fonctionnera pas après la tombée de la nuit. Dis-le est \"trop dangereux\" ou certains. \n!agree\nSûr. Dites à {giver} d'aller commencer. Le donner. Il peut prendre trois quarts de travail jusqu'à ce que nous atteignions le quota.\nplayer:\n!happy\nExcellente. Je suis, e, sûr que 'giver.heshe''sera très reconnaissant."
 
 #: CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.OPT_BEAT_UP
 #, fuzzy
@@ -27753,7 +27752,7 @@ msgstr "player:\n!shrug\n$neutralTakenAback\nVous ne voulez pas avoir la réputa
 #, fuzzy
 msgctxt "CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT_2.DIALOG_NEGOTIATE_WIN"
 msgid "player:\n!permit\n$miscPersuasive\nYou're just getting started. You think Kashio became the crimelord she is overnight? \nEven she pretended to have a soft side once. That's how she ended up with so many contracts in the first place.\n!overthere\n$miscAlluring\n\"Borrow from Kashio,\" they said. \"Her rates are low and she doesn't mind if you make a late payment.\"\nagent:\n!thought\n$neutralResigned\nHuh. I <i>am</i> having trouble finding more, err, \"customers\".\n!agree\n$neutralThanks\nAll right. You tell {giver} that they can have another ten days before their first payment. Just make sure {giver.heshe} spreads the word.\nplayer:\n!happy\n$happyThanks\nSmart thinking. I'll be sure to pass that along."
-msgstr "player:\nPermis !\n$miscPersuasive\nTu ne fais que commencer. Tu penses que Kashio est devenue le seigneur du crime qu'elle est du jour au lendemain ? \nMême elle a fait semblant d'avoir un côté doux une fois. C'est comme ça qu'elle s'est retrouvée avec tant de contrats.\n!overthere\n$miscAlluring\n« Empruntez à Kashio », disaient-ils. \"Ses taux sont bas et elle n'a pas l'esprit si vous faites un paiement en retard.\"\nagent:\n!thought\n$neutralResigned\nhein. <i>J'ai du</i> mal à trouver plus, err, \"clients\".\n!agree\n$neutralThanks\nD'accord. Vous dites à {giver} qu'ils peuvent avoir un autre dix jours avant leur premier paiement. Assurez-vous juste que le mot est diffusé par 'giver.heshe'.\nplayer:\n!happy\n$happyThanks\nUne pensée intelligente. Je vais être sûr de transmettre ça."
+msgstr "player:\n!permit\n$miscPersuasive\nTu ne fais que commencer. Tu penses que Kashio est devenue le seigneur du crime qu'elle est du jour au lendemain ? \nMême elle a fait semblant d'avoir un côté doux une fois. C'est comme ça qu'elle s'est retrouvée avec tant de contrats.\n!overthere\n$miscAlluring\n« Empruntez à Kashio », disaient-ils. \"Ses taux sont bas et elle n'a pas l'esprit si vous faites un paiement en retard.\"\nagent:\n!thought\n$neutralResigned\nhein. <i>J'ai du</i> mal à trouver plus, err, \"clients\".\n!agree\n$neutralThanks\nD'accord. Vous dites à {giver} qu'ils peuvent avoir un autre dix jours avant leur premier paiement. Assurez-vous juste que le mot est diffusé par 'giver.heshe'.\nplayer:\n!happy\n$happyThanks\nUne pensée intelligente. Je vais être sûr de transmettre ça."
 
 #: CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT_2.OPT_BEAT_UP
 #, fuzzy
@@ -28022,7 +28021,7 @@ msgstr "player:\n!bashful\n$miscEmbarassed\nEh bien, j'ai malmené la cible, com
 #, fuzzy
 msgctxt "CONVO.SIDE_ATTACK_RIVAL_2.DIALOG_PAID"
 msgid "player:\n!permit\n$neutralDirect\nYou got what you wanted, and {target}'s got the scars to prove it.\nagent:\n!interest\n$happyDefault\nHah! Really? That's all it took?\nNext time I wanna make someone's life hell, all I gotta do is pay for it, and there are no consequences?\n!give\nShoulda done that a lot sooner. Here's your pay, hunter.\nplayer:\n!take\n$neutralDubious\nWhat did {target} do to deserve it, anyway?\nagent:\n!dubious\n$neutralTakenAback\nHuh? <i>Deserve</i> it? \n$neutralWhatever\nWhere's the fun in that? Better if they don't even know what they did wrong, ain't it?\nplayer:\n!dubious\n$neutralDubious\nUh...\nagent:\n!agree\n$neutralWhatever\nThanks for your services, {player}."
-msgstr "player:\nPermis !\n$neutralDirect\nTu as eu ce que tu voulais, et {target} a les cicatrices pour le prouver.\nagent:\n!interest\n$happyDefault\nHah! vraiment? C'est tout ce qu'il a fallu ?\nLa prochaine fois que je veux faire de la vie de quelqu'un un enfer, tout ce que j'ai à faire c'est payer pour ça, et il n'y a pas de con séquences ?\n!give\naurait dû faire ça beaucoup plus tôt. Voilà ton salaire, chasseur.\nplayer:\n!take\n$neutralDubious\nQu'est-ce que la cible a fait pour le mériter, de toute façon?\nagent:\n!dubious\n$neutralTakenAback\nhein? Tu le <i>mérites</i> ? \n$neutralWhatever\nOù est le plaisir là-dedans ? S'ils ne savent même pas ce qu'ils ont fait de mal, n'est-ce pas ?\nplayer:\n!dubious\n$neutralDubious\nEuh...\nagent:\n!agree\n$neutralWhatever\nMerci pour vos services, {player}."
+msgstr "player:\n!permit\n$neutralDirect\nTu as eu ce que tu voulais, et {target} a les cicatrices pour le prouver.\nagent:\n!interest\n$happyDefault\nHah! vraiment? C'est tout ce qu'il a fallu ?\nLa prochaine fois que je veux faire de la vie de quelqu'un un enfer, tout ce que j'ai à faire c'est payer pour ça, et il n'y a pas de con séquences ?\n!give\naurait dû faire ça beaucoup plus tôt. Voilà ton salaire, chasseur.\nplayer:\n!take\n$neutralDubious\nQu'est-ce que la cible a fait pour le mériter, de toute façon?\nagent:\n!dubious\n$neutralTakenAback\nhein? Tu le <i>mérites</i> ? \n$neutralWhatever\nOù est le plaisir là-dedans ? S'ils ne savent même pas ce qu'ils ont fait de mal, n'est-ce pas ?\nplayer:\n!dubious\n$neutralDubious\nEuh...\nagent:\n!agree\n$neutralWhatever\nMerci pour vos services, {player}."
 
 #: CONVO.SIDE_ATTACK_RIVAL_2.OPT_GET_PAID
 #, fuzzy
@@ -28304,7 +28303,7 @@ msgstr "Présentez l'offre du {giver}."
 #, fuzzy
 msgctxt "CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_2.DIALOG_RAT"
 msgid "player:\n!interest\n$miscPersuasive\nThe Admiratly rewards snitches, yeah? That's a thing you do?\nagent:\n!dubious\n$neutralDubious\nSure, if you're offering. Who do you want to—\nplayer:\n!eureka\n$happyCocky\n{giver}. {giver.HeShe}'s trying to set up shop with the Spree. <i>Very</i> naughty. I heartily disapprove.\nagent:\n!disappoint\n$miscDepressed\nYeah, that checks out. But {giver.heshe}'s got friends in high places, sadly—too high for retribution.\n!thinking\nHow about this: set up a meeting for {giver}'s little enterprise. Then when you get {giver.himher} alone... \nYou can see to a little off-the-books discipline.\nplayer:\n$neutralTakenAback\nSo my reward for telling you something important is... more work?\nagent:\n!wink\n$happyCocky\nHey, a pro like you wants to see things through. No need to thank me. \n*** {handler} wants you to rough up {giver} as punishment."
-msgstr "player:\n!interest\n$miscPersuasive\nL'Admiratly récompense les snitches, oui ? C'est une chose que tu fais ?\nagent:\n!dubious\n$neutralDubious\nBien sûr, si vous offrez. Qui voulez-vous...\nplayer:\n!eureka (en)\n$happyCocky\n{giver}. Le donner. Il essaie de s'installer avec la Spree. <i>Très</i> coquin. Je désapprouve de tout cœur.\nagent:\n!décevoir\n$miscDepressed\nOuais, ça vérifie. Mais {giver.heshe} a des amis en haut lieu, malheureusement, trop haut pour le châtiment.\nLa pensée !\nQue diriez-vous de ceci : mettre en place une réunion pour la petite entreprise de {giver}. Puis, lorsque vous obtenez {giver.himher} seul ... \nVous pouvez voir à un peu hors-livres de discipline.\nplayer:\n$neutralTakenAback\nDonc, ma récompense pour vous dire quelque chose d'important est ... plus de travail?\nagent:\nClin d'œil !\n$happyCocky\nHé, un pro comme toi veut voir les choses à travers. Pas besoin de me remercier. \n{handler} veut que vous malgassez {giver} comme punition."
+msgstr "player:\n!interest\n$miscPersuasive\nL'Admiratly récompense les snitches, oui ? C'est une chose que tu fais ?\nagent:\n!dubious\n$neutralDubious\nBien sûr, si vous offrez. Qui voulez-vous...\nplayer:\n!eureka (en)\n$happyCocky\n{giver}. Le donner. Il essaie de s'installer avec la Spree. <i>Très</i> coquin. Je désapprouve de tout cœur.\nagent:\n!disappoint\n$miscDepressed\nOuais, ça vérifie. Mais {giver.heshe} a des amis en haut lieu, malheureusement, trop haut pour le châtiment.\nLa pensée !\nQue diriez-vous de ceci : mettre en place une réunion pour la petite entreprise de {giver}. Puis, lorsque vous obtenez {giver.himher} seul ... \nVous pouvez voir à un peu hors-livres de discipline.\nplayer:\n$neutralTakenAback\nDonc, ma récompense pour vous dire quelque chose d'important est ... plus de travail?\nagent:\nClin d'œil !\n$happyCocky\nHé, un pro comme toi veut voir les choses à travers. Pas besoin de me remercier. \n{handler} veut que vous malgassez {giver} comme punition."
 
 #: CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_2.OPT_RAT
 #, fuzzy
@@ -28334,7 +28333,7 @@ msgstr "player:\nLa pensée !\n$neutralThoughtful\nLes bois sont isolés, et per
 #, fuzzy
 msgctxt "CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_3.DIALOG_NEGOTIATE_WIN"
 msgid "player:\n!permit\n$miscPersuasive\nThis way you'll be able to feel {target} out, too. Plus, you can always say you were meeting an informant.\nagent:\n!point\n$neutralResigned\nI—ugh, maybe you're right. But if this goes sour, I expect you to have my back."
-msgstr "player:\nPermis !\n$miscPersuasive\nDe cette façon, vous serez en mesure de se sentir {target} sur, aussi. De plus, vous pouvez toujours dire que vous rencontriez un informateur.\nagent:\nPoint !\n$neutralResigned\nJ'ai peut-être raison. Mais si ça tourne mal, je m'attends à ce que tu me rappelles."
+msgstr "player:\n!permit\n$miscPersuasive\nDe cette façon, vous serez en mesure de se sentir {target} sur, aussi. De plus, vous pouvez toujours dire que vous rencontriez un informateur.\nagent:\nPoint !\n$neutralResigned\nJ'ai peut-être raison. Mais si ça tourne mal, je m'attends à ce que tu me rappelles."
 
 #: CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_3.DIALOG_TRICK
 #, fuzzy
@@ -28478,7 +28477,7 @@ msgstr "* Les deux {target} et {giver} sont morts, de sorte que vous n'êtes cer
 #, fuzzy
 msgctxt "CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_5.STATE_NPC_TALKS.DIALOG_TALK_ARGUMENT"
 msgid "giver:\n!right\ntarget:\n!left\n$angryReluctant\nThanks for the offer, but I'm gonna have to say no. It's too risky.\ngiver:\n$miscDepressed\n!disappoint\nI'm sorry you feel that way. It's not profit without a little risk. \n!throatcut\n{player}, clean up here. We can't afford the loose end.\nplayer:\n!left\n!dubious\ntarget:\n!right\n!placate\n$scaredFearful\nWait, grifter. Don't be so hasty! I'll pay more for the protection."
-msgstr "Donneur:\n!right\ntarget:\n!left\n$angryReluctant\nMerci pour l'offre, mais je vais devoir dire non. C'est trop risqué.\ngiver:\n$miscDepressed\n!décevoir\nJe suis désolé que tu ressentes ça. Ce n'est pas du profit sans un peu de risque. \n!throatcut\n{player}, nettoyez ici. On ne peut pas se permettre le lâche.\nplayer:\n!left\n!dubious\ntarget:\n!right\n!placate\n$scaredFearful\nAttends, grifter. Ne sois pas si hâtive ! Je paierai plus pour la protection."
+msgstr "Donneur:\n!right\ntarget:\n!left\n$angryReluctant\nMerci pour l'offre, mais je vais devoir dire non. C'est trop risqué.\ngiver:\n$miscDepressed\n!disappoint\nJe suis désolé que tu ressentes ça. Ce n'est pas du profit sans un peu de risque. \n!throatcut\n{player}, nettoyez ici. On ne peut pas se permettre le lâche.\nplayer:\n!left\n!dubious\ntarget:\n!right\n!placate\n$scaredFearful\nAttends, grifter. Ne sois pas si hâtive ! Je paierai plus pour la protection."
 
 #: CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_5.STATE_NPC_TALKS.DIALOG_WON_WITH_GIVER
 #, fuzzy
@@ -28520,7 +28519,7 @@ msgstr "agent:\n$angryAside\n'Bien sûr, je pourrais dire {handler} 'handler.his
 #, fuzzy
 msgctxt "CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_6.DIALOG_AGREED"
 msgid "player:\n!interest\n$happyGreeting\nSo the good news is that {target} is <i>very</i> interested. {target.HeShe} just wants a meeting to make it official.\nagent:\n!surprised\n$angryTakenAback\nWhat?! I hired you so I wouldn't <i>have</i> to meet {target.himher}.\n!palm\nBut it is what it is, I guess. So let's go. Your job was to be my proxy—so I'll keep you proximate. \nplayer:\n!disappoint\n$neutralTakenAback\nUgh, I knew you'd say that."
-msgstr "player:\n!interest\n$happyGreeting\nDonc, la bonne nouvelle, c'est que {target} est <i>très</i> intéressé. C'est la cible. Il veut juste une réuni on pour le rendre officiel.\nagent:\n!surpris\n$angryTakenAback\nQuel?! Je t'ai engagé pour ne pas <i>avoir</i> à atteindre le but.\n(palme)\nMais c'est ce que c'est, je suppose. Alors allons-y. Votre travail était d'être mon mandataire, donc je vais vous garder à proximité. \nplayer:\n!décevoir\n$neutralTakenAback\nJe savais que tu dirais ça."
+msgstr "player:\n!interest\n$happyGreeting\nDonc, la bonne nouvelle, c'est que {target} est <i>très</i> intéressé. C'est la cible. Il veut juste une réuni on pour le rendre officiel.\nagent:\n!surpris\n$angryTakenAback\nQuel?! Je t'ai engagé pour ne pas <i>avoir</i> à atteindre le but.\n(palme)\nMais c'est ce que c'est, je suppose. Alors allons-y. Votre travail était d'être mon mandataire, donc je vais vous garder à proximité. \nplayer:\n!disappoint\n$neutralTakenAback\nJe savais que tu dirais ça."
 
 #: CONVO.SIDE_BACK_CHANNEL_NEGOTIATIONS_6.DIALOG_DISAGREED
 #, fuzzy
@@ -28862,7 +28861,7 @@ msgstr "player:\n$neutralDirect\nOù est cette personne censée être ?\nagent:\
 #, fuzzy
 msgctxt "CONVO.SIDE_CLEAR_OUT_SMUGGLE_POINT.DIALOG_DONE"
 msgid "player:\n!permit\n$happyGreeting\nYour beach is clear. More fetid than ever, but monster-free all the same.\nagent:\n!thought\n$neutralThoughtful\nThat's not bad. Whatever keeps the lollygaggers away.\n!crossed\n$neutralDirect\nWe got import business to conduct there. Which I expect you'll keep to yourself.\nplayer:\n!salute\n$happyThanks\nHunter's honor.\nagent:\nHrm."
-msgstr "player:\nPermis !\n$happyGreeting\nVotre plage est dégagée. Plus fétide que jamais, mais sans monstre tout de même.\nagent:\n!thought\n$neutralThoughtful\nC'est pas mal. Ce qui éloigne les lollygaggers.\n!crossed\n$neutralDirect\nNous avons des affaires d'importation à mener là-bas. Je m'attends à ce que tu gardes pour toi.\nplayer:\n!salute\n$happyThanks\nL'honneur de Hunter.\nagent:\nHrm."
+msgstr "player:\n!permit\n$happyGreeting\nVotre plage est dégagée. Plus fétide que jamais, mais sans monstre tout de même.\nagent:\n!thought\n$neutralThoughtful\nC'est pas mal. Ce qui éloigne les lollygaggers.\n!crossed\n$neutralDirect\nNous avons des affaires d'importation à mener là-bas. Je m'attends à ce que tu gardes pour toi.\nplayer:\n!salute\n$happyThanks\nL'honneur de Hunter.\nagent:\nHrm."
 
 #: CONVO.SIDE_CLEAR_OUT_SMUGGLE_POINT.OPT_TELL
 #, fuzzy
@@ -28916,7 +28915,7 @@ msgstr "Se défendre"
 #, fuzzy
 msgctxt "CONVO.SIDE_CLEAR_OUT_SMUGGLE_POINT_3.DIALOG_OFFER"
 msgid "player:\n!crossed\n$neutralDirect\nI hear you've got work for me. I'm here to help with that.\nagent:\n!interest\n$neutralThoughtful\nHuh. You certainly look like you can handle it. \nThere's a beach nearby—kinda ugly, with a sludge smell you can't find nowhere else.\n!cagey\n$neutralDubious\nUs Jakes use it for... stuff that ain't none of your concern. \nOnly it's been overrun with beasts.\nplayer:\n!happy\n$neutralDubious\nIs that a euphemism?\nagent:\n!placate\n$neutralTakenAback\nWhat? Naw, I mean, <i>actual</i> beasts. \nWe picked that place 'cause no one else wanted it, only it turns out it's just right for those monsters.\n!permit\n$neutralDirect\nClear 'em out, and we'll consider the job done."
-msgstr "player:\n!crossed\n$neutralDirect\nJ'ai entendu dire que tu avais du travail pour moi. Je suis là pour vous aider.\nagent:\n!interest\n$neutralThoughtful\nHein. Tu as l'air d'y arriver. \nIl y a une plage à proximité, un peu moche, avec une odeur de boue que vous ne pouvez pas trouver nulle part ailleurs.\n!cagey\n$neutralDubious\nNous Jakes l'utiliser pour ... des trucs qui ne sont pas de votre intérêt. \nMais il a été envahi par des bêtes.\nplayer:\n!happy\n$neutralDubious\nC'est un euphémisme ?\nagent:\n!placate\n$neutralTakenAback\nQuel? Naw, je veux dire, de <i>vraies</i> bêtes. \nOn a choisi cet endroit parce que personne d'autre ne le voulait, mais il s'avère que c'est juste pour ces monstres.\nPermis !\n$neutralDirect\nDégagez-les, et nous considérerons le travail accompli."
+msgstr "player:\n!crossed\n$neutralDirect\nJ'ai entendu dire que tu avais du travail pour moi. Je suis là pour vous aider.\nagent:\n!interest\n$neutralThoughtful\nHein. Tu as l'air d'y arriver. \nIl y a une plage à proximité, un peu moche, avec une odeur de boue que vous ne pouvez pas trouver nulle part ailleurs.\n!cagey\n$neutralDubious\nNous Jakes l'utiliser pour ... des trucs qui ne sont pas de votre intérêt. \nMais il a été envahi par des bêtes.\nplayer:\n!happy\n$neutralDubious\nC'est un euphémisme ?\nagent:\n!placate\n$neutralTakenAback\nQuel? Naw, je veux dire, de <i>vraies</i> bêtes. \nOn a choisi cet endroit parce que personne d'autre ne le voulait, mais il s'avère que c'est juste pour ces monstres.\n!permit\n$neutralDirect\nDégagez-les, et nous considérerons le travail accompli."
 
 #: CONVO.SIDE_DEBT_COLLECTION.DIAL_DONE
 #, fuzzy
@@ -28988,7 +28987,7 @@ msgstr "player:\nplayer:\n!interest\n$neutralDirect\nTu connais le {giver} ? Le 
 #, fuzzy
 msgctxt "CONVO.SIDE_DEBT_COLLECTION_2.DIALOG_NO_DONT_PAY_IT"
 msgid "player:\n!permit\n$happyDefault\nLook, I'll spot you, all right?\n!shrug\n$neutralWhatever\nThere's no reason you gotta bleed for {giver}'s return.\nagent:\n!dubious\n$neutralDubious\nWhat? Then {giver.heshe}'s just getting what {giver.heshe} wants out of <i>your</i> pocket instead of mine.\n!agree\n$neutralResigned\n{giver}'s scum. Let {giver.himher} suffer without the coin, I say. Do <i>that</i>, if you're feeling charitable towards me."
-msgstr "player:\nPermis !\n$happyDefault\nJe vais te repérer, d'accord ?\n!shrug\n$neutralWhatever\nIl n'y a aucune raison que tu saignes pour le retour de {giver}.\nagent:\n!dubious\n$neutralDubious\nQuel? Ensuite, 'giver.heshe's juste obtenir ce que 'giver.heshe' veut de <i>votre</i> poche au lieu de la mienne.\n!agree\n$neutralResigned\nC'est de l'écume de {giver}. Laissez {giver.himher} souffrir sans la pièce, je dis. <i>Faites-le,</i>si vous vous sentez charitable envers moi."
+msgstr "player:\n!permit\n$happyDefault\nJe vais te repérer, d'accord ?\n!shrug\n$neutralWhatever\nIl n'y a aucune raison que tu saignes pour le retour de {giver}.\nagent:\n!dubious\n$neutralDubious\nQuel? Ensuite, 'giver.heshe's juste obtenir ce que 'giver.heshe' veut de <i>votre</i> poche au lieu de la mienne.\n!agree\n$neutralResigned\nC'est de l'écume de {giver}. Laissez {giver.himher} souffrir sans la pièce, je dis. <i>Faites-le,</i>si vous vous sentez charitable envers moi."
 
 #: CONVO.SIDE_DEBT_COLLECTION_2.DIALOG_NO_MONEY_LOVED_RELATIONSHIP
 #, fuzzy
@@ -29006,13 +29005,13 @@ msgstr "Agent: \n!overthere\n$happyTakenAback\nSi vous <i>ne</i> payez {giver} d
 #, fuzzy
 msgctxt "CONVO.SIDE_DEBT_COLLECTION_2.DIALOG_PAY_BACK"
 msgid "player:\n!permit\n$miscPersuasive\nLook, I'll spot you, all right?\n!shrug\n$neutralWhatever\nThere's no reason you gotta bleed for {giver}'s return.\nagent:\n!dubious\n$neutralDubious\nWha—really? Forgive me for bein' skeptical, but I'll believe it when I see it."
-msgstr "player:\nPermis !\n$miscPersuasive\nJe vais te repérer, d'accord ?\n!shrug\n$neutralWhatever\nIl n'y a aucune raison que tu saignes pour le retour de {giver}.\nagent:\n!dubious\n$neutralDubious\nWha,vraiment? Pardonnez-moi d'être sceptique, mais je le croirai quand je le verrai."
+msgstr "player:\n!permit\n$miscPersuasive\nJe vais te repérer, d'accord ?\n!shrug\n$neutralWhatever\nIl n'y a aucune raison que tu saignes pour le retour de {giver}.\nagent:\n!dubious\n$neutralDubious\nWha,vraiment? Pardonnez-moi d'être sceptique, mais je le croirai quand je le verrai."
 
 #: CONVO.SIDE_DEBT_COLLECTION_2.DIALOG_PAY_BACK_LOVED
 #, fuzzy
 msgctxt "CONVO.SIDE_DEBT_COLLECTION_2.DIALOG_PAY_BACK_LOVED"
 msgid "player:\n!permit\n$happyDefault\nRelax. I'll spot you.\nagent:\n!sigh \n$miscRelieved\nI don't know what I did to deserve you, bud. \nBut I'll make it up to you. Just watch. \nplayer:\n!wink\n$miscPersuasive\nYeah, yeah. I'll hold you to that."
-msgstr "player:\nPermis !\n$happyDefault\nSe détendre. Je vais te repérer.\nagent:\nLe soupir !! \n$miscRelieved\nJe ne sais pas ce que j'ai fait pour te mériter, mon pote. \nMais je me rattraperai. Il suffit de regarder. \nplayer:\nClin d'œil !\n$miscPersuasive\nOui, oui. Je t'en tiendrai à ça."
+msgstr "player:\n!permit\n$happyDefault\nSe détendre. Je vais te repérer.\nagent:\nLe soupir !! \n$miscRelieved\nJe ne sais pas ce que j'ai fait pour te mériter, mon pote. \nMais je me rattraperai. Il suffit de regarder. \nplayer:\nClin d'œil !\n$miscPersuasive\nOui, oui. Je t'en tiendrai à ça."
 
 #: CONVO.SIDE_DEBT_COLLECTION_2.OPT_ATTACK_FOR_IT
 #, fuzzy
@@ -29420,7 +29419,7 @@ msgstr "* Vous sortez de la clandestinité et approchez le garde, en essayant de
 #, fuzzy
 msgctxt "CONVO.SIDE_FREE_PRIEST.STATE_CONVOY_ARRIVAL.DIALOG_TRICK_FAIL"
 msgid "player:\n$miscPersuasive\nYou trying to pin this on the Spree, right? Well, I look more like a bandit than you do.\nagent:\n!angry_accuse\n$angryPatienceLost\n<i>Too much</i>, even. I dunno who you are, but I got enough on my mind without you stepping in.\nplayer:\n!disappoint\n$neutralWhatever\nIt was worth a shot.\n!fight\n* Looks like the Luminari isn't getting free without some bloodshed."
-msgstr "player:\n$miscPersuasive\nTu essaies d'épingler ça sur la Spree, non ? J'ai plus l'air d'un bandit que toi.\nagent:\n!angry_accuse\n$angryPatienceLost\n<i>Trop,</i>même. Je ne sais pas qui tu es, mais j'en ai assez en tête sans que tu n'entres.\nplayer:\n!décevoir\n$neutralWhatever\nCa valait le coup d'essayer.\n!fight\nOn dirait que le Luminari ne se libère pas sans un bain de sang."
+msgstr "player:\n$miscPersuasive\nTu essaies d'épingler ça sur la Spree, non ? J'ai plus l'air d'un bandit que toi.\nagent:\n!angry_accuse\n$angryPatienceLost\n<i>Trop,</i>même. Je ne sais pas qui tu es, mais j'en ai assez en tête sans que tu n'entres.\nplayer:\n!disappoint\n$neutralWhatever\nCa valait le coup d'essayer.\n!fight\nOn dirait que le Luminari ne se libère pas sans un bain de sang."
 
 #: CONVO.SIDE_FREE_PRIEST.STATE_CONVOY_ARRIVAL.DIALOG_TRICK_SUCCESS
 #, fuzzy
@@ -29498,7 +29497,7 @@ msgstr "player:\n!agree\n$neutralDirect\nUn travail de salaire. Tu t'es trouvé 
 #, fuzzy
 msgctxt "CONVO.SIDE_FREE_PRIEST_3.DIALOG_OFFER"
 msgid "agent:\n!interest\n$neutralGreeting\nYou're a hunter, right? So you do jobs for pay?\nplayer:\n!crossed\n$neutralDubious\nNot <i>all</i> jobs. And only for certain amounts of pay. But you've got the idea.\nagent:\n!overthere\n$neutralDirect\nMy friend {target} was on a mission through the more rugged parts of Murder Bay, but I haven't heard from {target.himher} in days.\n$scaredDefault\n{target.HeShe}'s a Luminari, trained in combat. It's hard to believe some miscreants managed to get the jump on {target.himher}.\nBut {target.heshe}'s missing all the same. I've petitioned the priests in Supplicant City to investigate but I worry they'll come too late.\n!permit\nWill you look for {target.himher}?"
-msgstr "agent:\n!interest\n$neutralGreeting\nTu es un chasseur, n'est-ce pas ? Donc tu fais des boulots de salaire ?\nplayer:\n!crossed\n$neutralDubious\nPas <i>tous les</i> boulots. Et seulement pour certains montants de salaire. Mais tu as l'idée.\nagent:\n!overthere\n$neutralDirect\nMon ami {target} était en mission à travers les parties les plus accidentées de Murder Bay, mais je n'ai pas entendu parler de 'target.himher' depuis des jours.\n$scaredDefault\nC'est la cible. C'est un Luminari, entraîné au combat. Il est difficile de croire que certains mécréants ont réussi à obtenir le saut sur 'target.himher'.\nMais il manque quand même le manque à \"target.heshe\". J'ai demandé aux prêtres de Supplicant City d'enquêter, mais je crains qu'ils arrivent trop tard.\nPermis !\nAllez-vous chercher 'target.himher'?"
+msgstr "agent:\n!interest\n$neutralGreeting\nTu es un chasseur, n'est-ce pas ? Donc tu fais des boulots de salaire ?\nplayer:\n!crossed\n$neutralDubious\nPas <i>tous les</i> boulots. Et seulement pour certains montants de salaire. Mais tu as l'idée.\nagent:\n!overthere\n$neutralDirect\nMon ami {target} était en mission à travers les parties les plus accidentées de Murder Bay, mais je n'ai pas entendu parler de 'target.himher' depuis des jours.\n$scaredDefault\nC'est la cible. C'est un Luminari, entraîné au combat. Il est difficile de croire que certains mécréants ont réussi à obtenir le saut sur 'target.himher'.\nMais il manque quand même le manque à \"target.heshe\". J'ai demandé aux prêtres de Supplicant City d'enquêter, mais je crains qu'ils arrivent trop tard.\n!permit\nAllez-vous chercher 'target.himher'?"
 
 #: CONVO.SIDE_INTERNAL_AFFAIR.STATE_ATTRACT.DIAL_TXT
 #, fuzzy
@@ -30488,7 +30487,7 @@ msgstr "player:\n!angry\n$angryPatienceLost\nbien. Il y a d'autres façons de r�
 #, fuzzy
 msgctxt "CONVO.SIDE_REPO_PERSON_2.STATE_BANDIT_CAMP.DIALOG_CONVINCE"
 msgid "player:\n!permit\n$miscPersuasive\nI don't think you know exactly who you've stolen from.\nagent:\n!sigh\n$neutralWhatever\nAnd I guess you mean to enlighten me."
-msgstr "player:\nPermis !\n$miscPersuasive\nJe ne pense pas que vous sachiez exactement de qui vous avez volé.\nagent:\n!sigh\n$neutralWhatever\nEt je suppose que tu veux m'éclairer."
+msgstr "player:\n!permit\n$miscPersuasive\nJe ne pense pas que vous sachiez exactement de qui vous avez volé.\nagent:\n!sigh\n$neutralWhatever\nEt je suppose que tu veux m'éclairer."
 
 #: CONVO.SIDE_REPO_PERSON_2.STATE_BANDIT_CAMP.DIALOG_CONVINCE_FAIL
 #, fuzzy
@@ -30512,7 +30511,7 @@ msgstr "* Trouver les bandits est la partie facile; récupérer les marchandises
 #, fuzzy
 msgctxt "CONVO.SIDE_REPO_PERSON_2.STATE_BANDIT_CAMP.DIALOG_PAY"
 msgid "player:\n!permit\n$miscPersuasive\nThis is all just business to you. So why don't we pay you for the goods, and we keep this hassle-free.\nagent: \n!chuckle\n$happyThanks\nWell, sure. Like you said, this is just business. And I'm happy to help."
-msgstr "player:\nPermis !\n$miscPersuasive\nCe n'est que des affaires pour toi. Alors pourquoi ne pas vous payer pour les marchandises, et nous gardons cela sans tracas.\nagent: \n!chuckle\n$happyThanks\nBien sûr. Comme tu l'as dit, c'est juste des affaires. Et je suis heureux de vous aider."
+msgstr "player:\n!permit\n$miscPersuasive\nCe n'est que des affaires pour toi. Alors pourquoi ne pas vous payer pour les marchandises, et nous gardons cela sans tracas.\nagent: \n!chuckle\n$happyThanks\nBien sûr. Comme tu l'as dit, c'est juste des affaires. Et je suis heureux de vous aider."
 
 #: CONVO.SIDE_REPO_PERSON_2.STATE_BANDIT_CAMP.DIALOG_WON_BATTLE
 #, fuzzy
@@ -30542,7 +30541,7 @@ msgstr "Payer {agent} pour le forfait"
 #, fuzzy
 msgctxt "CONVO.SIDE_REPO_PERSON_3.DIALOG_DELIVER_PACKAGE"
 msgid "agent:\n!right\nplayer:\n!left\n!permit\n$neutralGreeting\nYou {client}? {giver} sent me to deliver the goods, and to apologize for the delay. \nIt won't happen again.  \nagent:\n!dubious\n$neutralDubious\nHuh. I was about to send someone to collect—but I can see {giver} hired a professional to get it done.\nI'll assume this was just a hiccup. But you tell {giver} I won't be so charitable next time."
-msgstr "agent:\n!right\nplayer:\n!left\nPermis !\n$neutralGreeting\nVous êtes client ? {giver} m'a envoyé pour livrer la marchandise, et de s'excuser pour le retard. \nCa ne se reproduira plus.  \nagent:\n!dubious\n$neutralDubious\nHein. J'étais sur le point d'envoyer quelqu'un pour recueillir, mais je peux voir {giver} embauché un professionnel pour le faire.\nJe suppose que c'était juste un hoquet. Mais tu dis à {giver} que je ne serai pas aussi charitable la prochaine fois."
+msgstr "agent:\n!right\nplayer:\n!left\n!permit\n$neutralGreeting\nVous êtes client ? {giver} m'a envoyé pour livrer la marchandise, et de s'excuser pour le retard. \nCa ne se reproduira plus.  \nagent:\n!dubious\n$neutralDubious\nHein. J'étais sur le point d'envoyer quelqu'un pour recueillir, mais je peux voir {giver} embauché un professionnel pour le faire.\nJe suppose que c'était juste un hoquet. Mais tu dis à {giver} que je ne serai pas aussi charitable la prochaine fois."
 
 #: CONVO.SIDE_REPO_PERSON_3.OPT_DELIVER_PACKAGE
 #, fuzzy
@@ -30824,7 +30823,7 @@ msgstr "player:\n!interest\n$neutralGreeting\nJe suis là pour prendre un paquet
 #, fuzzy
 msgctxt "CONVO.SIDE_SECRET_SHOPPER.STATE_ASK_ABOUT_PACKAGE.DIALOG_PAID_TAB"
 msgid "player:\n!permit\nWhat if I paid it off instead?\nagent:\n!dubious\n$neutralDubious\nYou'd do that for {giver}? Not sure you'd know what you're getting into. But you pay me 100 shills, and its yours.\n!give\nYou can tell {giver} if {giver.heshe} ever wants back in this bar {giver.heshe} still has to pay me the difference."
-msgstr "player:\nPermis !\nEt si je l'ai payé à la place ?\nagent:\n!dubious\n$neutralDubious\nTu ferais ça pour {giver} ? Pas sûr que tu saches dans quoi tu t'en prends. Mais vous me payez 100 shills, et le vôtre.\n!give\nVous pouvez dire {giver} si 'giver.heshe' veut jamais revenir dans cette barre 'giver.heshe' doit encore me payer la différence."
+msgstr "player:\n!permit\nEt si je l'ai payé à la place ?\nagent:\n!dubious\n$neutralDubious\nTu ferais ça pour {giver} ? Pas sûr que tu saches dans quoi tu t'en prends. Mais vous me payez 100 shills, et le vôtre.\n!give\nVous pouvez dire {giver} si 'giver.heshe' veut jamais revenir dans cette barre 'giver.heshe' doit encore me payer la différence."
 
 #: CONVO.SIDE_SECRET_SHOPPER.STATE_ASK_ABOUT_PACKAGE.DIALOG_PRE_BUY
 #, fuzzy
@@ -30932,7 +30931,7 @@ msgstr "player:\n!overthere\n$miscPersuasive\nRegardez, 'target.heshe''va juste 
 #, fuzzy
 msgctxt "CONVO.SIDE_SING_FOR_YOUR_SUPPER.DIALOG_NEGOTIATION_SUCCESS"
 msgid "player:\n!dubious\n$neutralDubious\nIt's <i>Murder Bay</i>. The thing's kind of in the name.\nIf you got intel on dangerous people, then it won't be long before those dangerous people see you taken care of.\n$miscPersuasive\nBut if you tell {target} what {target.heshe} wants to know, the Admiralty can at least protect you.\nagent:\n$neutralResigned\nMaybe you're right. \n!shrug\n$miscDepressed\nYou work your whole life just trying to have a little slice of something you can keep to yourself.\n$neutralResigned\nBut there's always someone holding the leash. \n!disappoint\nI'll talk to {target}. Like you say, I'm probably dead either way."
-msgstr "player:\n!dubious\n$neutralDubious\nC'est <i>Murder Bay</i>. Le truc est un peu dans le nom.\nSi vous avez des infos sur les personnes dangereuses, alors il ne sera pas long avant que ces gens dangereux vous voient pris en charge.\n$miscPersuasive\nMais si vous dites à {target} ce que \"target.heshe\" veut savoir, l'Amirauté peut au moins vous protéger.\nagent:\n$neutralResigned\nTu as peut-être raison. \n!shrug\n$miscDepressed\nTu travailles toute ta vie en essayant d'avoir une petite tranche de quelque chose que tu peux garder pour toi.\n$neutralResigned\nMais il y a toujours quelqu'un qui tient la laisse. \n!décevoir\nJe vais parler à {target}. Comme tu dis, je suis probablement mort de toute façon."
+msgstr "player:\n!dubious\n$neutralDubious\nC'est <i>Murder Bay</i>. Le truc est un peu dans le nom.\nSi vous avez des infos sur les personnes dangereuses, alors il ne sera pas long avant que ces gens dangereux vous voient pris en charge.\n$miscPersuasive\nMais si vous dites à {target} ce que \"target.heshe\" veut savoir, l'Amirauté peut au moins vous protéger.\nagent:\n$neutralResigned\nTu as peut-être raison. \n!shrug\n$miscDepressed\nTu travailles toute ta vie en essayant d'avoir une petite tranche de quelque chose que tu peux garder pour toi.\n$neutralResigned\nMais il y a toujours quelqu'un qui tient la laisse. \n!disappoint\nJe vais parler à {target}. Comme tu dis, je suis probablement mort de toute façon."
 
 #: CONVO.SIDE_SING_FOR_YOUR_SUPPER.OPT_CONVINCE_BE_INFORMANT
 #, fuzzy
@@ -31028,7 +31027,7 @@ msgstr "player:\n$neutralDirect\nC'est fait. Vous n'avez plus besoin de vous sou
 #, fuzzy
 msgctxt "CONVO.SIDE_SING_FOR_YOUR_SUPPER_3.DIALOG_INTRO_KILLED"
 msgid "player:\n!interest\nWell, the good news is that you don't gotta worry about {target} anymore.\ngiver:\n!crossed\n$neutralDubious\nSaying it like that suggests there's bad news.\nplayer:\n$miscEmbarrassed\nYou're <i>technically</> an accessory to murder, now. \n'Cause {target}'s dead.\ngiver:\n!scared_shrug\n$scaredDefault\nAw, Hesh. Everyone knows {target} was trying to get me to talk! \nGuess I shouldn't be surprised this is how it turned out.\n!disappoint\n$neutralResigned\nThey don't call it Murder Bay for nothing."
-msgstr "player:\n!interest\nLa bonne nouvelle, c'est que tu n'as plus à t'inquiéter pour la cible.\ndonateur:\n!crossed\n$neutralDubious\nLe dire comme ça suggère qu'il y a de mauvaises nouvelles.\nplayer:\n$miscEmbarrassed\nVous êtes <i>techniquement complice d'un meurtre, maintenant. \nParce que la cible est morte.\ndonateur:\nscared_shrug\n$scaredDefault\nAw, Hesh. Tout le monde sait que {target} essayait de me faire parler! \nJe suppose que je ne devrais pas être surpris que c'est comme ça que ça s'est passé.\n!décevoir\n$neutralResigned\nIls n'appellent pas ça Murder Bay pour rien.</i>"
+msgstr "player:\n!interest\nLa bonne nouvelle, c'est que tu n'as plus à t'inquiéter pour la cible.\ndonateur:\n!crossed\n$neutralDubious\nLe dire comme ça suggère qu'il y a de mauvaises nouvelles.\nplayer:\n$miscEmbarrassed\nVous êtes <i>techniquement complice d'un meurtre, maintenant. \nParce que la cible est morte.\ndonateur:\nscared_shrug\n$scaredDefault\nAw, Hesh. Tout le monde sait que {target} essayait de me faire parler! \nJe suppose que je ne devrais pas être surpris que c'est comme ça que ça s'est passé.\n!disappoint\n$neutralResigned\nIls n'appellent pas ça Murder Bay pour rien.</i>"
 
 #: CONVO.SIDE_SING_FOR_YOUR_SUPPER_3.OPT_GET_PAID
 #, fuzzy
@@ -31579,7 +31578,7 @@ msgstr "player:\n!boisson\nVous sentez quelque chose perforer votre langue avant
 #, fuzzy
 msgctxt "CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_SALTED_SNAIL_EGGS"
 msgid "player:\n!drink\n!disappoint\n* You bite down on a caramelized leech, and it explodes into spores.\nplayer:\n!burp\n<kaff!> <hack> Ughh... \nagent:  \n!chuckle\nAha! You got a good one! No need to thank me, hunter—your reaction is thanks enough."
-msgstr "player:\n!boisson\n!décevoir\nVous mordez sur une sangsue caramélisée, et elle explose en spores.\nplayer:\nBurp !\n<kaff!> <hack>ugh... \nagent:  \n!chuckle\nAha! Tu en as un bon ! Pas besoin de me remercier, chasseur, votre réaction est assez merci.</hack> </kaff!>"
+msgstr "player:\n!boisson\n!disappoint\nVous mordez sur une sangsue caramélisée, et elle explose en spores.\nplayer:\nBurp !\n<kaff!> <hack>ugh... \nagent:  \n!chuckle\nAha! Tu en as un bon ! Pas besoin de me remercier, chasseur, votre réaction est assez merci.</hack> </kaff!>"
 
 #: CONVO.WANDERING_CHEF.STATE_CONFRONT.DIALOG_SAUTEED_GRUBS
 #, fuzzy
@@ -31962,7 +31961,7 @@ msgstr "<b>Histoires de guerre</>: Pioche {1} cartes de combat</b>"
 #, fuzzy
 msgctxt "CONVO_COMMON.OFFER_BATTLE_SLOT"
 msgid "<b>Slapdash Surgery</b>: Add a combat graft slot"
-msgstr "<b>Chirurgie Slapdash</b>: Ajouter une Emplacement de greffe de combat"
+msgstr "<b>Chirurgie Slapdash</b>: Ajoute une Emplacement de graft de combat"
 
 #: CONVO_COMMON.OFFER_BATTLE_UPGRADE
 #, fuzzy
@@ -32010,7 +32009,7 @@ msgstr "<b>Livre des poèmes de Kra'deshi</>: brouillon {1} des cartes de négoc
 #, fuzzy
 msgctxt "CONVO_COMMON.OFFER_NEGOTIATION_SLOT"
 msgid "<b>Cranial Incision</b>: Add a negotiation graft slot"
-msgstr "<b>Incision crânienne</b>: ajouter un emplacement de graft de négociation"
+msgstr "<b>Incision crânienne</b>: Ajoute un emplacement de graft de négociation"
 
 #: CONVO_COMMON.OFFER_NEGOTIATION_UPGRADE
 #, fuzzy
@@ -39143,7 +39142,7 @@ msgstr "Slot Graft supplémentaire"
 #, fuzzy
 msgctxt "NOTIFICATION.NEGOTIATION_GRAFT_SLOT_DETAILS"
 msgid "Additional negotiation graft slot available"
-msgstr "Emplacement de greffe de négociation supplémentaire disponible"
+msgstr "emplacement de graft de négociation supplémentaire disponible"
 
 #: NOTIFICATION.NEW_JOB_FMT_QUEST
 #, fuzzy
@@ -42593,19 +42592,19 @@ msgstr "!cagey\n$miscAlluring\n\nN'y pense pas trop."
 #, fuzzy
 msgctxt "QUIPS.appeal_to_reason_card.negotiation.1"
 msgid "!permit\n$happyDefault\n\nJust think about it."
-msgstr "Permis !\n$happyDefault\n\nRéfléchis-y."
+msgstr "!permit\n$happyDefault\n\nRéfléchis-y."
 
 #: QUIPS.appeal_to_reason_card.negotiation.2
 #, fuzzy
 msgctxt "QUIPS.appeal_to_reason_card.negotiation.2"
 msgid "!permit\n$happyDefault\n\nBe reasonable!"
-msgstr "Permis !\n$happyDefault\n\nSoyez raisonnable!"
+msgstr "!permit\n$happyDefault\n\nSoyez raisonnable!"
 
 #: QUIPS.appeal_to_reason_card.negotiation.3
 #, fuzzy
 msgctxt "QUIPS.appeal_to_reason_card.negotiation.3"
 msgid "!permit\n$happyDefault\n\nLogically, though..."
-msgstr "Permis !\n$happyDefault\n\nLogiquement, cependant..."
+msgstr "!permit\n$happyDefault\n\nLogiquement, cependant..."
 
 #: QUIPS.assassin_steady_hands.1
 #, fuzzy
@@ -43591,19 +43590,19 @@ msgstr "Prends-les !"
 #, fuzzy
 msgctxt "QUIPS.compliment_card.negotiation.1"
 msgid "!permit\n$miscAlluring\n\nI see you're as sharp as you are charming."
-msgstr "Permis !\n$miscAlluring\n\nJe vois que tu es aussi forte que charmante."
+msgstr "!permit\n$miscAlluring\n\nJe vois que tu es aussi forte que charmante."
 
 #: QUIPS.compliment_card.negotiation.2
 #, fuzzy
 msgctxt "QUIPS.compliment_card.negotiation.2"
 msgid "!permit\n$miscAlluring\n\nYou have a way with words!"
-msgstr "Permis !\n$miscAlluring\n\nTu as un moyen avec les mots!"
+msgstr "!permit\n$miscAlluring\n\nTu as un moyen avec les mots!"
 
 #: QUIPS.compliment_card.negotiation.3
 #, fuzzy
 msgctxt "QUIPS.compliment_card.negotiation.3"
 msgid "!permit\n$miscAlluring\n\nAh, that's clever. I wouldn't have considered that."
-msgstr "Permis !\n$miscAlluring\n\nAh, c'est malin. Je n'y serais pas repensé."
+msgstr "!permit\n$miscAlluring\n\nAh, c'est malin. Je n'y serais pas repensé."
 
 #: QUIPS.compression_gear.chum_bonus.player_sal.1
 #, fuzzy
@@ -46282,12 +46281,12 @@ msgstr "!overthere\n$miscPersuasive\n\nJ'ai beaucoup de points à faire, mon pot
 #: SLIDESHOW.BATTLE_TUTORIAL.1.TXT
 msgctxt "SLIDESHOW.BATTLE_TUTORIAL.1.TXT"
 msgid "<b>Battles:</>\n\nEach turn you draw 5 cards from the <b>draw pile</> and use action points to play them."
-msgstr "<b>combats:</>\n\nChaque tour vous tirez 5 cartes de votre <b>pioche</> et utiliser des points d'action pour jouer vos cartes."
+msgstr "<b>Combats:</>\n\nChaque tour vous tirez 5 cartes de votre <b>pioche</> et utiliser des points d'action pour jouer vos cartes."
 
 #: SLIDESHOW.BATTLE_TUTORIAL.2.TXT
 msgctxt "SLIDESHOW.BATTLE_TUTORIAL.2.TXT"
 msgid "<b>Health and Breaking Point:</>\n\nYou can win a battle by killing all of your opponents or by making them surrender.\nEnemies will surrender when their <b>health</> dips below their <b>breaking point</> indicator. Killing enemies may have diplomatic consequences!\n"
-msgstr "<b>Santé et Point de rupture:</>\n\nVous pouvez gagner un combat en tuant tous vos adversaires ou en les faisans se rendre.\nLes ennemis se rendront lorsque leur santé descend en dessous de leur indicateur de point de rupture. Tuer vos ennemis peut avoir des conséquences!\n"
+msgstr "<b>Santé et Point de rupture:</>\n\nVous pouvez gagner un combat en tuant tous vos adversaires ou en les faisant se rendre.\nLes ennemis se rendront lorsque leur santé descend en dessous de leur indicateur de point de rupture.\nTuer un ennemi pourrait avoir des conséquences!\n"
 
 #: SLIDESHOW.BATTLE_TUTORIAL.3.TXT
 msgctxt "SLIDESHOW.BATTLE_TUTORIAL.3.TXT"
@@ -46297,7 +46296,7 @@ msgstr "<b>Intentions:</>\n\nVous pouvez voir à l'avance ce que vos ennemis et 
 #: SLIDESHOW.NEGOTIATION_TUTORIAL.1.TXT
 msgctxt "SLIDESHOW.NEGOTIATION_TUTORIAL.1.TXT"
 msgid "<b>Negotiations:</>\n\nEach turn you draw 5 cards from the <b>draw pile</> and use action points to play them."
-msgstr "<b>négociations:</>\n\nChaque tour vous tirez 5 cartes de votre <b>pioche</> et utiliser des points d'action pour jouer vos cartes."
+msgstr "<b>Négociations:</>\n\nChaque tour vous tirez 5 cartes de votre <b>pioche</> et utiliser des points d'action pour jouer vos cartes."
 
 #: SLIDESHOW.NEGOTIATION_TUTORIAL.2.TXT
 msgctxt "SLIDESHOW.NEGOTIATION_TUTORIAL.2.TXT"
@@ -46313,7 +46312,7 @@ msgstr "<b>Intentions</>:\n\nLes <b>intentions</> de votre adversaire pour le to
 #, fuzzy
 msgctxt "SLIDESHOW.NEGOTIATION_TUTORIAL.4.TXT"
 msgid "<b>Arguments:</>\n\nYou and your opponent can deploy <b>arguments</> to help win the negotiation.\n<b>Arguments</> can be attacked or defended like the <b>core resolve</>."
-msgstr "<b>Arguments:</>\n\nVous et votre adversaire pouvez déployer <b>des arguments</> pour vous aider à gagner la négociation.\n<b>Les arguments</> peuvent être attaqués ou défendus comme votre <b>détermination principal</>."
+msgstr "<b>Arguments:</>\n\nVous et votre adversaire pouvez déployer des<b>arguments</> pour vous aider à gagner la négociation.\nLes <b>arguments</> peuvent être attaqués ou défendus comme votre <b>détermination</>."
 
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW.1.TXT
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW.1.TXT"
@@ -46328,7 +46327,7 @@ msgstr "Maintenant, vous êtes de retour à la maison, pour la première fois en
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW.3.TXT
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW.3.TXT"
 msgid "Criminals like Kashio, the ruthless debt broker who sold you to the derricks in the first place. But now, Kashio's grip has weakened, and there's a bounty on her head too rich to ignore. \n\nYou’ll die before you go into debt again. And so will she, if you have your say."
-msgstr "Des criminels comme Kashio, l'impitoyable prêteur sur gages, au tout début c'est elle qui vous à vendu sûr les quais. Mais maintenant, son emprise s'est affaiblie, et qu'il y a cette prime très alléchante sur sa tête. \n\nTu mourras avant de t'endetter à nouveau. Et elle aussi mourra, si tu as ton mot à dire."
+msgstr "Des criminels comme Kashio, l'impitoyable créancier, au tout début c'est elle qui vous à vendu sûr les quais. Mais maintenant, son emprise s'est affaiblie, et qu'il y a cette prime très alléchante sur sa tête. \n\nTu mourras avant de t'endetter à nouveau. Et elle aussi mourra, si tu as ton mot à dire."
 
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW.4.TXT
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW.4.TXT"
@@ -46348,7 +46347,7 @@ msgstr "La dernière fois que quelqu'un vous a rendu la vie impossible, vous avi
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW_4.1.TXT
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW_4.1.TXT"
 msgid "You've pictured your revenge so many times. But what if she gets you first? What if someone <i>else</i> does? \n            \nBut you scratch those thoughts out like lines on the paper. You're here for Kashio. That's the only way this story ends."
-msgstr "Vous avait imaginé votre vengeance tant de fois. Et si c'était elle qui finit par gagner? Et si <i>quelqu'un d'autre/i> avait déjà? \n            \nVous oubliez vite ces pensées. Vous êtes là pour Kashio. C'est la seule façon de mettre fin à cette histoire."
+msgstr "Vous avait imaginé votre vengeance tant de fois. Et si c'était elle qui finit par gagner?\nEt si <i>quelqu'un d'autre</> avait déjà?\n\nVous oubliez vite ces pensées. Vous êtes là pour Kashio. C'est la seule façon de mettre fin à cette histoire."
 
 #: SPECIES.BEAST
 #, fuzzy
