@@ -34604,7 +34604,6 @@ msgid "Every enemy has {battle.VENDETTA}."
 msgstr "Chaque ennemi a le combat. LA VENDETTA."
 
 #: GRAFT.WHY_ME.NAME
-#, fuzzy
 msgctxt "GRAFT.WHY_ME.NAME"
 msgid "Why Me"
 msgstr "Pourquoi moi"
