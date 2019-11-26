@@ -3,8 +3,8 @@
 <p alig,="center"><b>⚠️ La traduction et en cours, certains textes n'ont pas encore été corrigé ce qui peut poser problème en jeu ⚠️</b></p>
 <p align="center">
 <a href=https://github.com/leghort/Traduction-Griftlands/releases><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands?include_prereleases">
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-14%25-red"></a>
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-86%25-brightgreen"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-15%25-red"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-85%25-brightgreen"></a>
 </p>
 <!-- Les couleur pour les % en 6 tranches de ~16.7%
 brightgreen  100%
@@ -32,9 +32,8 @@ red         16.7%
 1. Rendez-vous dans votre dossier d'installation `Griflands`
 ![](https://i.ibb.co/M1M998x/image.png)
   ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à **[Trouver son dossier d'installation ⚠️](https://github.com/leghort/Traduction-Griftlands#trouver-son-dossier-dinstallation)**</br>
-   
-2. Faite un clic gauche sur le dossier `Griftlands`
-3. Fusionner le dossier `data` que vous venez de télécharger avec le dossier `data` existant
+2. Ouvrez le dossier `Griftlands`
+3. Faire un Glisser-déposer du dossier `data` que vous venez de télécharger, dans votre dossier `Griftlands`
 4. Dans le menu ![](https://i.ibb.co/FbcGSQ1/image.png) allez dans l'onglet ![](https://i.ibb.co/R0hpqdj/image.png) et choisissez la langue ![](https://i.ibb.co/qN62Zbq/image.png)
 5. Jouer 🕹️
 
@@ -57,9 +56,9 @@ red         16.7%
 ```lua
 | Statistique sur la Traduction | Éléments     |  Mots  | Caractères |
 | ----------------------------- | ------------ | ------ | ---------- |
-| Traduit                       |  ‪1307 (14 %) |   8870 |      54187 |
-| À réviser                     ‪|  ‪7742 (86 %) | 118178 |     736033 |
-| Total                         |  9049(100 %) | 127048 |     790220 |
+| Traduit                       |  ‪1394 (15 %) |   9556 |      58641 |
+| À réviser                     ‪|  ‪7655 (85 %) | 117462 |     731594 |
+| Total                         |  9049(100 %) | 127018 |     790235 |
 ```
 
 ## Contact
