@@ -4,15 +4,15 @@
 <p align="center">
 <a href=https://github.com/leghort/Traduction-Griftlands/releases><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands?include_prereleases">
 <a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-17%25-red"></a>
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-83%25-yellowgreen"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-83%25-orange"></a>
 </p>
 <!-- Les couleur pour les % en 6 tranches de ~16.7%
-brightgreen  100%
-green       83.5%
-yellowgreen 66.8%
-yellow      55.1%
-orange      33.4%
-red         16.7%
+brightgreen  100%  red
+green       83.5%  orange
+yellowgreen 66.8%  yellow
+yellow      55.1%  yellowgreen
+orange      33.4%  green
+red         16.7%  brightgreen
 -->
 
 ![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
