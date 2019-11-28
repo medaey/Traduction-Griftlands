@@ -1,11 +1,13 @@
 <p style="text-align: center;"><b><h1>Traduction-Griftlands </h1></b></p>
 <p align="center">Traduction Française pour le jeu vidéo Griftlands.</p>
 <p alig,="center"><b>⚠️ La traduction et en cours, certains textes n'ont pas encore été corrigé ce qui peut poser problème en jeu ⚠️</b></p>
+<p align="center"><b>Une relecture de la traduction est également planifiée</b></p>
 <p align="center">
 <a href=https://github.com/leghort/Traduction-Griftlands/releases><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands?include_prereleases">
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-17%25-red"></a>
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-83%25-orange"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-21%25-orange"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-79%25-yellow"></a>
 </p>
+
 <!-- Les couleur pour les % en 6 tranches de ~16.7%
 brightgreen  100%  red
 green       83.5%  orange
@@ -56,9 +58,9 @@ red         16.7%  brightgreen
 ```lua
 | Statistique sur la Traduction | Éléments     |  Mots  | Caractères |
 | ----------------------------- | ------------ | ------ | ---------- |
-| Traduit                       |  ‪1509 (17 %) |  10080 |      62076 |
-| À réviser                     ‪|  ‪7540 (83 %) | 116941 |     728225 |
-| Total                         |  9049(100 %) | 127021 |     790301 |
+| Traduit                       |  ‪1877 (21 %) |  11869 |      73338 |
+| À réviser                     ‪|  ‪7172 (79 %) | 115100 |     716714 |
+| Total                         |  9049(100 %) | 126969 |     790052 |
 ```
 
 ## Contact
