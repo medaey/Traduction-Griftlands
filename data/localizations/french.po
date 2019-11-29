@@ -2091,7 +2091,7 @@ msgstr "Gâche de finition"
 #, fuzzy
 msgctxt "ATTACK.ENERGY_SIPHON.DESC"
 msgid "Steal all of the target's {POWER}."
-msgstr "Volez tous les {POWER} de {target}."
+msgstr "Volez tous les {POWER} de la cible."
 
 #: ATTACK.ENERGY_SIPHON.NAME
 #, fuzzy
@@ -2324,7 +2324,7 @@ msgstr "Feinte de rivale"
 #: ATTACK.FEINT_PLUS2F.DESC
 msgctxt "ATTACK.FEINT_PLUS2F.DESC"
 msgid "Apply {1} {DEFEND}.\n<#UPGRADE>Your next attack this turn deals maximum damage.</>"
-msgstr "Appliquez {1} {DEFEND}.\n<#UPGRADE>Votre prochaine attaque ce tour inflige un maximum de dégâts.</>"
+msgstr "Appliquez {1} {DEFEND}.\n<#UPGRADE>Votre prochaine attaque durant ce tour inflige les dégâts maximum.</>"
 
 #: ATTACK.FEINT_PLUS2F.FLAVOUR
 msgctxt "ATTACK.FEINT_PLUS2F.FLAVOUR"
@@ -4420,10 +4420,9 @@ msgid "Salve"
 msgstr "Pommade"
 
 #: ATTACK.SCATTER.DESC
-#, fuzzy
 msgctxt "ATTACK.SCATTER.DESC"
 msgid "Discard up to {1} cards.\nGain {POWER 1} for each card until the end of the turn."
-msgstr "Jetez jusqu'à {1} cartes.\nGagniez {POWER 1} pour chaque carte jusqu'à la fin du tour."
+msgstr "Défaussez jusqu'à {1} cartes.\nGagniez {POWER 1} pour chaque carte défausser jusqu'à la fin du tour."
 
 #: ATTACK.SCATTER.NAME
 #, fuzzy
@@ -5157,7 +5156,7 @@ msgstr "Pourquoi ai-je deux dagues? Bien, j'ai deux mains, n'est-ce pas?"
 #, fuzzy
 msgctxt "ATTACK.STAB_PLUS2A.NAME"
 msgid "Stab of Clarity"
-msgstr "Coup de poignard de la clarté"
+msgstr "Stab of Clarity"
 
 #: ATTACK.STAB_PLUS2B.DESC
 msgctxt "ATTACK.STAB_PLUS2B.DESC"
@@ -5191,7 +5190,7 @@ msgstr "'Pourquoi ai-je deux dagues? Bien, j'ai deux mains, n'est-ce pas?'"
 #, fuzzy
 msgctxt "ATTACK.STAB_PLUS2D.NAME"
 msgid "Stab of Savagery"
-msgstr "Coup de poignard de la sauvagerie"
+msgstr "Stab of Savagery"
 
 #: ATTACK.STAB_PLUS2E.DESC
 #, fuzzy
@@ -6219,10 +6218,9 @@ msgid "This card cannot be played, and resolves automatically at the end of your
 msgstr "Cette carte ne peut pas être jouée, et se résout automatiquement à la fin de votre tour"
 
 #: BATTLE_FEATURE.AUTOPLAY.NAME
-#, fuzzy
 msgctxt "BATTLE_FEATURE.AUTOPLAY.NAME"
 msgid "Autoplay"
-msgstr "Joue automatiquement"
+msgstr "Automatiquement jouez"
 
 #: BATTLE_FEATURE.BAD_FAITH.DESC
 #, fuzzy
@@ -7576,7 +7574,7 @@ msgstr "A la fin du tour, cicatrisez un montant égal à <b>Réparer</b> et réd
 #, fuzzy
 msgctxt "BATTLE_FEATURE.MENDING.NAME"
 msgid "Mending"
-msgstr "Réparation"
+msgstr "Soins"
 
 #: BATTLE_FEATURE.METALLIC.DESC
 #, fuzzy
@@ -8065,7 +8063,7 @@ msgstr "Gagnez {1} {RIPOSTE}."
 #, fuzzy
 msgctxt "BATTLE_FEATURE.RIPOSTE.NAME"
 msgid "Counter"
-msgstr "Compteur"
+msgstr "Counter"
 
 #: BATTLE_FEATURE.RUNNING.DESC
 #, fuzzy
@@ -8940,7 +8938,7 @@ msgstr "La réquisition d'Oolo"
 #, fuzzy
 msgctxt "CARD.ADMIRALTY_HOSTILE.DESC"
 msgid "Increase the count of your non-core arguments by 1 and add 3 resolve to them."
-msgstr "Augmentez le nombre de vos arguments non fondamentaux de 1 et ajoutez-y 3 résolutions."
+msgstr "Increase the count of your non-core arguments by 1 and add 3 resolve to them."
 
 #: CARD.ADMIRALTY_HOSTILE.NAME
 msgctxt "CARD.ADMIRALTY_HOSTILE.NAME"
@@ -9122,7 +9120,7 @@ msgstr "Animosité"
 #, fuzzy
 msgctxt "CARD.APLOMB.DESC"
 msgid "Spend {INFLUENCE {1}}: Apply {2} {COMPOSURE}."
-msgstr "Dépenser {INFLUENCE {1}} : Appliquez {2} {COMPOSITION}."
+msgstr "Dépenser {INFLUENCE {1}} : Appliquez {2} {COMPOSURE}."
 
 #: CARD.APLOMB.NAME
 #, fuzzy
@@ -9146,7 +9144,7 @@ msgstr "Boosted Aplomb"
 #, fuzzy
 msgctxt "CARD.APLOMB_PLUS2.DESC"
 msgid "Spend <#UPGRADE>{INFLUENCE {1}}</>: Apply {2} {COMPOSURE}."
-msgstr "Dépenser <#UPGRADE>{INFLUENCE {1}}</> : Appliquez {2} {COMPOSITION}."
+msgstr "Dépenser <#UPGRADE>{INFLUENCE {1}}</> : Appliquez {2} {COMPOSURE}."
 
 #: CARD.APLOMB_PLUS2.NAME
 #, fuzzy
@@ -9229,7 +9227,7 @@ msgstr "Attitude"
 #, fuzzy
 msgctxt "CARD.BACK_PEDAL.DESC"
 msgid "Expend {1} chosen {1*card|cards} in your hand.\nApply {2} {COMPOSURE}."
-msgstr "Dépenses {1} choisies {1*carte|cartes} dans votre main.\nAppliquez {2} {COMPOSITION}."
+msgstr "Dépenses {1} choisies {1*carte|cartes} dans votre main.\nAppliquez {2} {COMPOSURE}."
 
 #: CARD.BACK_PEDAL.NAME
 #, fuzzy
@@ -9253,7 +9251,7 @@ msgstr "Boosted Pedal"
 #, fuzzy
 msgctxt "CARD.BACK_PEDAL_PLUS2.DESC"
 msgid "Expend <#UPGRADE>up to {1}</> chosen {1*card|cards} in your hand.\nApply {2} {COMPOSURE}."
-msgstr "Dépenses <#UPGRADE>jusqu'à {1}</> choisi {1*card|cards} dans votre main.\nAppliquez {2} {COMPOSITION}."
+msgstr "Dépenses <#UPGRADE>jusqu'à {1}</> choisi {1*card|cards} dans votre main.\nAppliquez {2} {COMPOSURE}."
 
 #: CARD.BACK_PEDAL_PLUS2.NAME
 #, fuzzy
@@ -10195,7 +10193,7 @@ msgstr "Visionary Domineer"
 #, fuzzy
 msgctxt "CARD.DOUBLE_EDGE.DESC"
 msgid "Whenever {1} deals damage, they gain {COMPOSURE} equal to unmitigated damage."
-msgstr "Chaque fois que {1} inflige des dommages, ils gagnent {COMPOSITION} égal aux dommages non atténués."
+msgstr "Chaque fois que {1} inflige des dommages, ils gagnent {COMPOSURE} égal aux dommages non atténués."
 
 #: CARD.DOUBLE_EDGE.NAME
 #, fuzzy
@@ -10434,7 +10432,7 @@ msgstr "Pale Entrapment"
 #, fuzzy
 msgctxt "CARD.ERCHIN_MUSK.DESC"
 msgid "Remove {COMPOSURE} from enemy argument. Gain {DOMINANCE} equal to {COMPOSURE} removed."
-msgstr "Supprimer {COMPOSITION} de l'argument ennemi. Gagniez {DOMINANCE} égal à {COMPOSITION} enlevé."
+msgstr "Supprimer {COMPOSURE} de l'argument ennemi. Gagniez {DOMINANCE} égal à {COMPOSURE} enlevé."
 
 #: CARD.ERCHIN_MUSK.NAME
 #, fuzzy
@@ -11209,7 +11207,7 @@ msgstr "Influence"
 #, fuzzy
 msgctxt "CARD.INSIDER_INFORMATION.DESC"
 msgid "{IMPROVISE} a random uncommon or rare manipulate card. It costs 0 until played."
-msgstr "{IMPROVISE} une carte de manipulation aléatoire peu commune ou rare. Il coûte 0 $ jusqu'à ce qu'il soit joué."
+msgstr "{IMPROVISE} a random uncommon or rare manipulate card. It costs 0 until played."
 
 #: CARD.INSIDER_INFORMATION.NAME
 #, fuzzy
@@ -12721,7 +12719,7 @@ msgstr "Boosted Subtlety"
 #, fuzzy
 msgctxt "CARD.SUMMONS_CARD.DESC"
 msgid "{INCEPT} 1 {planted_summons}. Target gains 1 {IMPATIENCE}."
-msgstr "{INCEPT} 1 {summons_plantés}. Gagniezs cibles 1 {IMPATIENCE}."
+msgstr "{INCEPT} 1 {planted_summons}. Gagniezs cibles 1 {IMPATIENCE}."
 
 #: CARD.SUMMONS_CARD.NAME
 #, fuzzy
@@ -17737,7 +17735,7 @@ msgstr "secrétaire de municipalité:\n!left\n$neutralDirect\nHé, {target}. J'a
 #, fuzzy
 msgctxt "CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_3.DIALOG_START_FRIEND"
 msgid "target:\n!right\n* While {target} might greet you with a wave, {target.heshe} clearly has {target.hisher} guard up once {target.heshe} sees the company you keep.\ntarget:\n!dubious\n$neutralDubious\nHey, {player}. You doing good?\nclerk:\n!left\n$neutralDefault\nOh, you know each other? Well, good. That makes this easier.\n{player} and I are here to collect your taxes, civilian. \nPay up and this all goes easy.\ntarget:\n$angrySeething\nWhat? But I already paid!\nclerk:\n$miscPersuasive\nTsk, lying to your good friend {player}. That's cold.\nWhat do you make of that, {player}?\nplayer:\n!left\n*** {clerk} wants you to collect tax money from {target}."
-msgstr "target:\n!right\n* Alors que {cible} vous accueille avec un signe de bienvenue, {cible.heshe} a visiblement {cible.hisher} à se méfier lorsque {cible.heshe} voit la marque que vous tenez.\ntarget:\n!dubious\n$neutralDubious\nHé, {player}. Tu t'en sors bien?\nclerk:\n!left\n$neutralDefault\nOh, vous vous connaissez? Bien, bien. C'est plus facile.\n{player} et moi sommes ici pour percevoir vos impôts, citoyen. \nPayez et tout ira bien.\ntarget:\n$angrySeething\nQuoi? Mais j'ai déjà payé!\nclerk:\n$miscPersuasive\nTsk, mentir à ton bon ami {player}. C'est rude.\nQu'est-ce que tu en penses, {player}?\nplayer:\n!left\n*** {clerk} veut que vous perceviez l'argent des impôts auprès de {target}."
+msgstr "target:\n!right\n* Alors que {target} vous accueille avec un signe de bienvenue, {cible.heshe} a visiblement {cible.hisher} à se méfier lorsque {cible.heshe} voit la marque que vous tenez.\ntarget:\n!dubious\n$neutralDubious\nHé, {player}. Tu t'en sors bien?\nclerk:\n!left\n$neutralDefault\nOh, vous vous connaissez? Bien, bien. C'est plus facile.\n{player} et moi sommes ici pour percevoir vos impôts, citoyen. \nPayez et tout ira bien.\ntarget:\n$angrySeething\nQuoi? Mais j'ai déjà payé!\nclerk:\n$miscPersuasive\nTsk, mentir à ton bon ami {player}. C'est rude.\nQu'est-ce que tu en penses, {player}?\nplayer:\n!left\n*** {clerk} veut que vous perceviez l'argent des impôts auprès de {target}."
 
 #: CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_3.DIALOG_START_FRIEND_2
 #, fuzzy
@@ -21105,7 +21103,7 @@ msgstr "player:\n!handwave\n$neutralThanks\nNaw, trop chaud. En plus, pas besoin
 #, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_BOON.ASSASSINATE.DIALOG_INTRO"
 msgid "agent:\n!cagey\n$miscHushedUrgent\nPssst, {player}. I've heard you're having some trouble with {1#agent}.\n!wink\n$miscMischievous\nJust so happens I might have a way to make them, uh, go away."
-msgstr "agent:\n!cagey\n$miscHushedUrgent\nPssst, {player}. J'ai entendu dire que tu avais des problèmes avec {agent} de 1.\n!wink\n$miscMischievous\nIl se trouve que j'ai peut-être un moyen de les faire partir."
+msgstr "agent:\n!cagey\n$miscHushedUrgent\nPssst, {player}. J'ai entendu dire que tu avais des problèmes avec {1#agent}.\n!wink\n$miscMischievous\nIl se trouve que j'ai peut-être un moyen de les faire partir."
 
 #: CONVO.OPPO_FRIEND_BOON.ASSASSINATE.OPT_DONT_TAKE
 msgctxt "CONVO.OPPO_FRIEND_BOON.ASSASSINATE.OPT_DONT_TAKE"
@@ -21584,16 +21582,14 @@ msgid "Defend yourself"
 msgstr "Se défendre"
 
 #: CONVO.OPPO_FRIEND_IN_TROUBLE.CONFRONT.OPT_INTERVENE
-#, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_IN_TROUBLE.CONFRONT.OPT_INTERVENE"
 msgid "Save {friend}"
-msgstr "Enregistrer {friend}"
+msgstr "Sauver {friend}"
 
 #: CONVO.OPPO_FRIEND_IN_TROUBLE.CONFRONT.OPT_WAIT
-#, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_IN_TROUBLE.CONFRONT.OPT_WAIT"
 msgid "Wait and see how it plays out"
-msgstr "Attendez et voyez comment il se déroule"
+msgstr "Attends de voir comment ça se passe."
 
 #: CONVO.OPPO_HEALING_SPRING.CONFRONT.DIALOG_DONE
 msgctxt "CONVO.OPPO_HEALING_SPRING.CONFRONT.DIALOG_DONE"
@@ -24705,7 +24701,7 @@ msgstr "Garde:\n!right\nplayer:\n\"Garde\", tu es le videur!\nGarde:\nJe suis en
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1_2.STATE_KASHIO_STUFF.NEGOTIATION_REASON"
 msgid "Convince {1#agent} to help defend the bar"
-msgstr "Convaincre {agent} de 1 pour aider à défendre la barre"
+msgstr "Convaincre {1#agent} pour aider à défendre la barre"
 
 #: CONVO.SAL_STORY_DAY_1_2.STATE_KASHIO_STUFF.OPT_CONVINCE_GOONS_TO_LEAVE
 #, fuzzy
@@ -24729,7 +24725,7 @@ msgstr "Attaquez le goon de Kashio"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1_2.STATE_KASHIO_STUFF.OPT_REQUEST_BACKUP"
 msgid "Convince {1#agent} to help you"
-msgstr "Convaincre {agent} de 1 pour vous aider"
+msgstr "Convaincre {1#agent} pour vous aider"
 
 #: CONVO.SAL_STORY_DAY_1_2.STATE_REWARD.CARD_PICK_SUBTITLE
 #, fuzzy
@@ -25605,7 +25601,7 @@ msgstr "agent:\n!right\n!dubious\n$neutralDubious\nHé, tu n'es pas le petit jou
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_FSSHCAKES.STATE_CONFRONT_ADMIRALTY.DIALOG_INTRO"
 msgid "* It's dark when you arrive. The docks should be closed, but they shimmer with activity.\n* It's not long before you spot why: a ship from the Roaloch is moored in the harbor. No doubt there's a quarantine in place.\n* The guards on duty approach you."
-msgstr "* Il fait noir quand vous arrivez. Les quais doivent être fermés, mais ils scintillent d'activité.\nIl n'est pas long avant que vous ne remarquiez pourquoi : un navire du Roaloch est amarré dans le port. Il y a sans doute une quarantaine en place.\nLes gardes en service s'approchent de vous."
+msgstr "* It's dark when you arrive. The docks should be closed, but they shimmer with activity.\n* It's not long before you spot why: a ship from the Roaloch is moored in the harbor. No doubt there's a quarantine in place.\n* The guards on duty approach you."
 
 #: CONVO.SAL_STORY_FSSHCAKES.STATE_CONFRONT_ADMIRALTY.DIALOG_NEGOTIATE_FAIL
 #, fuzzy
@@ -26955,7 +26951,7 @@ msgstr "night_merchant:\nEt maintenant, comme promis, je vais vous montrer le ch
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_GRAFTS_2.STATE_CONFRONT.DIALOG_INTRO"
 msgid "* {night_merchant} opens the door to a nondescript hovel and ushers you through.\nnight_merchant:\n!left\nSay nothing, {player}, until I tell you to say something.\ntarget: \n!right\n!angry\nI was just looking for you!\nThe graft you sold me... it stopped working!\nnight_merchant:\n!sigh\nThe graft I so graciously extended credit for you to buy?\nI disabled it when you fell behind on your payments.\nAgain.\ntarget:\n!flinch\nI can pay! I have the money!\nnight_merchant:\n!disappoint\nIt's too late for that. I'm losing money just taking the time to talk to you.\n!cruel\nI'm going to need the graft back.\ntarget:\nBut it's - it's installed! They don't just come out unless you...\n...unless you cut them out. You can't make me do that! Please!\ntarget:\n!neutral\nnight_merchant:\n!permit\nI wouldn't dream of asking you to do that to yourself. \nnight_merchant:                    \nWhich is why I brought my friend here. \n\ntarget:\n!scared\nnight_merchant:                                        \n{player}, extract the graft from {target}, if you please.\nplayer:\n!left   \n!wince\nUh...\n*** {night_merchant} has asked you to forcefully remove a graft from {target}."
-msgstr "* Le {marchand de nuit} ouvre la porte à un taudis non descriptif et vous inaugure.\nnight_merchant:\n!left\nNe dis rien, {player}, jusqu'à ce que je te dise quelque chose.\ncible: \n!right\n!angry\nJe te cherchais!\nLa graft que vous m'avez vendue... il a cessé de fonctionner!\nnight_merchant:\n!sigh\nLa graft que j'ai si gracieusement accordé pour que tu achètes?\nJe l'ai désactivé quand tu as pris du retard sur tes paiements.\nà nouveau.\ntarget:\n!flinch\nJe peux payer! J'ai l'argent!\nnight_merchant:\n!disappoint\nC'est trop tard pour ça. Je perds de l'argent en prenant le temps de te parler.\n!cruel\nJe vais avoir besoin de la graft.\ntarget:\nMais c'est - il est installé! Ils ne sortent pas seulement à moins que vous ...\n... à moins que vous ne les coupiez. Tu ne peux pas me faire faire ça! S'il vous plaît!\ntarget:\n!neutral\nnight_merchant:\n!permit\nJe ne rêverais pas de te demander de te faire ça. \nnight_merchant:                    \nC'est pour ça que j'ai amené mon ami ici. \n\ntarget:\n!scared\nnight_merchant:                                        \n{player}, extraire la graft de {target}, s'il vous plaît.\nplayer:\n!left   \n!wince\nEuh...\n{night_merchant} vous a demandé d'enlever de force une graft de {target}."
+msgstr "* Le {night_merchant} ouvre la porte à un taudis non descriptif et vous inaugure.\nnight_merchant:\n!left\nNe dis rien, {player}, jusqu'à ce que je te dise quelque chose.\ncible: \n!right\n!angry\nJe te cherchais!\nLa graft que vous m'avez vendue... il a cessé de fonctionner!\nnight_merchant:\n!sigh\nLa graft que j'ai si gracieusement accordé pour que tu achètes?\nJe l'ai désactivé quand tu as pris du retard sur tes paiements.\nà nouveau.\ntarget:\n!flinch\nJe peux payer! J'ai l'argent!\nnight_merchant:\n!disappoint\nC'est trop tard pour ça. Je perds de l'argent en prenant le temps de te parler.\n!cruel\nJe vais avoir besoin de la graft.\ntarget:\nMais c'est - il est installé! Ils ne sortent pas seulement à moins que vous ...\n... à moins que vous ne les coupiez. Tu ne peux pas me faire faire ça! S'il vous plaît!\ntarget:\n!neutral\nnight_merchant:\n!permit\nJe ne rêverais pas de te demander de te faire ça. \nnight_merchant:                    \nC'est pour ça que j'ai amené mon ami ici. \n\ntarget:\n!scared\nnight_merchant:                                        \n{player}, extraire la graft de {target}, s'il vous plaît.\nplayer:\n!left   \n!wince\nEuh...\n{night_merchant} vous a demandé d'enlever de force une graft de {target}."
 
 #: CONVO.SAL_STORY_MERCHANT_GRAFTS_2.STATE_CONFRONT.DIALOG_REFUSE
 #, fuzzy
@@ -27005,13 +27001,13 @@ msgstr "Prendre {1#graft}"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_GRAFTS_3.STATE_CONFRONT.DIALOG_INTRO"
 msgid "player:\n!left\n!dubious\n$miscMocking\nThis is it, huh? Pretty modest.\nnight_merchant:\n!right\n!chuckle\n$happyCocky\nPeople don't come here for the ambiance.\nThey come here for the goods they can't get anywhere else.\n** {night_merchant} now likes you, and will offer you discounts on {night_merchant.hisher} shop."
-msgstr "player:\n!left\n!dubious\n$miscMocking\nC'est ça, hein? Assez modeste.\nnight_merchant:\n!right\n!chuckle\n$happyCocky\nLes gens ne viennent pas ici pour l'ambiance.\nIls viennent ici pour les marchandises qu'ils ne peuvent obtenir nulle part ailleurs.\nLe magasin {night_merchant} vous plait et vous offrira des rabais sur la boutique {night-merchant.hisher}."
+msgstr "player:\n!left\n!dubious\n$miscMocking\nC'est ça, hein? Assez modeste.\nnight_merchant:\n!right\n!chuckle\n$happyCocky\nLes gens ne viennent pas ici pour l'ambiance.\nIls viennent ici pour les marchandises qu'ils ne peuvent obtenir nulle part ailleurs.\n** Le magasin {night_merchant} vous plait et vous offrira des rabais sur la boutique {night-merchant.hisher}."
 
 #: CONVO.SAL_STORY_MERCHANT_NEGOTIATION.DIALOG_AGREE
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_NEGOTIATION.DIALOG_AGREE"
 msgid "player:\n!happy\nSure. Plus you made it sound so exciting.\nnight_merchant:\n!agree\nYou're the thrillseeker, and I'm the client. Let's go.\n\n* {night_merchant} joins you.\n\nother_merchant:\n!right\n%merchant_rejected"
-msgstr "player:\n!happy\nne pas manquer de. De plus, tu l'as fait paraître si excitant.\nnight_merchant:\n!agree\nVous êtes le chercheur de sensations fortes, et je suis le client. Allons-y.\n\nLe {night_merchant} vous rejoint.\n\nd'autres marchands :\n!right\n%de marchands rejetés"
+msgstr "player:\n!happy\nSure. Plus you made it sound so exciting.\nnight_merchant:\n!agree\nYou're the thrillseeker, and I'm the client. Let's go.\n\n* {night_merchant} joins you.\n\nother_merchant:\n!right\n%merchant_rejected"
 
 #: CONVO.SAL_STORY_MERCHANT_NEGOTIATION.DIALOG_DISAGREE
 #, fuzzy
@@ -27079,7 +27075,7 @@ msgstr "Se défendre"
 #, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_NEGOTIATION_3.STATE_CONFRONT.DIALOG_INTRO"
 msgid "player:\n!left\n!dubious\n$miscMocking\nThis is it, huh? Pretty modest.\nnight_merchant:\n!right\n!chuckle\n$happyCocky\nIt doesn't exist for the decor, friend. But the goods are top notch. Duty-free, law-free: the best of the best.\nAnd now you're welcome to do your shopping.\n!agree\n$happyThanks\nThanks, Sal. Fssh was right: you do good work.\n** {night_merchant} now likes you, and will offer you discounts on {night_merchant.hisher} shop."
-msgstr "player:\n!left\n!dubious\n$miscMocking\nC'est ça, hein? Assez modeste.\nnight_merchant:\n!right\n!chuckle\n$happyCocky\nIl n'existe pas pour le décor, mon ami. Mais les marchandises sont de premier ordre. En franchise de droits, en franchise de droit : le meilleur des meilleurs.\nEt maintenant vous êtes les bienvenus pour faire vos courses.\n!agree\n$happyThanks\nMerci, Sal. Fssh avait raison : vous faites du bon travail.\nLe magasin {night_merchant} vous plait et vous offrira des rabais sur la boutique {night-merchant.hisher}."
+msgstr "player:\n!left\n!dubious\n$miscMocking\nThis is it, huh? Pretty modest.\nnight_merchant:\n!right\n!chuckle\n$happyCocky\nIt doesn't exist for the decor, friend. But the goods are top notch. Duty-free, law-free: the best of the best.\nAnd now you're welcome to do your shopping.\n!agree\n$happyThanks\nThanks, Sal. Fssh was right: you do good work.\n** {night_merchant} now likes you, and will offer you discounts on {night_merchant.hisher} shop."
 
 #: CONVO.SAL_STORY_MERCS.DIALOG_HIRED
 #, fuzzy
@@ -28555,7 +28551,7 @@ msgstr "Fournir l'argent de {target}"
 #, fuzzy
 msgctxt "CONVO.SIDE_DELIVER_SUMMONS.STATE_ATTRACT.DIAL_TXT"
 msgid "player:\n!greeting\n$neutralGreeting\nHey, are you—\nagent:\n!interest\n$scaredDefault\nYou're not Admiralty, right?\nplayer:\n!dubious\n$neutralDubious\nDo I <i>look</i> like—\nagent:\n!point\n$scaredFearful\nYou have to tell me if I ask!"
-msgstr "player:\n!greeting\n$neutralGreeting\nHé, tu es.\nagent:\n!interest\n$scaredDefault\nVous n'êtes pas Admiralty, n'est-ce pas?\nplayer:\n!dubious\n$neutralDubious\nEst-ce que j' <i>ai l'air</i> de.\nagent:\n!point\n$scaredFearful\nTu dois me le dire si je te le demande!"
+msgstr "player:\n!greeting\n$neutralGreeting\nHé, tu es.\nagent:\n!interest\n$scaredDefault\nVous n'êtes pas de l'Admiralty, n'est-ce pas?\nplayer:\n!dubious\n$neutralDubious\nEst-ce que <i>j'ai l'air</i> de.\nagent:\n!point\n$scaredFearful\nTu dois me le dire si je te le demande!"
 
 #: CONVO.SIDE_DELIVER_SUMMONS_2.DIALOG_FORCE_KILLED
 #, fuzzy
@@ -31548,10 +31544,9 @@ msgid "Upgrade a battle card..."
 msgstr "Améliorez une carte de combat"
 
 #: CONVO_COMMON.OPT_UPGRADE_NEGOTIATION_CARD
-#, fuzzy
 msgctxt "CONVO_COMMON.OPT_UPGRADE_NEGOTIATION_CARD"
 msgid "Upgrade a negotiation card..."
-msgstr "Mettre à jour une carte de négociation...."
+msgstr "Améliorez une carte de négociation...."
 
 #: CONVO_COMMON.PARTY_FULL
 #, fuzzy
@@ -33145,7 +33140,7 @@ msgstr "Santé fragile"
 #, fuzzy
 msgctxt "GRAFT.FRAGMENTER.DESC"
 msgid "Whenever you discard a card, apply 1 {WOUND} to a random enemy."
-msgstr "Chaque fois que vous jetez une carte, appliquez {1}WOUND' à un ennemi aléatoire."
+msgstr "Chaque fois que vous jetez une carte, appliquez 1 {WOUND} à un ennemi aléatoire."
 
 #: GRAFT.FRAGMENTER.NAME
 #, fuzzy
@@ -34184,7 +34179,7 @@ msgstr "Un dortoir d'amirauté standard."
 #, fuzzy
 msgctxt "LOCATION.BASIC_DORM.NAME"
 msgid "{1#agent}'s Dorm"
-msgstr "Dortoir de {agent} de 1"
+msgstr "Dortoir de {1#agent}"
 
 #: LOCATION.BUILDING_EXTERIOR.NAME
 #, fuzzy
@@ -34446,7 +34441,7 @@ msgstr "Le premier point d'entrée pour toute personne entrant Havaria."
 #, fuzzy
 msgctxt "LOCATION.MURDER_BAY_HARBOUR.NAME"
 msgid "Harbour"
-msgstr "Le port"
+msgstr "Harbour"
 
 #: LOCATION.MURDER_BAY_HESH_OUTPOST.NAME
 #, fuzzy
@@ -34554,7 +34549,7 @@ msgstr "Spot tranquille"
 #, fuzzy
 msgctxt "LOCATION.OUTDOORS.NAME"
 msgid "{1#agent}'s location"
-msgstr "Emplacement de {agent} de 1"
+msgstr "Emplacement de {1#agent}"
 
 #: LOCATION.PRISONER_EXCHANGE_EXCHANGE_POINT.DESC
 #, fuzzy
@@ -34776,7 +34771,7 @@ msgstr "Une tente simple"
 #, fuzzy
 msgctxt "LOCATION.SPREE_TENT.NAME"
 msgid "{1#agent}'s Campsite"
-msgstr "Camping de {agent} de 1"
+msgstr "Camping de {1#agent}"
 
 #: LOCATION.THIEF_CAMP.DESC
 #, fuzzy
@@ -35230,7 +35225,7 @@ msgstr "Appliquez {COMPOSURE 3} à votre {INFLUENCE} au début de votre tour."
 #, fuzzy
 msgctxt "MODIFIER.COOL_HEAD.NAME"
 msgid "Cool Head"
-msgstr "Gagne: {COOL_HEAD}.\n{EVOKE}: play {1} Diplomacy cards in a row. ({2} played)"
+msgstr "Cool Head"
 
 #: MODIFIER.CRAFTY.DESC
 #, fuzzy
@@ -35284,7 +35279,7 @@ msgstr "Délégué"
 #, fuzzy
 msgctxt "MODIFIER.DISCOUNT.DESC"
 msgid "{BRIBE} cards cost {1#percent} less."
-msgstr "Les cartes 'BRIBE' coûtent 1 pour cent de moins."
+msgstr "{BRIBE} cards cost {1#percent} less."
 
 #: MODIFIER.DISCOUNT.NAME
 #, fuzzy
@@ -35626,7 +35621,7 @@ msgstr "Impatience"
 #, fuzzy
 msgctxt "MODIFIER.IMPENDING_DOOM.DESC"
 msgid "When destroyed, gives {1} {2} {2*stack|stacks} of Existential Crisis in the next fight. When destroyed, {1} gains {IMPATIENCE 1}.\n\n<#PENALTY>If you lose the negotiation, all dread is lost!</>"
-msgstr "Lorsqu'il est détruit, donne '{1}2 '2 'stack'stacks'de crise existentielle dans le prochain combat. Lorsqu'il est détruit, le {1} gagne {IMPATIENCE 1}.\n\n#PENALTY Si vous perdez la négociation, toute crainte est perdue!"
+msgstr "Lorsqu'il est détruit, donne '{1}2 '2 'stack'stacks'de crise existentielle dans le prochain combat. Lorsqu'il est détruit, le {1} gagne {IMPATIENCE 1}.\n\n<#PENALTY> Si vous perdez la négociation, toute crainte est perdue!"
 
 #: MODIFIER.IMPENDING_DOOM.NAME
 #, fuzzy
@@ -35945,7 +35940,7 @@ msgstr "Preuves apportées"
 #, fuzzy
 msgctxt "MODIFIER.PLANTED_SUMMONS.DESC"
 msgid "Reduce by {1} at end of your turn.\nWhen destroyed, returns to your draw pile.\n\n<#PENALTY>This must be attached to your opponent at the end of the negotiation to succeed!</>"
-msgstr "Réduisez par {1} à la fin de votre tour.\nUne fois détruit, retourne à votre pioche.\n\n#PENALTY-Ceci doit être attaché à votre adversaire à la fin de la négociation pour réussir!"
+msgstr "Réduisez par {1} à la fin de votre tour.\nUne fois détruit, retourne à votre pioche.\n\n<#PENALTY>-Ceci doit être attaché à votre adversaire à la fin de la négociation pour réussir!"
 
 #: MODIFIER.PLANTED_SUMMONS.NAME
 #, fuzzy
@@ -36601,7 +36596,7 @@ msgstr "Os fatigué"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.BONUS_PAYMENT.DESC"
 msgid "When destroyed, add {1#money} to your bonus\nReduce by {2#percent} at end of your turn.\nWhen destroyed, {4} gains {IMPATIENCE 1}.\n\n<#PENALTY>If you lose the negotiation, you lose all bonuses!</>"
-msgstr "Une fois détruit, ajoutez {1#money} à votre bonus\nRéduisez de {2#percent} à la fin de votre tour.\nLorsqu'il est détruit, {4} gagne {IMPATIENCE 1}.\n\n#PENALTY Si vous perdez la négociation, vous perdez tous les bonus!"
+msgstr "Une fois détruit, ajoutez {1#money} à votre bonus\nRéduisez de {2#percent} à la fin de votre tour.\nLorsqu'il est détruit, {4} gagne {IMPATIENCE 1}.\n\n<#PENALTY> Si vous perdez la négociation, vous perdez tous les bonus!"
 
 #: NEGOTIATION_FEATURE.BONUS_PAYMENT.NAME
 #, fuzzy
@@ -36791,7 +36786,7 @@ msgstr "Appliquez {COMPOSURE 3} à votre {INFLUENCE} au début de votre tour."
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.COOL_HEAD.NAME"
 msgid "Cool Head"
-msgstr "Gagne: {COOL_HEAD}.\n{EVOKE}: play {1} Diplomacy cards in a row. ({2} played)"
+msgstr "Cool Head"
 
 #: NEGOTIATION_FEATURE.CRAFTY.DESC
 #, fuzzy
@@ -37029,7 +37024,7 @@ msgstr "Jouez cette carte de votre main ou tirez la pile gratuitement lorsque le
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.EVOKE.NAME"
 msgid "Evoke"
-msgstr "Gagne: {COOL_HEAD}.\n{EVOKE}: play {1} Diplomacy cards in a row. ({2} played)"
+msgstr "Evoke"
 
 #: NEGOTIATION_FEATURE.EXPEND.DESC
 msgctxt "NEGOTIATION_FEATURE.EXPEND.DESC"
@@ -37295,7 +37290,7 @@ msgstr "Impatience"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.IMPENDING_DOOM.DESC"
 msgid "When destroyed, gives {1} {2} {2*stack|stacks} of Existential Crisis in the next fight. When destroyed, {1} gains {IMPATIENCE 1}.\n\n<#PENALTY>If you lose the negotiation, all dread is lost!</>"
-msgstr "Lorsqu'il est détruit, donne '{1}2 '2 'stack'stacks'de crise existentielle dans le prochain combat. Lorsqu'il est détruit, le {1} gagne {IMPATIENCE 1}.\n\n#PENALTY Si vous perdez la négociation, toute crainte est perdue!"
+msgstr "Lorsqu'il est détruit, donne '{1}2 '2 'stack'stacks'de crise existentielle dans le prochain combat. Lorsqu'il est détruit, le {1} gagne {IMPATIENCE 1}.\n\n<#PENALTY> Si vous perdez la négociation, toute crainte est perdue!"
 
 #: NEGOTIATION_FEATURE.IMPENDING_DOOM.NAME
 #, fuzzy
@@ -37656,7 +37651,7 @@ msgstr "Preuves apportées"
 #, fuzzy
 msgctxt "NEGOTIATION_FEATURE.PLANTED_SUMMONS.DESC"
 msgid "Reduce by {1} at end of your turn.\nWhen destroyed, returns to your draw pile.\n\n<#PENALTY>This must be attached to your opponent at the end of the negotiation to succeed!</>"
-msgstr "Réduisez par {1} à la fin de votre tour.\nUne fois détruit, retourne à votre pioche.\n\n#PENALTY-Ceci doit être attaché à votre adversaire à la fin de la négociation pour réussir!"
+msgstr "Réduisez par {1} à la fin de votre tour.\nUne fois détruit, retourne à votre pioche.\n\n<#PENALTY>-Ceci doit être attaché à votre adversaire à la fin de la négociation pour réussir!"
 
 #: NEGOTIATION_FEATURE.PLANTED_SUMMONS.NAME
 #, fuzzy
@@ -40164,13 +40159,13 @@ msgstr "Retour au Grog"
 #, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_2.OBJECTIVE.PICK_ADMIRALTY.DESC"
 msgid "{fssh} suggests that {admiralty_contact} can get you in the front door of the auction, but you're going to have to stooge for Admiralty to get {admiralty_contact.hisher} help.\n\nThe Admiralty is what passes for government around here, but they comport themselves more like an occupying army.\n\nDon't expect to make a lot of friends amongst the people if you pick this side."
-msgstr "\"fssh\" suggère que \"admiralty_contact\" peut vous mettre dans la porte d'entrée de la vente aux enchères, mais vous allez avoir à se pencher pour Admiralty pour obtenir l'aide de 'admiralty_contact.hisher'.\n\nL'Admiralty est ce qui passe pour le gouvernement ici, mais ils se comportent plus comme une armée d'occupation.\n\nNe vous attendez pas à faire beaucoup d'amis parmi les gens si vous Choisir ce côté."
+msgstr "{fssh} suggests that {admiralty_contact} can get you in the front door of the auction, but you're going to have to stooge for Admiralty to get {admiralty_contact.hisher} help.\n\nThe Admiralty is what passes for government around here, but they comport themselves more like an occupying army.\n\nDon't expect to make a lot of friends amongst the people if you pick this side."
 
 #: QUEST.SAL_STORY_DAY_2.OBJECTIVE.PICK_ADMIRALTY.TITLE
 #, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_2.OBJECTIVE.PICK_ADMIRALTY.TITLE"
 msgid "Meet with {admiralty_contact}"
-msgstr "Rencontrez le admiralty_contact"
+msgstr "Rencontrez le {admiralty_contact}"
 
 #: QUEST.SAL_STORY_DAY_2.OBJECTIVE.PICK_A_SIDE_JOB.DESC
 #, fuzzy
@@ -40188,19 +40183,19 @@ msgstr "Choisir un emploi"
 #, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_2.OBJECTIVE.PICK_SPREE.DESC"
 msgid "{fssh} says that {bandit_contact} can sneak you into the auction if you do some work for the Spree.\n\nThe Spree is a loosely organized band of outlaws and raiders that survive on the outskirts of Admiralty territory. They rob from pretty much everyone, and give mostly to themselves.\n\nBe prepared to run afoul of the law if you choose this path."
-msgstr "\"fssh\" dit que \"bandit_contact\" peut vous faufiler dans la vente aux enchères si vous faites un peu de travail pour la Spree.\n\nLe Spree est une bande de hors-la-loi et de pillards qui survivent à la périphérie du territoire de Admiralty. Ils volent de presque tout le monde, et donnent la plupart du temps à eux-mêmes.\n\nSoyez prêt à aller à l'encontre de la loi si vous Choisir cette voie."
+msgstr "{fssh} says that {bandit_contact} can sneak you into the auction if you do some work for the Spree.\n\nThe Spree is a loosely organized band of outlaws and raiders that survive on the outskirts of Admiralty territory. They rob from pretty much everyone, and give mostly to themselves.\n\nBe prepared to run afoul of the law if you choose this path."
 
 #: QUEST.SAL_STORY_DAY_2.OBJECTIVE.PICK_SPREE.TITLE
 #, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_2.OBJECTIVE.PICK_SPREE.TITLE"
 msgid "Meet with {bandit_contact}"
-msgstr "Rencontrez le bandit_contact"
+msgstr "Rencontrez le {bandit_contact}"
 
 #: QUEST.SAL_STORY_DAY_2.TITLE
 #, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_2.TITLE"
 msgid "Picking Sides"
-msgstr "Choisir les côtés"
+msgstr "Choisir votre faction"
 
 #: QUEST.SAL_STORY_DAY_3.DESC
 #, fuzzy
@@ -46775,13 +46770,13 @@ msgstr "Passer (Gagne {1#money})"
 #, fuzzy
 msgctxt "UI.CARDS.TAKE_SUPPORTERS_EMPTY"
 msgid "<#PENALTY>You have no supporters on your side.</>"
-msgstr "#PENALTY, vous n'avez pas de partisans de votre côté."
+msgstr "<#PENALTY>You have no supporters on your side.</>"
 
 #: UI.CARDS.TAKE_SUPPORTERS_NONEMPTY
 #, fuzzy
 msgctxt "UI.CARDS.TAKE_SUPPORTERS_NONEMPTY"
 msgid "Start the battle with {1#agent_list} on your side."
-msgstr "Commencez le combat avec 1 agent_list de votre côté."
+msgstr "Commencez le combat avec {1#agent_list} de votre côté."
 
 #: UI.CARDS.TRASH_DECK_DIALOG_SUBTITLE
 #, fuzzy
@@ -47102,7 +47097,7 @@ msgstr "Prestige supérieur disponible"
 #, fuzzy
 msgctxt "UI.CHARACTER_SELECT_DETAILS_PANEL.LOCKED"
 msgid "<#PENALTY>Locked</>"
-msgstr "#PENALTY'Locked/"
+msgstr "<#PENALTY>Locked</>"
 
 #: UI.CHARACTER_SELECT_DETAILS_PANEL.OUTFIT
 msgctxt "UI.CHARACTER_SELECT_DETAILS_PANEL.OUTFIT"
@@ -47877,10 +47872,9 @@ msgid "Decline"
 msgstr "Refuser"
 
 #: UI.DRAFT_SCREEN.MONEY_BTN_TT
-#, fuzzy
 msgctxt "UI.DRAFT_SCREEN.MONEY_BTN_TT"
 msgid "Skip the card and gain {1#money}\nThis might be the best option sometimes."
-msgstr "Passer les cartes et Gagnez {1#money}\nC'est peut-être la meilleure option, parfois.."
+msgstr "Ignorer les cartes et gagnez {1#money}\nC'est peut-être la meilleure option, parfois.."
 
 #: UI.DRAFT_SCREEN.NEGOTIATION_ADDCARD_TITLE
 msgctxt "UI.DRAFT_SCREEN.NEGOTIATION_ADDCARD_TITLE"
@@ -51541,7 +51535,7 @@ msgstr "Retirer une carte de l'un de vos decks"
 #, fuzzy
 msgctxt "UI.REWARDS_WIDGET.RESTORATION_DESC"
 msgid "Restore <#HEALTH>{1} health</> or <#RESOLVE>{2} resolve</>"
-msgstr "Restaurer <#HEALTH>{1} desanté</> ou <#RESOLVE>{2} de Détermination</>"
+msgstr "Restaurer <#HEALTH>{1} de santé</> ou <#RESOLVE>{2} de Détermination</>"
 
 #: UI.REWARDS_WIDGET.RESTORATION_TITLE
 msgctxt "UI.REWARDS_WIDGET.RESTORATION_TITLE"
@@ -52035,7 +52029,7 @@ msgstr "<#TITLE>Raison:</> <#TOOLTIP_TEXT>{1}</>"
 #, fuzzy
 msgctxt "UI.SOCIAL_GRAFT_SCREEN.SUBTITLE_HATED"
 msgid "You've incurred {1.hisher} fury, and will likely face the consequences."
-msgstr "Vous avez provoqué la fureur du {1.hisher} et vous devrez probablement en subir les conséquences."
+msgstr "Vous avez provoqué la fureur de {1.hisher} et vous devrez probablement en subir les conséquences."
 
 #: UI.SOCIAL_GRAFT_SCREEN.SUBTITLE_LOVED
 #, fuzzy
