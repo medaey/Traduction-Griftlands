@@ -79,7 +79,6 @@ msgid "{1.Who} dislikes you!"
 msgstr "{1.Who} vous déteste!"
 
 #: AGENT.IS_YOUR_PET
-#, fuzzy
 msgctxt "AGENT.IS_YOUR_PET"
 msgid "{1#agent} is your pet!"
 msgstr "{1#agent} est votre animal de compagnie!"
@@ -3028,7 +3027,6 @@ msgid "Heshian Amulet"
 msgstr "Amulette de Hesse"
 
 #: ATTACK.HESHIAN_MASK.DESC
-#, fuzzy
 msgctxt "ATTACK.HESHIAN_MASK.DESC"
 msgid "Gain {1} {POWER} until the end of your turn."
 msgstr "Gagniez {1} {POWER} jusqu'à la fin de votre tour."
@@ -3094,10 +3092,9 @@ msgid "'Getting rid of the wrong thing is almost as good as getting the right th
 msgstr "'Se débarrasser de la mauvaise chose est presque aussi bon que d'avoir la bonne chose'"
 
 #: ATTACK.IMPROVISE_DISCARD.NAME
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_DISCARD.NAME"
 msgid "Scrapper"
-msgstr "Grattoir"
+msgstr "Scrapper"
 
 #: ATTACK.IMPROVISE_DISCARD_UPGRADED.DESC
 #, fuzzy
@@ -3246,22 +3243,19 @@ msgid "'And stay down!'"
 msgstr "'Et restez à terre!'"
 
 #: ATTACK.IMPROVISE_TRIP.NAME
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_TRIP.NAME"
 msgid "Trip"
 msgstr "Voyage"
 
 #: ATTACK.IMPROVISE_TRIP_UPGRADED.NAME
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_TRIP_UPGRADED.NAME"
 msgid "Boosted Trip"
 msgstr "Voyage boosté"
 
 #: ATTACK.INCITE.DESC
-#, fuzzy
 msgctxt "ATTACK.INCITE.DESC"
 msgid "Apply 3 {POWER} to an ally with less than 50% health."
-msgstr "Appliquez 3 {POWER} à un allié dont la santé est inférieure à 50%."
+msgstr "Appliquez 3 {POWER} à un allié avec moins de 50% de santé."
 
 #: ATTACK.INCITE.NAME
 #, fuzzy
@@ -3270,10 +3264,9 @@ msgid "Incite"
 msgstr "Inciter"
 
 #: ATTACK.INSIDE_FIGHTING.DESC
-#, fuzzy
 msgctxt "ATTACK.INSIDE_FIGHTING.DESC"
 msgid "{ABILITY}: Whenever you attack, gain {COMBO 1}."
-msgstr "{ABILITY}: Chaque fois que vous attaquez, gagner {COMBO 1}."
+msgstr "{ABILITY}: Chaque fois que vous attaquez, gagnez {COMBO 1}."
 
 #: ATTACK.INSIDE_FIGHTING.NAME
 #, fuzzy
@@ -3282,10 +3275,9 @@ msgid "Inside Fighting"
 msgstr "Combat intérieur"
 
 #: ATTACK.INSIDE_FIGHTING_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.INSIDE_FIGHTING_PLUS.DESC"
 msgid "{ABILITY}: Whenever you attack, gain {COMBO 1}.\n<#UPGRADE>{AMBUSH}</>, {EXPEND}"
-msgstr "{ABILITY}: À chaque attaque, gagne {COMBO 1}.\n <#UPGRADE>{AMBUSH}</>, {EXPEND}"
+msgstr "{ABILITY}: Chaque fois que vous attaquez, gagnez {COMBO 1}.\n <#UPGRADE>{AMBUSH}</>, {EXPEND}"
 
 #: ATTACK.INSIDE_FIGHTING_PLUS.NAME
 #, fuzzy
@@ -3294,10 +3286,9 @@ msgid "Initial Inside Fighting"
 msgstr "Combat intérieur initial"
 
 #: ATTACK.INSIDE_FIGHTING_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.INSIDE_FIGHTING_PLUS2.DESC"
 msgid "{ABILITY}: Whenever you attack, gain {COMBO 1}.\n<#UPGRADE>Gain {COMBO 2}.</>"
-msgstr "{ABILITY}: Chaque fois que vous attaquez, gagner {COMBO 1}.\n <#UPGRADE> Gagne {COMBO 2}.</>"
+msgstr "{ABILITY}: Chaque fois que vous attaquez, gagnez {COMBO 1}.\n <#UPGRADE> Gagnez {COMBO 2}.</>"
 
 #: ATTACK.INSIDE_FIGHTING_PLUS2.NAME
 #, fuzzy
@@ -3306,7 +3297,6 @@ msgid "Broad Inside Fighting"
 msgstr "Combat intérieur à grande échelle"
 
 #: ATTACK.INTO_THE_NIGHT.DESC
-#, fuzzy
 msgctxt "ATTACK.INTO_THE_NIGHT.DESC"
 msgid "{ABILITY}: Whenever you discard a card, gain 2 {DEFEND}."
 msgstr "{ABILITY}: Chaque fois que vous défaussez une carte, gagner 2 {DEFEND}."
@@ -3318,7 +3308,6 @@ msgid "Into the Night"
 msgstr "Dans la nuit"
 
 #: ATTACK.INTO_THE_NIGHT_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.INTO_THE_NIGHT_PLUS.DESC"
 msgid "{ABILITY}: Whenever you discard a card, gain <#UPGRADE>3 {DEFEND}</>."
 msgstr "{ABILITY}: Chaque fois que vous défaussez une carte, gagner <#UPGRADE>3 {DEFEND}</>."
@@ -3330,7 +3319,6 @@ msgid "Stone Into the Night"
 msgstr "La pierre dans la nuit"
 
 #: ATTACK.INTO_THE_NIGHT_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.INTO_THE_NIGHT_PLUS2.DESC"
 msgid "{ABILITY}: Whenever you discard a card, gain 2 {DEFEND}.\n<#UPGRADE>{AMBUSH}</>, {EXPEND}"
 msgstr "{ABILITY}: Chaque fois que vous défaussez une carte, gagner 2 {DEFEND}.\n<#UPGRADE>{AMBUSH}</>, {EXPEND}"
@@ -3348,10 +3336,9 @@ msgid "Invigorate"
 msgstr "Revigorer"
 
 #: ATTACK.JAB.DESC
-#, fuzzy
 msgctxt "ATTACK.JAB.DESC"
 msgid "Gain {COMBO 1} for every 2 cards in your hand.\n{1}"
-msgstr "Gagnez {COMBO 1} pour 2 cartes de votre main.\n{1}"
+msgstr "Gagnez {COMBO 1} pour chaque 2 cartes dans votre main.\n{1}"
 
 #: ATTACK.JAB.NAME
 #, fuzzy
@@ -3360,10 +3347,9 @@ msgid "Hilt Bash"
 msgstr "Bash de poignée"
 
 #: ATTACK.JAB_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.JAB_PLUS.DESC"
 msgid "Gain {COMBO 1} for every 2 cards in your hand <#UPGRADE>+ 1.</>\n{1}"
-msgstr "Gagnez {COMBO 1} pour 2 cartes de votre main <#UPGRADE>+ 1.</>\n{1}"
+msgstr "Gagnez {COMBO 1} pour chaque 2 cartes dans votre main <#UPGRADE>+ 1.</>\n{1}"
 
 #: ATTACK.JAB_PLUS.NAME
 #, fuzzy
@@ -3372,10 +3358,9 @@ msgid "Rival's Hilt Bash"
 msgstr "Rival's Hilt Bash"
 
 #: ATTACK.JAB_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.JAB_PLUS2.DESC"
 msgid "Gain {COMBO 1} for every 2 cards in your hand.\n{1}"
-msgstr "Gagnez {COMBO 1} pour 2 cartes de votre main.\n{1}"
+msgstr "Gagnez {COMBO 1} pour chaque 2 cartes dans votre main.\n{1}"
 
 #: ATTACK.JAB_PLUS2.NAME
 #, fuzzy
@@ -3456,7 +3441,6 @@ msgid "Boosted Kradeshi Barbstorm"
 msgstr "Stimulé Kradeshi Barbstorm Boosted"
 
 #: ATTACK.KRILL_ICHOR.DESC
-#, fuzzy
 msgctxt "ATTACK.KRILL_ICHOR.DESC"
 msgid "Gain {1} {POWER} and {KRILLED_UP}."
 msgstr "Ganez {1} {POWER} et {KRILLED_UP}."
@@ -3490,10 +3474,9 @@ msgid "Boosted Lacerate"
 msgstr "Boosted Lacerate"
 
 #: ATTACK.LACERATE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.LACERATE_PLUS2.DESC"
 msgid "If the target has {BLEED}, apply {1} {BLEED}."
-msgstr "Si {target} a {BLEED}, appliquez {1} {BLEED}."
+msgstr "Si la cible {BLEED} déja, appliquez {1} {BLEED}."
 
 #: ATTACK.LACERATE_PLUS2.NAME
 #, fuzzy
@@ -3502,10 +3485,9 @@ msgid "Savage Lacerate"
 msgstr "Savage Lacerate"
 
 #: ATTACK.LEECH.DESC
-#, fuzzy
 msgctxt "ATTACK.LEECH.DESC"
 msgid "Restore 1 health per {BLEED} on the target.\n{EXPEND}"
-msgstr "Restaure 1 santé par {BLEED} sur {target}.\n {EXPEND}"
+msgstr "Restaurez 1 santé par {BLEED} sur la cible.\n{EXPEND}"
 
 #: ATTACK.LEECH.NAME
 #, fuzzy
@@ -3514,10 +3496,9 @@ msgid "Leech"
 msgstr "Sangsue"
 
 #: ATTACK.LEECH_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.LEECH_PLUS.DESC"
 msgid "Restore <#UPGRADE>2 health</> per {BLEED} on the target\n{EXPEND}"
-msgstr "Restaurer <#UPGRADE>2 santé</> par {BLEED} sur {target}\n{EXPEND}"
+msgstr "Restaurez <#UPGRADE>2 santé</> par {BLEED} sur la cible.\n{EXPEND}"
 
 #: ATTACK.LEECH_PLUS.NAME
 #, fuzzy
@@ -3526,10 +3507,9 @@ msgid "Boosted Leech"
 msgstr "Sangsue boostée"
 
 #: ATTACK.LEECH_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.LEECH_PLUS2.DESC"
 msgid "Restore 1 health per {BLEED} on the target.\n{EXPEND}"
-msgstr "Restaure 1 santé par {BLEED} sur {target}.\n{EXPEND}"
+msgstr "Restore 1 health per {BLEED} on the target.\n{EXPEND}"
 
 #: ATTACK.LEECH_PLUS2.NAME
 #, fuzzy
@@ -3579,7 +3559,6 @@ msgid "Lumin Grenade"
 msgstr "Grenade Flash"
 
 #: ATTACK.MAKESHIFT_DAGGER.DESC
-#, fuzzy
 msgctxt "ATTACK.MAKESHIFT_DAGGER.DESC"
 msgid "Apply 1 {WOUND}.\n50% chance to {CONSUME} this card."
 msgstr "Appliquez 1 {WOUND}.\n50% de chances de {CONSUME} cette carte."
@@ -3591,7 +3570,6 @@ msgid "Makeshift Dagger"
 msgstr "Poignard de fortune"
 
 #: ATTACK.MANDIBLE.DESC
-#, fuzzy
 msgctxt "ATTACK.MANDIBLE.DESC"
 msgid "Apply {CRIPPLE} equal to damage dealt by this card."
 msgstr "Appliquez {CRIPPLE} égal aux dommages infligés par cette carte."
@@ -3655,10 +3633,9 @@ msgid "Muscle Memory"
 msgstr "Mémoire musculaire"
 
 #: ATTACK.MUSCLE_MEMORY_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.MUSCLE_MEMORY_PLUS.DESC"
 msgid "{IMPROVISE} a card from your draw pile. Duplicate it."
-msgstr "{IMPROVISE} duplique une carte de votre pioche"
+msgstr "{IMPROVISE} duplique une carte de votre pioche."
 
 #: ATTACK.MUSCLE_MEMORY_PLUS.FLAVOUR
 msgctxt "ATTACK.MUSCLE_MEMORY_PLUS.FLAVOUR"
@@ -3672,7 +3649,6 @@ msgid "Pale Muscle Memory"
 msgstr "Mémoire musculaire pâle"
 
 #: ATTACK.MUSCLE_MEMORY_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.MUSCLE_MEMORY_PLUS2.DESC"
 msgid "{IMPROVISE} a card from your <#UPGRADE>discard</> pile. Duplicate it."
 msgstr "{IMPROVISE} une carte de votre <#UPGRADE> défausse</>. Doublez-la."
@@ -3713,10 +3689,9 @@ msgid "Backhand"
 msgstr "Revers"
 
 #: ATTACK.NANO_LATTICE.DESC
-#, fuzzy
 msgctxt "ATTACK.NANO_LATTICE.DESC"
 msgid "Draw a card.\nGain {DEFEND 9}.\n{REPLENISH}."
-msgstr "Tirez une carte.\nGagniez {DEFEND 9}.\n{REPLENISH}."
+msgstr "Piochez une carte.\nGagniez {DEFEND 9}.\n{REPLENISH}."
 
 #: ATTACK.NANO_LATTICE.NAME
 #, fuzzy
@@ -3856,10 +3831,9 @@ msgid "Overloaded Core"
 msgstr "Noyau surchargé"
 
 #: ATTACK.OVER_EXTENSION.DESC
-#, fuzzy
 msgctxt "ATTACK.OVER_EXTENSION.DESC"
 msgid "Add an {status_injury} card to your discard pile. \nCannot be played with an {status_injury} in your hand."
-msgstr "Ajoutez une carte {status_injury} à votre pile de défausse\nNe peut pas être joué avec un {status_injury} dans votre main."
+msgstr "Ajoutez une carte {status_injury} à votre défausse. \nNe peut pas être joué avec un {status_injury} dans votre main."
 
 #: ATTACK.OVER_EXTENSION.NAME
 #, fuzzy
@@ -3868,10 +3842,9 @@ msgid "Over Extension"
 msgstr "Prolongement supérieur"
 
 #: ATTACK.OVER_EXTENSION_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.OVER_EXTENSION_PLUS.DESC"
 msgid "Add an {status_injury} card to your discard pile. \nCannot be played with an {status_injury} in your hand."
-msgstr "Ajoutez une carte {status_injury} à votre pile de défausse\nNe peut pas être joué avec un {status_injury} dans votre main."
+msgstr "Add an {status_injury} card to your discard pile. \nCannot be played with an {status_injury} in your hand."
 
 #: ATTACK.OVER_EXTENSION_PLUS.NAME
 #, fuzzy
@@ -3880,10 +3853,9 @@ msgid "Rooted Over Extension"
 msgstr "Ancrage sur l'extension"
 
 #: ATTACK.OVER_EXTENSION_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.OVER_EXTENSION_PLUS2.DESC"
 msgid "Add an {status_injury} card to your discard pile. \nCannot be played with an {status_injury} in your hand."
-msgstr "Ajoutez une carte {status_injury} à votre pile de défausse\nNe peut pas être joué avec un {status_injury} dans votre main."
+msgstr "Add an {status_injury} card to your discard pile. \nCannot be played with an {status_injury} in your hand."
 
 #: ATTACK.OVER_EXTENSION_PLUS2.NAME
 #, fuzzy
@@ -3922,10 +3894,9 @@ msgid "Poke"
 msgstr "Poke"
 
 #: ATTACK.PORTABLE_BUNKER.DESC
-#, fuzzy
 msgctxt "ATTACK.PORTABLE_BUNKER.DESC"
 msgid "You and all allies gain {DEFEND 30}."
-msgstr "Vous et tous les alliés y gagnez {DEFEND 30}."
+msgstr "Vous et tous les alliés gagnez {DEFEND 30}."
 
 #: ATTACK.PORTABLE_BUNKER.NAME
 #, fuzzy
@@ -3970,7 +3941,6 @@ msgid "Prototype Drone"
 msgstr "Prototype de drone"
 
 #: ATTACK.PSIONIC_FEEDBACK.DESC
-#, fuzzy
 msgctxt "ATTACK.PSIONIC_FEEDBACK.DESC"
 msgid "If you have discarded a card this turn, this card costs 0."
 msgstr "Si vous avez défaussé une carte ce tour-ci, cette carte coûte 0."
@@ -3982,7 +3952,6 @@ msgid "Psionic Feedback"
 msgstr "Rétroaction Psionique"
 
 #: ATTACK.PSIONIC_FEEDBACK_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.PSIONIC_FEEDBACK_PLUS.DESC"
 msgid "If you have discarded a card this turn, this card costs 0."
 msgstr "Si vous avez défaussé une carte ce tour-ci, cette carte coûte 0."
@@ -3994,7 +3963,6 @@ msgid "Boosted Feedback"
 msgstr "Rétroaction améliorée"
 
 #: ATTACK.PSIONIC_FEEDBACK_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.PSIONIC_FEEDBACK_PLUS2.DESC"
 msgid "If you have discarded a card this turn, this card costs 0."
 msgstr "Si vous avez défaussé une carte ce tour-ci, cette carte coûte 0."
@@ -4036,10 +4004,9 @@ msgid "Rallying Blow"
 msgstr "Rallye Souffle"
 
 #: ATTACK.RAVENOUS.DESC
-#, fuzzy
 msgctxt "ATTACK.RAVENOUS.DESC"
 msgid "{ABILITY}: Whenever an enemy dies, {HEAL} 6."
-msgstr "{ABILITY}: Chaque fois qu'un ennemi meurt, guérissez 6."
+msgstr "{ABILITY}: Chaque fois qu'un ennemi meurt, {HEAL} 6."
 
 #: ATTACK.RAVENOUS.NAME
 #, fuzzy
@@ -4048,10 +4015,9 @@ msgid "Ravenous"
 msgstr "Ravenous"
 
 #: ATTACK.RAVENOUS_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.RAVENOUS_PLUS.DESC"
 msgid "{ABILITY}: Whenever an enemy dies, {HEAL} 6.\n<#UPGRADE>{AMBUSH}</>"
-msgstr "{ABILITY}: Chaque fois qu'un ennemi meurt, guérissez 6.\n<#UPGRADE>{EMBUSH}</>"
+msgstr "{ABILITY}: Whenever an enemy dies, {HEAL} 6.\n<#UPGRADE>{AMBUSH}</>"
 
 #: ATTACK.RAVENOUS_PLUS.NAME
 #, fuzzy
@@ -4060,10 +4026,9 @@ msgid "Initial Ravenous"
 msgstr "Ravenous Initial"
 
 #: ATTACK.RAVENOUS_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.RAVENOUS_PLUS2.DESC"
 msgid "{ABILITY}: Whenever an enemy dies, {HEAL} 6."
-msgstr "{ABILITY}: Chaque fois qu'un ennemi meurt, guérissez 6."
+msgstr "{ABILITY}: Whenever an enemy dies, {HEAL} 6."
 
 #: ATTACK.RAVENOUS_PLUS2.NAME
 #, fuzzy
@@ -4094,7 +4059,6 @@ msgid "Readiness"
 msgstr "État de préparation"
 
 #: ATTACK.READINESS_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.READINESS_PLUS.DESC"
 msgid "Draw <#UPGRADE>{1}</> cards."
 msgstr "Piochez <#UPGRADE>{1}</> cartes."
@@ -4106,7 +4070,6 @@ msgid "Boosted Readiness"
 msgstr "Meilleure préparation"
 
 #: ATTACK.READINESS_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.READINESS_PLUS2.DESC"
 msgid "Draw {1} cards.\n<#UPGRADE>Gain {DEFEND 2}</> and 2 {RIPOSTE}."
 msgstr "Piochez {1} cartes.\n<#UPGRADE> Gagnez {DEFEND 2}</> et 2 {RIPOSTE}."
@@ -4180,10 +4143,9 @@ msgid "Boosted Swing"
 msgstr "Boosted Swing"
 
 #: ATTACK.RECKLESS_SWING_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.RECKLESS_SWING_PLUS2.DESC"
 msgid "<#UPGRADE>Draw a card.</>\nDiscard a card."
-msgstr "<#UPGRADE>piochez une carte.</>\nDéfausse une carte."
+msgstr "<#UPGRADE>Piochez une carte.</>\nDéfaussez une carte."
 
 #: ATTACK.RECKLESS_SWING_PLUS2.NAME
 msgctxt "ATTACK.RECKLESS_SWING_PLUS2.NAME"
@@ -4215,10 +4177,9 @@ msgid "Replicator"
 msgstr "Réplicateur"
 
 #: ATTACK.REVERSAL.DESC
-#, fuzzy
 msgctxt "ATTACK.REVERSAL.DESC"
 msgid "{FINISHER}: Gain {1} {RIPOSTE} per {COMBO}."
-msgstr "{FINISHER}: gagner {1} {RIPOSTE} par {COMBO}."
+msgstr "{FINISHER}: Gagnez {1} {RIPOSTE} par {COMBO}."
 
 #: ATTACK.REVERSAL.NAME
 #, fuzzy
@@ -4227,10 +4188,9 @@ msgid "Reversal"
 msgstr "Contre-passation"
 
 #: ATTACK.REVERSAL_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.REVERSAL_PLUS.DESC"
 msgid "{FINISHER}: Gain {1} {RIPOSTE} per {COMBO}."
-msgstr "{FINISHER}: gagner {1} {RIPOSTE} par {COMBO}."
+msgstr "{FINISHER}: Gagnez {1} {RIPOSTE} par {COMBO}."
 
 #: ATTACK.REVERSAL_PLUS.NAME
 #, fuzzy
@@ -4239,7 +4199,6 @@ msgid "Boosted Reversal"
 msgstr "Inversion boostée"
 
 #: ATTACK.REVERSAL_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.REVERSAL_PLUS2.DESC"
 msgid "{FINISHER}: Gain {1} {RIPOSTE} per {COMBO}<#UPGRADE> +2</>."
 msgstr "{FINISHER}: Gagnez {1} {RIPOSTE} par {COMBO}<#UPGRADE> +2</>."
@@ -4315,7 +4274,6 @@ msgid "Rummage"
 msgstr "Rummage"
 
 #: ATTACK.RUMMAGE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.RUMMAGE_PLUS.DESC"
 msgid "Draw <#UPGRADE>2</> cards.\nDiscard <#UPGRADE>2</> cards."
 msgstr "Piochez <#UPGRADE>2</> cartes.\nDéfausser <#UPGRADE>2</> cartes."
@@ -4327,7 +4285,6 @@ msgid "Boosted Rummage"
 msgstr "Rummage boosté"
 
 #: ATTACK.RUMMAGE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.RUMMAGE_PLUS2.DESC"
 msgid "Draw <#UPGRADE>2</> cards.\n<#UPGRADE>Expend</> a card."
 msgstr "Piochez <#UPGRADE>2</> cartes.\n<#UPGRADE>Épuiser</> une carte."
@@ -43447,16 +43404,14 @@ msgid "!point\nSuspicious duds you've got on there. But I'm not on shift, so it 
 msgstr "!point\nDes ratés suspects que vous avez là-bas. Mais je ne suis pas en service, donc ça n'a pas d'importance pour moi."
 
 #: QUIPS.guard.outdoors.greeting.1
-#, fuzzy
 msgctxt "QUIPS.guard.outdoors.greeting.1"
 msgid "Make it quick, civilian. I'm on official business."
-msgstr "Fais vite, civil. Je suis en affaires officielles."
+msgstr "Faites vite, civil. Je suis en mission officielle."
 
 #: QUIPS.guard.outdoors.greeting.2
-#, fuzzy
 msgctxt "QUIPS.guard.outdoors.greeting.2"
 msgid "Is there a problem? Can't you see I'm busy here?"
-msgstr "Il y a un problème? Tu ne vois pas que je suis occupé ici?"
+msgstr "Il y a un problème ? Tu ne vois pas que je suis occupé ?"
 
 #: QUIPS.guard.outdoors.greeting.3
 #, fuzzy
@@ -43477,25 +43432,21 @@ msgid "agent:\n!interest\nI ever mention you look just like this rube I beat up 
 msgstr "agent:\n!interest\nJ'ai déjà mentionné que tu ressembles à ce rube que j'ai battu une fois? \nNous étions dans le pub obtenir'certains besoin r -R quand ce fermier commence à partir.\n!angry_shrug\n$angryDefault\nNous appeler \"oppresseurs\" et \"tyrans\" et des trucs comme ça. Des choses vraime-biennt blessantes et inexactes. Je n'ai jamais opprimé personne.\nplayer:\n!crossed\nEuh hein.\nagent:\n!handwave\n$neutralResigned\nQuoi qu'il en soit, leur visage n'avait pas l'air trop bon quand j'ai eu fini avec eux.\n!happy\n$miscNostalgic\nLe vôtre si-votre visage, j'aime-bien un peu."
 
 #: QUIPS.had_a_drink.1
-#, fuzzy
 msgctxt "QUIPS.had_a_drink.1"
 msgid "Now what's the catch?\n!dubious"
-msgstr "Qu'est-ce qu'il y a?\n!douteux"
+msgstr "C'est quoi le piège ?\n!dubious"
 
 #: QUIPS.had_a_drink.2
-#, fuzzy
 msgctxt "QUIPS.had_a_drink.2"
 msgid "Nothin like Havarian swill!"
-msgstr "Nothin comme la swill Havarian!"
+msgstr "Rien de tel que de la Havarian swill !"
 
 #: QUIPS.had_a_drink.3
-#, fuzzy
 msgctxt "QUIPS.had_a_drink.3"
 msgid "You're not a total piece of drek after all."
-msgstr "Tu n'es pas un morceau de drek total après tout."
+msgstr "Tu n'es pas un vrai drek, après tout."
 
 #: QUIPS.had_a_drink.liked.1
-#, fuzzy
 msgctxt "QUIPS.had_a_drink.liked.1"
 msgid "Thanks for that.\n!happy"
 msgstr "Merci pour ça.\n!happy"
@@ -43513,22 +43464,19 @@ msgid "I'm guessing you want to be friends now?"
 msgstr "Je suppose que tu veux être amie maintenant?"
 
 #: QUIPS.hearty_card.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.hearty_card.negotiation.1"
 msgid "!burp\n\nI'm sorry—did you want some?"
-msgstr "!burp\n\nJe suis désolé, en voulais-tu?"
+msgstr "!burp\n\nJe suis désolé —tu en veux un peu ?"
 
 #: QUIPS.hearty_card.negotiation.2
-#, fuzzy
 msgctxt "QUIPS.hearty_card.negotiation.2"
 msgid "!burp\n\nPhew, that hit the spot."
-msgstr "!burp\n\nOuf, qui a frappé l'endroit."
+msgstr "!burp\n\nOuf, ça tape fort."
 
 #: QUIPS.hearty_card.negotiation.3
-#, fuzzy
 msgctxt "QUIPS.hearty_card.negotiation.3"
 msgid "!burp\n\nYou should really try some of this."
-msgstr "!burp\n\nTu devrais vraime-biennt essayer ça."
+msgstr "!burp\n\nTu devrais essayer ça."
 
 #: QUIPS.hesh_annhiliation.1
 #, fuzzy
@@ -43614,22 +43562,19 @@ msgid "!fight\n$angryHostile\n\nYou want some?"
 msgstr "!fight\n$angryHostile\n\nTu en veux?"
 
 #: QUIPS.hostile.negotiation.2
-#, fuzzy
 msgctxt "QUIPS.hostile.negotiation.2"
 msgid "!fight\n$angryHostile\n\nYou better listen close."
-msgstr "!fight\n$angryHostile\n\nTu ferais mieux d'écouter de près."
+msgstr "!fight\n$angryHostile\n\nTu ferais mieux d'écouter attentivement."
 
 #: QUIPS.hostile.negotiation.3
-#, fuzzy
 msgctxt "QUIPS.hostile.negotiation.3"
 msgid "!fight\n$angryHostile\n\nThis can go easy, or this can go hard."
-msgstr "!fight\n$angryHostile\n\nCela peut aller facile, ou cela peut aller dur."
+msgstr "!fight\n$angryHostile\n\nÇa peut être facile ou difficile."
 
 #: QUIPS.hostile.negotiation.4
-#, fuzzy
 msgctxt "QUIPS.hostile.negotiation.4"
 msgid "!fight\n$angryHostile\n\nYou don't want this getting messy."
-msgstr "!fight\n$angryHostile\n\nTu ne veux pas que ça se gâte."
+msgstr "!fight\n$angryHostile\n\nTu ne veux pas que ça tourne mal."
 
 #: QUIPS.impatience_card.negotiation.1
 #, fuzzy
@@ -43662,10 +43607,9 @@ msgid "!coin_toss\n\nIt's all in the wrist."
 msgstr "!coin_toss\n\nTout est dans le poignet."
 
 #: QUIPS.in_party.greeting.1
-#, fuzzy
 msgctxt "QUIPS.in_party.greeting.1"
 msgid "What next?"
-msgstr "Qu'est-ce qui va se passer ensuite?"
+msgstr "C'est quoi la suite?"
 
 #: QUIPS.insider_information_card.negotiation.1
 #, fuzzy
@@ -44112,7 +44056,6 @@ msgid "!greeting\nWell, look who it is!"
 msgstr "!greeting\nEh bien, regardez qui voila!"
 
 #: QUIPS.loyal_vroc_card.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.loyal_vroc_card.negotiation.1"
 msgid "Sk-sk-sk-sk."
 msgstr "Sk-sk-sk-sk."
@@ -44124,7 +44067,6 @@ msgid "* Your vroc thrums contentedly by your side."
 msgstr "* Votre vroc thrums contentàement à vos côtés."
 
 #: QUIPS.loyal_yote_card.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.loyal_yote_card.negotiation.1"
 msgid "Wuf-wuf-wuf."
 msgstr "Wuf-wuf-wuf."
@@ -44662,22 +44604,19 @@ msgid "!crossed\n* {agent.Who} looks unimpressed."
 msgstr "!crossed\nAgent. Qui a l'air pas impressionné."
 
 #: QUIPS.opponent_card.negotiation.2
-#, fuzzy
 msgctxt "QUIPS.opponent_card.negotiation.2"
 msgid "!crossed\n$angryDefault\nAnd?"
 msgstr "!crossed\n$angryDefault\nEt?"
 
 #: QUIPS.opponent_card.negotiation.3
-#, fuzzy
 msgctxt "QUIPS.opponent_card.negotiation.3"
 msgid "!crossed\n$angryDefault\nI'm waiting."
 msgstr "!crossed\n$angryDefault\nJ'attends."
 
 #: QUIPS.opponent_card.negotiation.4
-#, fuzzy
 msgctxt "QUIPS.opponent_card.negotiation.4"
 msgid "!crossed\n* {agent.Who} waits for your explanation."
-msgstr "!crossed\nAgent. Qui attend votre explication."
+msgstr "!crossed\n* {agent.Who} attend vos explication."
 
 #: QUIPS.opponent_card.spark_baron.negotiation.1
 #, fuzzy
@@ -44920,22 +44859,19 @@ msgid "Let's do this!"
 msgstr "Faisons cela !"
 
 #: QUIPS.shel_rally.2
-#, fuzzy
 msgctxt "QUIPS.shel_rally.2"
 msgid "Raaaaaaagh!"
 msgstr "Raaaaaaagh!"
 
 #: QUIPS.shel_rally.3
-#, fuzzy
 msgctxt "QUIPS.shel_rally.3"
 msgid "I will not back down!"
-msgstr "Je ne reculerai pas!"
+msgstr "Je ne reculerai pas !"
 
 #: QUIPS.shel_rally.4
-#, fuzzy
 msgctxt "QUIPS.shel_rally.4"
 msgid "This isn't over!"
-msgstr "Ce n'est pas fini!"
+msgstr "Ce n'est pas fini !"
 
 #: QUIPS.shel_rally.5
 #, fuzzy
@@ -44965,7 +44901,7 @@ msgstr "J'espère que tu aime-biens les herbes."
 #, fuzzy
 msgctxt "QUIPS.shopkeep.chemist.greeting.4"
 msgid "<Sniff> I'm a picture of health!"
-msgstr "<Sniff>Je suis une photo de la santé!</Sniff>"
+msgstr "<Sniff> I'm a picture of health!"
 
 #: QUIPS.shopkeep.chemist.greeting.5
 #, fuzzy
@@ -45070,40 +45006,34 @@ msgid "agent:\nYou ever think about being a life coach? It really seems like you
 msgstr "agent:\nTu as déjà pensé à être coach de vie? On dirait vraime-biennt que tu as toutes tes conneries ensemble, tu sais?\nplayer:\nPas sûr que mon histoire est le genre qui se vend. En outre, il n'y a pas exactement un marché pour ce genre de chose à Havaria.\nagent:\nC'est vrai. Nous sommes assez loin du faste et du glamour de Deltree. \nMais peut-être que tu pourrais arriver à Supplicant City? Le pouvoir et l'influence vous semblent bons.\nplayer:\nPuissance et influence que j'aime-bien, mais je préfère manger du pus oshnu pourri que hobnob avec le Cult.\nagent:\nYeesh."
 
 #: QUIPS.snail.greeting.1
-#, fuzzy
 msgctxt "QUIPS.snail.greeting.1"
 msgid "..sshluup."
 msgstr ".. sshluup."
 
 #: QUIPS.snail.greeting.2
-#, fuzzy
 msgctxt "QUIPS.snail.greeting.2"
 msgid "..meeeeshh musshh."
 msgstr ".. meeeeshmus."
 
 #: QUIPS.snail.greeting.3
-#, fuzzy
 msgctxt "QUIPS.snail.greeting.3"
 msgid "..ushh ushhh"
 msgstr ".. ushh ushhh"
 
 #: QUIPS.snail.greeting.4
-#, fuzzy
 msgctxt "QUIPS.snail.greeting.4"
 msgid "..aggghhooo.. sshhlloop!"
 msgstr ".. aggghhooo. sshhlloop!"
 
 #: QUIPS.snail.greeting.5
-#, fuzzy
 msgctxt "QUIPS.snail.greeting.5"
 msgid "..meeeeshh moooosh."
 msgstr ".. meeeesh moooosh."
 
 #: QUIPS.snare_card.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.snare_card.negotiation.1"
 msgid "!point\n$angryDefault\n\n%insult"
-msgstr "!point\n$angryDefault\n\n%insulte"
+msgstr "!point\n$angryDefault\n\n%insult"
 
 #: QUIPS.sparky_charge.1
 #, fuzzy
@@ -45124,19 +45054,16 @@ msgid "You're lumin trash, Grifter!"
 msgstr "Tu es une ordure de lumin, Grifter!"
 
 #: QUIPS.sparky_pre_shoot.2
-#, fuzzy
 msgctxt "QUIPS.sparky_pre_shoot.2"
 msgid "Goodbye."
 msgstr "Au revoir."
 
 #: QUIPS.sparky_pre_shoot.3
-#, fuzzy
 msgctxt "QUIPS.sparky_pre_shoot.3"
 msgid "Here it comes!"
-msgstr "C'est parti!"
+msgstr "Le voilà qui arrive !"
 
 #: QUIPS.spree_support_card.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.spree_support_card.negotiation.1"
 msgid "{player} is under my protection."
 msgstr "{player} est sous ma protection."
@@ -45166,13 +45093,11 @@ msgid "That's a lovely scent."
 msgstr "C'est un beau parfum."
 
 #: QUIPS.stymied.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.stymied.negotiation.1"
 msgid "!dubious\n* {agent.Who} seems at a loss for words."
-msgstr "!douteux\nAgent. Qui semble à court de mots."
+msgstr "!dubious\n* {agent.Who} semble à court de mots."
 
 #: QUIPS.summon_oshnu_oolo.1
-#, fuzzy
 msgctxt "QUIPS.summon_oshnu_oolo.1"
 msgid "Bertha! It's time for dinner!"
 msgstr "Bertha! C'est l'heure du dîner!"
@@ -45547,94 +45472,79 @@ msgid "You've pictured your revenge so many times. But what if she gets you firs
 msgstr "Vous avait imaginé votre vengeance tant de fois.\nEt si c'était elle qui finit par gagner? Et si <i>quelqu'un d'autre</> avait déjà?\n\nVous oubliez vite ces pensées. Vous êtes là pour Kashio. C'est la seule façon de mettre fin à cette histoire."
 
 #: SPECIES.BEAST
-#, fuzzy
 msgctxt "SPECIES.BEAST"
 msgid "beast"
 msgstr "bête"
 
 #: SPECIES.HUMAN
-#, fuzzy
 msgctxt "SPECIES.HUMAN"
 msgid "human"
 msgstr "humain"
 
 #: SPECIES.JARACKLE
-#, fuzzy
 msgctxt "SPECIES.JARACKLE"
 msgid "jarackle"
-msgstr "jarackle (jarackle)"
+msgstr "jarackle"
 
 #: SPECIES.KRADESHI
-#, fuzzy
 msgctxt "SPECIES.KRADESHI"
 msgid "kra'deshi"
-msgstr "kra'deshi kra'deshi"
+msgstr "kra'deshi"
 
 #: SPECIES.MECH
-#, fuzzy
 msgctxt "SPECIES.MECH"
 msgid "mech"
-msgstr "Mech"
+msgstr "mech"
 
 #: SPECIES.PHICKET
-#, fuzzy
 msgctxt "SPECIES.PHICKET"
 msgid "phicket"
-msgstr "phicket (phicket)"
+msgstr "phicket"
 
 #: SPECIES.SHROKE
-#, fuzzy
 msgctxt "SPECIES.SHROKE"
 msgid "shroke"
-msgstr "shroke (shroke)"
+msgstr "shroke"
 
 #: SPECIES.SNAIL
-#, fuzzy
 msgctxt "SPECIES.SNAIL"
 msgid "oshnu"
-msgstr "Essayez le tartare de bile d'oshnu"
+msgstr "oshnu"
 
 #: SUPPORT_DESC.ALLY
-#, fuzzy
 msgctxt "SUPPORT_DESC.ALLY"
 msgid "Ally"
 msgstr "Allié"
 
 #: SUPPORT_DESC.BRIBED
-#, fuzzy
 msgctxt "SUPPORT_DESC.BRIBED"
 msgid "Is bribed"
-msgstr "Est corrompu"
+msgstr "Soudoyé"
 
 #: SUPPORT_DESC.CREW
-#, fuzzy
 msgctxt "SUPPORT_DESC.CREW"
 msgid "Is on your team"
-msgstr "Est dans votre équipe"
+msgstr "Est dans votre groupe"
 
 #: SUPPORT_DESC.DISLIKES_BOTH
-#, fuzzy
 msgctxt "SUPPORT_DESC.DISLIKES_BOTH"
 msgid "Dislikes you both"
 msgstr "Vous déteste tous les deux"
 
 #: SUPPORT_DESC.DISLIKES_SUBJECT
-#, fuzzy
 msgctxt "SUPPORT_DESC.DISLIKES_SUBJECT"
 msgid "DisLikes {1.Who}"
 msgstr "Déteste {1.Who}"
 
 #: SUPPORT_DESC.DISLIKES_YOU
-#, fuzzy
 msgctxt "SUPPORT_DESC.DISLIKES_YOU"
 msgid "Dislikes you"
 msgstr "Vous déteste"
 
 #: SUPPORT_DESC.ESCORT
-#, fuzzy
 msgctxt "SUPPORT_DESC.ESCORT"
 msgid "Is on your team"
-msgstr "Est dans votre équipe"
+msgstr "Est dans votre groupe"
 
 #: SUPPORT_DESC.HIRED
 #, fuzzy
@@ -45677,13 +45587,11 @@ msgid "Loves you"
 msgstr "VOUS AIME-BIEN"
 
 #: SUPPORT_DESC.MANIPULATED_IN
-#, fuzzy
 msgctxt "SUPPORT_DESC.MANIPULATED_IN"
 msgid "Is manipulated"
 msgstr "Est manipulé"
 
 #: SUPPORT_DESC.MANIPULATED_OUT
-#, fuzzy
 msgctxt "SUPPORT_DESC.MANIPULATED_OUT"
 msgid "Is manipulated"
 msgstr "Est manipulé"
@@ -45737,13 +45645,11 @@ msgid "Stays out of fights"
 msgstr "Reste à l'écart des combats"
 
 #: TITLE
-#, fuzzy
 msgctxt "TITLE"
 msgid "Griftlands"
-msgstr "L'experience de basse de Griftlands"
+msgstr "Griftlands"
 
 #: UI.AGENT_RELATIONSHIP_REASON_TT
-#, fuzzy
 msgctxt "UI.AGENT_RELATIONSHIP_REASON_TT"
 msgid "<#TITLE>Reason:</> {1}"
 msgstr "<#TITLE>Raison:</> {1}"
@@ -45778,76 +45684,64 @@ msgid "LOVED BY {1} {1*PERSON|PEOPLE}"
 msgstr "aime-bien PAR {1} PERSONNE(S)"
 
 #: UI.APPROACH_SCORE.MONEY_SUBTITLE
-#, fuzzy
 msgctxt "UI.APPROACH_SCORE.MONEY_SUBTITLE"
 msgid "Acquired {1} {1*shill|shills}"
-msgstr "Acquis {1} shill(s)"
+msgstr "Acquis {1} {1*shill|shills}"
 
 #: UI.APPROACH_SCORE.MONEY_TITLE
-#, fuzzy
 msgctxt "UI.APPROACH_SCORE.MONEY_TITLE"
 msgid "MONEY"
 msgstr "ARGENT"
 
 #: UI.APPROACH_SCORE.QUEST_SUBTITLE
-#, fuzzy
 msgctxt "UI.APPROACH_SCORE.QUEST_SUBTITLE"
 msgid "Completed {1} {1*job|jobs}"
-msgstr "terminez {1} contrat(s)"
+msgstr "Terminez {1} {1*contrat|contrats}"
 
 #: UI.APPROACH_SCORE.QUEST_TITLE
-#, fuzzy
 msgctxt "UI.APPROACH_SCORE.QUEST_TITLE"
 msgid "QUESTS"
 msgstr "QUÊTES"
 
 #: UI.APPROACH_SCORE.UPGRADED_SUBTITLE
-#, fuzzy
 msgctxt "UI.APPROACH_SCORE.UPGRADED_SUBTITLE"
 msgid "Upgraded {1} {1*card|cards}"
-msgstr "{1} Cartes(s) Améliorer"
+msgstr "{1} {1*carte|cartes} améliorer"
 
 #: UI.APPROACH_SCORE.UPGRADED_TITLE
-#, fuzzy
 msgctxt "UI.APPROACH_SCORE.UPGRADED_TITLE"
 msgid "SCHOLAR"
-msgstr "érudit"
+msgstr "ÉRUDIT"
 
 #: UI.APPROACH_SCORE.WON_SUBTITLE
-#, fuzzy
 msgctxt "UI.APPROACH_SCORE.WON_SUBTITLE"
 msgid "Still alive!"
-msgstr "Toujours en vie!"
+msgstr "Toujours en vie !"
 
 #: UI.APPROACH_SCORE.WON_TITLE
-#, fuzzy
 msgctxt "UI.APPROACH_SCORE.WON_TITLE"
 msgid "VICTORY BONUS"
 msgstr "BONUS DE VICTOIRE"
 
 #: UI.BATTLE_CARD_UPGRADES_READY
-#, fuzzy
 msgctxt "UI.BATTLE_CARD_UPGRADES_READY"
 msgid "{1} Battle {1*Card|Cards} ready to upgrade!"
 msgstr "{1} {1*carte|cartes} de Combat est prête à être améliorée!"
 
 #: UI.BATTLE_PREVIEW_PANEL.CLOSE
-#, fuzzy
 msgctxt "UI.BATTLE_PREVIEW_PANEL.CLOSE"
 msgid "Close"
-msgstr "proche"
+msgstr "Fermer"
 
 #: UI.BATTLE_PREVIEW_PANEL.CURRENT_HEALTH
-#, fuzzy
 msgctxt "UI.BATTLE_PREVIEW_PANEL.CURRENT_HEALTH"
 msgid "Current Health"
 msgstr "Santé actuelle"
 
 #: UI.BATTLE_PREVIEW_PANEL.CURRENT_MORALE
-#, fuzzy
 msgctxt "UI.BATTLE_PREVIEW_PANEL.CURRENT_MORALE"
 msgid "Current Morale"
-msgstr "Morale actuelle"
+msgstr "Moral actuel"
 
 #: UI.BATTLE_PREVIEW_PANEL.FIGHT
 msgctxt "UI.BATTLE_PREVIEW_PANEL.FIGHT"
@@ -45917,22 +45811,19 @@ msgid "<b><#TITLE>LOCKED</></b>\nInteracting with this person in different ways 
 msgstr "<b><#TITLE>VERROUILLÉ</#TITLE></b>\nInteragir avec cette personne de différentes façons vous permettra d'apprendre de nouveaux détails à leur sujet."
 
 #: UI.CARDCOMPENDIUM.AGENT_LORE_TAB
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.AGENT_LORE_TAB"
 msgid "LORE"
-msgstr "Lore"
+msgstr "HISTOIRE"
 
 #: UI.CARDCOMPENDIUM.AGENT_LORE_TAB_NO_UNLOCKS
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.AGENT_LORE_TAB_NO_UNLOCKS"
 msgid "No unlockable lore"
-msgstr "Aucune tradition déverrouillable"
+msgstr "Pas d'histoire déverrouillable"
 
 #: UI.CARDCOMPENDIUM.AGENT_SOCIAL_TAB
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.AGENT_SOCIAL_TAB"
 msgid "BOON/BANE"
-msgstr "BOON/BANE"
+msgstr "AUBAINE/FLÉAU"
 
 #: UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT
 #, fuzzy
@@ -45941,16 +45832,14 @@ msgid "<b><#TITLE>{1}/{2} {3} Unlocks:</></b>\n{4}"
 msgstr "<b><#TITLE>{1}/{2} {3} Débloquer:</></b>\n{4}"
 
 #: UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_BANE
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_BANE"
 msgid " - Received Bane"
-msgstr "- Bane reçu"
+msgstr "- Fléau reçu"
 
 #: UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_BOON
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_BOON"
 msgid " - Received Boon"
-msgstr "- Boon reçu"
+msgstr "- Aubaine reçu"
 
 #: UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_INCOMPLETE
 msgctxt "UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_INCOMPLETE"
@@ -45958,16 +45847,15 @@ msgid "<#FF6363aa>{1}</>"
 msgstr "<#FF6363aa>{1}</>"
 
 #: UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_LORE
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_LORE"
 msgid " - Learned {1}/{2} lore details about {3}"
-msgstr "- Détails de la tradition {1}/{2} appris sur {3}"
+msgstr " - Appris {1}/{2} de l'histoire de {3}"
 
 #: UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_MET
 #, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_MET"
 msgid " - Met {1}"
-msgstr "- Met {1}"
+msgstr " - Met {1}"
 
 #: UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_SUCCESS
 msgctxt "UI.CARDCOMPENDIUM.AGENT_UNLOCKS_TT_SUCCESS"
@@ -46654,10 +46542,9 @@ msgid "DRAW"
 msgstr "PIOCHE"
 
 #: UI.CARDS.DEFAULT_COIN
-#, fuzzy
 msgctxt "UI.CARDS.DEFAULT_COIN"
 msgid "<b>Lucky Coin</b>"
-msgstr "<b>Pièce chanceuse</b>"
+msgstr "<b>Pièce porte-bonheur</b>"
 
 #: UI.CARDS.DISCARDED
 msgctxt "UI.CARDS.DISCARDED"
