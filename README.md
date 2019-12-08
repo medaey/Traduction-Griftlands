@@ -1,7 +1,6 @@
 <p style="text-align: center;"><b><h1>Traduction-Griftlands </h1></b></p>
 <p align="center">Traduction Française pour le jeu vidéo Griftlands.</p>
-<p alig,="center"><b>⚠️ La traduction et en cours, certains textes n'ont pas encore été traduit ⚠️</b></p>
-<p align="center"><b>Une relécture de la traduction est planifiée ;)</b></p>
+<p align="center"><b>⚠️ La traduction et en cours, certains textes n'ont pas encore été traduit ⚠️</b></p>
 <p align="center">
 <a href=https://github.com/leghort/Traduction-Griftlands/releases><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands?include_prereleases">
 <a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-25%25-orange"></a>
@@ -22,7 +21,7 @@ red         16.7%  brightgreen
 ### Table des matières
 **[Télécharger](https://github.com/leghort/Traduction-Griftlands#t%C3%A9l%C3%A9charger-la-derni%C3%A8re-version)**</br>
 **[Installation](https://github.com/leghort/Traduction-Griftlands#installation)**</br>
-**[Désistallation](https://github.com/leghort/Traduction-Griftlands#d%C3%A9sinstallation)**</br>
+**[Désinstallation](https://github.com/leghort/Traduction-Griftlands#d%C3%A9sinstallation)**</br>
 **[Trouver son dossier d'installation](https://github.com/leghort/Traduction-Griftlands#trouver-son-dossier-dinstallation)**</br>
 **[Statistique](https://github.com/leghort/Traduction-Griftlands#Statistique)**<br>
 **[Contact](https://github.com/leghort/Traduction-Griftlands#contact)**<br>
