@@ -4,7 +4,7 @@
 <p align="center"><b>Une relécture de la traduction est planifiée ;)</b></p>
 <p align="center">
 <a href=https://github.com/leghort/Traduction-Griftlands/releases><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands?include_prereleases">
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-25%25-orange"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-26%25-orange"></a>
 <a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-75%25-yellow"></a>
 </p>
 
@@ -58,9 +58,9 @@ red         16.7%  brightgreen
 ```lua
 | Statistique sur la Traduction | Éléments     |  Mots  | Caractères |
 | ----------------------------- | ------------ | ------ | ---------- |
-| Traduit                       |  ‪2251 (25 %) |  14397 |      88735 |
-| À réviser                     ‪|  ‪6798 (75 %) | 103385 |     624435 |
-| Total                         |  9049(100 %) | 117782 |     713170 |
+| Traduit                       |  ‪2380 (26 %) |  14915 |      92100 |
+| À réviser                     ‪|  ‪6669 (74 %) | 102873 |     621432 |
+| Total                         |  9049(100 %) | 117788 |     713532 |
 ```
 
 ## Contact

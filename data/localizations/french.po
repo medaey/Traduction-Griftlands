@@ -11759,10 +11759,9 @@ msgid "Permit"
 msgstr "Permit"
 
 #: CARD.PERMITS.DESC
-#, fuzzy
 msgctxt "CARD.PERMITS.DESC"
 msgid "Gain {1} {PERMIT}."
-msgstr "Gain {1} {PERMIT}."
+msgstr "Gagner {1} {PERMIT}."
 
 #: CARD.PERMITS.NAME
 #, fuzzy
@@ -11771,10 +11770,9 @@ msgid "Permits"
 msgstr "Permits"
 
 #: CARD.PLANNING.DESC
-#, fuzzy
 msgctxt "CARD.PLANNING.DESC"
 msgid "Draw {1} card. Choose a card from your hand to place on top of your draw pile."
-msgstr "Draw {1} card. Choose a card from your hand to place on top of your draw pile."
+msgstr "Pioche {1} carte. Choisissez une carte de votre main pour la placer dans votre pioche."
 
 #: CARD.PLANNING.NAME
 #, fuzzy
@@ -11783,10 +11781,9 @@ msgid "Planning"
 msgstr "Planning"
 
 #: CARD.PLANNING_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.PLANNING_PLUS.DESC"
 msgid "Draw <#UPGRADE>{1}</> cards. Choose a card from your hand to place on top of your draw pile."
-msgstr "Draw <#UPGRADE>{1}</> cards. Choose a card from your hand to place on top of your draw pile."
+msgstr "Pioche <#UPGRADE>{1}</> cartes. Choisissez une carte de votre main pour la placer dans votre pioche."
 
 #: CARD.PLANNING_PLUS.NAME
 #, fuzzy
@@ -11819,10 +11816,9 @@ msgid "Planted Evidence"
 msgstr "Planted Evidence"
 
 #: CARD.PLEAD.DESC
-#, fuzzy
 msgctxt "CARD.PLEAD.DESC"
 msgid "Lose {INFLUENCE 1}."
-msgstr "Lose {INFLUENCE 1}."
+msgstr "Perdre {INFLUENCE 1}."
 
 #: CARD.PLEAD.NAME
 msgctxt "CARD.PLEAD.NAME"
@@ -11836,10 +11832,9 @@ msgid "Simple Plead"
 msgstr "Simple Plead"
 
 #: CARD.PLEAD_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.PLEAD_PLUS2.DESC"
 msgid "Lose {INFLUENCE 1}."
-msgstr "Lose {INFLUENCE 1}."
+msgstr "Perdre {INFLUENCE 1}."
 
 #: CARD.PLEAD_PLUS2.NAME
 #, fuzzy
@@ -11901,10 +11896,9 @@ msgid "Proper Channel"
 msgstr "Proper Channel"
 
 #: CARD.PROPER_CHANNELS.DESC
-#, fuzzy
 msgctxt "CARD.PROPER_CHANNELS.DESC"
 msgid "Gain {1} {PROPER_CHANNEL}."
-msgstr "Gain {1} {PROPER_CHANNEL}."
+msgstr "Gagnez {1} {PROPER_CHANNEL}."
 
 #: CARD.PROPER_CHANNELS.NAME
 #, fuzzy
@@ -11937,10 +11931,9 @@ msgid "Pure Style"
 msgstr "Pure Style"
 
 #: CARD.PURE_STYLE_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.PURE_STYLE_PLUS.DESC"
 msgid "Draw <#UPGRADE>3</> cards and upgrade them for this negotiation."
-msgstr "Draw <#UPGRADE>3</> cards and upgrade them for this negotiation."
+msgstr "Pioche <#UPGRADE>3</> cartes et les améliore pour cette négociation."
 
 #: CARD.PURE_STYLE_PLUS.NAME
 #, fuzzy
@@ -11949,10 +11942,9 @@ msgid "Boosted Style"
 msgstr "Boosted Style"
 
 #: CARD.PURE_STYLE_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.PURE_STYLE_PLUS2.DESC"
 msgid "Draw 2 cards and upgrade them for this negotiation."
-msgstr "Draw 2 cards and upgrade them for this negotiation."
+msgstr "Pioche 2 cartes et les améliore pour cette négociation."
 
 #: CARD.PURE_STYLE_PLUS2.NAME
 #, fuzzy
@@ -12264,10 +12256,9 @@ msgid "Scruple"
 msgstr "Scruple"
 
 #: CARD.SEALED_ADMIRALTY_ENVELOPE.DESC
-#, fuzzy
 msgctxt "CARD.SEALED_ADMIRALTY_ENVELOPE.DESC"
 msgid "Gain 2 {INFLUENCE}.\n{HATCH}."
-msgstr "Gain 2 {INFLUENCE}.\n{HATCH}."
+msgstr "Gagner 2 {INFLUENCE}.\n{HATCH}."
 
 #: CARD.SEALED_ADMIRALTY_ENVELOPE.NAME
 #, fuzzy
@@ -12288,10 +12279,9 @@ msgid "Opened Admiralty Envelope"
 msgstr "Opened Admiralty Envelope"
 
 #: CARD.SECOND_WIND.DESC
-#, fuzzy
 msgctxt "CARD.SECOND_WIND.DESC"
 msgid "Gain 1 action for every 3 cards in your discard."
-msgstr "Gain 1 action for every 3 cards in your discard."
+msgstr "Gagnez 1 action par tranche de 3 cartes dans votre défausse."
 
 #: CARD.SECOND_WIND.NAME
 #, fuzzy
@@ -12300,10 +12290,9 @@ msgid "Second Wind"
 msgstr "Second Wind"
 
 #: CARD.SECOND_WIND_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.SECOND_WIND_PLUS.DESC"
 msgid "Gain 1 action for every 3 cards in your discard."
-msgstr "Gain 1 action for every 3 cards in your discard."
+msgstr "Gagnez 1 action par tranche de 3 cartes dans votre défausse."
 
 #: CARD.SECOND_WIND_PLUS.NAME
 #, fuzzy
@@ -12312,10 +12301,9 @@ msgid "Pale Wind"
 msgstr "Pale Wind"
 
 #: CARD.SECOND_WIND_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.SECOND_WIND_PLUS2.DESC"
 msgid "Gain 1 action for every 3 cards in your discard.\n<#UPGRADE>Draw a card.</>"
-msgstr "Gain 1 action for every 3 cards in your discard.\n<#UPGRADE>Draw a card.</>"
+msgstr "Gagnez 1 action par tranche de 3 cartes dans votre défausse.\n<#UPGRADE>Piochez une carte.</>"
 
 #: CARD.SECOND_WIND_PLUS2.NAME
 #, fuzzy
@@ -12324,7 +12312,6 @@ msgid "Visionary Wind"
 msgstr "Visionary Wind"
 
 #: CARD.SEEDS_OF_DOUBT.DESC
-#, fuzzy
 msgctxt "CARD.SEEDS_OF_DOUBT.DESC"
 msgid "{INCEPT} {DOUBT {1}}."
 msgstr "{INCEPT} {DOUBT {1}}."
@@ -12336,7 +12323,6 @@ msgid "Seeds of Doubt"
 msgstr "Seeds of Doubt"
 
 #: CARD.SEEDS_OF_DOUBT_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.SEEDS_OF_DOUBT_PLUS.DESC"
 msgid "{INCEPT} <#UPGRADE>{DOUBT {1}}.</>"
 msgstr "{INCEPT} <#UPGRADE>{DOUBT {1}}.</>"
@@ -12348,10 +12334,9 @@ msgid "Boosted Doubt"
 msgstr "Boosted Doubt"
 
 #: CARD.SEEDS_OF_DOUBT_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.SEEDS_OF_DOUBT_PLUS2.DESC"
 msgid "{INCEPT} {DOUBT {1}}.\n<#UPGRADE>Draw a Card.</>"
-msgstr "{INCEPT} {DOUBT {1}}.\n<#UPGRADE>Draw a Card.</>"
+msgstr "{INCEPT} {DOUBT {1}}.\n<#UPGRADE>Piocher une carte.</>"
 
 #: CARD.SEEDS_OF_DOUBT_PLUS2.NAME
 #, fuzzy
@@ -12360,10 +12345,9 @@ msgid "Visionary Doubt"
 msgstr "Visionary Doubt"
 
 #: CARD.SEGUE.DESC
-#, fuzzy
 msgctxt "CARD.SEGUE.DESC"
 msgid "Draw {1} {1*card|cards}.\nReturn the next card you play to your draw pile."
-msgstr "Draw {1} {1*card|cards}.\nReturn the next card you play to your draw pile."
+msgstr "Pioche {1} {1*carte|cartes}.\nLa prochaine carte que vous jouez est renvoyez dans votre pioche."
 
 #: CARD.SEGUE.NAME
 #, fuzzy
@@ -12372,10 +12356,9 @@ msgid "Segue"
 msgstr "Segue"
 
 #: CARD.SEGUE_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.SEGUE_PLUS.DESC"
 msgid "Draw {1} {1*card|cards}.\nReturn the next <#UPGRADE>2</> cards you play to your draw pile."
-msgstr "Draw {1} {1*card|cards}.\nReturn the next <#UPGRADE>2</> cards you play to your draw pile."
+msgstr "Pioche {1} {1*carte|cartes}.\nLa prochaine <#UPGRADE>2</> carte que vous jouez est renvoyez dans votre pioche."
 
 #: CARD.SEGUE_PLUS.NAME
 #, fuzzy
@@ -12384,10 +12367,9 @@ msgid "Enhanced Segue"
 msgstr "Enhanced Segue"
 
 #: CARD.SEGUE_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.SEGUE_PLUS2.DESC"
 msgid "Draw <#UPGRADE>{1}</> {1*card|cards}.\nReturn the next card you play to your draw pile."
-msgstr "Draw <#UPGRADE>{1}</> {1*card|cards}.\nReturn the next card you play to your draw pile."
+msgstr "Pioche <#UPGRADE>{1}</> {1*carte|cartes}.\nLa prochaine carte que vous jouez est renvoyez dans votre pioche."
 
 #: CARD.SEGUE_PLUS2.NAME
 #, fuzzy
@@ -12549,10 +12531,9 @@ msgid "Straw Man"
 msgstr "Straw Man"
 
 #: CARD.SUBTLETY.DESC
-#, fuzzy
 msgctxt "CARD.SUBTLETY.DESC"
 msgid "Spend {INFLUENCE {1}}: Draw {2} cards."
-msgstr "Spend {INFLUENCE {1}}: Draw {2} cards."
+msgstr "Dépenser {INFLUENCE {1}}: Piocher {2} cartes."
 
 #: CARD.SUBTLETY.NAME
 #, fuzzy
@@ -12561,10 +12542,9 @@ msgid "Subtlety"
 msgstr "Subtlety"
 
 #: CARD.SUBTLETY_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.SUBTLETY_PLUS.DESC"
 msgid "Spend {INFLUENCE {1}}: Draw {2} cards."
-msgstr "Spend {INFLUENCE {1}}: Draw {2} cards."
+msgstr "Dépenser {INFLUENCE {1}}: Piocher {2} cartes."
 
 #: CARD.SUBTLETY_PLUS.NAME
 #, fuzzy
@@ -12573,10 +12553,9 @@ msgid "Rooted Subtlety"
 msgstr "Rooted Subtlety"
 
 #: CARD.SUBTLETY_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.SUBTLETY_PLUS2.DESC"
 msgid "Spend {INFLUENCE {1}}: Draw <#UPGRADE>{2}</> cards."
-msgstr "Spend {INFLUENCE {1}}: Draw <#UPGRADE>{2}</> cards."
+msgstr "Dépenser {INFLUENCE {1}}: Piocher <#UPGRADE>{2}</> cartes."
 
 #: CARD.SUBTLETY_PLUS2.NAME
 #, fuzzy
@@ -12585,10 +12564,9 @@ msgid "Boosted Subtlety"
 msgstr "Boosted Subtlety"
 
 #: CARD.SUMMONS_CARD.DESC
-#, fuzzy
 msgctxt "CARD.SUMMONS_CARD.DESC"
 msgid "{INCEPT} 1 {planted_summons}. Target gains 1 {IMPATIENCE}."
-msgstr "{INCEPT} 1 {planted_summons}. Target gains 1 {IMPATIENCE}."
+msgstr "{INCEPT} 1 {planted_summons}. La cible gagne 1 {IMPATIENCE}."
 
 #: CARD.SUMMONS_CARD.NAME
 #, fuzzy
@@ -12597,10 +12575,9 @@ msgid "Deliver Summons"
 msgstr "Deliver Summons"
 
 #: CARD.SUSPICION.DESC
-#, fuzzy
 msgctxt "CARD.SUSPICION.DESC"
 msgid "Diplomacy cards deal {1%+d} damage."
-msgstr "Diplomacy cards deal {1%+d} damage."
+msgstr "Les carte de Diplomatie inflige {1%+d} de dégâts."
 
 #: CARD.SUSPICION.NAME
 #, fuzzy
@@ -12645,10 +12622,9 @@ msgid "Visionary Rebuttal"
 msgstr "Visionary Rebuttal"
 
 #: CARD.SWINDLE.DESC
-#, fuzzy
 msgctxt "CARD.SWINDLE.DESC"
 msgid "Adds {1} {bad_deal} {1*card|cards} to your draw pile."
-msgstr "Adds {1} {bad_deal} {1*card|cards} to your draw pile."
+msgstr "Ajoute {1} {1} {bad_deal} {1*carte|cartes} à votre pioche."
 
 #: CARD.SWINDLE.NAME
 #, fuzzy
@@ -12668,10 +12644,9 @@ msgid "Tactical Mind"
 msgstr "Tactical Mind"
 
 #: CARD.TACTICAL_MIND_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.TACTICAL_MIND_PLUS.DESC"
 msgid "Gain: Draw {1} extra card at the start of your turn."
-msgstr "Gain: Draw {1} extra card at the start of your turn."
+msgstr "Gain: Piocher {1} en plus au debut de votre tour."
 
 #: CARD.TACTICAL_MIND_PLUS.NAME
 #, fuzzy
@@ -12680,10 +12655,9 @@ msgid "Pale Mind"
 msgstr "Pale Mind"
 
 #: CARD.TACTICAL_MIND_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.TACTICAL_MIND_PLUS2.DESC"
 msgid "Gain: Draw <#UPGRADE>{1}</> extra cards at the start of your turn."
-msgstr "Gain: Draw <#UPGRADE>{1}</> extra cards at the start of your turn."
+msgstr "Gain: Piocher <#UPGRADE>{1}</> en plus au debut de votre tour."
 
 #: CARD.TACTICAL_MIND_PLUS2.NAME
 #, fuzzy
@@ -12776,7 +12750,6 @@ msgid "Threaten"
 msgstr "Threaten"
 
 #: CARD.THREATEN_PLUS2A.DESC
-#, fuzzy
 msgctxt "CARD.THREATEN_PLUS2A.DESC"
 msgid "<#UPGRADE>{CONSUME}</>"
 msgstr "<#UPGRADE>{CONSUME}</>"
@@ -12841,10 +12814,9 @@ msgid "Boosted Threaten"
 msgstr "Boosted Threaten"
 
 #: CARD.THREATEN_PLUS2F.DESC
-#, fuzzy
 msgctxt "CARD.THREATEN_PLUS2F.DESC"
 msgid "<#UPGRADE>Gain 1 {DOMINANCE}.</>"
-msgstr "<#UPGRADE>Gain 1 {DOMINANCE}.</>"
+msgstr "<#UPGRADE>Gagner 1 {DOMINANCE}.</>"
 
 #: CARD.THREATEN_PLUS2F.FLAVOUR
 #, fuzzy
@@ -12883,10 +12855,9 @@ msgid "Tribute"
 msgstr "Tribute"
 
 #: CARD.TYRANNIZE.DESC
-#, fuzzy
 msgctxt "CARD.TYRANNIZE.DESC"
 msgid "Spend {INFLUENCE {1}}: Gain {DOMINANCE {2}}."
-msgstr "Spend {INFLUENCE {1}}: Gain {DOMINANCE {2}}."
+msgstr "Dépenser {INFLUENCE {1}}: Gagner {DOMINANCE {2}}."
 
 #: CARD.TYRANNIZE.NAME
 #, fuzzy
@@ -12895,10 +12866,9 @@ msgid "Tyrannize"
 msgstr "Tyrannize"
 
 #: CARD.TYRANNIZE_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.TYRANNIZE_PLUS.DESC"
 msgid "Spend {INFLUENCE {1}}: Gain {DOMINANCE {2}}."
-msgstr "Spend {INFLUENCE {1}}: Gain {DOMINANCE {2}}."
+msgstr "Dépenser {INFLUENCE {1}}: Gagner {DOMINANCE {2}}."
 
 #: CARD.TYRANNIZE_PLUS.NAME
 #, fuzzy
@@ -12907,10 +12877,9 @@ msgid "Pale Tyrannize"
 msgstr "Pale Tyrannize"
 
 #: CARD.TYRANNIZE_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.TYRANNIZE_PLUS2.DESC"
 msgid "Spend {INFLUENCE {1}}: Gain <#UPGRADE>{DOMINANCE {2}}</>."
-msgstr "Spend {INFLUENCE {1}}: Gain <#UPGRADE>{DOMINANCE {2}}</>."
+msgstr "Dépenser {INFLUENCE {1}}: Gagner <#UPGRADE>{DOMINANCE {2}}</>."
 
 #: CARD.TYRANNIZE_PLUS2.NAME
 #, fuzzy
@@ -13134,22 +13103,19 @@ msgid "Choose {1} {1*card|cards} to expend"
 msgstr "Choisir {1} {1*carte|cartes} à épuiser"
 
 #: CARD_ENGINE.CHOOSE_MAX_CARDS
-#, fuzzy
 msgctxt "CARD_ENGINE.CHOOSE_MAX_CARDS"
 msgid "Choose up to {1} {1*card|cards}"
-msgstr "Choose up to {1} {1*card|cards}"
+msgstr "Choisissez jusqu′à {1} {1*carte|cartes}"
 
 #: CARD_ENGINE.CHOOSE_MAX_DISCARDS
-#, fuzzy
 msgctxt "CARD_ENGINE.CHOOSE_MAX_DISCARDS"
 msgid "Choose up to {1} {1*card|cards} to discard"
-msgstr "Choose up to {1} {1*card|cards} to discard"
+msgstr "Choisissez jusqu′à {1} {1*carte|cartes} à défausser"
 
 #: CARD_ENGINE.CHOOSE_MAX_EXPEND
-#, fuzzy
 msgctxt "CARD_ENGINE.CHOOSE_MAX_EXPEND"
 msgid "Choose up to {1} {1*card|cards} to expend"
-msgstr "Choose up to {1} {1*card|cards} to expend"
+msgstr "Choisissez jusqu′à {1} {1*carte|cartes} à épuiser"
 
 #: CARD_ENGINE.CHOOSE_MIN_CARDS
 msgctxt "CARD_ENGINE.CHOOSE_MIN_CARDS"
@@ -15269,10 +15235,9 @@ msgid "<c img='x'> View cards in hand"
 msgstr "<c img='x'> Voir les cartes en main"
 
 #: CHOOSE_CARDS_POPUP.CONTROLS_RIGHT_OPEN
-#, fuzzy
 msgctxt "CHOOSE_CARDS_POPUP.CONTROLS_RIGHT_OPEN"
 msgid "<c img='a'> Pick card"
-msgstr "<c img='a'> Pick card"
+msgstr "<c img='a'> Carte à piocher"
 
 #: CHOOSE_CARDS_POPUP.CONTROLS_RIGHT_RESTORE
 #, fuzzy
@@ -15478,10 +15443,9 @@ msgid "*You defeated {admiralty}, but couldn't save {laborer}."
 msgstr "*You defeated {admiralty}, but couldn't save {laborer}."
 
 #: CONVO.ADMIRALTY_EXTORTION.STATE_INTERVENE.OPT_DEFEND
-#, fuzzy
 msgctxt "CONVO.ADMIRALTY_EXTORTION.STATE_INTERVENE.OPT_DEFEND"
 msgid "Defend {laborer}"
-msgstr "Defend {laborer}"
+msgstr "Défendre {laborer}"
 
 #: CONVO.ADMIRALTY_EXTORTION.STATE_INTERVENE.OPT_EXTORT
 #, fuzzy
@@ -16128,10 +16092,9 @@ msgid "Hand over <i>ALL</> of your shills"
 msgstr "Hand over <i>ALL</> of your shills"
 
 #: CONVO.BANDIT_ROB_PLAYER.STATE_ROB.TT_LESS_AMOUNT
-#, fuzzy
 msgctxt "CONVO.BANDIT_ROB_PLAYER.STATE_ROB.TT_LESS_AMOUNT"
 msgid "Give {1#money}"
-msgstr "Give {1#money}"
+msgstr "Donner {1#money}"
 
 #: CONVO.BANDIT_TENT_ENCOUNTER.STATE_CONFRONT.DIALOG_FRIENDLY
 #, fuzzy
@@ -16400,16 +16363,14 @@ msgid "Ask about the price"
 msgstr "Ask about the price"
 
 #: CONVO.DANGEROUS_GOODS_SELLER.FOO.OPT_BUY_GOODS
-#, fuzzy
 msgctxt "CONVO.DANGEROUS_GOODS_SELLER.FOO.OPT_BUY_GOODS"
 msgid "Buy {1#card}"
-msgstr "Buy {1#card}"
+msgstr "Acheter {1#card}"
 
 #: CONVO.DANGEROUS_GOODS_SELLER.FOO.OPT_DECLINE
-#, fuzzy
 msgctxt "CONVO.DANGEROUS_GOODS_SELLER.FOO.OPT_DECLINE"
 msgid "Decline the offer"
-msgstr "Decline the offer"
+msgstr "Refuser l'offre"
 
 #: CONVO.DANGEROUS_GOODS_SELLER_PART_2.FOO.DIALOG_DEFEND
 #, fuzzy
@@ -16508,10 +16469,9 @@ msgid "Hand it over"
 msgstr "Hand it over"
 
 #: CONVO.DANGEROUS_GOODS_SELLER_PART_2.FOO.OPT_REFUSE
-#, fuzzy
 msgctxt "CONVO.DANGEROUS_GOODS_SELLER_PART_2.FOO.OPT_REFUSE"
 msgid "Refuse"
-msgstr "Refuse"
+msgstr "Refuser"
 
 #: CONVO.EASY_TARGET_MERCHANT.STATE_MERCHANT.DIALOG_INTRO
 #, fuzzy
@@ -16634,10 +16594,9 @@ msgid "Rob {agent}"
 msgstr "Voler {agent}"
 
 #: CONVO.EASY_TARGET_MERCHANT.STATE_POST_ROB.OPT_TAKE_GRAFT
-#, fuzzy
 msgctxt "CONVO.EASY_TARGET_MERCHANT.STATE_POST_ROB.OPT_TAKE_GRAFT"
 msgid "Take {1#graft}"
-msgstr "Take {1#graft}"
+msgstr "Prendre {1#graft}"
 
 #: CONVO.EASY_TARGET_MERCHANT.STATE_ROB.DIALOG_ATTACK
 #, fuzzy
@@ -16736,10 +16695,9 @@ msgid "Try to back down"
 msgstr "Try to back down"
 
 #: CONVO.EASY_TARGET_MERCHANT.STATE_ROB.OPT_DEFEND
-#, fuzzy
 msgctxt "CONVO.EASY_TARGET_MERCHANT.STATE_ROB.OPT_DEFEND"
 msgid "Defend yourself"
-msgstr "Defend yourself"
+msgstr "Se défendre"
 
 #: CONVO.EASY_TARGET_MERCHANT.STATE_ROB.OPT_DEMAND_ALL
 #, fuzzy
@@ -16805,10 +16763,9 @@ msgid "agent:\n$neutralDubious\nIs someone acting up?"
 msgstr "agent:\n$neutralDubious\nIs someone acting up?"
 
 #: CONVO.EVICT_PATRON_CHAT.OPT_EVICT_AGENT
-#, fuzzy
 msgctxt "CONVO.EVICT_PATRON_CHAT.OPT_EVICT_AGENT"
 msgid "Evict {1#agent}"
-msgstr "Evict {1#agent}"
+msgstr "Évacuer {1#agent}"
 
 #: CONVO.EVICT_PATRON_CHAT.OPT_EVICT_PATRON
 msgctxt "CONVO.EVICT_PATRON_CHAT.OPT_EVICT_PATRON"
@@ -16947,10 +16904,9 @@ msgid "Leave in a hurry"
 msgstr "Partir en vitesse"
 
 #: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_DEFEND
-#, fuzzy
 msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_DEFEND"
 msgid "Defend yourself"
-msgstr "Defend yourself"
+msgstr "Se défendre"
 
 #: CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_DEMAND_ALL
 msgctxt "CONVO.FLEAD_FIGHT.STATE_CONFRONT.OPT_DEMAND_ALL"
@@ -17781,10 +17737,9 @@ msgid "Defend {clerk}"
 msgstr "Défendre {clerk}"
 
 #: CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_4.STATE_ROBBERY.OPT_STEP_ASIDE
-#, fuzzy
 msgctxt "CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_4.STATE_ROBBERY.OPT_STEP_ASIDE"
 msgid "Step aside"
-msgstr "Step aside"
+msgstr "Vous écartez"
 
 #: CONVO.HANDLER_ADMIRALTY_COLLECTION_DAY_5.DIALOG_BETRAY_CLERK_HERE
 #, fuzzy
@@ -18158,7 +18113,6 @@ msgid "agent:\n!exit\n* Hearing the commotion, the other Spree thug lurches out 
 msgstr "agent:\n!exit\n* Hearing the commotion, the other Spree thug lurches out of the shack, ready for a fight.\ngoon2:\n!right\n!angry\n$angryHostile\nWhat did you do to {goon1}?\n\n!fight\n$angryHostile\nKill {player.himher}!"
 
 #: CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_FIGHT_EVERYONE_OUTSIDE.DIALOG_WON_FIGHT
-#, fuzzy
 msgctxt "CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_FIGHT_EVERYONE_OUTSIDE.DIALOG_WON_FIGHT"
 msgid "agent:\n!exit"
 msgstr "agent:\n!exit"
@@ -18262,10 +18216,9 @@ msgid "* {target} is at your mercy.\ntarget:\n!scared\n$scaredFearful\nN-now hol
 msgstr "* {target} is at your mercy.\ntarget:\n!scared\n$scaredFearful\nN-now hold on, hunter. Let's talk about this.\n{handler} doesn't need to know anything about what I said, or what I might've been prepared to do.\n!scared_shrug\n$scaredPowerless\nWhy don't you just let me go back? \nWe'll both keep nice and quiet, and then you'll have a friend in the Admiralty—that's gotta come in handy, right?"
 
 #: CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_POST_FLIPPED_FIGHT.OPT_ACCEPT_DEAL
-#, fuzzy
 msgctxt "CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_POST_FLIPPED_FIGHT.OPT_ACCEPT_DEAL"
 msgid "Let {target} live"
-msgstr "Let {target} live"
+msgstr "Laisser {target} vivre"
 
 #: CONVO.HANDLER_ADMIRALTY_RESCUE_MISSION.STATE_POST_FLIPPED_FIGHT.OPT_REFUSE_DEAL
 #, fuzzy
@@ -18380,10 +18333,9 @@ msgid "Defend yourself"
 msgstr "Se défendre"
 
 #: CONVO.HANDLER_SPREE_KILL_WEAKENED_PATROL.STATE_ENCOUNTER.OPT_EXECUTE
-#, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_KILL_WEAKENED_PATROL.STATE_ENCOUNTER.OPT_EXECUTE"
 msgid "Execute the survivors"
-msgstr "Execute the survivors"
+msgstr "Exécuter les survivants"
 
 #: CONVO.HANDLER_SPREE_KILL_WEAKENED_PATROL.STATE_ENCOUNTER.OPT_LET_GO
 #, fuzzy
@@ -18492,16 +18444,14 @@ msgid "player:\n!left\nagent:\n!right\n!greeting\n$neutralGreeting\nHey! I've he
 msgstr "player:\n!left\nagent:\n!right\n!greeting\n$neutralGreeting\nHey! I've heard some rumors that {handler} isn't all too pleased with {target} and is planning to... make some changes.\nplayer:\n!dubious\n$neutralDubious\nWell, that's an interesting rumor.\nagent:\n$neutralDirect\nI was just thinking, that maybe {handler} would want someone reliable to take their place and that maybe you could help out a friend.\n!wink\n$happyCocky\nWe could go take care of {target} together and I'll take over for them.\n\n*** {agent} proposes you help {agent.himher} take {target}'s job."
 
 #: CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_3.STATE_MEET_FRIEND.OPT_ACCEPT_OFFER
-#, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_3.STATE_MEET_FRIEND.OPT_ACCEPT_OFFER"
 msgid "Accept {admiralty_friend}'s proposition"
-msgstr "Accept {admiralty_friend}'s proposition"
+msgstr "Accepter la proposition de {admiralty_friend}"
 
 #: CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_3.STATE_MEET_FRIEND.OPT_DECLINE_OFFER
-#, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_3.STATE_MEET_FRIEND.OPT_DECLINE_OFFER"
 msgid "Decline the offer and leave"
-msgstr "Decline the offer and leave"
+msgstr "Refuser l'offre et partir"
 
 #: CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_3.STATE_TARGET_INTRO.DIALOG_INTRO
 #, fuzzy
@@ -18617,10 +18567,9 @@ msgid "agent:\n!injured\n$scaredFearful\nStop! Stop! I get the message.\nI'll wa
 msgstr "agent:\n!injured\n$scaredFearful\nStop! Stop! I get the message.\nI'll walk away. I swear.\n!exit\nadmiralty_friend:\n!right\n$happyDefault\nLooks like we wont be seeing any more of {agent.himher}!"
 
 #: CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_6.OPT_ATTACK
-#, fuzzy
 msgctxt "CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_6.OPT_ATTACK"
 msgid "Attack {target}"
-msgstr "Attack {target}"
+msgstr "Attaquer {target}"
 
 #: CONVO.HANDLER_SPREE_NEUTRALIZE_GUARD_6.OPT_CONVINCE_TO_LEAVE_JOB
 #, fuzzy
@@ -19887,10 +19836,9 @@ msgid "Leave {agent} to {agent.hisher} fate"
 msgstr "Leave {agent} to {agent.hisher} fate"
 
 #: CONVO.INJURED_PERSON_2.STATE_ADMIRALTY.OPT_PROTECT
-#, fuzzy
 msgctxt "CONVO.INJURED_PERSON_2.STATE_ADMIRALTY.OPT_PROTECT"
 msgid "Agree to protect {agent}"
-msgstr "Agree to protect {agent}"
+msgstr "Acceptez de protéger {agent}"
 
 #: CONVO.INJURED_PERSON_2.STATE_ADMIRALTY_ARRIVAL.DIALOG_FIGHT
 #, fuzzy
@@ -20921,10 +20869,9 @@ msgid "player:\n!exit\nagent:\n!exit\n* You put together an impromptu obstacle c
 msgstr "player:\n!exit\nagent:\n!exit\n* You put together an impromptu obstacle course from branches and dead trees, leading to a dummy made from putrid mulch.\nplayer:\n!left\n!point\n$neutralDirect\nUp and over! That's right. \n!placate\n$miscHushedUrgent\nLow to the ground now, real quiet—\n!cruel\n$angryHostile\nNow <i>sic</i>!\nagent:\n!right\nGrr!\n* {agent}'s max health increased by {1}, base damage increased."
 
 #: CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_CALL_PET
-#, fuzzy
 msgctxt "CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_CALL_PET"
 msgid "Call {1#agent}"
-msgstr "Call {1#agent}"
+msgstr "Appelez {1#agent}"
 
 #: CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_PLAY_WITH_PET
 #, fuzzy
@@ -21038,10 +20985,9 @@ msgid "player:\n!cringe\n$neutralThoughtful\nI <i>am</i> a little stiff. \nagent
 msgstr "player:\n!cringe\n$neutralThoughtful\nI <i>am</i> a little stiff. \nagent:\nJust sit tight. This'll be over in a jiff.\n* {agent} pulls out a gray paste that smells like pickled sea slug."
 
 #: CONVO.OPPO_FRIEND_BOON.HEALING.OPT_HEAL
-#, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_BOON.HEALING.OPT_HEAL"
 msgid "Heal for {1} HP"
-msgstr "Heal for {1} HP"
+msgstr "Soigner pour {1} PV"
 
 #: CONVO.OPPO_FRIEND_BOON.HIRE.DIALOG_ACCEPT_HIRE
 #, fuzzy
@@ -21197,16 +21143,14 @@ msgid "* {agent} launches into the nuances of debate. You lose a bit in the fren
 msgstr "* {agent} launches into the nuances of debate. You lose a bit in the frenzy but, hey, you pick up a bit, too.\nplayer:\n!thought\n$happyAmazed\nHuh. I think I might try that out. \nagent:\n!wink\n$happyDefault\nKnock 'em dead out there, {player}. Err, metaphorically, of course. \n!dubious\n$neutralDubious\nIf you do it literally then I don't think you've been puttin' this lesson to use."
 
 #: CONVO.OPPO_FRIEND_BOON.UPGRADE_NEGOTIATION_CARD.OPT_DONT_TAKE
-#, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_BOON.UPGRADE_NEGOTIATION_CARD.OPT_DONT_TAKE"
 msgid "Refuse"
-msgstr "Refuse"
+msgstr "Refuser"
 
 #: CONVO.OPPO_FRIEND_BOON.UPGRADE_NEGOTIATION_CARD.OPT_UPGRADE_CARD
-#, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_BOON.UPGRADE_NEGOTIATION_CARD.OPT_UPGRADE_CARD"
 msgid "Upgrade <!card_1>{1}</>"
-msgstr "Upgrade <!card_1>{1}</>"
+msgstr "Améliorer <!card_1>{1}</>"
 
 #: CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.DIALOG_ACCEPT
 #, fuzzy
@@ -21280,10 +21224,9 @@ msgid "Agree to the plan"
 msgstr "Accepter le plan"
 
 #: CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.OPT_ATTACK
-#, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.OPT_ATTACK"
 msgid "Attack {target}"
-msgstr "Attack {target}"
+msgstr "Attaquer {target}"
 
 #: CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.OPT_DECLINE
 #, fuzzy
@@ -21292,10 +21235,9 @@ msgid "Back out"
 msgstr "Back out"
 
 #: CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.OPT_LET_PASS
-#, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.OPT_LET_PASS"
 msgid "Let {target} pass"
-msgstr "Let {target} pass"
+msgstr "Laisser {target} passer"
 
 #: CONVO.OPPO_FRIEND_DO_ROBBERY.CONFRONT.OPT_SCARE
 #, fuzzy
@@ -21440,10 +21382,9 @@ msgid "Attack {attacker}"
 msgstr "Attaquer {attacker}"
 
 #: CONVO.OPPO_FRIEND_IN_TROUBLE.CONFRONT.OPT_CONVINCE
-#, fuzzy
 msgctxt "CONVO.OPPO_FRIEND_IN_TROUBLE.CONFRONT.OPT_CONVINCE"
 msgid "Convince {attacker} to leave"
-msgstr "Convince {attacker} to leave"
+msgstr "Convaincre {attacker} de partir"
 
 #: CONVO.OPPO_FRIEND_IN_TROUBLE.CONFRONT.OPT_DEFEND_SELF
 msgctxt "CONVO.OPPO_FRIEND_IN_TROUBLE.CONFRONT.OPT_DEFEND_SELF"
@@ -21793,10 +21734,9 @@ msgid "Ask about the vroc"
 msgstr "Ask about the vroc"
 
 #: CONVO.PET_SELLER.STATE_MERCHANT.OPT_DECLINE
-#, fuzzy
 msgctxt "CONVO.PET_SELLER.STATE_MERCHANT.OPT_DECLINE"
 msgid "Decline the offer"
-msgstr "Decline the offer"
+msgstr "Refuser l'offre"
 
 #: CONVO.PET_SELLER.STATE_MERCHANT.OPT_DEMAND_THE_VROC
 #, fuzzy
@@ -22005,10 +21945,9 @@ msgid "player:\n!surprised\n$scaredTakenAback\nYeowch! Did you... pinch me?!\nag
 msgstr "player:\n!surprised\n$scaredTakenAback\nYeowch! Did you... pinch me?!\nagent:\n!shrug\nHesh has the stingers of a jellyfish. Its touch doesn't come without consequence.\nplayer:\nGreat. But... huh. \n!thought\n$neutralThoughtful\nI <i>do</i> feel different.\n!happy\n$happyThanks\nThanks!"
 
 #: CONVO.SAL_HESH_OUTPOST.OPT_GET_BLESSING
-#, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST.OPT_GET_BLESSING"
 msgid "Get a blessing"
-msgstr "Get a blessing"
+msgstr "Obtenir une bénédiction"
 
 #: CONVO.SAL_HESH_OUTPOST.REQ_ALREAY_USED
 #, fuzzy
@@ -22059,16 +21998,14 @@ msgid "Ask about holy relics"
 msgstr "Ask about holy relics"
 
 #: CONVO.SAL_HESH_OUTPOST_2.CARD_TRAINED
-#, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST_2.CARD_TRAINED"
 msgid "{1#card} gained {2} XP"
-msgstr "{1#card} gained {2} XP"
+msgstr "{1#card} gagnée {2} XP"
 
 #: CONVO.SAL_HESH_OUTPOST_2.CARD_TRAINED_READY
-#, fuzzy
 msgctxt "CONVO.SAL_HESH_OUTPOST_2.CARD_TRAINED_READY"
 msgid "{1#card} gained {2} XP <#BONUS>Upgrade ready!</>"
-msgstr "{1#card} gained {2} XP <#BONUS>Upgrade ready!</>"
+msgstr "{1#card} gagnée {2} XP <#BONUS>Amélioration prête!</>"
 
 #: CONVO.SAL_HESH_OUTPOST_2.CARD_TRAINED_SUMMARY
 msgctxt "CONVO.SAL_HESH_OUTPOST_2.CARD_TRAINED_SUMMARY"
@@ -22977,10 +22914,9 @@ msgid "Ask about the Rise"
 msgstr "Ask about the Rise"
 
 #: CONVO.SAL_STORY_AUCTION_4.OPT_START_AUCTION
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_4.OPT_START_AUCTION"
 msgid "[START THE AUCTION]"
-msgstr "[START THE AUCTION]"
+msgstr "[COMMENCER LA VENTE AUX ENCHÈRES]"
 
 #: CONVO.SAL_STORY_AUCTION_5.STATE_QUESTIONS.ASK_ABOUT_DIALOG_1
 #, fuzzy
@@ -23019,16 +22955,14 @@ msgid "agent:\n!left\nHey. I got {1#money}!\nauction_caller:\n!right\n!clap\nExc
 msgstr "agent:\n!left\nHey. I got {1#money}!\nauction_caller:\n!right\n!clap\nExcellent! I heard {1#money}!\n$miscAlluring\nCan someone entice me further with {2#money}?\nplayer:\n!left\n!thinking"
 
 #: CONVO.SAL_STORY_AUCTION_6.BID_ON_ITEM.DIAL_REFRAIN
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_6.BID_ON_ITEM.DIAL_REFRAIN"
 msgid "player:\nNaaaaaah."
 msgstr "player:\nNaaaaaah."
 
 #: CONVO.SAL_STORY_AUCTION_6.BID_ON_ITEM.DIAL_SAL_LOST
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_6.BID_ON_ITEM.DIAL_SAL_LOST"
 msgid "player:\nI lost!"
-msgstr "player:\nI lost!"
+msgstr "player:\nJ'ai perdu!"
 
 #: CONVO.SAL_STORY_AUCTION_6.BID_ON_ITEM.DIAL_SAL_WON
 #, fuzzy
@@ -23536,10 +23470,9 @@ msgid "handler:\nGood choice!"
 msgstr "handler:\nGood choice!"
 
 #: CONVO.SAL_STORY_AUCTION_BANDIT_2.STATE_STEAL_ITEM.OPT_TRY_STEAL
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_BANDIT_2.STATE_STEAL_ITEM.OPT_TRY_STEAL"
 msgid "Take the {1#graft}"
-msgstr "Take the {1#graft}"
+msgstr "Prendre le {1#graft}"
 
 #: CONVO.SAL_STORY_AUCTION_BANDIT_AMBUSH.AMBUSH_INTRO.DIALOG_ACCEPT
 #, fuzzy
@@ -24329,16 +24262,14 @@ msgid "* {other_handler} makes the journey as difficult as possible, and laces i
 msgstr "* {other_handler} makes the journey as difficult as possible, and laces it with vague threats.\n* But when it's clear there's nobody coming to rescue {other_handler.himher}, his mood shifts. \n* He sulks for a time, but eventually he breaks the silence open like a fresh egg.\nplayer:\n\n!left\nagent:\n!right\n!dubious\n$neutralDubious\nYou got nerve, hunter. A lot of it. You gonna be content to stay in Murder Bay workin' for a lead-pusher like {handler}?\n$miscAlluring\nShe doesn't have the gumption to lift you to the heights you really want.\nplayer:\n\n!happy\n\n$happyCocky\n\nActually, she's getting me exactly where I wanna be. At Kashio's throat.\nagent:\n\n!interest\n\n$neutralThoughtful\n\nYou're after Kashio? Huh. You shoulda come to <i>me</i>, hunter. I coulda made it real.\n\nBut fair enough. You've got your reasons for working with {handler}. But reason evaporates.\n\n!agree\n\n$miscPersuasive\nYou want powerful people who owe you a favor. After Kashio, then what? You need more angles, more advantages.\nSo let me go. Tell {handler} I got away. \nplayer:\n\n!crossed\n\n$neutralDubious\nAnd I would do that because...?\nagent:\n\n!cruel\n\n$miscMischievous\nI can teach you a thing or two about the Spree. You never know when you'll need to use unorthodox tactics.\nI got know-how in this noggin worth more than any Heshian relic. Allow me to impart it.\n*** {other_handler} is offering to give you a Spree faction card if you let {other_handler.himher} go, and convince {handler} that {other_handler.heshe} escaped."
 
 #: CONVO.SAL_STORY_CAPTURE_NADAN_6.THE_STATE.OPT_ACCEPT
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_CAPTURE_NADAN_6.THE_STATE.OPT_ACCEPT"
 msgid "Accept the offer"
-msgstr "Accept the offer"
+msgstr "Accepter l'offre"
 
 #: CONVO.SAL_STORY_CAPTURE_NADAN_6.THE_STATE.OPT_DECLINE
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_CAPTURE_NADAN_6.THE_STATE.OPT_DECLINE"
 msgid "Decline the offer"
-msgstr "Decline the offer"
+msgstr "Refuser l'offre"
 
 #: CONVO.SAL_STORY_CAPTURE_NADAN_7.DIALOG_INTRO
 #, fuzzy
@@ -25933,10 +25864,9 @@ msgid "agent:\n!exit\n* You've made your point. Time to talk to {handler}."
 msgstr "agent:\n!exit\n* You've made your point. Time to talk to {handler}."
 
 #: CONVO.SAL_STORY_KILL_OOLO_6.STATE_DEAL_WITH_SPREE_WITNESSES.OPT_ATTACK_WITNESSES
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_KILL_OOLO_6.STATE_DEAL_WITH_SPREE_WITNESSES.OPT_ATTACK_WITNESSES"
 msgid "Attack {agent}"
-msgstr "Attack {agent}"
+msgstr "Attaquer {agent}"
 
 #: CONVO.SAL_STORY_KILL_OOLO_6.STATE_DEAL_WITH_SPREE_WITNESSES.OPT_BUY_SILENCE
 #, fuzzy
@@ -28591,10 +28521,9 @@ msgid "Convince {target} to leave their job"
 msgstr "Convince {target} to leave their job"
 
 #: CONVO.SIDE_EARLY_RETIREMENT_2.OPT_ROUGH_THEM_UP
-#, fuzzy
 msgctxt "CONVO.SIDE_EARLY_RETIREMENT_2.OPT_ROUGH_THEM_UP"
 msgid "Attack {target}"
-msgstr "Attack {target}"
+msgstr "Attaquer {target}"
 
 #: CONVO.SIDE_EARLY_RETIREMENT_3.DIALOG_FIRED
 #, fuzzy
@@ -29000,10 +28929,9 @@ msgid "Pay them off"
 msgstr "Pay them off"
 
 #: CONVO.SIDE_JAKE_ESCORT_2.STATE_ADMIRALTY_INTERRUPT.OPT_CONVINCE
-#, fuzzy
 msgctxt "CONVO.SIDE_JAKE_ESCORT_2.STATE_ADMIRALTY_INTERRUPT.OPT_CONVINCE"
 msgid "Convince {agent} to back off"
-msgstr "Convince {agent} to back off"
+msgstr "Convaincre {agent} de renoncer"
 
 #: CONVO.SIDE_JAKE_ESCORT_2.STATE_ADMIRALTY_INTERRUPT.OPT_FIGHT
 #, fuzzy
@@ -29543,10 +29471,9 @@ msgid "Ask {bandit} to leave"
 msgstr "Ask {bandit} to leave"
 
 #: CONVO.SIDE_PRIVATE_SECURITY_3.STATE_DEFEND.OPT_ATTACK
-#, fuzzy
 msgctxt "CONVO.SIDE_PRIVATE_SECURITY_3.STATE_DEFEND.OPT_ATTACK"
 msgid "Attack"
-msgstr "Attack"
+msgstr "Attaque"
 
 #: CONVO.SIDE_PRIVATE_SECURITY_3.STATE_DEFEND.OPT_ATTACK_THE_BANDITS
 #, fuzzy
@@ -29572,10 +29499,9 @@ msgid "Jump out and confront the bandits"
 msgstr "Jump out and confront the bandits"
 
 #: CONVO.SIDE_PRIVATE_SECURITY_3.STATE_DEFEND.OPT_RUN_AWAY
-#, fuzzy
 msgctxt "CONVO.SIDE_PRIVATE_SECURITY_3.STATE_DEFEND.OPT_RUN_AWAY"
 msgid "Leave the shop"
-msgstr "Leave the shop"
+msgstr "Quitter le magasin"
 
 #: CONVO.SIDE_PRIVATE_SECURITY_3.STATE_DEFEND.OPT_STAY_HIDDEN
 #, fuzzy
@@ -29584,10 +29510,9 @@ msgid "Stay quiet and wait for the danger to pass"
 msgstr "Stay quiet and wait for the danger to pass"
 
 #: CONVO.SIDE_PRIVATE_SECURITY_3.STATE_DEFEND.OPT_WAIT
-#, fuzzy
 msgctxt "CONVO.SIDE_PRIVATE_SECURITY_3.STATE_DEFEND.OPT_WAIT"
 msgid "Wait"
-msgstr "Wait"
+msgstr "Attendre"
 
 #: CONVO.SIDE_REPO_PERSON.DIALOG_COME_BACK_LATER
 #, fuzzy
@@ -29602,10 +29527,9 @@ msgid "Ask {target} about the money"
 msgstr "Ask {target} about the money"
 
 #: CONVO.SIDE_REPO_PERSON.OPT_COME_BACK_LATER
-#, fuzzy
 msgctxt "CONVO.SIDE_REPO_PERSON.OPT_COME_BACK_LATER"
 msgid "Come back later"
-msgstr "Come back later"
+msgstr "Revenez plus tard"
 
 #: CONVO.SIDE_REPO_PERSON.STATE_BANDITS.DIALOG_ATTACK
 #, fuzzy
@@ -29878,10 +29802,9 @@ msgid "player:\n$miscPersuasive\n!placate\nI've been brought in to make this rig
 msgstr "player:\n$miscPersuasive\n!placate\nI've been brought in to make this right. {giver} and {target} made a mistake—but it was an innocent one.\n$miscPersuasive\nLet me pay you, and we can all leave it in the past. \nclient:\n!agree\n$neutralDirect\nI only wanted profit. I see no reason to make this bloody if I'm being respected. \n$neutralThanks\nThank you, grifter. Glad to see {giver} has integrity. \n* {giver} and {target} both relax, visibly, now that the trouble has passed. The three of you quickly make a graceful exit."
 
 #: CONVO.SIDE_REPO_PERSON_5.STATE_CONVINCE_CLIENT.OPT_ATTACK
-#, fuzzy
 msgctxt "CONVO.SIDE_REPO_PERSON_5.STATE_CONVINCE_CLIENT.OPT_ATTACK"
 msgid "Attack {client}"
-msgstr "Attack {client}"
+msgstr "Attaquer {client}"
 
 #: CONVO.SIDE_REPO_PERSON_5.STATE_CONVINCE_CLIENT.OPT_BLAME_GIVER
 #, fuzzy
@@ -30544,10 +30467,9 @@ msgid "*You defeated {spree}, but couldn't save {bounty_hunter}. {spree} isn't w
 msgstr "*You defeated {spree}, but couldn't save {bounty_hunter}. {spree} isn't worth anything dead."
 
 #: CONVO.SPREE_BOUNTY.STATE_BOUNTY.OPT_DEFEND
-#, fuzzy
 msgctxt "CONVO.SPREE_BOUNTY.STATE_BOUNTY.OPT_DEFEND"
 msgid "Defend {spree}"
-msgstr "Defend {spree}"
+msgstr "Défendre {spree}"
 
 #: CONVO.SPREE_BOUNTY.STATE_BOUNTY.OPT_HELP
 #, fuzzy
@@ -30866,7 +30788,6 @@ msgid "Try the griddled gristle"
 msgstr "Try the griddled gristle"
 
 #: CONVO.WILDLIFE_ENCOUNTERS.ACCOST_BATTLE.DIALOG_DEFEND
-#, fuzzy
 msgctxt "CONVO.WILDLIFE_ENCOUNTERS.ACCOST_BATTLE.DIALOG_DEFEND"
 msgid "!fight"
 msgstr "!fight"
@@ -30884,10 +30805,9 @@ msgid "* You leave before any other wild beasts arrive."
 msgstr "* You leave before any other wild beasts arrive."
 
 #: CONVO.WILDLIFE_ENCOUNTERS.ACCOST_BATTLE.OPT_DEFEND
-#, fuzzy
 msgctxt "CONVO.WILDLIFE_ENCOUNTERS.ACCOST_BATTLE.OPT_DEFEND"
 msgid "Defend yourself!"
-msgstr "Defend yourself!"
+msgstr "Se défendre!"
 
 #: CONVO.WILDLIFE_ENCOUNTERS.STATE_BABY.DIALOG_INTRO
 #, fuzzy
@@ -30926,10 +30846,9 @@ msgid "* You find {agent}'s hovel amidst the sprawl."
 msgstr "* You find {agent}'s hovel amidst the sprawl."
 
 #: CONVO_COMMON.AGREE
-#, fuzzy
 msgctxt "CONVO_COMMON.AGREE"
 msgid "Agree"
-msgstr "Agree"
+msgstr "Accepter"
 
 #: CONVO_COMMON.CANT_JOIN
 #, fuzzy
@@ -30938,10 +30857,9 @@ msgid "Plot armour: agent can't join party"
 msgstr "Plot armour: agent can't join party"
 
 #: CONVO_COMMON.DECLINE
-#, fuzzy
 msgctxt "CONVO_COMMON.DECLINE"
 msgid "Decline"
-msgstr "Decline"
+msgstr "Refuser"
 
 #: CONVO_COMMON.DEFAULT_DREAM_TEXT
 #, fuzzy
@@ -30961,10 +30879,9 @@ msgid "Intimidate {1#agent}"
 msgstr "Intimidate {1#agent}"
 
 #: CONVO_COMMON.DELIVER_MONEY
-#, fuzzy
 msgctxt "CONVO_COMMON.DELIVER_MONEY"
 msgid "Give {1#money}"
-msgstr "Give {1#money}"
+msgstr "Donner {1#money}"
 
 #: CONVO_COMMON.DIALOG_CARD_UPGRADE_BONUS
 #, fuzzy
@@ -31014,10 +30931,9 @@ msgid "        agent:\n            I have a job for you...\n    "
 msgstr "        agent:\n            I have a job for you...\n    "
 
 #: CONVO_COMMON.DIALOG_GET_CARD_PRES
-#, fuzzy
 msgctxt "CONVO_COMMON.DIALOG_GET_CARD_PRES"
 msgid "Gained {1#card}"
-msgstr "Gained {1#card}"
+msgstr "Gagné {1#card}"
 
 #: CONVO_COMMON.DIALOG_GET_CARD_PRES_BATTLE
 msgctxt "CONVO_COMMON.DIALOG_GET_CARD_PRES_BATTLE"
@@ -31336,10 +31252,9 @@ msgid "Gain Negotiation Card: {1#card}"
 msgstr "Gain Negotiation Card: {1#card}"
 
 #: CONVO_COMMON.OPT_GAIN_SOCIAL_GRAFT
-#, fuzzy
 msgctxt "CONVO_COMMON.OPT_GAIN_SOCIAL_GRAFT"
 msgid "Gain {1#graft}"
-msgstr "Gain {1#graft}"
+msgstr "Gagné {1#graft}"
 
 #: CONVO_COMMON.OPT_GET_GRAFT
 #, fuzzy
@@ -31348,10 +31263,9 @@ msgid "Pick a Graft Reward"
 msgstr "Pick a Graft Reward"
 
 #: CONVO_COMMON.OPT_HAVE_MONEY
-#, fuzzy
 msgctxt "CONVO_COMMON.OPT_HAVE_MONEY"
 msgid "Pay {1#money}"
-msgstr "Pay {1#money}"
+msgstr "Payer {1#money}"
 
 #: CONVO_COMMON.OPT_LEAVE
 msgctxt "CONVO_COMMON.OPT_LEAVE"
@@ -31807,7 +31721,6 @@ msgid "This is an intimidation attempt"
 msgstr "This is an intimidation attempt"
 
 #: CONVO_OPTION.INTIMIDATION_TITLE
-#, fuzzy
 msgctxt "CONVO_OPTION.INTIMIDATION_TITLE"
 msgid "INTIMIDATION"
 msgstr "INTIMIDATION"
@@ -31837,10 +31750,9 @@ msgid "NO ESCAPE"
 msgstr "NO ESCAPE"
 
 #: CONVO_OPTION.QUEST
-#, fuzzy
 msgctxt "CONVO_OPTION.QUEST"
 msgid "<#QUEST>Quest: {1}</>"
-msgstr "<#QUEST>Quest: {1}</>"
+msgstr "<#QUEST>Quête : {1}</>"
 
 #: DECK.sal_battle_basic.DESC
 #, fuzzy
@@ -31901,10 +31813,9 @@ msgid "{1#binding} Talk to"
 msgstr "{1#binding} Parler à"
 
 #: ENCOUNTER.LEAVE
-#, fuzzy
 msgctxt "ENCOUNTER.LEAVE"
 msgid "Leave"
-msgstr "Leave"
+msgstr "Partir"
 
 #: ENCOUNTER.TRAVEL
 msgctxt "ENCOUNTER.TRAVEL"
@@ -32033,16 +31944,14 @@ msgid "Very Good"
 msgstr "Très bien"
 
 #: GENDER.FEMALE
-#, fuzzy
 msgctxt "GENDER.FEMALE"
 msgid "Female"
-msgstr "Female"
+msgstr "Femme"
 
 #: GENDER.MALE
-#, fuzzy
 msgctxt "GENDER.MALE"
 msgid "Male"
-msgstr "Male"
+msgstr "Homme"
 
 #: GENDER.UNDISCLOSED
 #, fuzzy
@@ -33980,19 +33889,16 @@ msgid "Wounding Barbs"
 msgstr "Wounding Barbs"
 
 #: GRAFT_TYPES.COIN
-#, fuzzy
 msgctxt "GRAFT_TYPES.COIN"
 msgid "Coin"
-msgstr "Coin"
+msgstr "Pièce"
 
 #: GRAFT_TYPES.COMBAT
-#, fuzzy
 msgctxt "GRAFT_TYPES.COMBAT"
 msgid "Battle Graft"
-msgstr "Battle Graft"
+msgstr "Graft de combat"
 
 #: GRAFT_TYPES.MUTATOR
-#, fuzzy
 msgctxt "GRAFT_TYPES.MUTATOR"
 msgid "Mutator"
 msgstr "Mutator"
@@ -34259,10 +34165,9 @@ msgid "Somewhere in a city"
 msgstr "Somewhere in a city"
 
 #: LOCATION.MURDER_BAY_CITY.NAME
-#, fuzzy
 msgctxt "LOCATION.MURDER_BAY_CITY.NAME"
 msgid "City"
-msgstr "City"
+msgstr "Ville"
 
 #: LOCATION.MURDER_BAY_FOREST.DESC
 #, fuzzy
@@ -34271,10 +34176,9 @@ msgid "Somewhere in the forest"
 msgstr "Somewhere in the forest"
 
 #: LOCATION.MURDER_BAY_FOREST.NAME
-#, fuzzy
 msgctxt "LOCATION.MURDER_BAY_FOREST.NAME"
 msgid "Forest"
-msgstr "Forest"
+msgstr "Forêt"
 
 #: LOCATION.MURDER_BAY_HARBOUR.DESC
 #, fuzzy
@@ -34655,28 +34559,24 @@ msgid "Campsite"
 msgstr "Campsite"
 
 #: LOCMACROS.DAY_PHASE.DAY
-#, fuzzy
 msgctxt "LOCMACROS.DAY_PHASE.DAY"
 msgid "Day"
-msgstr "Day"
+msgstr "Jour"
 
 #: LOCMACROS.DAY_PHASE.DUSK
-#, fuzzy
 msgctxt "LOCMACROS.DAY_PHASE.DUSK"
 msgid "Dusk"
-msgstr "Dusk"
+msgstr "Crépuscule"
 
 #: LOCMACROS.DAY_PHASE.NIGHT
-#, fuzzy
 msgctxt "LOCMACROS.DAY_PHASE.NIGHT"
 msgid "Night"
-msgstr "Night"
+msgstr "Nuit"
 
 #: LOCMACROS.LIST_AND
-#, fuzzy
 msgctxt "LOCMACROS.LIST_AND"
 msgid "and"
-msgstr "and"
+msgstr "et"
 
 #: LOCMACROS.RELTIME.IN_DAYS
 #, fuzzy
@@ -34685,46 +34585,39 @@ msgid "In {1} {1*day|days}"
 msgstr "In {1} {1*day|days}"
 
 #: LOCMACROS.RELTIME.IN_MORNING
-#, fuzzy
 msgctxt "LOCMACROS.RELTIME.IN_MORNING"
 msgid "In the morning"
-msgstr "In the morning"
+msgstr "Dans la matinée"
 
 #: LOCMACROS.RELTIME.NOW
-#, fuzzy
 msgctxt "LOCMACROS.RELTIME.NOW"
 msgid "Now"
-msgstr "Now"
+msgstr "Maintenant"
 
 #: LOCMACROS.RELTIME.TOMORROW_MORNING
-#, fuzzy
 msgctxt "LOCMACROS.RELTIME.TOMORROW_MORNING"
 msgid "Tomorrow Morning"
-msgstr "Tomorrow Morning"
+msgstr "Demain matin"
 
 #: LOCMACROS.RELTIME.TOMORROW_NIGHT
-#, fuzzy
 msgctxt "LOCMACROS.RELTIME.TOMORROW_NIGHT"
 msgid "Tomorrow Night"
-msgstr "Tomorrow Night"
+msgstr "Demain soir"
 
 #: LOCMACROS.RELTIME.TONIGHT
-#, fuzzy
 msgctxt "LOCMACROS.RELTIME.TONIGHT"
 msgid "Tonight"
-msgstr "Tonight"
+msgstr "Ce soir"
 
 #: LOCMACROS.SCHEDULE.ALL_DAY
-#, fuzzy
 msgctxt "LOCMACROS.SCHEDULE.ALL_DAY"
 msgid "<#HILITE>All day</>"
-msgstr "<#HILITE>All day</>"
+msgstr "<#HILITE>Toute la journée </>"
 
 #: LOCMACROS.SCHEDULE.NEVER
-#, fuzzy
 msgctxt "LOCMACROS.SCHEDULE.NEVER"
 msgid "<#HILITE>Never</>"
-msgstr "<#HILITE>Never</>"
+msgstr "<#HILITE>Jamais</>"
 
 #: LOREM.LONG
 #, fuzzy
@@ -35020,10 +34913,9 @@ msgid "Draw {1} extra {1*card|cards} at the start of your turn."
 msgstr "Draw {1} extra {1*card|cards} at the start of your turn."
 
 #: MODIFIER.CARD_DRAW.NAME
-#, fuzzy
 msgctxt "MODIFIER.CARD_DRAW.NAME"
 msgid "Card Draw"
-msgstr "Card Draw"
+msgstr "Card Piocher"
 
 #: MODIFIER.CEREBRAL_STIMULANTS.DESC
 msgctxt "MODIFIER.CEREBRAL_STIMULANTS.DESC"
@@ -36205,10 +36097,9 @@ msgid "All resolve loss is increased by {1}. Reduce by 1 at the start of your tu
 msgstr "All resolve loss is increased by {1}. Reduce by 1 at the start of your turn."
 
 #: MODIFIER.VULNERABILITY.NAME
-#, fuzzy
 msgctxt "MODIFIER.VULNERABILITY.NAME"
 msgid "Vulnerability"
-msgstr "Vulnerability"
+msgstr "Vulnérabilité"
 
 #: MODIFIER.WARY.DESC
 #, fuzzy
@@ -36652,10 +36543,9 @@ msgid "Apply {COMPOSURE 3} to your {INFLUENCE} at the beginning of your turn."
 msgstr "Apply {COMPOSURE 3} to your {INFLUENCE} at the beginning of your turn."
 
 #: NEGOTIATION_FEATURE.COOL_HEAD.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.COOL_HEAD.NAME"
 msgid "Cool Head"
-msgstr "Cool Head"
+msgstr "Tête froide"
 
 #: NEGOTIATION_FEATURE.CRAFTY.DESC
 #, fuzzy
@@ -36807,10 +36697,9 @@ msgid "{INCEPT} {DOUBT {1}}."
 msgstr "{INCEPT} {DOUBT {1}}."
 
 #: NEGOTIATION_FEATURE.DOUBT.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.DOUBT.NAME"
 msgid "Doubt"
-msgstr "Doubt"
+msgstr "Doute"
 
 #: NEGOTIATION_FEATURE.DREAD.DESC
 #, fuzzy
@@ -36831,10 +36720,9 @@ msgid "When dismissed, remove a random intent from {1}"
 msgstr "When dismissed, remove a random intent from {1}"
 
 #: NEGOTIATION_FEATURE.DRUNK.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.DRUNK.NAME"
 msgid "Drunk"
-msgstr "Drunk"
+msgstr "Ivre"
 
 #: NEGOTIATION_FEATURE.DUPLICITY.DESC
 #, fuzzy
@@ -37091,16 +36979,14 @@ msgid "Heads is one side of your lucky coin."
 msgstr "Heads is one side of your lucky coin."
 
 #: NEGOTIATION_FEATURE.HEADS.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.HEADS.NAME"
 msgid "<p img='icons/ic_coin_heads.tex' scale=1.0>"
 msgstr "<p img='icons/ic_coin_heads.tex' scale=1.0>"
 
 #: NEGOTIATION_FEATURE.HEADS.POSTED_NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.HEADS.POSTED_NAME"
 msgid "Heads <p img='icons/ic_coin_heads.tex' scale=1.0>"
-msgstr "Heads <p img='icons/ic_coin_heads.tex' scale=1.0>"
+msgstr "Têtes <p img='icons/ic_coin_heads.tex' scale=1.0>"
 
 #: NEGOTIATION_FEATURE.HEART.NAME
 #, fuzzy
@@ -37133,16 +37019,14 @@ msgid "Can be used in various ways to bully your opponent into submission."
 msgstr "Can be used in various ways to bully your opponent into submission."
 
 #: NEGOTIATION_FEATURE.HOSTILITY.FEATURE_DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.HOSTILITY.FEATURE_DESC"
 msgid "Gain {1} {HOSTILITY}."
-msgstr "Gain {1} {HOSTILITY}."
+msgstr "Gagner {1} {HOSTILITY}."
 
 #: NEGOTIATION_FEATURE.HOSTILITY.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.HOSTILITY.NAME"
 msgid "Hostility"
-msgstr "Hostility"
+msgstr "Hostilité"
 
 #: NEGOTIATION_FEATURE.IMPATIENCE.DESC
 msgctxt "NEGOTIATION_FEATURE.IMPATIENCE.DESC"
@@ -37150,7 +37034,6 @@ msgid "{1}'s Intents and Arguments deal +{2} damage.\n{1}'s Arguments deploy wit
 msgstr "Les intentions et les arguments de {1} font +{2} de dégâts.\nCes arguments se déploient aussi avec +{3} en détermination."
 
 #: NEGOTIATION_FEATURE.IMPATIENCE.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.IMPATIENCE.NAME"
 msgid "Impatience"
 msgstr "Impatience"
@@ -37207,10 +37090,9 @@ msgid "All Diplomacy cards deal maximum damage."
 msgstr "All Diplomacy cards deal maximum damage."
 
 #: NEGOTIATION_FEATURE.INFLUENCE.FEATURE_DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.INFLUENCE.FEATURE_DESC"
 msgid "Gain {INFLUENCE {1}}."
-msgstr "Gain {INFLUENCE {1}}."
+msgstr "Gagner {INFLUENCE {1}}."
 
 #: NEGOTIATION_FEATURE.INFLUENCE.NAME
 #, fuzzy
@@ -37265,7 +37147,6 @@ msgid "When you deploy a new argument, increase this argument's damage and resol
 msgstr "When you deploy a new argument, increase this argument's damage and resolve by {1}."
 
 #: NEGOTIATION_FEATURE.INTUITION.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.INTUITION.NAME"
 msgid "Intuition"
 msgstr "Intuition"
@@ -37277,7 +37158,6 @@ msgid "Gain 1 count whenever a card is played.\n\nWhen the count reaches {1}, {3
 msgstr "Gain 1 count whenever a card is played.\n\nWhen the count reaches {1}, {3} loses {2} resolve and this argument is dismissed."
 
 #: NEGOTIATION_FEATURE.IRRITABLE.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.IRRITABLE.NAME"
 msgid "Irritable"
 msgstr "Irritable"
@@ -37582,10 +37462,9 @@ msgid "Choose a card in your hand and move it to the prepared (left-most) positi
 msgstr "Choose a card in your hand and move it to the prepared (left-most) position."
 
 #: NEGOTIATION_FEATURE.PREPARE.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.PREPARE.NAME"
 msgid "Prepare"
-msgstr "Prepare"
+msgstr "Preparer"
 
 #: NEGOTIATION_FEATURE.PREPARED.DESC
 #, fuzzy
@@ -37642,10 +37521,9 @@ msgid "Gain: Whenever you {EXPEND} a card, draw {1} {1*card|cards}."
 msgstr "Gain: Whenever you {EXPEND} a card, draw {1} {1*card|cards}."
 
 #: NEGOTIATION_FEATURE.RECALL.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.RECALL.NAME"
 msgid "Recall"
-msgstr "Recall"
+msgstr "Rappel"
 
 #: NEGOTIATION_FEATURE.REPEAT.DESC
 #, fuzzy
@@ -37798,7 +37676,6 @@ msgid "Snails is one side of your lucky coin."
 msgstr "Snails is one side of your lucky coin."
 
 #: NEGOTIATION_FEATURE.SNAILS.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.SNAILS.NAME"
 msgid "<p img='icons/ic_coin_snails.tex' scale=1.0>"
 msgstr "<p img='icons/ic_coin_snails.tex' scale=1.0>"
@@ -38072,16 +37949,14 @@ msgid "Zeal"
 msgstr "Zeal"
 
 #: NOTIFICATION.BAD_SOCIAL_GRAFT_ADDED_DESC
-#, fuzzy
 msgctxt "NOTIFICATION.BAD_SOCIAL_GRAFT_ADDED_DESC"
 msgid "Gained {1#graft}</>"
-msgstr "Gained {1#graft}</>"
+msgstr "Gagné {1#graft}</>"
 
 #: NOTIFICATION.BAD_SOCIAL_GRAFT_REMOVED_DESC
-#, fuzzy
 msgctxt "NOTIFICATION.BAD_SOCIAL_GRAFT_REMOVED_DESC"
 msgid "Lost {1#graft}</>"
-msgstr "Lost {1#graft}</>"
+msgstr "Perdu {1#graft} </>"
 
 #: NOTIFICATION.BUTTON_CLOSE_TT
 msgctxt "NOTIFICATION.BUTTON_CLOSE_TT"
@@ -38103,7 +37978,7 @@ msgstr "CARD EXPERIENCE INCREASED"
 #, fuzzy
 msgctxt "NOTIFICATION.CARD_GAIN_XP_DESC"
 msgid "<!userdata_2>{1}</> gained {2} experience"
-msgstr "<!userdata_2>{1}</> gained {2} experience"
+msgstr "<!userdata_2>{1}</> gagne {2} expérience"
 
 #: NOTIFICATION.CARD_GAIN_XP_UPGRADE_DESC
 #, fuzzy
@@ -38204,16 +38079,14 @@ msgid "GAINED MONEY"
 msgstr "GAINED MONEY"
 
 #: NOTIFICATION.GAINED_MONEY_FMT
-#, fuzzy
 msgctxt "NOTIFICATION.GAINED_MONEY_FMT"
 msgid "Gained {1#money}"
-msgstr "Gained {1#money}"
+msgstr "Gagné {1#money}"
 
 #: NOTIFICATION.GOOD_SOCIAL_GRAFT_ADDED_DESC
-#, fuzzy
 msgctxt "NOTIFICATION.GOOD_SOCIAL_GRAFT_ADDED_DESC"
 msgid "Gained {1#graft}"
-msgstr "Gained {1#graft}"
+msgstr "Gagné {1#graft}"
 
 #: NOTIFICATION.GOOD_SOCIAL_GRAFT_REMOVED_DESC
 #, fuzzy
@@ -39461,7 +39334,6 @@ msgid "Treat your pet"
 msgstr "Treat your pet"
 
 #: QUEST.OPPO_FRIEND_BOON.DESC
-#, fuzzy
 msgctxt "QUEST.OPPO_FRIEND_BOON.DESC"
 msgid "{1}"
 msgstr "{1}"
@@ -40832,10 +40704,9 @@ msgid "Collect bounty from {giver}"
 msgstr "Collect bounty from {giver}"
 
 #: QUEST.SIDE_BOUNTY_HUNT.TITLE
-#, fuzzy
 msgctxt "QUEST.SIDE_BOUNTY_HUNT.TITLE"
 msgid "Bounty Hunt"
-msgstr "Bounty Hunt"
+msgstr "Chasseur de primes"
 
 #: QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.DESC
 msgctxt "QUEST.SIDE_CLEAR_OUT_SMUGGLE_POINT.DESC"
