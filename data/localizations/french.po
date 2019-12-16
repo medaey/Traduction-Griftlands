@@ -10539,10 +10539,9 @@ msgid "While this is in your hand, hostile cards deal 1 bonus damage and diploma
 msgstr "While this is in your hand, hostile cards deal 1 bonus damage and diplomacy cards deal 1 less damage."
 
 #: CARD.DANGEROUS.NAME
-#, fuzzy
 msgctxt "CARD.DANGEROUS.NAME"
 msgid "Dangerous"
-msgstr "Dangerous"
+msgstr "Dangereux"
 
 #: CARD.DECEIVE.DESC
 #, fuzzy
@@ -10557,10 +10556,9 @@ msgid "Deceive"
 msgstr "Deceive"
 
 #: CARD.DECEIVE_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.DECEIVE_PLUS.DESC"
 msgid "<#UPGRADE>ALL</> your cards are assigned a random cost from 0 to 2 until the end of negotiation."
-msgstr "<#UPGRADE>ALL</> your cards are assigned a random cost from 0 to 2 until the end of negotiation."
+msgstr "<#UPGRADE>TOUTES</> vos cartes on un coûte aléatoire de 0 à 2 jusqu'à la fin de la négociation."
 
 #: CARD.DECEIVE_PLUS.NAME
 #, fuzzy
@@ -10586,16 +10584,14 @@ msgid "Unimpressed"
 msgstr "Unimpressed"
 
 #: CARD.DEFENSIVE.DESC
-#, fuzzy
 msgctxt "CARD.DEFENSIVE.DESC"
 msgid "Gains {1} {COMPOSURE} whenever {2} creates a new argument."
-msgstr "Gains {1} {COMPOSURE} whenever {2} creates a new argument."
+msgstr "Gagner {1} {COMPOSURE} chaque fois que {2} crée un nouvel argument."
 
 #: CARD.DEFENSIVE.NAME
-#, fuzzy
 msgctxt "CARD.DEFENSIVE.NAME"
 msgid "Defensive"
-msgstr "Defensive"
+msgstr "Défensif"
 
 #: CARD.DEFLECTION.DESC
 msgctxt "CARD.DEFLECTION.DESC"
@@ -10670,13 +10666,12 @@ msgid "Wide Deflection"
 msgstr "Wide Deflection"
 
 #: CARD.DEFLECTION_PLUS2E.DESC
-#, fuzzy
 msgctxt "CARD.DEFLECTION_PLUS2E.DESC"
 msgid ""
 "<#UPGRADE>Restore 5 resolve and gain {1} {COMPOSURE}.\n"
 "{CONSUME}</>"
 msgstr ""
-"<#UPGRADE>Restore 5 resolve and gain {1} {COMPOSURE}.\n"
+"<#UPGRADE>Restaurer 5 résolution et gagner {1} {COMPOSURE}.\n"
 "{CONSUME}</>"
 
 #: CARD.DEFLECTION_PLUS2E.FLAVOUR
@@ -10723,10 +10718,9 @@ msgid "Delegator"
 msgstr "Delegator"
 
 #: CARD.DISCOUNT.DESC
-#, fuzzy
 msgctxt "CARD.DISCOUNT.DESC"
 msgid "{BRIBE} cards cost {1#percent} less."
-msgstr "{BRIBE} cards cost {1#percent} less."
+msgstr "Les cartes {BRIBE} coûtent {1#percent} moins cher."
 
 #: CARD.DISCOUNT.NAME
 #, fuzzy
@@ -10745,10 +10739,9 @@ msgstr ""
 "Reduce count by 1 at the end of your turn."
 
 #: CARD.DISTRACTED.NAME
-#, fuzzy
 msgctxt "CARD.DISTRACTED.NAME"
 msgid "Distracted"
-msgstr "Distracted"
+msgstr "Distrait"
 
 #: CARD.DOMINANCE.DESC
 #, fuzzy
@@ -10763,10 +10756,9 @@ msgid "Dominance"
 msgstr "Dominance"
 
 #: CARD.DOMINEER.DESC
-#, fuzzy
 msgctxt "CARD.DOMINEER.DESC"
 msgid "Spend {1} {DOMINANCE}: Gain 2 actions."
-msgstr "Spend {1} {DOMINANCE}: Gain 2 actions."
+msgstr "Dépensez {1} {DOMINANCE} : Gagnez 2 actions."
 
 #: CARD.DOMINEER.NAME
 #, fuzzy
@@ -10775,10 +10767,9 @@ msgid "Domineer"
 msgstr "Domineer"
 
 #: CARD.DOMINEER_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.DOMINEER_PLUS.DESC"
 msgid "Spend <#UPGRADE>{1}</> {DOMINANCE}: Gain 2 actions."
-msgstr "Spend <#UPGRADE>{1}</> {DOMINANCE}: Gain 2 actions."
+msgstr "Dépensez <#UPGRADE>{1}</> {DOMINANCE} : Gagnez 2 actions."
 
 #: CARD.DOMINEER_PLUS.NAME
 #, fuzzy
@@ -10787,10 +10778,9 @@ msgid "Pale Domineer"
 msgstr "Pale Domineer"
 
 #: CARD.DOMINEER_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.DOMINEER_PLUS2.DESC"
 msgid "Spend {1} {DOMINANCE}: Gain 2 actions and <#UPGRADE>draw 2 cards</>."
-msgstr "Spend {1} {DOMINANCE}: Gain 2 actions and <#UPGRADE>draw 2 cards</>."
+msgstr "Dépensez {1} {DOMINANCE} : Gagner 2 actions et <#UPGRADE>piocher 2 cartes </>."
 
 #: CARD.DOMINEER_PLUS2.NAME
 #, fuzzy
@@ -69237,10 +69227,9 @@ msgid "and"
 msgstr "et"
 
 #: LOCMACROS.RELTIME.IN_DAYS
-#, fuzzy
 msgctxt "LOCMACROS.RELTIME.IN_DAYS"
 msgid "In {1} {1*day|days}"
-msgstr "In {1} {1*day|days}"
+msgstr "En {1} {1*jour|jours}"
 
 #: LOCMACROS.RELTIME.IN_MORNING
 msgctxt "LOCMACROS.RELTIME.IN_MORNING"
@@ -69278,19 +69267,16 @@ msgid "<#HILITE>Never</>"
 msgstr "<#HILITE>Jamais</>"
 
 #: LOREM.LONG
-#, fuzzy
 msgctxt "LOREM.LONG"
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis tellus sodales, commodo metus varius, tristique ipsum. Donec vel eleifend lacus, at placerat augue. In enim ante, suscipit sit amet pulvinar ut, auctor ac turpis. Nulla bibendum ante nec varius imperdiet. Mauris rhoncus laoreet consequat. Nullam mollis sollicitudin massa sit amet pellentesque. Aenean ac dolor at sapien rhoncus commodo nec ut nulla. Praesent blandit rhoncus orci nec dignissim. Nunc risus diam, ultrices sit amet neque in, tempus blandit arcu."
 msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis tellus sodales, commodo metus varius, tristique ipsum. Donec vel eleifend lacus, at placerat augue. In enim ante, suscipit sit amet pulvinar ut, auctor ac turpis. Nulla bibendum ante nec varius imperdiet. Mauris rhoncus laoreet consequat. Nullam mollis sollicitudin massa sit amet pellentesque. Aenean ac dolor at sapien rhoncus commodo nec ut nulla. Praesent blandit rhoncus orci nec dignissim. Nunc risus diam, ultrices sit amet neque in, tempus blandit arcu."
 
 #: LOREM.MED
-#, fuzzy
 msgctxt "LOREM.MED"
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis tellus sodales, commodo metus varius, tristique ipsum.  Donec vel eleifend lacus, at placerat augue"
 msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis tellus sodales, commodo metus varius, tristique ipsum.  Donec vel eleifend lacus, at placerat augue"
 
 #: LOREM.SHORT
-#, fuzzy
 msgctxt "LOREM.SHORT"
 msgid "Lorem Ipsum"
 msgstr "Lorem Ipsum"
@@ -71211,10 +71197,9 @@ msgid "Draw {1} extra {1*card|cards} at the start of your turn."
 msgstr "Draw {1} extra {1*card|cards} at the start of your turn."
 
 #: NEGOTIATION_FEATURE.CARD_DRAW.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.CARD_DRAW.NAME"
 msgid "Card Draw"
-msgstr "Card Draw"
+msgstr "Card Piocher"
 
 #: NEGOTIATION_FEATURE.CEREBRAL_STIMULANTS.DESC
 #, fuzzy
@@ -71439,10 +71424,9 @@ msgid "Hostility cards deal an additional {1%+d} damage. Reduce by 1 at the star
 msgstr "Les cartes d'hostilité infligent {1%+d} de dégâts supplémentaires. Réduiser de 1 au début de votre tour."
 
 #: NEGOTIATION_FEATURE.DOMINANCE.FEATURE_DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.DOMINANCE.FEATURE_DESC"
 msgid "Gain {DOMINANCE {1}}."
-msgstr "Gain {DOMINANCE {1}}."
+msgstr "Gagner {DOMINANCE {1}}."
 
 #: NEGOTIATION_FEATURE.DOMINANCE.NAME
 #, fuzzy
@@ -71463,7 +71447,6 @@ msgid "Double Edge"
 msgstr "Double Edge"
 
 #: NEGOTIATION_FEATURE.DOUBT.FEATURE_DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.DOUBT.FEATURE_DESC"
 msgid "{INCEPT} {DOUBT {1}}."
 msgstr "{INCEPT} {DOUBT {1}}."
@@ -78114,7 +78097,6 @@ msgstr ""
 "Ah, that's clever. I wouldn't have considered that."
 
 #: QUIPS.compression_gear.chum_bonus.player_sal.1
-#, fuzzy
 msgctxt "QUIPS.compression_gear.chum_bonus.player_sal.1"
 msgid ""
 "$neutralDefault\n"
@@ -78123,7 +78105,7 @@ msgid ""
 msgstr ""
 "$neutralDefault\n"
 "\n"
-"Very handy, that gear."
+"Très pratique, cet équipement."
 
 #: QUIPS.counter_attack.spark_barons.1
 #, fuzzy
@@ -78132,22 +78114,19 @@ msgid "Right back at you!"
 msgstr "Right back at you!"
 
 #: QUIPS.counter_attack.spark_barons.2
-#, fuzzy
 msgctxt "QUIPS.counter_attack.spark_barons.2"
 msgid "Take that!"
-msgstr "Take that!"
+msgstr "Prends ça !"
 
 #: QUIPS.counter_attack.spark_barons.3
-#, fuzzy
 msgctxt "QUIPS.counter_attack.spark_barons.3"
 msgid "How do you like this?!"
-msgstr "How do you like this?!"
+msgstr "Qu'est-ce que tu dis de ça ?!"
 
 #: QUIPS.counter_attack.spark_barons.4
-#, fuzzy
 msgctxt "QUIPS.counter_attack.spark_barons.4"
 msgid "A-HA!"
-msgstr "A-HA!"
+msgstr "A-HA !"
 
 #: QUIPS.counter_attack.spark_barons.5
 #, fuzzy
@@ -78638,7 +78617,6 @@ msgstr ""
 "It's technically the same thing!"
 
 #: QUIPS.empathy_card.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.empathy_card.negotiation.1"
 msgid ""
 "!happy\n"
@@ -78649,10 +78627,9 @@ msgstr ""
 "!happy\n"
 "$miscNostalgic\n"
 "\n"
-"I feel you."
+"Je te comprends"
 
 #: QUIPS.empathy_card.negotiation.2
-#, fuzzy
 msgctxt "QUIPS.empathy_card.negotiation.2"
 msgid ""
 "!happy\n"
@@ -78663,7 +78640,7 @@ msgstr ""
 "!happy\n"
 "$miscNostalgic\n"
 "\n"
-"I'm sorry to hear that."
+"Je suis navré de l'apprendre."
 
 #: QUIPS.empathy_card.negotiation.3
 msgctxt "QUIPS.empathy_card.negotiation.3"
@@ -83054,10 +83031,9 @@ msgid "Status"
 msgstr "État"
 
 #: UI.CARD_WIDGET.CHARGES_LABEL
-#, fuzzy
 msgctxt "UI.CARD_WIDGET.CHARGES_LABEL"
 msgid "<#CARD_CHARGES>Available Uses</>"
-msgstr "<#CARD_CHARGES>Available Uses</>"
+msgstr "<#CARD_CHARGES>Utilisations disponibles</>"
 
 #: UI.CARD_WIDGET.CHARGES_VALUE
 msgctxt "UI.CARD_WIDGET.CHARGES_VALUE"
@@ -83085,13 +83061,11 @@ msgid "Removed upon sleep"
 msgstr "Removed upon sleep"
 
 #: UI.CARD_WIDGET.REMOVE_TIMER_LABEL
-#, fuzzy
 msgctxt "UI.CARD_WIDGET.REMOVE_TIMER_LABEL"
 msgid "Expires:"
-msgstr "Expires:"
+msgstr "Expire dans:"
 
 #: UI.CARD_WIDGET.REMOVE_TIMER_VALUE
-#, fuzzy
 msgctxt "UI.CARD_WIDGET.REMOVE_TIMER_VALUE"
 msgid "{1#relative_time}"
 msgstr "{1#relative_time}"
@@ -83452,10 +83426,9 @@ msgid "<c img='l_all'> Select"
 msgstr "<c img='l_all'> Sélectionnez"
 
 #: UI.CARDCOMPENDIUM.CONTROLS_LEFT_CLOSESIDEBAR
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.CONTROLS_LEFT_CLOSESIDEBAR"
 msgid "<c img='lt'> Close filters"
-msgstr "<c img='lt'> Close filters"
+msgstr "<c img='lt'> Fermer les filtres"
 
 #: UI.CARDCOMPENDIUM.CONTROLS_LEFT_SIDEBAR
 msgctxt "UI.CARDCOMPENDIUM.CONTROLS_LEFT_SIDEBAR"
@@ -83473,10 +83446,9 @@ msgid "<c img='b'> Close"
 msgstr "<c img='b'>Fermer"
 
 #: UI.CARDCOMPENDIUM.CONTROLS_RIGHT_CLOSESIDEBAR
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.CONTROLS_RIGHT_CLOSESIDEBAR"
 msgid "<c img='b'> Close filters"
-msgstr "<c img='b'> Close filters"
+msgstr "<c img='b'> Fermer les filtres"
 
 #: UI.CARDCOMPENDIUM.CONTROLS_RIGHT_OPEN
 msgctxt "UI.CARDCOMPENDIUM.CONTROLS_RIGHT_OPEN"
@@ -83919,22 +83891,19 @@ msgid "POTENTIAL UPGRADES"
 msgstr "POTENTIAL UPGRADES"
 
 #: UI.CARDS.ACTIONS
-#, fuzzy
 msgctxt "UI.CARDS.ACTIONS"
 msgid "Actions"
 msgstr "Actions"
 
 #: UI.CARDS.ADD_BATTLE_CARD
-#, fuzzy
 msgctxt "UI.CARDS.ADD_BATTLE_CARD"
 msgid "Add Battle Card"
-msgstr "Add Battle Card"
+msgstr "Ajouter une carte de combat"
 
 #: UI.CARDS.ADD_NEGOTIATION_CARD
-#, fuzzy
 msgctxt "UI.CARDS.ADD_NEGOTIATION_CARD"
 msgid "Add Negotiation Card"
-msgstr "Add Negotiation Card"
+msgstr "Ajouter une carte de négociation"
 
 #: UI.CARDS.CHOOSE_BATTLE_CARD
 #, fuzzy
@@ -83943,16 +83912,14 @@ msgid "Choose a battle card"
 msgstr "Choose a battle card"
 
 #: UI.CARDS.CHOOSE_BATTLE_CARD_TO_ADD
-#, fuzzy
 msgctxt "UI.CARDS.CHOOSE_BATTLE_CARD_TO_ADD"
 msgid "CHOOSE ONE CARD TO ADD TO YOUR BATTLE DECK"
-msgstr "CHOOSE ONE CARD TO ADD TO YOUR BATTLE DECK"
+msgstr "CHOISISSEZ UNE CARTE À AJOUTER À VOTRE DECK DE COMBAT"
 
 #: UI.CARDS.CHOOSE_NEGOTIATION_CARD_TO_ADD
-#, fuzzy
 msgctxt "UI.CARDS.CHOOSE_NEGOTIATION_CARD_TO_ADD"
 msgid "CHOOSE ONE CARD TO ADD TO YOUR NEGOTIATION DECK"
-msgstr "CHOOSE ONE CARD TO ADD TO YOUR NEGOTIATION DECK"
+msgstr "CHOISISSEZ UNE CARTE À AJOUTER À VOTRE DECK DE NÉGOCIATION"
 
 #: UI.CARDS.DECK
 msgctxt "UI.CARDS.DECK"
@@ -84204,10 +84171,9 @@ msgid "<c img='rt'> Preview card upgrades"
 msgstr "<c img='a'> Aperçu des amélioration"
 
 #: UI.CARDSHOP.FREE
-#, fuzzy
 msgctxt "UI.CARDSHOP.FREE"
 msgid "<#BONUS>FREE!<BONUS>"
-msgstr "<#BONUS>FREE!<BONUS>"
+msgstr "<#BONUS>GRATUIT!<BONUS>"
 
 #: UI.CARDSHOP.SOLD
 msgctxt "UI.CARDSHOP.SOLD"
@@ -84231,10 +84197,9 @@ msgid "Back"
 msgstr "Retour"
 
 #: UI.CHARACTER_SELECT_DETAILS_PANEL.CONFIGURE
-#, fuzzy
 msgctxt "UI.CHARACTER_SELECT_DETAILS_PANEL.CONFIGURE"
 msgid "Configure"
-msgstr "Configure"
+msgstr "Configurer"
 
 #: UI.CHARACTER_SELECT_DETAILS_PANEL.DECK_BTN
 msgctxt "UI.CHARACTER_SELECT_DETAILS_PANEL.DECK_BTN"
@@ -84534,10 +84499,9 @@ msgid "{1#binding} Draft {2#card}"
 msgstr "{1#binding} Draft {2#card}"
 
 #: UI.CONTROLS.ENABLE_ALL
-#, fuzzy
 msgctxt "UI.CONTROLS.ENABLE_ALL"
 msgid "{1#binding} Enable All"
-msgstr "{1#binding} Enable All"
+msgstr "{1#binding} Tout activer"
 
 #: UI.CONTROLS.ENABLE_RANDOM
 #, fuzzy
