@@ -1730,10 +1730,9 @@ msgid "Carapace"
 msgstr "Carapace"
 
 #: ATTACK.CARAPACE_FRAGMENT.DESC
-#, fuzzy
 msgctxt "ATTACK.CARAPACE_FRAGMENT.DESC"
 msgid "Gain 5 {SLATED_CARAPACE}."
-msgstr "Gain 5 {SLATED_CARAPACE}."
+msgstr "Gagner 5 {SLATED_CARAPACE}."
 
 #: ATTACK.CARAPACE_FRAGMENT.NAME
 #, fuzzy
@@ -4563,10 +4562,9 @@ msgid "Healing Vapors"
 msgstr "Vapeurs de guérison"
 
 #: ATTACK.HEARTY_NOODLES.DESC
-#, fuzzy
 msgctxt "ATTACK.HEARTY_NOODLES.DESC"
 msgid "Gain 2 actions. Draw a card."
-msgstr "Gain 2 actions. Draw a card."
+msgstr "Gagner 2 actions. Piocher une carte."
 
 #: ATTACK.HEARTY_NOODLES.NAME
 #, fuzzy
@@ -6322,10 +6320,9 @@ msgid "To Arms"
 msgstr "To Arms"
 
 #: ATTACK.PICKLED_FLOATER.DESC
-#, fuzzy
 msgctxt "ATTACK.PICKLED_FLOATER.DESC"
 msgid "Gain 5 {CONCENTRATION}."
-msgstr "Gain 5 {CONCENTRATION}."
+msgstr "Gagner 5 {CONCENTRATION}."
 
 #: ATTACK.PICKLED_FLOATER.NAME
 #, fuzzy
@@ -12300,10 +12297,9 @@ msgid "Running Away"
 msgstr "Running Away"
 
 #: BATTLE_FEATURE.SAVAGERY.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.SAVAGERY.DESC"
 msgid "+1 {BLEED} to all cards that apply {BLEED}."
-msgstr "+1 {BLEED} to all cards that apply {BLEED}."
+msgstr "+1 {BLEED} à toutes les cartes qui appliquent {BLEED}."
 
 #: BATTLE_FEATURE.SAVAGERY.NAME
 #, fuzzy
@@ -14856,10 +14852,9 @@ msgid "Apply {COMPOSURE 3} to your {INFLUENCE} at the beginning of your turn."
 msgstr "Applique {COMPOSURE 3} à votre {INFLUENCE} au début de votre tour."
 
 #: CARD.COOL_HEAD.NAME
-#, fuzzy
 msgctxt "CARD.COOL_HEAD.NAME"
 msgid "Cool Head"
-msgstr "Cool Head"
+msgstr "Tête froide"
 
 #: CARD.COWARD.DESC
 #, fuzzy
@@ -15184,10 +15179,9 @@ msgid "Boosted Dig"
 msgstr "Boosted Dig"
 
 #: CARD.DIG_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.DIG_PLUS2.DESC"
 msgid "<#UPGRADE>{HEADS}</>: This card costs 0."
-msgstr "<#UPGRADE>{HEADS}</>: This card costs 0."
+msgstr "<#UPGRADE>{HEADS}</> : Cette carte coûte 0."
 
 #: CARD.DIG_PLUS2.NAME
 #, fuzzy
@@ -15985,10 +15979,9 @@ msgid "Inspirational Talk"
 msgstr "Inspirational Talk"
 
 #: CARD.FAST_TALK_PLUS2H.DESC
-#, fuzzy
 msgctxt "CARD.FAST_TALK_PLUS2H.DESC"
 msgid "<#UPGRADE>Gain {1} {COMPOSURE}.</>"
-msgstr "<#UPGRADE>Gain {1} {COMPOSURE}.</>"
+msgstr "<#UPGRADE>Gagne {1} {COMPOSURE}.</>"
 
 #: CARD.FAST_TALK_PLUS2H.FLAVOUR
 msgctxt "CARD.FAST_TALK_PLUS2H.FLAVOUR"
@@ -21220,13 +21213,11 @@ msgid "Priest"
 msgstr "Priest"
 
 #: CHARACTER.JAKES_ASSASSIN.TITLE
-#, fuzzy
 msgctxt "CHARACTER.JAKES_ASSASSIN.TITLE"
 msgid "Assassin"
 msgstr "Assassin"
 
 #: CHARACTER.JAKES_ASSASSIN2.TITLE
-#, fuzzy
 msgctxt "CHARACTER.JAKES_ASSASSIN2.TITLE"
 msgid "Assassin"
 msgstr "Assassin"
@@ -25043,10 +25034,9 @@ msgid "Ask about the pamphleteer"
 msgstr "Ask about the pamphleteer"
 
 #: CONVO.BARON_INTIMIDATE_A_RISE_RECRUITER_3.OPT_ASK_FOR_HELP
-#, fuzzy
 msgctxt "CONVO.BARON_INTIMIDATE_A_RISE_RECRUITER_3.OPT_ASK_FOR_HELP"
 msgid "Ask for some help"
-msgstr "Ask for some help"
+msgstr "Demander un peu d'aide"
 
 #: CONVO.BARON_INTIMIDATE_A_RISE_RECRUITER_3.OPT_BRIBE_LABOUR
 #, fuzzy
@@ -26232,10 +26222,9 @@ msgid "Ask about the job"
 msgstr "Ask about the job"
 
 #: CONVO.DROP_BANDIT_BABYSITTER.OPT_ASK_ABOUT_JOB_2
-#, fuzzy
 msgctxt "CONVO.DROP_BANDIT_BABYSITTER.OPT_ASK_ABOUT_JOB_2"
 msgid "Ask for details"
-msgstr "Ask for details"
+msgstr "Demander des détails"
 
 #: CONVO.DROP_BANDIT_BABYSITTER.OPT_HEAD_OUT
 #, fuzzy
@@ -28939,10 +28928,9 @@ msgid "Take {1#money}"
 msgstr "Take {1#money}"
 
 #: CONVO.EVENT_LOAN_SHARK.CONF.DIALOG_ATTACK
-#, fuzzy
 msgctxt "CONVO.EVENT_LOAN_SHARK.CONF.DIALOG_ATTACK"
 msgid "player:\nI'm serious.\nagent:\n!angry\nSo am I."
-msgstr "player:\nI'm serious.\nagent:\n!angry\nSo am I."
+msgstr "player:\nJe suis sérieuse.\nagent:\n!angry\nMoi aussi."
 
 #: CONVO.EVENT_LOAN_SHARK.CONF.DIALOG_BACK_DOWN
 #, fuzzy
@@ -29129,10 +29117,9 @@ msgid "agent:\n!injured\nplayer:\nSo does that cover it?\nagent:\n!spit\nplayer:
 msgstr "agent:\n!injured\nplayer:\nSo does that cover it?\nagent:\n!spit\nplayer:\nGood enough.\nagent:\n!exit"
 
 #: CONVO.EVENT_LOAN_SHARK_REPAY.CONF.OPT_ASK_FOR_EXTENSION
-#, fuzzy
 msgctxt "CONVO.EVENT_LOAN_SHARK_REPAY.CONF.OPT_ASK_FOR_EXTENSION"
 msgid "Ask for more time"
-msgstr "Ask for more time"
+msgstr "Demander plus de temps"
 
 #: CONVO.EVENT_LOAN_SHARK_REPAY.CONF.OPT_DEFEND
 msgctxt "CONVO.EVENT_LOAN_SHARK_REPAY.CONF.OPT_DEFEND"
@@ -38841,10 +38828,9 @@ msgid "Ask {agent} about cave"
 msgstr "Ask {agent} about cave"
 
 #: CONVO.ROOK_STORY_BOG_BOSS_2.BARON_QUESTIONS.ASK_ABOUT_OPT_2
-#, fuzzy
 msgctxt "CONVO.ROOK_STORY_BOG_BOSS_2.BARON_QUESTIONS.ASK_ABOUT_OPT_2"
 msgid "Ask for help"
-msgstr "Ask for help"
+msgstr "Demander de l'aide"
 
 #: CONVO.ROOK_STORY_BOG_BOSS_2.RISE_QUESTIONS.ASK_ABOUT_DIALOG_1
 #, fuzzy
@@ -38865,10 +38851,9 @@ msgid "Ask {agent} about cave"
 msgstr "Ask {agent} about cave"
 
 #: CONVO.ROOK_STORY_BOG_BOSS_2.RISE_QUESTIONS.ASK_ABOUT_OPT_2
-#, fuzzy
 msgctxt "CONVO.ROOK_STORY_BOG_BOSS_2.RISE_QUESTIONS.ASK_ABOUT_OPT_2"
 msgid "Ask for help"
-msgstr "Ask for help"
+msgstr "Demander de l'aide"
 
 #: CONVO.ROOK_STORY_BOG_BOSS_2.STATE_ATTACK_FLEAD_QUEEN.DIALOG_BEAT_FLEAD_QUEEN
 #, fuzzy
@@ -42572,10 +42557,9 @@ msgid "Steal an item"
 msgstr "Steal an item"
 
 #: CONVO.SAL_STORY_AUCTION_BANDIT_STEAL.STATE_STEAL_ITEM.DIAL_STEAL_ITEM
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_AUCTION_BANDIT_STEAL.STATE_STEAL_ITEM.DIAL_STEAL_ITEM"
 msgid "agent:\nGood choice!"
-msgstr "agent:\nGood choice!"
+msgstr "agent:\nBon choix !"
 
 #: CONVO.SAL_STORY_AUCTION_BANDIT_STEAL.STATE_STEAL_ITEM.OPT_TRY_STEAL
 #, fuzzy
@@ -43881,16 +43865,14 @@ msgid "Rest in the back"
 msgstr "Rest in the back"
 
 #: CONVO.SAL_STORY_DAY_4_3.STATE_ATTRACT.DIALOG_ADMIRALTY
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_4_3.STATE_ATTRACT.DIALOG_ADMIRALTY"
 msgid "agent:\nGood, you're here."
-msgstr "agent:\nGood, you're here."
+msgstr "agent:\nBien, vous voila."
 
 #: CONVO.SAL_STORY_DAY_4_3.STATE_ATTRACT.DIALOG_SPREE
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_4_3.STATE_ATTRACT.DIALOG_SPREE"
 msgid "agent:\nGood, you're here."
-msgstr "agent:\nGood, you're here."
+msgstr "agent:\nBien, vous voila."
 
 #: CONVO.SAL_STORY_DAY_5.START.DIALOG_INTRO
 #, fuzzy
@@ -45258,10 +45240,9 @@ msgid "player:\n!dubious\n$neutralDubious\nNo, really, I need to know more about
 msgstr "player:\n!dubious\n$neutralDubious\nNo, really, I need to know more about what I'm agreeing to.\nnight_merchant:\n$neutralWhatever\nI'm hiring you to do work, not to ask annoying questions.\nYou can handle it, or I wouldn't hire you.\nIt gets you closer to your goal, and you'll earn my gratitude.\nTake it, or leave it, grifter."
 
 #: CONVO.SAL_STORY_MERCHANT_GRAFTS.STATE_QUESTIONS.ASK_ABOUT_OPT_1
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANT_GRAFTS.STATE_QUESTIONS.ASK_ABOUT_OPT_1"
 msgid "Ask for details"
-msgstr "Ask for details"
+msgstr "Demander des détails"
 
 #: CONVO.SAL_STORY_MERCHANT_GRAFTS_2.STATE_CONFRONT.DIALOG_CONVINCE
 #, fuzzy
@@ -47392,10 +47373,9 @@ msgid "player:\n!happy\n$happyCocky\nI can offer you the basic \"blisters & brui
 msgstr "player:\n!happy\n$happyCocky\nI can offer you the basic \"blisters & bruises\" package for a steal. \nThat kind of violence falls well within my job description. \nagent: \n!agree\n$neutralDirect\nJust give 'em a good scare. You can rough {target.himher} up a little, too. \nBut <b>do not</b> kill {target.himher}. You do that, there'll be an inquiry at <i>best</i>. \n!palm\n$miscDepressed\nAnd at worst, I'll have to take {target}'s patrols. Ugh."
 
 #: CONVO.SIDE_JAKE_ESCORT.DIALOG_BEING_ESCORT
-#, fuzzy
 msgctxt "CONVO.SIDE_JAKE_ESCORT.DIALOG_BEING_ESCORT"
 msgid "player:\nLet's get going."
-msgstr "player:\nLet's get going."
+msgstr "player:\nAllons-y"
 
 #: CONVO.SIDE_JAKE_ESCORT.DIALOG_INTRO
 #, fuzzy
@@ -53246,10 +53226,9 @@ msgid "Twin Military-Grade EH1076 Discharge Pistols, Modified"
 msgstr "Twin Military-Grade EH1076 Discharge Pistols, Modified"
 
 #: GRAFT.SAVAGERY.DESC
-#, fuzzy
 msgctxt "GRAFT.SAVAGERY.DESC"
 msgid "+1 {BLEED} to all cards that apply {BLEED}."
-msgstr "+1 {BLEED} to all cards that apply {BLEED}."
+msgstr "+1 {BLEED} à toutes les cartes qui appliquent {BLEED}."
 
 #: GRAFT.SAVAGERY.NAME
 #, fuzzy
@@ -55690,10 +55669,9 @@ msgid "Apply {COMPOSURE 3} to your {INFLUENCE} at the beginning of your turn."
 msgstr "Applique {COMPOSURE 3} à votre {INFLUENCE} au début de votre tour."
 
 #: MODIFIER.COOL_HEAD.NAME
-#, fuzzy
 msgctxt "MODIFIER.COOL_HEAD.NAME"
 msgid "Cool Head"
-msgstr "Cool Head"
+msgstr "Tête froide"
 
 #: MODIFIER.CRAFTY.DESC
 #, fuzzy
@@ -59793,10 +59771,9 @@ msgid "Removed <!userdata_2>{1}</>"
 msgstr "Removed <!userdata_2>{1}</>"
 
 #: NOTIFICATION.DECK_CHANGED_UPGRADED
-#, fuzzy
 msgctxt "NOTIFICATION.DECK_CHANGED_UPGRADED"
 msgid "CARD UPGRADED"
-msgstr "CARD UPGRADED"
+msgstr "CARTE AMÉLIORER"
 
 #: NOTIFICATION.DECK_CHANGED_UPGRADED_DESC
 #, fuzzy
@@ -59907,10 +59884,9 @@ msgid "Additional negotiation graft slot available"
 msgstr "Ajout d'un emplacement supplémentaire pour graft de négociation"
 
 #: NOTIFICATION.NEW_JOB_FMT_QUEST
-#, fuzzy
 msgctxt "NOTIFICATION.NEW_JOB_FMT_QUEST"
 msgid "NEW JOB"
-msgstr "NEW JOB"
+msgstr "NOUVELLE MISSION"
 
 #: NOTIFICATION.NEW_JOB_FMT_QUEST_DESC
 #, fuzzy
@@ -61950,10 +61926,9 @@ msgid "The Admiralty have agreed to meet at {swap_point#location}. Take {admiral
 msgstr "The Admiralty have agreed to meet at {swap_point#location}. Take {admiralty_mole} there."
 
 #: QUEST.HANDLER_SPREE_PRISONER_EXCHANGE.OBJECTIVE.DELIVER_PRISONER.TITLE
-#, fuzzy
 msgctxt "QUEST.HANDLER_SPREE_PRISONER_EXCHANGE.OBJECTIVE.DELIVER_PRISONER.TITLE"
 msgid "Go to {swap_point#location}"
-msgstr "Go to {swap_point#location}"
+msgstr "Aller au {swap_point#location}"
 
 #: QUEST.HANDLER_SPREE_PRISONER_EXCHANGE.OBJECTIVE.EXPLAIN_LOSS.DESC
 #, fuzzy
@@ -62415,10 +62390,9 @@ msgid "The Baron convoy is scheduled to pass through this stretch of the bog soo
 msgstr "The Baron convoy is scheduled to pass through this stretch of the bog soon. Be there first."
 
 #: QUEST.RISE_AMBUSH_A_BARON.OBJECTIVE.GO_TO_AMBUSH.TITLE
-#, fuzzy
 msgctxt "QUEST.RISE_AMBUSH_A_BARON.OBJECTIVE.GO_TO_AMBUSH.TITLE"
 msgid "Go to {ambush_site}"
-msgstr "Go to {ambush_site}"
+msgstr "Aller au {ambush_site}"
 
 #: QUEST.RISE_AMBUSH_A_BARON.OBJECTIVE.RETURN_FOR_REWARD.DESC
 #, fuzzy
@@ -62989,10 +62963,9 @@ msgid "You need to convince the Barons that you are a grifter who wants to work 
 msgstr "You need to convince the Barons that you are a grifter who wants to work for them."
 
 #: QUEST.ROOK_STORY_INFILTRATE_BARONS.OBJECTIVE.GO_TO_HQ.TITLE
-#, fuzzy
 msgctxt "QUEST.ROOK_STORY_INFILTRATE_BARONS.OBJECTIVE.GO_TO_HQ.TITLE"
 msgid "Go to {hq}"
-msgstr "Go to {hq}"
+msgstr "Aller au {hq}"
 
 #: QUEST.ROOK_STORY_INFILTRATE_BARONS.OBJECTIVE.JOB_FOLLOWUP.TITLE
 #, fuzzy
@@ -63517,10 +63490,9 @@ msgid "Gain money and notoriety by doing jobs for the denizens of Havaria"
 msgstr "Gain money and notoriety by doing jobs for the denizens of Havaria"
 
 #: QUEST.SAL_STORY_DAY_2.OBJECTIVE.PICK_A_SIDE_JOB.TITLE
-#, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_2.OBJECTIVE.PICK_A_SIDE_JOB.TITLE"
 msgid "Pick a job"
-msgstr "Pick a job"
+msgstr "Choisir une mission"
 
 #: QUEST.SAL_STORY_DAY_2.OBJECTIVE.PICK_SPREE.DESC
 #, fuzzy
@@ -63571,10 +63543,9 @@ msgid "Gain money and notoriety by doing jobs for the denizens of Havaria"
 msgstr "Gain money and notoriety by doing jobs for the denizens of Havaria"
 
 #: QUEST.SAL_STORY_DAY_3.OBJECTIVE.PICK_A_SIDE_JOB.TITLE
-#, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_3.OBJECTIVE.PICK_A_SIDE_JOB.TITLE"
 msgid "Pick a job"
-msgstr "Pick a job"
+msgstr "Choisir une mission"
 
 #: QUEST.SAL_STORY_DAY_3.OBJECTIVE.RETURN_TO_GROG.TITLE
 #, fuzzy
@@ -63625,10 +63596,9 @@ msgid "Gain money and notoriety by doing jobs for the denizens of Havaria"
 msgstr "Gain money and notoriety by doing jobs for the denizens of Havaria"
 
 #: QUEST.SAL_STORY_DAY_4.OBJECTIVE.PICK_A_SIDE_JOB.TITLE
-#, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_4.OBJECTIVE.PICK_A_SIDE_JOB.TITLE"
 msgid "Pick a job"
-msgstr "Pick a job"
+msgstr "Choisir une mission"
 
 #: QUEST.SAL_STORY_DAY_4.TITLE
 #, fuzzy
@@ -64883,10 +64853,9 @@ msgid "Get {giver}'s package from {shop#location}. You may have to do some convi
 msgstr "Get {giver}'s package from {shop#location}. You may have to do some convincing and/or stealing."
 
 #: QUEST.SIDE_SECRET_SHOPPER.OBJECTIVE.OBTAIN_THE_PACKAGE.TITLE
-#, fuzzy
 msgctxt "QUEST.SIDE_SECRET_SHOPPER.OBJECTIVE.OBTAIN_THE_PACKAGE.TITLE"
 msgid "Go to {shop#location}"
-msgstr "Go to {shop#location}"
+msgstr "Aller au {shop#location}"
 
 #: QUEST.SIDE_SECRET_SHOPPER.TITLE
 msgctxt "QUEST.SIDE_SECRET_SHOPPER.TITLE"
@@ -71199,10 +71168,9 @@ msgid "NEGOTIATION CARDS GAINED"
 msgstr "NEGOTIATION CARDS GAINED"
 
 #: UI.DAY_OVER_SCREEN.TITLE
-#, fuzzy
 msgctxt "UI.DAY_OVER_SCREEN.TITLE"
 msgid "END OF DAY"
-msgstr "END OF DAY"
+msgstr "FIN DE LA JOURNÉE"
 
 #: UI.DAY_OVER_SCREEN.TITLE_HEALTH
 msgctxt "UI.DAY_OVER_SCREEN.TITLE_HEALTH"
@@ -71691,10 +71659,9 @@ msgid "Exit Demo"
 msgstr "Exit Demo"
 
 #: UI.FIGHT_SCREEN.HAND
-#, fuzzy
 msgctxt "UI.FIGHT_SCREEN.HAND"
 msgid "HAND"
-msgstr "HAND"
+msgstr "MAIN"
 
 #: UI.FIGHT_SCREEN.MODIFIERS
 #, fuzzy
@@ -72051,10 +72018,9 @@ msgid "Review Relationships"
 msgstr "Review Relationships"
 
 #: UI.GAME_OVER_SCREEN.STATS_RELATIONSHIPS_SUBTITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_RELATIONSHIPS_SUBTITLE"
 msgid "PEOPLE"
-msgstr "PEOPLE"
+msgstr "PERSONNES"
 
 #: UI.GAME_OVER_SCREEN.STATS_RELATIONSHIPS_TITLE
 #, fuzzy
@@ -73222,10 +73188,9 @@ msgid "<b><#TITLE>Your Arguments</></b>\nThese are the arguments you are using. 
 msgstr "<b><#TITLE>Your Arguments</></b>\nThese are the arguments you are using. You can use some cards to spawn arguments, or even protect them from attacks."
 
 #: UI.NEGOTIATION_PANEL.RESOLVE
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.RESOLVE"
 msgid "RESOLVE"
-msgstr "RESOLVE"
+msgstr "DÉTERMINATION"
 
 #: UI.NEGOTIATION_PANEL.STOLEN_CARD
 #, fuzzy
@@ -73318,10 +73283,9 @@ msgid "{1} / {2}"
 msgstr "{1} / {2}"
 
 #: UI.NEGOTIATION_PREVIEW.RESOLVE_DESC
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PREVIEW.RESOLVE_DESC"
 msgid "RESOLVE"
-msgstr "RESOLVE"
+msgstr "DÉTERMINATION"
 
 #: UI.NEGOTIATION_PREVIEW.TITLE
 msgctxt "UI.NEGOTIATION_PREVIEW.TITLE"
@@ -73486,10 +73450,9 @@ msgid "Tap a card to preview its upgrades."
 msgstr "Tap a card to preview its upgrades."
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_BATTLE_TITLE
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_BATTLE_TITLE"
 msgid "BATTLE\nDECK"
-msgstr "BATTLE\nDECK"
+msgstr "DECK DE COMBAT"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_DAILY_SUBTITLE
 #, fuzzy
@@ -73504,10 +73467,9 @@ msgid "Attempt a run of {1}'s story with these customizations:"
 msgstr "Attempt a run of {1}'s story with these customizations:"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_DAILY_TITLE
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_DAILY_TITLE"
 msgid "DAILY CHALLENGE"
-msgstr "DAILY CHALLENGE"
+msgstr "DÉFI QUOTIDIEN"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_LOCKED_SUBTITLE
 #, fuzzy
