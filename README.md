@@ -1,11 +1,10 @@
 <p style="text-align: center;"><b><h1>Traduction-Griftlands </h1></b></p>
 <p align="center">Traduction Française pour le jeu vidéo Griftlands.</p>
-<p alig,="center"><b>⚠️ La traduction et en cours, certains textes n'ont pas encore été traduit ⚠️</b></p>
-<p align="center"><b>Une relécture de la traduction est planifiée ;)</b></p>
+<p align="center"><b>⚠️ La traduction et en cours, certains textes n'ont pas encore été traduit ⚠️</b></p>
 <p align="center">
 <a href=https://github.com/leghort/Traduction-Griftlands/releases><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands?include_prereleases">
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-21%25-orange"></a>
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-79%25-yellow"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-21%25-red"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-79%25-orange"></a>
 </p>
 
 <!-- Les couleur pour les % en 6 tranches de ~16.7%
