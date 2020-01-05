@@ -212,7 +212,7 @@ msgstr "SocialConnections"
 #: ATTACK.ACCELERANT.DESC
 msgctxt "ATTACK.ACCELERANT.DESC"
 msgid "Apply {1} {SCORCHED} and {2} {BURN} to an enemy."
-msgstr "Applique {1} {SCORCHED} et {2} {BURN} à un ennemi."
+msgstr "Appliquer{1} {SCORCHED} et {2} {BURN} à un ennemi."
 
 #: ATTACK.ACCELERANT.NAME
 #, fuzzy
@@ -223,7 +223,7 @@ msgstr "Accelerant"
 #: ATTACK.ACCELERANT_PLUS.DESC
 msgctxt "ATTACK.ACCELERANT_PLUS.DESC"
 msgid "Apply <#UPGRADE>{1}</> {SCORCHED} and {2} {BURN}  to an enemy."
-msgstr "Applique <#UPGRADE>{1}</> {SCORCHED} et {2} {BURN}  à un ennemi."
+msgstr "Appliquer<#UPGRADE>{1}</> {SCORCHED} et {2} {BURN}  à un ennemi."
 
 #: ATTACK.ACCELERANT_PLUS.NAME
 #, fuzzy
@@ -234,7 +234,7 @@ msgstr "Boosted Accelerant"
 #: ATTACK.ACCELERANT_PLUS2.DESC
 msgctxt "ATTACK.ACCELERANT_PLUS2.DESC"
 msgid "Apply {1} {SCORCHED} and {2} {BURN}  to <#UPGRADE>all enemies.</>"
-msgstr "Applique {1} {SCORCHED} et {2} {BURN} à <#UPGRADE>tous les ennemis.</>"
+msgstr "Appliquer{1} {SCORCHED} et {2} {BURN} à <#UPGRADE>tous les ennemis.</>"
 
 #: ATTACK.ACCELERANT_PLUS2.NAME
 #, fuzzy
@@ -1067,7 +1067,7 @@ msgstr "Charged Blast"
 #: ATTACK.BLAST_PLUS2B.DESC
 msgctxt "ATTACK.BLAST_PLUS2B.DESC"
 msgid "<#UPGRADE>Gain 1 {CHARGE}.</>"
-msgstr "<#UPGRADE>Gagne 1 {CHARGE}.</>"
+msgstr "<#UPGRADE>Gagner 1 {CHARGE}.</>"
 
 #: ATTACK.BLAST_PLUS2B.NAME
 #, fuzzy
@@ -1100,7 +1100,7 @@ msgstr "Visionary Blast"
 #: ATTACK.BLAST_PLUS2E.DESC
 msgctxt "ATTACK.BLAST_PLUS2E.DESC"
 msgid "<#UPGRADE>Apply 2 {BURN}.</>"
-msgstr "<#UPGRADE>Applique  2 {BURN}.</>"
+msgstr "<#UPGRADE>Appliquer 2 {BURN}.</>"
 
 #: ATTACK.BLAST_PLUS2E.NAME
 #, fuzzy
@@ -1494,7 +1494,7 @@ msgstr "Stone Surge"
 #: ATTACK.BRAIN_BURN.DESC
 msgctxt "ATTACK.BRAIN_BURN.DESC"
 msgid "Apply 1 {BURN} per {CONCENTRATION}."
-msgstr "Applique 1 {BURN} par {CONCENTRATION}."
+msgstr "Appliquer1 {BURN} par {CONCENTRATION}."
 
 #: ATTACK.BRAIN_BURN.NAME
 #, fuzzy
@@ -1505,7 +1505,7 @@ msgstr "Brain Burn"
 #: ATTACK.BRAIN_BURN_PLUS.DESC
 msgctxt "ATTACK.BRAIN_BURN_PLUS.DESC"
 msgid "Apply 1 {BURN} per {CONCENTRATION}."
-msgstr "Applique 1 {BURN} par {CONCENTRATION}."
+msgstr "Appliquer1 {BURN} par {CONCENTRATION}."
 
 #: ATTACK.BRAIN_BURN_PLUS.NAME
 #, fuzzy
@@ -1516,7 +1516,7 @@ msgstr "Tall Brain Burn"
 #: ATTACK.BRAIN_BURN_PLUS2.DESC
 msgctxt "ATTACK.BRAIN_BURN_PLUS2.DESC"
 msgid "Apply 1 {BURN} per {CONCENTRATION}<#UPGRADE> +1</>."
-msgstr "Applique 1 {BURN} par {CONCENTRATION}<#UPGRADE> +1</>."
+msgstr "Appliquer1 {BURN} par {CONCENTRATION}<#UPGRADE> +1</>."
 
 #: ATTACK.BRAIN_BURN_PLUS2.NAME
 #, fuzzy
@@ -1650,7 +1650,7 @@ msgstr "Bulwark"
 #: ATTACK.BURNER.DESC
 msgctxt "ATTACK.BURNER.DESC"
 msgid "Apply {1} {BURN}."
-msgstr "Applique  {1} {BURN}."
+msgstr "Appliquer {1} {BURN}."
 
 #: ATTACK.BURNER.NAME
 #, fuzzy
@@ -1661,7 +1661,7 @@ msgstr "Burner"
 #: ATTACK.BURNER_PLUS.DESC
 msgctxt "ATTACK.BURNER_PLUS.DESC"
 msgid "Apply {1} {BURN}."
-msgstr "Applique  {1} {BURN}."
+msgstr "Appliquer {1} {BURN}."
 
 #: ATTACK.BURNER_PLUS.NAME
 #, fuzzy
@@ -1672,7 +1672,7 @@ msgstr "Boosted Burner"
 #: ATTACK.BURNER_PLUS2.DESC
 msgctxt "ATTACK.BURNER_PLUS2.DESC"
 msgid "Apply <#UPGRADE>{1}</> {BURN}."
-msgstr "Applique  <#UPGRADE>{1}</> {BURN}."
+msgstr "Appliquer <#UPGRADE>{1}</> {BURN}."
 
 #: ATTACK.BURNER_PLUS2.NAME
 #, fuzzy
@@ -1810,10 +1810,9 @@ msgid "Pale Cataclysm"
 msgstr "Pale Cataclysm"
 
 #: ATTACK.CAUTERIZE.DESC
-#, fuzzy
 msgctxt "ATTACK.CAUTERIZE.DESC"
 msgid "Spend 1 {CHARGE}: Apply {1} {SCORCHED}."
-msgstr "Spend 1 {CHARGE}: Apply {1} {SCORCHED}."
+msgstr "Dépenser 1 {CHARGE}: Appliquer {1} {SCORCHED}."
 
 #: ATTACK.CAUTERIZE.NAME
 #, fuzzy
@@ -1822,10 +1821,9 @@ msgid "Cauterize"
 msgstr "Cauterize"
 
 #: ATTACK.CAUTERIZE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.CAUTERIZE_PLUS.DESC"
 msgid "Spend 1 {CHARGE}: Apply {1} {SCORCHED}."
-msgstr "Spend 1 {CHARGE}: Apply {1} {SCORCHED}."
+msgstr "Dépenser 1 {CHARGE}: Appliquer {1} {SCORCHED}."
 
 #: ATTACK.CAUTERIZE_PLUS.NAME
 #, fuzzy
@@ -1834,10 +1832,9 @@ msgid "Rooted Cauterize"
 msgstr "Rooted Cauterize"
 
 #: ATTACK.CAUTERIZE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.CAUTERIZE_PLUS2.DESC"
 msgid "Spend 1 {CHARGE}: Apply <#UPGRADE>{1}</> {SCORCHED}."
-msgstr "Spend 1 {CHARGE}: Apply <#UPGRADE>{1}</> {SCORCHED}."
+msgstr "Dépenser 1 {CHARGE}: Appliquer <#UPGRADE>{1}</> {SCORCHED}."
 
 #: ATTACK.CAUTERIZE_PLUS2.NAME
 #, fuzzy
@@ -1951,10 +1948,9 @@ msgid "Boosted Barrage"
 msgstr "Boosted Barrage"
 
 #: ATTACK.CHEAP_SHOT.DESC
-#, fuzzy
 msgctxt "ATTACK.CHEAP_SHOT.DESC"
 msgid "Costs 1 less per empty cell."
-msgstr "Costs 1 less per empty cell."
+msgstr "Coûte 1 de moins par emplacement vide."
 
 #: ATTACK.CHEAP_SHOT.NAME
 #, fuzzy
@@ -1963,10 +1959,9 @@ msgid "Cheap Shot"
 msgstr "Cheap Shot"
 
 #: ATTACK.CHEAP_SHOT_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.CHEAP_SHOT_PLUS.DESC"
 msgid "Costs 1 less per empty cell."
-msgstr "Costs 1 less per empty cell."
+msgstr "Coûte 1 de moins par emplacement vide."
 
 #: ATTACK.CHEAP_SHOT_PLUS.NAME
 #, fuzzy
@@ -1975,10 +1970,9 @@ msgid "Pale Cheap Shot"
 msgstr "Pale Cheap Shot"
 
 #: ATTACK.CHEAP_SHOT_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.CHEAP_SHOT_PLUS2.DESC"
 msgid "Costs 1 less per empty cell."
-msgstr "Costs 1 less per empty cell."
+msgstr "Coûte 1 de moins par emplacement vide."
 
 #: ATTACK.CHEAP_SHOT_PLUS2.NAME
 #, fuzzy
@@ -1989,7 +1983,7 @@ msgstr "Boosted Cheap Shot"
 #: ATTACK.CHIMNEY.DESC
 msgctxt "ATTACK.CHIMNEY.DESC"
 msgid "Apply {1} {BURN}.\n{THRESHOLD} {2}: Apply {3} {SCORCHED}."
-msgstr "Applique  {1} {BURN}.\n{THRESHOLD} {2}: Applique  {3} {SCORCHED}."
+msgstr "Appliquer {1} {BURN}.\n{THRESHOLD} {2}: Appliquer {3} {SCORCHED}."
 
 #: ATTACK.CHIMNEY.NAME
 #, fuzzy
@@ -2000,7 +1994,7 @@ msgstr "Chimney"
 #: ATTACK.CHIMNEY_PLUS.DESC
 msgctxt "ATTACK.CHIMNEY_PLUS.DESC"
 msgid "Apply <#UPGRADE>{1}</> {BURN}.\n{THRESHOLD} {2}: Apply {3} {SCORCHED}."
-msgstr "Applique <#UPGRADE>{1}</> {BURN}.\n{THRESHOLD} {2}: Applique {3} {SCORCHED}."
+msgstr "Appliquer<#UPGRADE>{1}</> {BURN}.\n{THRESHOLD} {2}: Appliquer{3} {SCORCHED}."
 
 #: ATTACK.CHIMNEY_PLUS.NAME
 #, fuzzy
@@ -2011,7 +2005,7 @@ msgstr "Boosted Chimney"
 #: ATTACK.CHIMNEY_PLUS2.DESC
 msgctxt "ATTACK.CHIMNEY_PLUS2.DESC"
 msgid "Apply {1} {BURN}.\n{THRESHOLD} {2}: Apply {3} {SCORCHED}."
-msgstr "Applique  {1} {BURN}.\n{THRESHOLD} {2}: Applique  {3} {SCORCHED}."
+msgstr "Appliquer {1} {BURN}.\n{THRESHOLD} {2}: Appliquer {3} {SCORCHED}."
 
 #: ATTACK.CHIMNEY_PLUS2.NAME
 #, fuzzy
@@ -2058,7 +2052,7 @@ msgstr "Enduring Churn"
 #: ATTACK.CLEAN_OPEN.DESC
 msgctxt "ATTACK.CLEAN_OPEN.DESC"
 msgid "{EMPTY}: Attack twice.\nGain {1} {CHARGE}."
-msgstr "{EMPTY} : Attaquer deux fois.\nGagne {1} {CHARGE}."
+msgstr "{EMPTY} : Attaquer deux fois.\nGagner {1} {CHARGE}."
 
 #: ATTACK.CLEAN_OPEN.NAME
 #, fuzzy
@@ -2069,7 +2063,7 @@ msgstr "Clean Open"
 #: ATTACK.CLEAN_OPEN_PLUS.DESC
 msgctxt "ATTACK.CLEAN_OPEN_PLUS.DESC"
 msgid "{EMPTY}: Attack twice.\nGain {1} {CHARGE}."
-msgstr "{EMPTY} : Attaquer deux fois.\nGagne {1} {CHARGE}."
+msgstr "{EMPTY} : Attaquer deux fois.\nGagner {1} {CHARGE}."
 
 #: ATTACK.CLEAN_OPEN_PLUS.NAME
 #, fuzzy
@@ -2080,7 +2074,7 @@ msgstr "Rooted Clean Open"
 #: ATTACK.CLEAN_OPEN_PLUS2.DESC
 msgctxt "ATTACK.CLEAN_OPEN_PLUS2.DESC"
 msgid "{EMPTY}: Attack twice.\nGain {1} {CHARGE}."
-msgstr "{EMPTY} : Attaquer deux fois.\nGagne {1} {CHARGE}."
+msgstr "{EMPTY} : Attaquer deux fois.\nGagner {1} {CHARGE}."
 
 #: ATTACK.CLEAN_OPEN_PLUS2.NAME
 #, fuzzy
@@ -2589,7 +2583,7 @@ msgstr "Deep Bog Secret"
 #: ATTACK.DEEP_BOG_BATTLE_HATCH_1.DESC
 msgctxt "ATTACK.DEEP_BOG_BATTLE_HATCH_1.DESC"
 msgid "Apply {STUN}."
-msgstr "Applique  {STUN}."
+msgstr "Appliquer {STUN}."
 
 #: ATTACK.DEEP_BOG_BATTLE_HATCH_1.NAME
 #, fuzzy
@@ -2612,7 +2606,7 @@ msgstr "Bog Doom"
 #: ATTACK.DEEP_BREATH.DESC
 msgctxt "ATTACK.DEEP_BREATH.DESC"
 msgid "Gain 2 {CONCENTRATION}. Draw a card."
-msgstr "Gagne 2 {CONCENTRATION}. Piocher une carte."
+msgstr "Gagner 2 {CONCENTRATION}. Piocher une carte."
 
 #: ATTACK.DEEP_BREATH.NAME
 #, fuzzy
@@ -3901,7 +3895,7 @@ msgstr "Focused Barrage"
 #: ATTACK.FOCUSED_STRIKE.DESC
 msgctxt "ATTACK.FOCUSED_STRIKE.DESC"
 msgid "{EMPTY}: Gain {1} {CONCENTRATION}."
-msgstr "{EMPTY} : Gagne {1} {CONCENTRATION}."
+msgstr "{EMPTY} : Gagner {1} {CONCENTRATION}."
 
 #: ATTACK.FOCUSED_STRIKE.NAME
 #, fuzzy
@@ -3912,7 +3906,7 @@ msgstr "Focused Strike"
 #: ATTACK.FOCUSED_STRIKE_PLUS.DESC
 msgctxt "ATTACK.FOCUSED_STRIKE_PLUS.DESC"
 msgid "{EMPTY}: Gain {1} {CONCENTRATION}."
-msgstr "{EMPTY} : Gagne {1} {CONCENTRATION}."
+msgstr "{EMPTY} : Gagner {1} {CONCENTRATION}."
 
 #: ATTACK.FOCUSED_STRIKE_PLUS.NAME
 #, fuzzy
@@ -3923,7 +3917,7 @@ msgstr "Tall Focused Strike"
 #: ATTACK.FOCUSED_STRIKE_PLUS2.DESC
 msgctxt "ATTACK.FOCUSED_STRIKE_PLUS2.DESC"
 msgid "{EMPTY}: Gain <#UPGRADE>{1}</> {CONCENTRATION}."
-msgstr "{EMPTY}: Gagne <#UPGRADE>{1}</> {CONCENTRATION}."
+msgstr "{EMPTY}: Gagner <#UPGRADE>{1}</> {CONCENTRATION}."
 
 #: ATTACK.FOCUSED_STRIKE_PLUS2.NAME
 #, fuzzy
@@ -4069,7 +4063,7 @@ msgstr "Frenzy"
 #: ATTACK.FUEL_CANISTER.DESC
 msgctxt "ATTACK.FUEL_CANISTER.DESC"
 msgid "Apply {1} {BURN} to all enemies."
-msgstr "Applique  {1} {BURN} à tous les ennemis."
+msgstr "Appliquer {1} {BURN} à tous les ennemis."
 
 #: ATTACK.FUEL_CANISTER.NAME
 #, fuzzy
@@ -4080,7 +4074,7 @@ msgstr "Fuel Canister"
 #: ATTACK.FULLY_LOADED.DESC
 msgctxt "ATTACK.FULLY_LOADED.DESC"
 msgid "Apply {1} {DEFEND}.\n{PRIMED}: Gain {2} {RIPOSTE}."
-msgstr "Applique {1} {DEFEND}.\n{PRIMED}: Gagne {2} {RIPOSTE}."
+msgstr "Appliquer{1} {DEFEND}.\n{PRIMED}: Gagner {2} {RIPOSTE}."
 
 #: ATTACK.FULLY_LOADED.NAME
 #, fuzzy
@@ -4091,7 +4085,7 @@ msgstr "Fully Loaded"
 #: ATTACK.FULLY_LOADED_PLUS.DESC
 msgctxt "ATTACK.FULLY_LOADED_PLUS.DESC"
 msgid "Apply <#UPGRADE>{1}</> {DEFEND}.\n{PRIMED}: Gain {2} {RIPOSTE}."
-msgstr "Applique <#UPGRADE>{1}</> {DEFEND}.\n{PRIMED}: Gagne {2} {RIPOSTE}."
+msgstr "Appliquer<#UPGRADE>{1}</> {DEFEND}.\n{PRIMED}: Gagner {2} {RIPOSTE}."
 
 #: ATTACK.FULLY_LOADED_PLUS.NAME
 #, fuzzy
@@ -4102,7 +4096,7 @@ msgstr "Stone Fully Loaded"
 #: ATTACK.FULLY_LOADED_PLUS2.DESC
 msgctxt "ATTACK.FULLY_LOADED_PLUS2.DESC"
 msgid "Apply {1} {DEFEND}.\n{PRIMED}: Gain <#UPGRADE>{2}</> {RIPOSTE}."
-msgstr "Applique  {1} {DEFEND}.\n{PRIMED}: Gagne <#UPGRADE>{2}</> {RIPOSTE}."
+msgstr "Appliquer {1} {DEFEND}.\n{PRIMED}: Gagner <#UPGRADE>{2}</> {RIPOSTE}."
 
 #: ATTACK.FULLY_LOADED_PLUS2.NAME
 #, fuzzy
@@ -4113,7 +4107,7 @@ msgstr "Spined Fully Loaded"
 #: ATTACK.GAFF.DESC
 msgctxt "ATTACK.GAFF.DESC"
 msgid "Gain {DEFEND} equal to the damage dealt by this card."
-msgstr "Gagne {DEFEND} égal aux dégâts infligés par cette carte."
+msgstr "Gagner {DEFEND} égal aux dégâts infligés par cette carte."
 
 #: ATTACK.GAFF.NAME
 #, fuzzy
@@ -4700,7 +4694,7 @@ msgstr "Hilt Slam"
 #: ATTACK.HUNKER_DOWN.DESC
 msgctxt "ATTACK.HUNKER_DOWN.DESC"
 msgid "Apply {1} {DEFEND}."
-msgstr "Applique  {1} {DEFEND}."
+msgstr "Appliquer {1} {DEFEND}."
 
 #: ATTACK.HUNKER_DOWN.NAME
 #, fuzzy
@@ -4711,7 +4705,7 @@ msgstr "Hunker Down"
 #: ATTACK.HUNKER_DOWN_PLUS2A.DESC
 msgctxt "ATTACK.HUNKER_DOWN_PLUS2A.DESC"
 msgid "Apply <#UPGRADE>{1}</> {DEFEND}."
-msgstr "Applique  <#UPGRADE>{1}</> {DEFEND}."
+msgstr "Appliquer <#UPGRADE>{1}</> {DEFEND}."
 
 #: ATTACK.HUNKER_DOWN_PLUS2A.NAME
 #, fuzzy
@@ -4722,7 +4716,7 @@ msgstr "Boosted Hunker Down"
 #: ATTACK.HUNKER_DOWN_PLUS2B.DESC
 msgctxt "ATTACK.HUNKER_DOWN_PLUS2B.DESC"
 msgid "Apply {1} {DEFEND}.\n<#UPGRADE>Draw a card.</>"
-msgstr "Applique  {1} {DEFEND}.\n<#UPGRADE>Piocher une carte.</>"
+msgstr "Appliquer {1} {DEFEND}.\n<#UPGRADE>Piocher une carte.</>"
 
 #: ATTACK.HUNKER_DOWN_PLUS2B.NAME
 #, fuzzy
@@ -4733,7 +4727,7 @@ msgstr "Visionary Hunker Down"
 #: ATTACK.HUNKER_DOWN_PLUS2C.DESC
 msgctxt "ATTACK.HUNKER_DOWN_PLUS2C.DESC"
 msgid "Apply {1} {DEFEND}.\n<#UPGRADE>Gain 1 {CHARGE}.</>"
-msgstr "Applique  {1} {DEFEND}.\n<#UPGRADE>Gagne 1 {CHARGE}.</>"
+msgstr "Appliquer {1} {DEFEND}.\n<#UPGRADE>Gagner 1 {CHARGE}.</>"
 
 #: ATTACK.HUNKER_DOWN_PLUS2C.NAME
 #, fuzzy
@@ -4744,7 +4738,7 @@ msgstr "Induction Hunker Down"
 #: ATTACK.HUNKER_DOWN_PLUS2D.DESC
 msgctxt "ATTACK.HUNKER_DOWN_PLUS2D.DESC"
 msgid "Apply {1} {DEFEND}.\n<#UPGRADE>Gain 2 {SURGE}.</>"
-msgstr "Applique  {1} {DEFEND}.\n<#UPGRADE>Gagne 2 {SURGE}.</>"
+msgstr "Appliquer {1} {DEFEND}.\n<#UPGRADE>Gagner 2 {SURGE}.</>"
 
 #: ATTACK.HUNKER_DOWN_PLUS2D.NAME
 #, fuzzy
@@ -4755,7 +4749,7 @@ msgstr "Surging Hunker Down"
 #: ATTACK.HUNKER_DOWN_PLUS2E.DESC
 msgctxt "ATTACK.HUNKER_DOWN_PLUS2E.DESC"
 msgid "Apply <#UPGRADE>{1}</> {DEFEND}.\n<#UPGRADE>{CONSUME}.</>"
-msgstr "Applique <#UPGRADE>{1}</> {DEFEND}.\n<#UPGRADE>{CONSUME}.</>"
+msgstr "Appliquer<#UPGRADE>{1}</> {DEFEND}.\n<#UPGRADE>{CONSUME}.</>"
 
 #: ATTACK.HUNKER_DOWN_PLUS2E.NAME
 #, fuzzy
@@ -4888,7 +4882,7 @@ msgstr "Boosted Throw Dust"
 #: ATTACK.IMPROVISE_FLOW.DESC
 msgctxt "ATTACK.IMPROVISE_FLOW.DESC"
 msgid "Gain 1 {SURGE}."
-msgstr "Gagne 1 {SURGE}."
+msgstr "Gagner 1 {SURGE}."
 
 #: ATTACK.IMPROVISE_FLOW.NAME
 #, fuzzy
@@ -4899,7 +4893,7 @@ msgstr "Flow"
 #: ATTACK.IMPROVISE_FLOW_UPGRADED.DESC
 msgctxt "ATTACK.IMPROVISE_FLOW_UPGRADED.DESC"
 msgid "Gain 2 {SURGE}."
-msgstr "Gagne 2 {SURGE}."
+msgstr "Gagner 2 {SURGE}."
 
 #: ATTACK.IMPROVISE_FLOW_UPGRADED.NAME
 #, fuzzy
@@ -4933,7 +4927,7 @@ msgstr "Boosted Hide"
 #: ATTACK.IMPROVISE_LASER_SIGHT.DESC
 msgctxt "ATTACK.IMPROVISE_LASER_SIGHT.DESC"
 msgid "Apply 2 {MARK}."
-msgstr "Applique 2 {MARK}."
+msgstr "Appliquer2 {MARK}."
 
 #: ATTACK.IMPROVISE_LASER_SIGHT.NAME
 #, fuzzy
@@ -4944,7 +4938,7 @@ msgstr "Laser Sight"
 #: ATTACK.IMPROVISE_LASER_SIGHT_UPGRADED.DESC
 msgctxt "ATTACK.IMPROVISE_LASER_SIGHT_UPGRADED.DESC"
 msgid "Apply 3 {MARK}."
-msgstr "Applique 3 {MARK}."
+msgstr "Appliquer3 {MARK}."
 
 #: ATTACK.IMPROVISE_LASER_SIGHT_UPGRADED.NAME
 #, fuzzy
@@ -5000,10 +4994,9 @@ msgid "Pale Enrage"
 msgstr "Pale Enrage"
 
 #: ATTACK.IMPROVISE_RAT_SHOT.DESC
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_RAT_SHOT.DESC"
 msgid "Spend 1 {CHARGE}: Apply 1 {CRIPPLE}.\n{EXPEND}."
-msgstr "Spend 1 {CHARGE}: Apply 1 {CRIPPLE}.\n{EXPEND}."
+msgstr "Dépenser 1 {CHARGE}: Appliquer 1 {CRIPPLE}.\n{EXPEND}."
 
 #: ATTACK.IMPROVISE_RAT_SHOT.NAME
 #, fuzzy
@@ -5012,10 +5005,9 @@ msgid "Rat Shot"
 msgstr "Rat Shot"
 
 #: ATTACK.IMPROVISE_RAT_SHOT_UPGRADED.DESC
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_RAT_SHOT_UPGRADED.DESC"
 msgid "Spend 1 {CHARGE}: Apply 2 {CRIPPLE}.\n{EXPEND}."
-msgstr "Spend 1 {CHARGE}: Apply 2 {CRIPPLE}.\n{EXPEND}."
+msgstr "Dépenser 1 {CHARGE}: Appliquer 2 {CRIPPLE}.\n{EXPEND}."
 
 #: ATTACK.IMPROVISE_RAT_SHOT_UPGRADED.NAME
 #, fuzzy
@@ -5103,10 +5095,9 @@ msgid "Boosted Spare Battery"
 msgstr "Boosted Spare Battery"
 
 #: ATTACK.IMPROVISE_TRACER.DESC
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_TRACER.DESC"
 msgid "Spend 1 {CHARGE}: Apply 2 {BURN}."
-msgstr "Spend 1 {CHARGE}: Apply 2 {BURN}."
+msgstr "Dépenser 1 {CHARGE}: Appliquer 2 {BURN}."
 
 #: ATTACK.IMPROVISE_TRACER.NAME
 #, fuzzy
@@ -5115,10 +5106,9 @@ msgid "Tracer Round"
 msgstr "Tracer Round"
 
 #: ATTACK.IMPROVISE_TRACER_UPGRADED.DESC
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_TRACER_UPGRADED.DESC"
 msgid "Spend 1 {CHARGE}: Apply 3 {BURN}."
-msgstr "Spend 1 {CHARGE}: Apply 3 {BURN}."
+msgstr "Dépenser 1 {CHARGE}: Appliquer 3 {BURN}."
 
 #: ATTACK.IMPROVISE_TRACER_UPGRADED.NAME
 #, fuzzy
@@ -5147,10 +5137,9 @@ msgid "Boosted Trip"
 msgstr "Voyage boosté"
 
 #: ATTACK.IMPROVISE_YOTE_SHOT.DESC
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_YOTE_SHOT.DESC"
 msgid "Spend 1 {CHARGE}: Apply 1 {WOUND}.\n{EXPEND}."
-msgstr "Spend 1 {CHARGE}: Apply 1 {WOUND}.\n{EXPEND}."
+msgstr "Dépenser 1 {CHARGE}: Appliquer 1 {WOUND}.\n{EXPEND}."
 
 #: ATTACK.IMPROVISE_YOTE_SHOT.NAME
 #, fuzzy
@@ -5159,10 +5148,9 @@ msgid "Yote Shot"
 msgstr "Yote Shot"
 
 #: ATTACK.IMPROVISE_YOTE_SHOT_UPGRADED.DESC
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_YOTE_SHOT_UPGRADED.DESC"
 msgid "Spend 1 {CHARGE}: Apply 2 {WOUND}.\n{EXPEND}."
-msgstr "Spend 1 {CHARGE}: Apply 2 {WOUND}.\n{EXPEND}."
+msgstr "Dépenser 1 {CHARGE}: Appliquer 2 {WOUND}.\n{EXPEND}."
 
 #: ATTACK.IMPROVISE_YOTE_SHOT_UPGRADED.NAME
 #, fuzzy
@@ -5381,7 +5369,7 @@ msgstr "Pale Jolt"
 #: ATTACK.JUMP_CABLES.DESC
 msgctxt "ATTACK.JUMP_CABLES.DESC"
 msgid "Gain {1} {CHARGE}."
-msgstr "Gagne {1} {CHARGE}."
+msgstr "Gagner {1} {CHARGE}."
 
 #: ATTACK.JUMP_CABLES.NAME
 #, fuzzy
@@ -5398,7 +5386,7 @@ msgstr "Kick"
 #: ATTACK.KICK_PLUS2A.DESC
 msgctxt "ATTACK.KICK_PLUS2A.DESC"
 msgid "<#UPGRADE>Apply 1 {RICOCHET}.</>"
-msgstr "<#UPGRADE>Applique  1 {RICOCHET}.</>"
+msgstr "<#UPGRADE>Appliquer 1 {RICOCHET}.</>"
 
 #: ATTACK.KICK_PLUS2A.NAME
 #, fuzzy
@@ -5478,7 +5466,7 @@ msgstr "Knee Cap"
 #: ATTACK.KRADESHI_BARBSTORM.DESC
 msgctxt "ATTACK.KRADESHI_BARBSTORM.DESC"
 msgid "Apply {1} {BLEED}.\nDiscard this card: Apply {2} {BLEED} to all enemies and put this card back in your hand."
-msgstr "Applique  {1} {BLEED}.\nDéfausser cette carte: Applique  {2} {BLEED} à tous les ennemis et remets cette carte dans votre main."
+msgstr "Appliquer {1} {BLEED}.\nDéfausser cette carte: Appliquer {2} {BLEED} à tous les ennemis et remets cette carte dans votre main."
 
 #: ATTACK.KRADESHI_BARBSTORM.NAME
 #, fuzzy
@@ -5489,7 +5477,7 @@ msgstr "Kradeshi Barbstorm"
 #: ATTACK.KRADESHI_BARBSTORM_PLUS.DESC
 msgctxt "ATTACK.KRADESHI_BARBSTORM_PLUS.DESC"
 msgid "Apply <#UPGRADE>{1} {BLEED}</>.\nDiscard this card: Apply {2} {BLEED} to all enemies and put this card back in your hand."
-msgstr "Applique  <#UPGRADE> {1} {BLEED}.\nDéfausser cette carte: Applique  {2} {BLEED} à tous les ennemis et remets cette carte dans votre main."
+msgstr "Appliquer <#UPGRADE> {1} {BLEED}.\nDéfausser cette carte: Appliquer {2} {BLEED} à tous les ennemis et remets cette carte dans votre main."
 
 #: ATTACK.KRADESHI_BARBSTORM_PLUS.NAME
 #, fuzzy
@@ -5500,7 +5488,7 @@ msgstr "Tall Kradeshi Barbstorm"
 #: ATTACK.KRADESHI_BARBSTORM_PLUS2.DESC
 msgctxt "ATTACK.KRADESHI_BARBSTORM_PLUS2.DESC"
 msgid "Apply {1} {BLEED}.\nDiscard this card: Apply <#UPGRADE>{2} {BLEED}</> to all enemies and put this card back in your hand."
-msgstr "Applique  {1} {BLEED}.\nDéfausse cette carte: Appliquer <#UPGRADE>{2} {BLEED}</> à tous les ennemis et remets cette carte dans votre main."
+msgstr "Appliquer {1} {BLEED}.\nDéfausse cette carte: Appliquer <#UPGRADE>{2} {BLEED}</> à tous les ennemis et remets cette carte dans votre main."
 
 #: ATTACK.KRADESHI_BARBSTORM_PLUS2.NAME
 #, fuzzy
@@ -5554,7 +5542,7 @@ msgstr "Savage Lacerate"
 #: ATTACK.LEARNING_DRONE.DESC
 msgctxt "ATTACK.LEARNING_DRONE.DESC"
 msgid "Apply {SCANNED} to target enemy.\n{HATCH}."
-msgstr "Applique {SCANNED} à la cible ennemie.\n{HATCH}."
+msgstr "Appliquer{SCANNED} à la cible ennemie.\n{HATCH}."
 
 #: ATTACK.LEARNING_DRONE.NAME
 #, fuzzy
@@ -5810,7 +5798,7 @@ msgstr "Mandible"
 #: ATTACK.MANTLE.DESC
 msgctxt "ATTACK.MANTLE.DESC"
 msgid "Apply {1} {BURN}.\n{PRIMED}: Apply {2} {SCORCHED}."
-msgstr "Applique  {1} {BURN}.\n{PRIMED}: Applique  {2} {SCORCHED}."
+msgstr "Appliquer {1} {BURN}.\n{PRIMED}: Appliquer {2} {SCORCHED}."
 
 #: ATTACK.MANTLE.NAME
 #, fuzzy
@@ -5821,7 +5809,7 @@ msgstr "Mantle"
 #: ATTACK.MANTLE_PLUS.DESC
 msgctxt "ATTACK.MANTLE_PLUS.DESC"
 msgid "Apply <#UPGRADE>{1}</> {BURN}.\n{PRIMED}: Apply {2} {SCORCHED}."
-msgstr "Applique  <#UPGRADE>{1}</> {BURN}.\n{PRIMED}: Applique  {2} {SCORCHED}."
+msgstr "Appliquer <#UPGRADE>{1}</> {BURN}.\n{PRIMED}: Appliquer {2} {SCORCHED}."
 
 #: ATTACK.MANTLE_PLUS.NAME
 #, fuzzy
@@ -5832,7 +5820,7 @@ msgstr "Boosted Mantle"
 #: ATTACK.MANTLE_PLUS2.DESC
 msgctxt "ATTACK.MANTLE_PLUS2.DESC"
 msgid "Apply {1} {BURN}.\n{PRIMED}: Apply <#UPGRADE>{2}</> {SCORCHED}."
-msgstr "Applique  {1} {BURN}.\n{PRIMED}: Applique  <#UPGRADE>{2}</> {SCORCHED}."
+msgstr "Appliquer {1} {BURN}.\n{PRIMED}: Appliquer <#UPGRADE>{2}</> {SCORCHED}."
 
 #: ATTACK.MANTLE_PLUS2.NAME
 #, fuzzy
@@ -6239,7 +6227,7 @@ msgstr "Tall Over Extension"
 #: ATTACK.OVERHEATER.DESC
 msgctxt "ATTACK.OVERHEATER.DESC"
 msgid "Gain 2 {SURGE}."
-msgstr "Gagne 2 {SURGE}."
+msgstr "Gagner 2 {SURGE}."
 
 #: ATTACK.OVERHEATER.NAME
 #, fuzzy
@@ -6394,7 +6382,7 @@ msgstr "Portable Bunker"
 #: ATTACK.POSTURE.DESC
 msgctxt "ATTACK.POSTURE.DESC"
 msgid "Apply {1} {DEFEND}. Gain {2} {CONCENTRATION}."
-msgstr "Applique  {1} {DEFEND}. Gagne {2} {CONCENTRATION}."
+msgstr "Appliquer {1} {DEFEND}. Gagner {2} {CONCENTRATION}."
 
 #: ATTACK.POSTURE.NAME
 #, fuzzy
@@ -6405,7 +6393,7 @@ msgstr "Posture"
 #: ATTACK.POSTURE_PLUS.DESC
 msgctxt "ATTACK.POSTURE_PLUS.DESC"
 msgid "Apply <#UPGRADE>{1}</> {DEFEND}. Gain {2} {CONCENTRATION}."
-msgstr "Applique <#UPGRADE>{1}</> {DEFEND}. Gagne {2} {CONCENTRATION}."
+msgstr "Appliquer<#UPGRADE>{1}</> {DEFEND}. Gagner {2} {CONCENTRATION}."
 
 #: ATTACK.POSTURE_PLUS.NAME
 #, fuzzy
@@ -6416,7 +6404,7 @@ msgstr "Stone Posture"
 #: ATTACK.POSTURE_PLUS2.DESC
 msgctxt "ATTACK.POSTURE_PLUS2.DESC"
 msgid "Apply {1} {DEFEND}. Gain <#UPGRADE>{2}</> {CONCENTRATION}."
-msgstr "Applique  {1} {DEFEND}. Gagne <#UPGRADE>{2}</> {CONCENTRATION}."
+msgstr "Appliquer {1} {DEFEND}. Gagner <#UPGRADE>{2}</> {CONCENTRATION}."
 
 #: ATTACK.POSTURE_PLUS2.NAME
 #, fuzzy
@@ -6530,7 +6518,7 @@ msgstr "Boosted Psionic Storm"
 #: ATTACK.PULSE.DESC
 msgctxt "ATTACK.PULSE.DESC"
 msgid "Apply {1} {RICOCHET} to target enemy."
-msgstr "Applique {1} {RICOCHET} à la cible ennemie."
+msgstr "Appliquer{1} {RICOCHET} à la cible ennemie."
 
 #: ATTACK.PULSE.NAME
 #, fuzzy
@@ -6541,7 +6529,7 @@ msgstr "Pulse"
 #: ATTACK.PULSE_PLUS.DESC
 msgctxt "ATTACK.PULSE_PLUS.DESC"
 msgid "Apply {1} {RICOCHET} to target enemy."
-msgstr "Applique {1} {RICOCHET} à la cible ennemie."
+msgstr "Appliquer{1} {RICOCHET} à la cible ennemie."
 
 #: ATTACK.PULSE_PLUS.NAME
 #, fuzzy
@@ -6552,7 +6540,7 @@ msgstr "Boosted Pulse"
 #: ATTACK.PULSE_PLUS2.DESC
 msgctxt "ATTACK.PULSE_PLUS2.DESC"
 msgid "Apply <#UPGRADE>{1}</> {RICOCHET} to target enemy."
-msgstr "Applique <#UPGRADE>{1}</> {RICOCHET} à la cible ennemie."
+msgstr "Appliquer<#UPGRADE>{1}</> {RICOCHET} à la cible ennemie."
 
 #: ATTACK.PULSE_PLUS2.NAME
 #, fuzzy
@@ -7110,7 +7098,6 @@ msgid "Hits all targets."
 msgstr "Hits all targets."
 
 #: ATTACK.RPG.NAME
-#, fuzzy
 msgctxt "ATTACK.RPG.NAME"
 msgid "RPG"
 msgstr "RPG"
@@ -7231,7 +7218,7 @@ msgstr "Salve"
 #: ATTACK.SCANNER.DESC
 msgctxt "ATTACK.SCANNER.DESC"
 msgid "Apply {SCANNED} to a random enemy."
-msgstr "Applique  {SCANNED} à un ennemi aléatoire."
+msgstr "Appliquer {SCANNED} à un ennemi aléatoire."
 
 #: ATTACK.SCANNER.NAME
 #, fuzzy
@@ -7242,7 +7229,7 @@ msgstr "Scanner"
 #: ATTACK.SCANNER_PLUS.DESC
 msgctxt "ATTACK.SCANNER_PLUS.DESC"
 msgid "Apply {SCANNED} to a random enemy."
-msgstr "Applique  {SCANNED} à un ennemi aléatoire."
+msgstr "Appliquer {SCANNED} à un ennemi aléatoire."
 
 #: ATTACK.SCANNER_PLUS.NAME
 #, fuzzy
@@ -7409,7 +7396,7 @@ msgstr "Boosted Searing Bullet"
 #: ATTACK.SEEKER.DESC
 msgctxt "ATTACK.SEEKER.DESC"
 msgid "Gain {1} {DEFEND}. \nDiscard this card: Gain {1} {DEFEND} and {HEAL} {2}."
-msgstr "Gagne {1} {DEFEND}.\nDéfausse cette carte: Gagne {1} {DEFEND} et {HEAL} {2}."
+msgstr "Gagner {1} {DEFEND}.\nDéfausse cette carte: Gagner {1} {DEFEND} et {HEAL} {2}."
 
 #: ATTACK.SEEKER.NAME
 #, fuzzy
@@ -7420,7 +7407,7 @@ msgstr "Seeker"
 #: ATTACK.SEEKER_PLUS.DESC
 msgctxt "ATTACK.SEEKER_PLUS.DESC"
 msgid "Gain <#UPGRADE>{1} {DEFEND}.</> \nDiscard this card: Gain <#UPGRADE>{1} {DEFEND}</> and {HEAL} {2}."
-msgstr "Gagne <#UPGRADE> {1} {DEFEND}.</>\nDéfausse cette carte: Gagne <#UPGRADE>{1} {DEFEND}</> et {HEAL} {2}."
+msgstr "Gagner <#UPGRADE> {1} {DEFEND}.</>\nDéfausse cette carte: Gagner <#UPGRADE>{1} {DEFEND}</> et {HEAL} {2}."
 
 #: ATTACK.SEEKER_PLUS.NAME
 #, fuzzy
@@ -7431,7 +7418,7 @@ msgstr "Boosted Seeker"
 #: ATTACK.SEEKER_PLUS2.DESC
 msgctxt "ATTACK.SEEKER_PLUS2.DESC"
 msgid "Gain {1} {DEFEND}. \nDiscard this card: Gain {1} {DEFEND} and {HEAL} {2}."
-msgstr "Gagne {1} {DEFEND}.\nDéfausse cette carte: Gagne {1} {DEFEND} et {HEAL} {2}."
+msgstr "Gagner {1} {DEFEND}.\nDéfausse cette carte: Gagner {1} {DEFEND} et {HEAL} {2}."
 
 #: ATTACK.SEEKER_PLUS2.NAME
 #, fuzzy
@@ -7702,7 +7689,7 @@ msgstr "Enrage"
 #: ATTACK.SHROOG_FANG.DESC
 msgctxt "ATTACK.SHROOG_FANG.DESC"
 msgid "Apply {1} {WOUND}. Gain {2} {POWER}."
-msgstr "Appliquer {1} {WOUND}. Gainez {2} {POWER}."
+msgstr "Appliquer {1} {WOUND}. Gagner {2} {POWER}."
 
 #: ATTACK.SHROOG_FANG.NAME
 #, fuzzy
@@ -7770,7 +7757,7 @@ msgstr "Rooted Steel"
 #: ATTACK.SILENT_SHIV_PLUS2.DESC
 msgctxt "ATTACK.SILENT_SHIV_PLUS2.DESC"
 msgid "<#UPGRADE>Apply {CRIPPLE 1}.</>\n{AMBUSH} and {EXPEND}."
-msgstr "<#UPGRADE> Applique  {CRIPPLE 1}.</>\n {AMBUSH} et {EXPEND}."
+msgstr "<#UPGRADE>Appliquer {CRIPPLE 1}.</>\n {AMBUSH} et {EXPEND}."
 
 #: ATTACK.SILENT_SHIV_PLUS2.NAME
 #, fuzzy
@@ -7820,7 +7807,7 @@ msgstr "Rival's Size Up"
 #: ATTACK.SKIMMER.DESC
 msgctxt "ATTACK.SKIMMER.DESC"
 msgid "Apply {1} {MARK} to a random target."
-msgstr "Applique  {1} {MARK} a une cible aléatoire."
+msgstr "Appliquer {1} {MARK} a une cible aléatoire."
 
 #: ATTACK.SKIMMER.NAME
 #, fuzzy
@@ -8056,10 +8043,9 @@ msgid "Spark Cannon"
 msgstr "Spark Cannon"
 
 #: ATTACK.SPARK_GRENADE.DESC
-#, fuzzy
 msgctxt "ATTACK.SPARK_GRENADE.DESC"
 msgid "Targets 2 random enemies."
-msgstr "Targets 2 random enemies."
+msgstr "Cible 2 ennemis au hasard."
 
 #: ATTACK.SPARK_GRENADE.NAME
 #, fuzzy
@@ -8332,7 +8318,7 @@ msgstr "Stab of the Stone"
 #: ATTACK.STAB_PLUS2D.DESC
 msgctxt "ATTACK.STAB_PLUS2D.DESC"
 msgid "<#UPGRADE>Apply 2 {BLEED}.</>"
-msgstr "<#UPGRADE> Appliquer 2 {BLEED}</>"
+msgstr "<#UPGRADE>Appliquer 2 {BLEED}</>"
 
 #: ATTACK.STAB_PLUS2D.FLAVOUR
 msgctxt "ATTACK.STAB_PLUS2D.FLAVOUR"
@@ -8555,7 +8541,7 @@ msgstr "Stomp+"
 #: ATTACK.STRIKER.DESC
 msgctxt "ATTACK.STRIKER.DESC"
 msgid "{THRESHOLD} {1}: Gain {2} {SURGE}."
-msgstr "{THRESHOLD} {1}: Gagne {2} {SURGE}."
+msgstr "{THRESHOLD} {1}: Gagner {2} {SURGE}."
 
 #: ATTACK.STRIKER.NAME
 #, fuzzy
@@ -8566,7 +8552,7 @@ msgstr "Striker"
 #: ATTACK.STRIKER_PLUS.DESC
 msgctxt "ATTACK.STRIKER_PLUS.DESC"
 msgid "{THRESHOLD} {1}: Gain {2} {SURGE}."
-msgstr "{THRESHOLD} {1}: Gagne {2} {SURGE}."
+msgstr "{THRESHOLD} {1}: Gagner {2} {SURGE}."
 
 #: ATTACK.STRIKER_PLUS.NAME
 #, fuzzy
@@ -8577,7 +8563,7 @@ msgstr "Tall Striker"
 #: ATTACK.STRIKER_PLUS2.DESC
 msgctxt "ATTACK.STRIKER_PLUS2.DESC"
 msgid "{THRESHOLD} {1}: Gain <#UPGRADE>{2}</> {SURGE}."
-msgstr "{THRESHOLD} {1}: Gagne <#UPGRADE>{2}</> {SURGE}."
+msgstr "{THRESHOLD} {1}: Gagner <#UPGRADE>{2}</> {SURGE}."
 
 #: ATTACK.STRIKER_PLUS2.NAME
 #, fuzzy
@@ -8815,7 +8801,7 @@ msgstr "Boosted Switch Blade"
 #: ATTACK.TAKE_AIM.DESC
 msgctxt "ATTACK.TAKE_AIM.DESC"
 msgid "Apply 2 {MARK}.\nDraw a card."
-msgstr "Applique 2 {MARK}.\nPioche une cartes."
+msgstr "Appliquer2 {MARK}.\nPioche une cartes."
 
 #: ATTACK.TAKE_AIM.NAME
 #, fuzzy
@@ -8826,7 +8812,7 @@ msgstr "Take Aim"
 #: ATTACK.TAKE_AIM_PLUS.DESC
 msgctxt "ATTACK.TAKE_AIM_PLUS.DESC"
 msgid "Apply <#UPGRADE>4</> {MARK}.\nDraw a card."
-msgstr "Applique  <#UPGRADE>4</> {MARK}.\nPiocher une carte."
+msgstr "Appliquer <#UPGRADE>4</> {MARK}.\nPiocher une carte."
 
 #: ATTACK.TAKE_AIM_PLUS.NAME
 #, fuzzy
@@ -8837,7 +8823,7 @@ msgstr "Maintained Aim"
 #: ATTACK.TAKE_AIM_PLUS2.DESC
 msgctxt "ATTACK.TAKE_AIM_PLUS2.DESC"
 msgid "Apply 2 {MARK}.\nDraw <#UPGRADE>2 cards</>."
-msgstr "Applique  2 {MARK}.\nPioche <#UPGRADE>2 carte</>."
+msgstr "Appliquer 2 {MARK}.\nPioche <#UPGRADE>2 carte</>."
 
 #: ATTACK.TAKE_AIM_PLUS2.NAME
 #, fuzzy
@@ -8943,7 +8929,7 @@ msgstr "Boosted Target Practice"
 #: ATTACK.TARGET_PRACTICE_PLUS2.DESC
 msgctxt "ATTACK.TARGET_PRACTICE_PLUS2.DESC"
 msgid "Attack 2 random enemies.\n<#UPGRADE>Apply {BLEED 1}.</>"
-msgstr "Attaquer 2 ennemis aléatoires.\n<#UPGRADE>Applique {BLEED 1}.</>"
+msgstr "Attaquer 2 ennemis aléatoires.\n<#UPGRADE>Appliquer{BLEED 1}.</>"
 
 #: ATTACK.TARGET_PRACTICE_PLUS2.NAME
 #, fuzzy
@@ -8970,7 +8956,7 @@ msgstr "Provocation"
 #: ATTACK.TELEGRAPH.DESC
 msgctxt "ATTACK.TELEGRAPH.DESC"
 msgid "Apply 2 {DEFEND} per {CONCENTRATION}."
-msgstr "Applique 2 {DEFEND} par {CONCENTRATION}."
+msgstr "Appliquer2 {DEFEND} par {CONCENTRATION}."
 
 #: ATTACK.TELEGRAPH.NAME
 #, fuzzy
@@ -8981,7 +8967,7 @@ msgstr "Telegraph"
 #: ATTACK.TELEGRAPH_PLUS.DESC
 msgctxt "ATTACK.TELEGRAPH_PLUS.DESC"
 msgid "Apply 2 {DEFEND} <#UPGRADE>and gain 1 {RIPOSTE}</> per {CONCENTRATION}."
-msgstr "Applique 2 {DEFEND} <#UPGRADE>et gagne 1 {RIPOSTE}</> par {CONCENTRATION}."
+msgstr "Appliquer2 {DEFEND} <#UPGRADE>et gagne 1 {RIPOSTE}</> par {CONCENTRATION}."
 
 #: ATTACK.TELEGRAPH_PLUS.NAME
 #, fuzzy
@@ -9099,7 +9085,7 @@ msgstr "Tiny Fangs"
 #: ATTACK.TREMOR.DESC
 msgctxt "ATTACK.TREMOR.DESC"
 msgid "Apply {1} {RICOCHET} to all enemies."
-msgstr "Applique  {1} {RICOCHET} à tous les ennemis."
+msgstr "Appliquer {1} {RICOCHET} à tous les ennemis."
 
 #: ATTACK.TREMOR.NAME
 #, fuzzy
@@ -9110,7 +9096,7 @@ msgstr "Tremor"
 #: ATTACK.TREMOR_PLUS.DESC
 msgctxt "ATTACK.TREMOR_PLUS.DESC"
 msgid "Apply <#UPGRADE>{1}</> {RICOCHET} to all enemies."
-msgstr "Applique <#UPGRADE>{1}</> {RICOCHET} à tous les ennemis."
+msgstr "Appliquer<#UPGRADE>{1}</> {RICOCHET} à tous les ennemis."
 
 #: ATTACK.TREMOR_PLUS.NAME
 #, fuzzy
@@ -9121,7 +9107,7 @@ msgstr "Boosted Tremor"
 #: ATTACK.TREMOR_PLUS2.DESC
 msgctxt "ATTACK.TREMOR_PLUS2.DESC"
 msgid "Apply {1} {RICOCHET} to all enemies.\n<#UPGRADE>Gain 1 Charge.</>"
-msgstr "Applique {1} {RICOCHET} à tous les ennemis.\n<#UPGRADE>Gagne 1 Charge.</>"
+msgstr "Appliquer{1} {RICOCHET} à tous les ennemis.\n<#UPGRADE>Gagner 1 Charge.</>"
 
 #: ATTACK.TREMOR_PLUS2.NAME
 #, fuzzy
@@ -9144,7 +9130,7 @@ msgstr "Triage"
 #: ATTACK.TRICK_SHOT.DESC
 msgctxt "ATTACK.TRICK_SHOT.DESC"
 msgid "{THRESHOLD} {1}: Gain {2} {RIPOSTE}."
-msgstr "{THRESHOLD} {1}: Gagne {2} {RIPOSTE}."
+msgstr "{THRESHOLD} {1}: Gagner {2} {RIPOSTE}."
 
 #: ATTACK.TRICK_SHOT.NAME
 #, fuzzy
@@ -9155,7 +9141,7 @@ msgstr "Trick Shot"
 #: ATTACK.TRICK_SHOT_PLUS.DESC
 msgctxt "ATTACK.TRICK_SHOT_PLUS.DESC"
 msgid "{THRESHOLD} {1}: Gain <#UPGRADE>{2}</> {RIPOSTE}."
-msgstr "{THRESHOLD} {1}: Gagne <#UPGRADE>{2}</> {RIPOSTE}."
+msgstr "{THRESHOLD} {1}: Gagner <#UPGRADE>{2}</> {RIPOSTE}."
 
 #: ATTACK.TRICK_SHOT_PLUS.NAME
 #, fuzzy
@@ -9166,7 +9152,7 @@ msgstr "Boosted Trick Shot"
 #: ATTACK.TRICK_SHOT_PLUS2.DESC
 msgctxt "ATTACK.TRICK_SHOT_PLUS2.DESC"
 msgid "{THRESHOLD} <#UPGRADE>{1}</>: Gain {2} {RIPOSTE}."
-msgstr "{THRESHOLD} <#UPGRADE>{1}</>: Gagne {2} {RIPOSTE}."
+msgstr "{THRESHOLD} <#UPGRADE>{1}</>: Gagner {2} {RIPOSTE}."
 
 #: ATTACK.TRICK_SHOT_PLUS2.NAME
 #, fuzzy
@@ -9585,6 +9571,7 @@ msgid "Wide Wild Lunge"
 msgstr "Wide Wild Lunge"
 
 #: ATTACK.WILDFIRE.DESC
+#, fuzzy
 msgctxt "ATTACK.WILDFIRE.DESC"
 msgid "Apply {1} {BURN} to target enemy, then apply {BURN} to all enemies equal to {BURN} on the target."
 msgstr "Apply {1} {BURN} to target enemy, then apply {BURN} to all enemies equal to {BURN} on the target."
@@ -9666,10 +9653,9 @@ msgid "Worker's Gloves"
 msgstr "Worker's Gloves"
 
 #: ATTACK.WOUNDING_SHOT.DESC
-#, fuzzy
 msgctxt "ATTACK.WOUNDING_SHOT.DESC"
 msgid "Apply 1 {WOUND} per empty cell."
-msgstr "Apply 1 {WOUND} per empty cell."
+msgstr "Appliquer 1 {WOUND} par emplacement vide."
 
 #: ATTACK.WOUNDING_SHOT.NAME
 #, fuzzy
@@ -9678,10 +9664,9 @@ msgid "Wounding Shot"
 msgstr "Wounding Shot"
 
 #: ATTACK.WOUNDING_SHOT_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.WOUNDING_SHOT_PLUS.DESC"
 msgid "Apply 1 {WOUND} per empty cell."
-msgstr "Apply 1 {WOUND} per empty cell."
+msgstr "Appliquer 1 {WOUND} par emplacement vide."
 
 #: ATTACK.WOUNDING_SHOT_PLUS.NAME
 #, fuzzy
@@ -11614,7 +11599,7 @@ msgstr "At the end of their turn, heal {1} damage then reduce <b>Mending</b> by 
 #: BATTLE_FEATURE.MENDING.FEATURE_DESC
 msgctxt "BATTLE_FEATURE.MENDING.FEATURE_DESC"
 msgid "Apply {1} {MENDING}."
-msgstr "Applique  {1} {MENDING}."
+msgstr "Appliquer {1} {MENDING}."
 
 #: BATTLE_FEATURE.MENDING.FEATURE_TOOLTIP
 #, fuzzy
@@ -12275,7 +12260,7 @@ msgstr "Deal {1} damage back to the enemy when hit. Remove all <b>Counter</b> at
 #: BATTLE_FEATURE.RIPOSTE.FEATURE_DESC
 msgctxt "BATTLE_FEATURE.RIPOSTE.FEATURE_DESC"
 msgid "Gain {1} {RIPOSTE}."
-msgstr "Gagne {1} {RIPOSTE}."
+msgstr "Gagner {1} {RIPOSTE}."
 
 #: BATTLE_FEATURE.RIPOSTE.NAME
 #, fuzzy
@@ -12782,7 +12767,7 @@ msgstr "Can't act this turn. Remove 1 Stun at the end of the turn."
 #: BATTLE_FEATURE.STUN.FEATURE_DESC
 msgctxt "BATTLE_FEATURE.STUN.FEATURE_DESC"
 msgid "Apply {1} {STUN}."
-msgstr "Applique  {1} {STUN}."
+msgstr "Appliquer {1} {STUN}."
 
 #: BATTLE_FEATURE.STUN.NAME
 msgctxt "BATTLE_FEATURE.STUN.NAME"
@@ -12867,7 +12852,7 @@ msgstr "All non-player characters will prioritize this target."
 #: BATTLE_FEATURE.TARGETED.FEATURE_DESC
 msgctxt "BATTLE_FEATURE.TARGETED.FEATURE_DESC"
 msgid "Gain {1} {TARGETED}."
-msgstr "Gagne {1} {TARGETED}."
+msgstr "Gagner {1} {TARGETED}."
 
 #: BATTLE_FEATURE.TARGETED.NAME
 msgctxt "BATTLE_FEATURE.TARGETED.NAME"
@@ -13211,7 +13196,7 @@ msgstr "Attacks inflict {1} bonus damage on this target.\nAt the beginning of th
 #: BATTLE_FEATURE.WOUND.FEATURE_DESC
 msgctxt "BATTLE_FEATURE.WOUND.FEATURE_DESC"
 msgid "Apply {1} {WOUND}."
-msgstr "Applique  {1} {WOUND}."
+msgstr "Appliquer {1} {WOUND}."
 
 #: BATTLE_FEATURE.WOUND.NAME
 msgctxt "BATTLE_FEATURE.WOUND.NAME"
@@ -13731,7 +13716,7 @@ msgstr "Pale Appeal"
 #: CARD.APPREHENSIVE.DESC
 msgctxt "CARD.APPREHENSIVE.DESC"
 msgid "Apply {1} {COMPOSURE} to a random argument at the end of turn."
-msgstr "Applique  {1} {COMPOSURE} à un argument aléatoire à la fin du tour."
+msgstr "Appliquer {1} {COMPOSURE} à un argument aléatoire à la fin du tour."
 
 #: CARD.APPREHENSIVE.NAME
 #, fuzzy
@@ -14514,7 +14499,7 @@ msgstr "Petites Faveurs"
 #: CARD.CALM.DESC
 msgctxt "CARD.CALM.DESC"
 msgid "Apply {1} {COMPOSURE} to all your arguments."
-msgstr "Applique  {1} {COMPOSURE} à tous vos arguments."
+msgstr "Appliquer {1} {COMPOSURE} à tous vos arguments."
 
 #: CARD.CALM.NAME
 #, fuzzy
@@ -14525,7 +14510,7 @@ msgstr "Calm"
 #: CARD.CALM_PLUS.DESC
 msgctxt "CARD.CALM_PLUS.DESC"
 msgid "Apply <#UPGRADE>{1} {COMPOSURE}</> to all your arguments."
-msgstr "Applique <#UPGRADE>{1} {COMPOSURE}</> à tous vos arguments."
+msgstr "Appliquer<#UPGRADE>{1} {COMPOSURE}</> à tous vos arguments."
 
 #: CARD.CALM_PLUS.NAME
 #, fuzzy
@@ -14536,7 +14521,7 @@ msgstr "Boosted Calm"
 #: CARD.CALM_PLUS2.DESC
 msgctxt "CARD.CALM_PLUS2.DESC"
 msgid "Apply {1} {COMPOSURE} to all your arguments."
-msgstr "Applique  {1} {COMPOSURE} à tous vos arguments."
+msgstr "Appliquer {1} {COMPOSURE} à tous vos arguments."
 
 #: CARD.CALM_PLUS2.NAME
 #, fuzzy
@@ -14845,7 +14830,7 @@ msgstr "Twisted Compromise"
 #: CARD.COOL_HEAD.DESC
 msgctxt "CARD.COOL_HEAD.DESC"
 msgid "Apply {COMPOSURE 3} to your {INFLUENCE} at the beginning of your turn."
-msgstr "Applique {COMPOSURE 3} à votre {INFLUENCE} au début de votre tour."
+msgstr "Appliquer{COMPOSURE 3} à votre {INFLUENCE} au début de votre tour."
 
 #: CARD.COOL_HEAD.NAME
 msgctxt "CARD.COOL_HEAD.NAME"
@@ -15079,7 +15064,7 @@ msgstr "Boosted Deflection"
 #: CARD.DEFLECTION_PLUS2C.DESC
 msgctxt "CARD.DEFLECTION_PLUS2C.DESC"
 msgid "Apply {1} {COMPOSURE}\n<#UPGRADE>Draw a card.</>"
-msgstr "Applique  {1} {COMPOSURE}\n<#UPGRADE>Piochez une carte.</>"
+msgstr "Appliquer {1} {COMPOSURE}\n<#UPGRADE>Piochez une carte.</>"
 
 #: CARD.DEFLECTION_PLUS2C.FLAVOUR
 msgctxt "CARD.DEFLECTION_PLUS2C.FLAVOUR"
@@ -15951,7 +15936,7 @@ msgstr "Pale Fast Talk"
 #: CARD.FAST_TALK_PLUS2C.DESC
 msgctxt "CARD.FAST_TALK_PLUS2C.DESC"
 msgid "<#UPGRADE> Draw a card.</>"
-msgstr "<#UPGRADE> piocher une carte.</>"
+msgstr "<#UPGRADE> Piocher une carte.</>"
 
 #: CARD.FAST_TALK_PLUS2C.FLAVOUR
 msgctxt "CARD.FAST_TALK_PLUS2C.FLAVOUR"
@@ -15967,7 +15952,7 @@ msgstr "Visionary Fast Talk"
 #: CARD.FAST_TALK_PLUS2F.DESC
 msgctxt "CARD.FAST_TALK_PLUS2F.DESC"
 msgid "<#UPGRADE>Gain {INFLUENCE 1}.</>"
-msgstr "<#UPGRADE>Gagne {INFLUENCE 1}.</>"
+msgstr "<#UPGRADE>Gagner {INFLUENCE 1}.</>"
 
 #: CARD.FAST_TALK_PLUS2F.FLAVOUR
 msgctxt "CARD.FAST_TALK_PLUS2F.FLAVOUR"
@@ -15983,7 +15968,7 @@ msgstr "Inspirational Talk"
 #: CARD.FAST_TALK_PLUS2H.DESC
 msgctxt "CARD.FAST_TALK_PLUS2H.DESC"
 msgid "<#UPGRADE>Gain {1} {COMPOSURE}.</>"
-msgstr "<#UPGRADE>Gagne {1} {COMPOSURE}.</>"
+msgstr "<#UPGRADE>Gagner {1} {COMPOSURE}.</>"
 
 #: CARD.FAST_TALK_PLUS2H.FLAVOUR
 msgctxt "CARD.FAST_TALK_PLUS2H.FLAVOUR"
@@ -16050,10 +16035,9 @@ msgid "<b>{1.fullname}</> will fight on your side if you win this negotiation."
 msgstr "<b>{1.fullname}</> will fight on your side if you win this negotiation."
 
 #: CARD.FIGHT_ALLY_WON.NAME
-#, fuzzy
 msgctxt "CARD.FIGHT_ALLY_WON.NAME"
 msgid "Ally"
-msgstr "Ally"
+msgstr "Allié"
 
 #: CARD.FINAL_FAVOR.DESC
 #, fuzzy
@@ -16428,10 +16412,9 @@ msgid "Rigged Grumble"
 msgstr "Rigged Grumble"
 
 #: CARD.GRUNT.DESC
-#, fuzzy
 msgctxt "CARD.GRUNT.DESC"
 msgid "{PREPARED}: +{1} damage and draw a card."
-msgstr "{PREPARED}: +{1} damage and draw a card."
+msgstr "{PREPARED}: +{1} de dégât et piocher une carte."
 
 #: CARD.GRUNT.NAME
 #, fuzzy
@@ -16440,10 +16423,9 @@ msgid "Grunt"
 msgstr "Grunt"
 
 #: CARD.GRUNT_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.GRUNT_PLUS.DESC"
 msgid "{PREPARED}: +{1} damage and draw a card."
-msgstr "{PREPARED}: +{1} damage and draw a card."
+msgstr "{PREPARED}: +{1} de dégât et piocher une carte."
 
 #: CARD.GRUNT_PLUS.NAME
 #, fuzzy
@@ -16598,7 +16580,7 @@ msgstr "Tall Head Turner"
 #: CARD.HEAD_TURNER_PLUS2.DESC
 msgctxt "CARD.HEAD_TURNER_PLUS2.DESC"
 msgid "{HEADS}: Deal max damage.\n{PREPARED}: Gain 1 action<#UPGRADE> and draw a card.</>"
-msgstr "{HEADS}: Dégât max.\n{PREPARED}: Gagne 1 action<#UPGRADE> et pioche une carte.</>"
+msgstr "{HEADS}: Dégât max.\n{PREPARED}: Gagner 1 action<#UPGRADE> et pioche une carte.</>"
 
 #: CARD.HEAD_TURNER_PLUS2.NAME
 #, fuzzy
@@ -16811,7 +16793,7 @@ msgstr "Impending Doom"
 #: CARD.IMPROVISE_ALOOF.DESC
 msgctxt "CARD.IMPROVISE_ALOOF.DESC"
 msgid "Apply 3 {COMPOSURE}."
-msgstr "Applique 3 {COMPOSURE}."
+msgstr "Appliquer3 {COMPOSURE}."
 
 #: CARD.IMPROVISE_ALOOF.NAME
 #, fuzzy
@@ -16822,7 +16804,7 @@ msgstr "Aloof"
 #: CARD.IMPROVISE_ALOOF_UPGRADED.DESC
 msgctxt "CARD.IMPROVISE_ALOOF_UPGRADED.DESC"
 msgid "Apply 4 {COMPOSURE}."
-msgstr "Applique 4 {COMPOSURE}."
+msgstr "Appliquer4 {COMPOSURE}."
 
 #: CARD.IMPROVISE_ALOOF_UPGRADED.NAME
 #, fuzzy
@@ -17049,7 +17031,7 @@ msgstr "Boosted Stammer"
 #: CARD.IMPROVISE_WIDE_COMPOSURE.DESC
 msgctxt "CARD.IMPROVISE_WIDE_COMPOSURE.DESC"
 msgid "Apply {1} {COMPOSURE} on 2 random friendly arguments.\n{EXPEND}"
-msgstr "Applique  {1} {COMPOSURE} sur 2 arguments allié aléatoires.\n{EXPEND}"
+msgstr "Appliquer {1} {COMPOSURE} sur 2 arguments allié aléatoires.\n{EXPEND}"
 
 #: CARD.IMPROVISE_WIDE_COMPOSURE.NAME
 #, fuzzy
@@ -17060,7 +17042,7 @@ msgstr "Consideration"
 #: CARD.IMPROVISE_WIDE_COMPOSURE_UPGRADED.DESC
 msgctxt "CARD.IMPROVISE_WIDE_COMPOSURE_UPGRADED.DESC"
 msgid "Apply {1} {COMPOSURE} on 2 random friendly arguments.\n{EXPEND}"
-msgstr "Applique  {1} {COMPOSURE} sur 2 arguments allié aléatoires.\n{EXPEND}"
+msgstr "Appliquer {1} {COMPOSURE} sur 2 arguments allié aléatoires.\n{EXPEND}"
 
 #: CARD.IMPROVISE_WIDE_COMPOSURE_UPGRADED.NAME
 #, fuzzy
@@ -17344,7 +17326,7 @@ msgstr "Irritable"
 #: CARD.JABBER.DESC
 msgctxt "CARD.JABBER.DESC"
 msgid "{HEADS}: Gain {1} {INFLUENCE}."
-msgstr "{HEADS}: Gagne {1} {INFLUENCE}."
+msgstr "{HEADS}: Gagner {1} {INFLUENCE}."
 
 #: CARD.JABBER.NAME
 #, fuzzy
@@ -17355,7 +17337,7 @@ msgstr "Jabber"
 #: CARD.JABBER_PLUS.DESC
 msgctxt "CARD.JABBER_PLUS.DESC"
 msgid "{HEADS}: Gain {1} {INFLUENCE}."
-msgstr "{HEADS}: Gagne {1} {INFLUENCE}."
+msgstr "{HEADS}: Gagner {1} {INFLUENCE}."
 
 #: CARD.JABBER_PLUS.NAME
 #, fuzzy
@@ -17366,7 +17348,7 @@ msgstr "Tall Jabber"
 #: CARD.JABBER_PLUS2.DESC
 msgctxt "CARD.JABBER_PLUS2.DESC"
 msgid "{HEADS}: Gain <#UPGRADE>{1}</> {INFLUENCE}."
-msgstr "{HEADS}: Gagne <#UPGRADE>{1}</> {INFLUENCE}."
+msgstr "{HEADS}: Gagner <#UPGRADE>{1}</> {INFLUENCE}."
 
 #: CARD.JABBER_PLUS2.NAME
 #, fuzzy
@@ -18133,7 +18115,7 @@ msgstr "Permits"
 #: CARD.PINCH.DESC
 msgctxt "CARD.PINCH.DESC"
 msgid "Gain {1} {VANISH}."
-msgstr "Gagne {1} {VANISH}."
+msgstr "Gagner {1} {VANISH}."
 
 #: CARD.PINCH.NAME
 #, fuzzy
@@ -18156,7 +18138,7 @@ msgstr "Boosted Pinch"
 #: CARD.PINCH_PLUS2.DESC
 msgctxt "CARD.PINCH_PLUS2.DESC"
 msgid "Gain {1} {VANISH}."
-msgstr "Gagne {1} {VANISH}."
+msgstr "Gagner {1} {VANISH}."
 
 #: CARD.PINCH_PLUS2.NAME
 #, fuzzy
@@ -18371,7 +18353,7 @@ msgstr "Abus de pouvoir"
 #: CARD.PRAISE.DESC
 msgctxt "CARD.PRAISE.DESC"
 msgid "{PREPARED}: Gain {1} {INFLUENCE}."
-msgstr "{PREPARED}: Gagne {1} {INFLUENCE}."
+msgstr "{PREPARED}: Gagner {1} {INFLUENCE}."
 
 #: CARD.PRAISE.NAME
 #, fuzzy
@@ -18394,7 +18376,7 @@ msgstr "Cordial Praise"
 #: CARD.PRAISE_PLUS2.DESC
 msgctxt "CARD.PRAISE_PLUS2.DESC"
 msgid "{PREPARED}: Gain {1} {INFLUENCE}."
-msgstr "{PREPARED}: Gagne {1} {INFLUENCE}."
+msgstr "{PREPARED}: Gagner {1} {INFLUENCE}."
 
 #: CARD.PRAISE_PLUS2.NAME
 #, fuzzy
@@ -18405,7 +18387,7 @@ msgstr "Boosted Praise"
 #: CARD.PRATTLE.DESC
 msgctxt "CARD.PRATTLE.DESC"
 msgid "Apply {1} {COMPOSURE}.\n{PREPARED}: apply {2} {COMPOSURE} to all friendly arguments."
-msgstr "Applique {1} {COMPOSURE}.\n{PREPARED}: apply {2} {COMPOSURE} à all friendly arguments."
+msgstr "Appliquer{1} {COMPOSURE}.\n{PREPARED}: apply {2} {COMPOSURE} à all friendly arguments."
 
 #: CARD.PRATTLE.NAME
 #, fuzzy
@@ -18771,7 +18753,7 @@ msgstr "Boosted Fire"
 #: CARD.RATIONALE.DESC
 msgctxt "CARD.RATIONALE.DESC"
 msgid "Apply {1} {COMPOSURE}."
-msgstr "Applique  {1} {COMPOSURE}."
+msgstr "Appliquer {1} {COMPOSURE}."
 
 #: CARD.RATIONALE.NAME
 #, fuzzy
@@ -18782,7 +18764,7 @@ msgstr "Rationale"
 #: CARD.RATIONALE_PLUS2A.DESC
 msgctxt "CARD.RATIONALE_PLUS2A.DESC"
 msgid "Apply <#UPGRADE>{1}</> {COMPOSURE}."
-msgstr "Applique <#UPGRADE>{1}</> {COMPOSURE}."
+msgstr "Appliquer<#UPGRADE>{1}</> {COMPOSURE}."
 
 #: CARD.RATIONALE_PLUS2A.NAME
 #, fuzzy
@@ -18997,7 +18979,7 @@ msgstr "Visionary Reconsider"
 #: CARD.RED_HERRING.DESC
 msgctxt "CARD.RED_HERRING.DESC"
 msgid "Gain {1} {DIVERSION}."
-msgstr "Gagne {1} {DIVERSION}."
+msgstr "Gagner {1} {DIVERSION}."
 
 #: CARD.RED_HERRING.NAME
 #, fuzzy
@@ -19019,7 +19001,7 @@ msgstr "Boosted Red Herring"
 #: CARD.RED_HERRING_PLUS2.DESC
 msgctxt "CARD.RED_HERRING_PLUS2.DESC"
 msgid "Gain {1} {DIVERSION}."
-msgstr "Gagne {1} {DIVERSION}."
+msgstr "Gagner {1} {DIVERSION}."
 
 #: CARD.RED_HERRING_PLUS2.NAME
 #, fuzzy
@@ -19809,7 +19791,7 @@ msgstr "Spree Support"
 #: CARD.SQUARE_UP.DESC
 msgctxt "CARD.SQUARE_UP.DESC"
 msgid "Gain {1} {MOMENTUM}."
-msgstr "Gagne {1} {MOMENTUM}."
+msgstr "Gagner {1} {MOMENTUM}."
 
 #: CARD.SQUARE_UP.NAME
 #, fuzzy
@@ -19831,7 +19813,7 @@ msgstr "Boosted Square Up"
 #: CARD.SQUARE_UP_PLUS2.DESC
 msgctxt "CARD.SQUARE_UP_PLUS2.DESC"
 msgid "Gain {1} {MOMENTUM}."
-msgstr "Gagne {1} {MOMENTUM}."
+msgstr "Gagner {1} {MOMENTUM}."
 
 #: CARD.SQUARE_UP_PLUS2.NAME
 #, fuzzy
@@ -20668,10 +20650,9 @@ msgid "Wary"
 msgstr "Wary"
 
 #: CARD.WEIGHT.DESC
-#, fuzzy
 msgctxt "CARD.WEIGHT.DESC"
 msgid "Costs 1 less per {INFLUENCE}. {GAMBLE} and draw a card."
-msgstr "Costs 1 less per {INFLUENCE}. {GAMBLE} and draw a card."
+msgstr "Coûte 1 de moins par {INFLUENCE}. {GAMBLE} and draw a card."
 
 #: CARD.WEIGHT.NAME
 #, fuzzy
@@ -20680,10 +20661,9 @@ msgid "Weight"
 msgstr "Weight"
 
 #: CARD.WEIGHT_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.WEIGHT_PLUS.DESC"
 msgid "Costs 1 less per {INFLUENCE}. {GAMBLE} and draw a card."
-msgstr "Costs 1 less per {INFLUENCE}. {GAMBLE} and draw a card."
+msgstr "Coûte 1 de moins par {INFLUENCE}. {GAMBLE} and draw a card."
 
 #: CARD.WEIGHT_PLUS.NAME
 #, fuzzy
@@ -20692,10 +20672,9 @@ msgid "Tall Weight"
 msgstr "Tall Weight"
 
 #: CARD.WEIGHT_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.WEIGHT_PLUS2.DESC"
 msgid "Costs 1 less per {INFLUENCE}. {GAMBLE} and draw a card."
-msgstr "Costs 1 less per {INFLUENCE}. {GAMBLE} and draw a card."
+msgstr "Coûte 1 de moins par {INFLUENCE}. {GAMBLE} et piocher une carte."
 
 #: CARD.WEIGHT_PLUS2.NAME
 #, fuzzy
@@ -21476,7 +21455,6 @@ msgid "Lieutenant"
 msgstr "Lieutenant"
 
 #: CHARACTER.ROOK.NAME
-#, fuzzy
 msgctxt "CHARACTER.ROOK.NAME"
 msgid "Rook"
 msgstr "Rook"
@@ -22979,7 +22957,6 @@ msgid "Nodoloolis"
 msgstr "Nodoloolis"
 
 #: CHARACTER_SKIN.SPARK_BARON_PROFESSIONAL.F73E1FB3-1B7B-48A1-B1F8-927C55E7D9A2.NAME
-#, fuzzy
 msgctxt "CHARACTER_SKIN.SPARK_BARON_PROFESSIONAL.F73E1FB3-1B7B-48A1-B1F8-927C55E7D9A2.NAME"
 msgid "Astal"
 msgstr "Astal"
@@ -23061,9 +23038,10 @@ msgid "Srunc"
 msgstr "Srunc"
 
 #: CHARACTER_SKIN.WEALTHY_MERCHANT.A053E276-41F9-48F4-B74A-642596481FDC.BIO
+#, fuzzy
 msgctxt "CHARACTER_SKIN.WEALTHY_MERCHANT.A053E276-41F9-48F4-B74A-642596481FDC.BIO"
 msgid "Allyn's prices are fair, even when the skies aren't."
-msgstr "Les prix d'Allyn sont justes, même quet le temps ne le permet pas."
+msgstr "Allyn's prices are fair, even when the skies aren't."
 
 #: CHARACTER_SKIN.WEALTHY_MERCHANT.A053E276-41F9-48F4-B74A-642596481FDC.NAME
 msgctxt "CHARACTER_SKIN.WEALTHY_MERCHANT.A053E276-41F9-48F4-B74A-642596481FDC.NAME"
@@ -25706,10 +25684,9 @@ msgid "Convince {rise_hunter} to work with you"
 msgstr "Convince {rise_hunter} to work with you"
 
 #: CONVO.BARON_WILD_PACK_OF_DOGS.CONF.OPT_WORK_ALONE
-#, fuzzy
 msgctxt "CONVO.BARON_WILD_PACK_OF_DOGS.CONF.OPT_WORK_ALONE"
 msgid "Work alone"
-msgstr "Work alone"
+msgstr "Travailler seul"
 
 #: CONVO.BARON_WILD_PACK_OF_DOGS_2.CONF.DIALOG_COLLECT_CORES_ALONE
 #, fuzzy
@@ -26035,10 +26012,9 @@ msgid "Offer {agent} a job"
 msgstr "Offer {agent} a job"
 
 #: CONVO.BRAVE_MERCHANT.FOO.OPT_REFUSE_HIRE
-#, fuzzy
 msgctxt "CONVO.BRAVE_MERCHANT.FOO.OPT_REFUSE_HIRE"
 msgid "Refuse the offer"
-msgstr "Refuse the offer"
+msgstr "Refuser l'offre"
 
 #: CONVO.CARD_SHOP_CHAT.OPT_SHOP
 msgctxt "CONVO.CARD_SHOP_CHAT.OPT_SHOP"
@@ -27314,10 +27290,9 @@ msgid "Ask what {agent.heshe} is afraid of"
 msgstr "Ask what {agent.heshe} is afraid of"
 
 #: CONVO.EVENT_A_JAKE_IN_NEED.CONFRONT.OPT_DISAGREE
-#, fuzzy
 msgctxt "CONVO.EVENT_A_JAKE_IN_NEED.CONFRONT.OPT_DISAGREE"
 msgid "Refuse the package"
-msgstr "Refuse the package"
+msgstr "Refuser le paquet"
 
 #: CONVO.EVENT_A_JAKE_IN_NEED.DIALOG_JAKE_LEAVES
 #, fuzzy
@@ -28316,10 +28291,9 @@ msgid "Defend yourself!"
 msgstr "Se défendre!"
 
 #: CONVO.EVENT_ERCHIN_VICTIM.CONF.OPT_GET_PAID
-#, fuzzy
 msgctxt "CONVO.EVENT_ERCHIN_VICTIM.CONF.OPT_GET_PAID"
 msgid "Accept {victim}'s money"
-msgstr "Accept {victim}'s money"
+msgstr "Accepter l'argent de {victim}"
 
 #: CONVO.EVENT_ERCHIN_VICTIM.CONF.OPT_LEAVE
 #, fuzzy
@@ -29151,10 +29125,9 @@ msgid "Pay your debt"
 msgstr "Pay your debt"
 
 #: CONVO.EVENT_LOAN_SHARK_REPAY.CONF.OPT_REFUSE_TO_PAY
-#, fuzzy
 msgctxt "CONVO.EVENT_LOAN_SHARK_REPAY.CONF.OPT_REFUSE_TO_PAY"
 msgid "Refuse to pay"
-msgstr "Refuse to pay"
+msgstr "Refuser de payer"
 
 #: CONVO.EVENT_LOAN_SHARK_REPAY.CONF.OPT_SAY_YOU_CANT_PAY
 #, fuzzy
@@ -29947,16 +29920,14 @@ msgid "Let {rise} go without payment"
 msgstr "Let {rise} go without payment"
 
 #: CONVO.EVENT_TRAPPED_BY_THE_BOG.STATE_CONFRONT.OPT_TAKE_ITEM
-#, fuzzy
 msgctxt "CONVO.EVENT_TRAPPED_BY_THE_BOG.STATE_CONFRONT.OPT_TAKE_ITEM"
 msgid "Accept the {1#card}"
-msgstr "Accept the {1#card}"
+msgstr "Accepter {1#carte}"
 
 #: CONVO.EVENT_TRAPPED_BY_THE_BOG.STATE_CONFRONT.OPT_TAKE_MONEY
-#, fuzzy
 msgctxt "CONVO.EVENT_TRAPPED_BY_THE_BOG.STATE_CONFRONT.OPT_TAKE_MONEY"
 msgid "Accept the money"
-msgstr "Accept the money"
+msgstr "Accepter l'argent"
 
 #: CONVO.EVENT_TRAPPED_BY_THE_BOG.STATE_CONFRONT.TT_LEAVE_BODY
 #, fuzzy
@@ -34123,7 +34094,7 @@ msgstr "Pay {agent} to look the other way..."
 #: CONVO.MANIPULATE_CHAT.REQ_ALREADY_BRIBED
 msgctxt "CONVO.MANIPULATE_CHAT.REQ_ALREADY_BRIBED"
 msgid "Already bribed"
-msgstr "Déj à  soudoyé"
+msgstr "Déjà soudoyé"
 
 #: CONVO.MERCENARY_OFFER.STATE_HIRE.DIALOG_ACCEPT
 #, fuzzy
@@ -34287,10 +34258,9 @@ msgid "Politely decline the gift"
 msgstr "Politely decline the gift"
 
 #: CONVO.OPPO_AEROSTAT_CONTACT.CONFRONT.OPT_TAKE_COILGUN
-#, fuzzy
 msgctxt "CONVO.OPPO_AEROSTAT_CONTACT.CONFRONT.OPT_TAKE_COILGUN"
 msgid "Accept the {1#card}"
-msgstr "Accept the {1#card}"
+msgstr "Accepter {1#carte}"
 
 #: CONVO.OPPO_AUTODOG_SALVAGER.CONFRONT.DIALOG_BARON_AUTODOG
 #, fuzzy
@@ -34345,17 +34315,17 @@ msgstr "Vendre {1#agent}"
 #: CONVO.OPPO_AUTODOG_SALVAGER.CONFRONT.TT_BARON_AUTODOG
 msgctxt "CONVO.OPPO_AUTODOG_SALVAGER.CONFRONT.TT_BARON_AUTODOG"
 msgid "Gain {1#card_list}"
-msgstr "Gagne {1#card_list}"
+msgstr "Gagner {1#card_list}"
 
 #: CONVO.OPPO_AUTODOG_SALVAGER.CONFRONT.TT_FERAL_AUTODOG
 msgctxt "CONVO.OPPO_AUTODOG_SALVAGER.CONFRONT.TT_FERAL_AUTODOG"
 msgid "Gain {1#card_list}"
-msgstr "Gagne {1#card_list}"
+msgstr "Gagner {1#card_list}"
 
 #: CONVO.OPPO_AUTODOG_SALVAGER.CONFRONT.TT_RISE_AUTODOG
 msgctxt "CONVO.OPPO_AUTODOG_SALVAGER.CONFRONT.TT_RISE_AUTODOG"
 msgid "Gain {1#card_list}"
-msgstr "Gagne {1#card_list}"
+msgstr "Gagner {1#card_list}"
 
 #: CONVO.OPPO_AUTODOG_SELLER.CONFRONT.DIALOG_BUY_BARON_AUTODOG
 #, fuzzy
@@ -36922,10 +36892,9 @@ msgid "player:\n!agree\nLet's do it. There's always time for profit, I find.\nag
 msgstr "player:\n!agree\nLet's do it. There's always time for profit, I find.\nagent:\n!handwring\nGreat. I'll just take a few arms and head off to find a buyer. I already have a couple folks in mind.\nYou keep {giver} off the scent, and we'll meet up after to split the profits.\n* {agent} helps {informant.himher}self to the cache without another word, and you head off to tell {giver} about the weapons. At least, the ones that are left, anyway."
 
 #: CONVO.RISE_ASSET_LIBERATION_3.STATE_SECURE_CACHE.OPT_REFUSE_THE_OFFER
-#, fuzzy
 msgctxt "CONVO.RISE_ASSET_LIBERATION_3.STATE_SECURE_CACHE.OPT_REFUSE_THE_OFFER"
 msgid "Refuse the offer"
-msgstr "Refuse the offer"
+msgstr "Refuser l'offre"
 
 #: CONVO.RISE_ASSET_LIBERATION_3.STATE_SECURE_CACHE.OPT_TAKE_THE_OFFER
 #, fuzzy
@@ -39365,10 +39334,9 @@ msgid "spark_contact:\n!crossed\n$neutralResigned\nYou aren't getting cold feet,
 msgstr "spark_contact:\n!crossed\n$neutralResigned\nYou aren't getting cold feet, are you?\nplayer:\nJust being thorough. You know me."
 
 #: CONVO.ROOK_STORY_DAY_1_4.ATTRACT.OPT_ACCEPT_OFFER
-#, fuzzy
 msgctxt "CONVO.ROOK_STORY_DAY_1_4.ATTRACT.OPT_ACCEPT_OFFER"
 msgid "Work for {spark_contact}"
-msgstr "Work for {spark_contact}"
+msgstr "Travailler pour {spark_contact}"
 
 #: CONVO.ROOK_STORY_DAY_1_4.STATE_QUESTIONS.ASK_ABOUT_DIALOG_1
 #, fuzzy
@@ -39527,10 +39495,9 @@ msgid "rise_contact:\n!crossed\n$neutralResigned\nSo, are we in business? Or do 
 msgstr "rise_contact:\n!crossed\n$neutralResigned\nSo, are we in business? Or do you have some other state to undermine?"
 
 #: CONVO.ROOK_STORY_DAY_1_6.ATTRACT.OPT_ACCEPT_OFFER
-#, fuzzy
 msgctxt "CONVO.ROOK_STORY_DAY_1_6.ATTRACT.OPT_ACCEPT_OFFER"
 msgid "Work for {rise_contact}"
-msgstr "Work for {rise_contact}"
+msgstr "Travailler pour {rise_contact}"
 
 #: CONVO.ROOK_STORY_DAY_1_6.STATE_QUESTIONS.ASK_ABOUT_DIALOG_1
 #, fuzzy
@@ -39665,10 +39632,9 @@ msgid "agent:\n!cagey\n$miscMischievous\nYou weren't followed, I assume? Let's m
 msgstr "agent:\n!cagey\n$miscMischievous\nYou weren't followed, I assume? Let's make this quick all the same."
 
 #: CONVO.ROOK_STORY_DAY_1_8.STATE_TALK.OPT_ACCEPT_JOB
-#, fuzzy
 msgctxt "CONVO.ROOK_STORY_DAY_1_8.STATE_TALK.OPT_ACCEPT_JOB"
 msgid "Accept the job"
-msgstr "Accept the job"
+msgstr "Accepter le travail"
 
 #: CONVO.ROOK_STORY_DAY_1_9.STATE_QUESTIONS.ASK_ABOUT_DIALOG_1
 #, fuzzy
@@ -39724,10 +39690,9 @@ msgid "agent:\n$neutralDirect\nI see you're as punctual as always.\nIt always bo
 msgstr "agent:\n$neutralDirect\nI see you're as punctual as always.\nIt always bored me a little, if we're honest. But I won't complain."
 
 #: CONVO.ROOK_STORY_DAY_1_9.STATE_TALK.OPT_ACCEPT_JOB
-#, fuzzy
 msgctxt "CONVO.ROOK_STORY_DAY_1_9.STATE_TALK.OPT_ACCEPT_JOB"
 msgid "Accept the job"
-msgstr "Accept the job"
+msgstr "Accepter le travail"
 
 #: CONVO.ROOK_STORY_DAY_2.ATTRACT.DIALOG_INTRO
 #, fuzzy
@@ -40327,10 +40292,9 @@ msgid "* You take {agent} prisoner."
 msgstr "* You take {agent} prisoner."
 
 #: CONVO.ROOK_STORY_INFILTRATE_BARONS.OPT_ACCEPT_DEAL
-#, fuzzy
 msgctxt "CONVO.ROOK_STORY_INFILTRATE_BARONS.OPT_ACCEPT_DEAL"
 msgid "Accept the offer"
-msgstr "Accept the offer"
+msgstr "Accepter l'offre"
 
 #: CONVO.ROOK_STORY_INFILTRATE_BARONS.OPT_ASK_ABOUT_DEAL
 #, fuzzy
@@ -43295,10 +43259,9 @@ msgid "player:\n$neutralDubious\nWhat is it?\nagent:\n!thumb\n$miscPersuasive\nT
 msgstr "player:\n$neutralDubious\nWhat is it?\nagent:\n!thumb\n$miscPersuasive\nThis will tell people that you're under my protection.\nplayer:\n!happy\n$happyDefault\nNice. I've always wanted to learn a secret handshake. \n*** Nadan gives you a card identitying you as one of his allies."
 
 #: CONVO.SAL_STORY_DAY_2_3.STATE_INTRO.OPT_AGREE
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_3.STATE_INTRO.OPT_AGREE"
 msgid "Work for {agent}"
-msgstr "Work for {agent}"
+msgstr "Travailler pour {agent}"
 
 #: CONVO.SAL_STORY_DAY_2_3.STATE_INTRO.OPT_GET_WORK
 #, fuzzy
@@ -43437,10 +43400,9 @@ msgid "agent:\n!agree\n$miscAlluring\nFolks here take any edge they can get. If 
 msgstr "agent:\n!agree\n$miscAlluring\nFolks here take any edge they can get. If you can't compete, you're surf slime. Consider this... your deputy's badge.\n!wink\n$miscMischievous\nA gift for my favorite investment.\nplayer:\n!dubious\n$happyJoke\nThat sounds extremely suspicious.\nagent:\n!thumb\n$neutralDirect\nImpossible. I'm wearing a badge. \n*** {handler} gives you a card identifying you as one of her allies."
 
 #: CONVO.SAL_STORY_DAY_2_4.STATE_INTRO.OPT_AGREE
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_4.STATE_INTRO.OPT_AGREE"
 msgid "Work for {agent}"
-msgstr "Work for {agent}"
+msgstr "Travailler pour {agent}"
 
 #: CONVO.SAL_STORY_DAY_2_4.STATE_INTRO.OPT_GET_WORK
 #, fuzzy
@@ -46428,10 +46390,9 @@ msgid "player:\n$angryAside\nNo, I'd rather not piss off the Admiralty.\nagent:\
 msgstr "player:\n$angryAside\nNo, I'd rather not piss off the Admiralty.\nagent:\n$neutralResigned\nI'm so sorry to hear that.\n!fight\n$angryHostile\nLet's do this, then."
 
 #: CONVO.SIDE_BOUNTY_HUNT_5.OPT_ACCEPT_OFFER
-#, fuzzy
 msgctxt "CONVO.SIDE_BOUNTY_HUNT_5.OPT_ACCEPT_OFFER"
 msgid "Accept the deal"
-msgstr "Accept the deal"
+msgstr "Accepter l'offre"
 
 #: CONVO.SIDE_BOUNTY_HUNT_5.OPT_ASK_ABOUT_BOUNTY
 #, fuzzy
@@ -55406,7 +55367,7 @@ msgstr "Animosity"
 #: MODIFIER.APPREHENSIVE.DESC
 msgctxt "MODIFIER.APPREHENSIVE.DESC"
 msgid "Apply {1} {COMPOSURE} to a random argument at the end of turn."
-msgstr "Applique  {1} {COMPOSURE} à un argument aléatoire à la fin du tour."
+msgstr "Appliquer {1} {COMPOSURE} à un argument aléatoire à la fin du tour."
 
 #: MODIFIER.APPREHENSIVE.NAME
 #, fuzzy
@@ -55694,7 +55655,7 @@ msgstr "Rally Worker"
 #: MODIFIER.COOL_HEAD.DESC
 msgctxt "MODIFIER.COOL_HEAD.DESC"
 msgid "Apply {COMPOSURE 3} to your {INFLUENCE} at the beginning of your turn."
-msgstr "Applique {COMPOSURE 3} à votre {INFLUENCE} au début de votre tour."
+msgstr "Appliquer{COMPOSURE 3} à votre {INFLUENCE} au début de votre tour."
 
 #: MODIFIER.COOL_HEAD.NAME
 msgctxt "MODIFIER.COOL_HEAD.NAME"
@@ -56034,10 +55995,9 @@ msgid "<b>{1.fullname}</> will fight on your side if you win this negotiation."
 msgstr "<b>{1.fullname}</> will fight on your side if you win this negotiation."
 
 #: MODIFIER.FIGHT_ALLY_WON.NAME
-#, fuzzy
 msgctxt "MODIFIER.FIGHT_ALLY_WON.NAME"
 msgid "Ally"
-msgstr "Ally"
+msgstr "Allié"
 
 #: MODIFIER.FLUSTERED.DESC
 #, fuzzy
@@ -57502,7 +57462,7 @@ msgstr "Animosity"
 #: NEGOTIATION_FEATURE.APPREHENSIVE.DESC
 msgctxt "NEGOTIATION_FEATURE.APPREHENSIVE.DESC"
 msgid "Apply {1} {COMPOSURE} to a random argument at the end of turn."
-msgstr "Applique  {1} {COMPOSURE} à un argument aléatoire à la fin du tour."
+msgstr "Appliquer {1} {COMPOSURE} à un argument aléatoire à la fin du tour."
 
 #: NEGOTIATION_FEATURE.APPREHENSIVE.NAME
 #, fuzzy
@@ -57767,7 +57727,7 @@ msgstr "Reduce resolve loss for one turn"
 #: NEGOTIATION_FEATURE.COMPOSURE.FEATURE_DESC
 msgctxt "NEGOTIATION_FEATURE.COMPOSURE.FEATURE_DESC"
 msgid "Gain {1} {COMPOSURE}."
-msgstr "Gagne {1} {COMPOSURE}."
+msgstr "Gagner {1} {COMPOSURE}."
 
 #: NEGOTIATION_FEATURE.COMPOSURE.NAME
 msgctxt "NEGOTIATION_FEATURE.COMPOSURE.NAME"
@@ -57812,7 +57772,7 @@ msgstr "Rally Worker"
 #: NEGOTIATION_FEATURE.COOL_HEAD.DESC
 msgctxt "NEGOTIATION_FEATURE.COOL_HEAD.DESC"
 msgid "Apply {COMPOSURE 3} to your {INFLUENCE} at the beginning of your turn."
-msgstr "Applique {COMPOSURE 3} à votre {INFLUENCE} au début de votre tour."
+msgstr "Appliquer{COMPOSURE 3} à votre {INFLUENCE} au début de votre tour."
 
 #: NEGOTIATION_FEATURE.COOL_HEAD.NAME
 msgctxt "NEGOTIATION_FEATURE.COOL_HEAD.NAME"
@@ -58201,10 +58161,9 @@ msgid "<b>{1.fullname}</> will fight on your side if you win this negotiation."
 msgstr "<b>{1.fullname}</> will fight on your side if you win this negotiation."
 
 #: NEGOTIATION_FEATURE.FIGHT_ALLY_WON.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.FIGHT_ALLY_WON.NAME"
 msgid "Ally"
-msgstr "Ally"
+msgstr "Allié"
 
 #: NEGOTIATION_FEATURE.FLUSTERED.DESC
 #, fuzzy
@@ -60065,7 +60024,6 @@ msgid "Max Resolve Upgraded"
 msgstr "Max Resolve Upgraded"
 
 #: NOTIFICATION.TOTAL_MONEY
-#, fuzzy
 msgctxt "NOTIFICATION.TOTAL_MONEY"
 msgid "Total: {1#money}"
 msgstr "Total: {1#money}"
@@ -61309,7 +61267,6 @@ msgid "Sal In Murder Bay"
 msgstr "Sal In Murder Bay"
 
 #: PLAYER_BACKGROUND.ROOK.NAME
-#, fuzzy
 msgctxt "PLAYER_BACKGROUND.ROOK.NAME"
 msgid "Rook"
 msgstr "Rook"
@@ -61654,10 +61611,9 @@ msgid "Escort the cargo to {market}"
 msgstr "Escort the cargo to {market}"
 
 #: QUEST.DROP_SMUGGLE_IN_ADMIRALTY_WEAPONS.OBJECTIVE.RETURN_TO_HEBBEL.TITLE
-#, fuzzy
 msgctxt "QUEST.DROP_SMUGGLE_IN_ADMIRALTY_WEAPONS.OBJECTIVE.RETURN_TO_HEBBEL.TITLE"
 msgid "Return to {hebbel}"
-msgstr "Return to {hebbel}"
+msgstr "Retourner au {hebbel}"
 
 #: QUEST.DROP_SMUGGLE_IN_ADMIRALTY_WEAPONS.TITLE
 #, fuzzy
@@ -61894,10 +61850,9 @@ msgid "{handler} has a reward for you, and possibly more work."
 msgstr "{handler} has a reward for you, and possibly more work."
 
 #: QUEST.HANDLER_SPREE_KILL_WEAKENED_PATROL.OBJECTIVE.RETURN_FOR_REWARD.TITLE
-#, fuzzy
 msgctxt "QUEST.HANDLER_SPREE_KILL_WEAKENED_PATROL.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "Return to {handler}"
-msgstr "Return to {handler}"
+msgstr "Retourner au {handler}"
 
 #: QUEST.HANDLER_SPREE_KILL_WEAKENED_PATROL.OBJECTIVE.WIPE_OUT_PATROL.DESC
 #, fuzzy
@@ -61978,10 +61933,9 @@ msgid "{target} is out of the picture. {handler} will have a reward for you."
 msgstr "{target} is out of the picture. {handler} will have a reward for you."
 
 #: QUEST.HANDLER_SPREE_NEUTRALIZE_GUARD.OBJECTIVE.RETURN_FOR_REWARD.TITLE
-#, fuzzy
 msgctxt "QUEST.HANDLER_SPREE_NEUTRALIZE_GUARD.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "Return to {handler}"
-msgstr "Return to {handler}"
+msgstr "Retourner au {handler}"
 
 #: QUEST.HANDLER_SPREE_NEUTRALIZE_GUARD.OBJECTIVE.RETURN_FOR_REWARD_FRIEND_VERSION.DESC
 #, fuzzy
@@ -61990,10 +61944,9 @@ msgid "{target} is out of the picture and {admiralty_friend} is willing to work 
 msgstr "{target} is out of the picture and {admiralty_friend} is willing to work with {handler}. {handler} will have a reward for you."
 
 #: QUEST.HANDLER_SPREE_NEUTRALIZE_GUARD.OBJECTIVE.RETURN_FOR_REWARD_FRIEND_VERSION.TITLE
-#, fuzzy
 msgctxt "QUEST.HANDLER_SPREE_NEUTRALIZE_GUARD.OBJECTIVE.RETURN_FOR_REWARD_FRIEND_VERSION.TITLE"
 msgid "Return to {handler}"
-msgstr "Return to {handler}"
+msgstr "Retourner au {handler}"
 
 #: QUEST.HANDLER_SPREE_NEUTRALIZE_GUARD.TITLE
 #, fuzzy
@@ -62889,10 +62842,9 @@ msgid "{hebbel} has a room ready for you. Time to recharge."
 msgstr "{hebbel} has a room ready for you. Time to recharge."
 
 #: QUEST.ROOK_STORY_DAY_1.OBJECTIVE.DAY_OVER.TITLE
-#, fuzzy
 msgctxt "QUEST.ROOK_STORY_DAY_1.OBJECTIVE.DAY_OVER.TITLE"
 msgid "Return to {bar} and rest"
-msgstr "Return to {bar} and rest"
+msgstr "Retourner au {bar} et se reposer"
 
 #: QUEST.ROOK_STORY_DAY_1.OBJECTIVE.GET_JOB.TITLE
 #, fuzzy
@@ -62919,10 +62871,9 @@ msgid "Stepping in it"
 msgstr "Stepping in it"
 
 #: QUEST.ROOK_STORY_DAY_2.OBJECTIVE.BOSS_FIGHT.TITLE
-#, fuzzy
 msgctxt "QUEST.ROOK_STORY_DAY_2.OBJECTIVE.BOSS_FIGHT.TITLE"
 msgid "Return to {bar}"
-msgstr "Return to {bar}"
+msgstr "Retourner au {bar}"
 
 #: QUEST.ROOK_STORY_DAY_2.OBJECTIVE.CHECK_DROP_POINT.DESC
 #, fuzzy
@@ -62943,10 +62894,9 @@ msgid "{hebbel} has a room ready for you. Time to recharge."
 msgstr "{hebbel} has a room ready for you. Time to recharge."
 
 #: QUEST.ROOK_STORY_DAY_2.OBJECTIVE.DAY_OVER.TITLE
-#, fuzzy
 msgctxt "QUEST.ROOK_STORY_DAY_2.OBJECTIVE.DAY_OVER.TITLE"
 msgid "Return to {bar} and rest."
-msgstr "Return to {bar} and rest."
+msgstr "Retourner au {bar} et se reposer."
 
 #: QUEST.ROOK_STORY_DAY_2.OBJECTIVE.PICK_FIRST_JOB_PRIMARY.TITLE
 #, fuzzy
@@ -64228,10 +64178,9 @@ msgid "{1}"
 msgstr "{1}"
 
 #: QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.RETURN_TO_GIVER.TITLE
-#, fuzzy
 msgctxt "QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.RETURN_TO_GIVER.TITLE"
 msgid "Return to {giver}"
-msgstr "Return to {giver}"
+msgstr "Retourner au {giver}"
 
 #: QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.RETURN_TO_HANDLER.DESC
 #, fuzzy
@@ -64240,10 +64189,9 @@ msgid "{handler} promised to pay you for beating up {giver}. Go collect your blo
 msgstr "{handler} promised to pay you for beating up {giver}. Go collect your blood money."
 
 #: QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.RETURN_TO_HANDLER.TITLE
-#, fuzzy
 msgctxt "QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.RETURN_TO_HANDLER.TITLE"
 msgid "Return to {handler}"
-msgstr "Return to {handler}"
+msgstr "Retourner au {handler}"
 
 #: QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.TALK_TO_TARGET.DESC
 #, fuzzy
@@ -64851,10 +64799,9 @@ msgid "You've managed to salvage the deal, return to {giver} for your reward.."
 msgstr "You've managed to salvage the deal, return to {giver} for your reward.."
 
 #: QUEST.SIDE_REPO_PERSON.OBJECTIVE.RETURN_FOR_REWARD.TITLE
-#, fuzzy
 msgctxt "QUEST.SIDE_REPO_PERSON.OBJECTIVE.RETURN_FOR_REWARD.TITLE"
 msgid "Return to {giver}"
-msgstr "Return to {giver}"
+msgstr "Retourner au {giver}"
 
 #: QUEST.SIDE_REPO_PERSON.TITLE
 #, fuzzy
@@ -64875,10 +64822,9 @@ msgid "Report your findings to {giver}"
 msgstr "Report your findings to {giver}"
 
 #: QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.OBJECTIVE.REPORT_BACK_TO_GIVER.TITLE
-#, fuzzy
 msgctxt "QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.OBJECTIVE.REPORT_BACK_TO_GIVER.TITLE"
 msgid "Return to {giver}"
-msgstr "Return to {giver}"
+msgstr "Retourner au {giver}"
 
 #: QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.OBJECTIVE.SCOUT_THE_BEACH.DESC
 #, fuzzy
@@ -65549,10 +65495,9 @@ msgid "It's payback time, {player}!"
 msgstr "It's payback time, {player}!"
 
 #: QUIPS.battle_join.disliked.2
-#, fuzzy
 msgctxt "QUIPS.battle_join.disliked.2"
 msgid "{player}'s mine!"
-msgstr "{player}'s mine!"
+msgstr "{player} c'est moi!"
 
 #: QUIPS.battle_join.disliked.3
 #, fuzzy
@@ -66165,10 +66110,9 @@ msgid "$neutralDefault\n\nYeah, that'll work."
 msgstr "$neutralDefault\n\nYeah, that'll work."
 
 #: QUIPS.chum_bonus.player_sal.2
-#, fuzzy
 msgctxt "QUIPS.chum_bonus.player_sal.2"
 msgid "$neutralDefault\n\nFine choice."
-msgstr "$neutralDefault\n\nFine choice."
+msgstr "$neutralDefault\n\nBon choix."
 
 #: QUIPS.chum_bonus.player_sal.3
 #, fuzzy
@@ -67562,7 +67506,6 @@ msgid "agent:\n!thought\n$neutralThoughtful\nIf I fake my own death, you think I
 msgstr "agent:\n!thought\n$neutralThoughtful\nIf I fake my own death, you think I can claim my own pension?\nplayer:\nI suspect it won't work out the way you're picturing.\nagent:\n!shrug\nHey, no plan's perfect on conception! We just gotta make it work.\nplayer:\n!agree\nSure. Hammer out those details and I'll be on board."
 
 #: QUIPS.last_stand.1
-#, fuzzy
 msgctxt "QUIPS.last_stand.1"
 msgid "Rrrraaaaagh!"
 msgstr "Rrrraaaaagh!"
@@ -68517,10 +68460,9 @@ msgid "I hope you brought money, friend."
 msgstr "I hope you brought money, friend."
 
 #: QUIPS.shopkeep.greeting.2
-#, fuzzy
 msgctxt "QUIPS.shopkeep.greeting.2"
 msgid "Welcome!"
-msgstr "Welcome!"
+msgstr "Bienvenue !"
 
 #: QUIPS.shopkeep.greeting.3
 #, fuzzy
@@ -68782,10 +68724,9 @@ msgid "$neutralDirect\nYou can trust {player.name}."
 msgstr "$neutralDirect\nYou can trust {player.name}."
 
 #: QUIPS.support.negotiation.2
-#, fuzzy
 msgctxt "QUIPS.support.negotiation.2"
 msgid "$neutralDirect\nJust listen, okay?"
-msgstr "$neutralDirect\nJust listen, okay?"
+msgstr "$neutralDirect\nJuste écoute, ok?"
 
 #: QUIPS.support.negotiation.3
 #, fuzzy
@@ -69735,10 +69676,9 @@ msgid "VOICE"
 msgstr "VOICE"
 
 #: UI.CARDCOMPENDIUM.BANE_TITLE
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.BANE_TITLE"
 msgid "SOCIAL BANE"
-msgstr "SOCIAL BANE"
+msgstr "FLÉAU SOCIAL"
 
 #: UI.CARDCOMPENDIUM.BANE_UNKNOWN_DESC
 #, fuzzy
@@ -69752,10 +69692,9 @@ msgid "???"
 msgstr "???"
 
 #: UI.CARDCOMPENDIUM.BOON_TITLE
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.BOON_TITLE"
 msgid "SOCIAL BOON"
-msgstr "SOCIAL BOON"
+msgstr "AUBAINE SOCIALE"
 
 #: UI.CARDCOMPENDIUM.BOON_UNKNOWN_DESC
 #, fuzzy
@@ -69774,10 +69713,9 @@ msgid "<b>{1}</>/{2}"
 msgstr "<b>{1}</>/{2}"
 
 #: UI.CARDCOMPENDIUM.CARD_FILTER_MINIGAME_SUBTITLE
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.CARD_FILTER_MINIGAME_SUBTITLE"
 msgid "Unlocked"
-msgstr "Unlocked"
+msgstr "Débloqué"
 
 #: UI.CARDCOMPENDIUM.CARD_FILTER_MINIGAME_TITLE_BATTLE
 msgctxt "UI.CARDCOMPENDIUM.CARD_FILTER_MINIGAME_TITLE_BATTLE"
@@ -69790,10 +69728,9 @@ msgid "NEGOTIATION CARDS"
 msgstr "NÉGOCIATION"
 
 #: UI.CARDCOMPENDIUM.CARD_FILTER_MINIGAME
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.CARD_FILTER_MINIGAME"
 msgid "CARD CATEGORY"
-msgstr "CARD CATEGORY"
+msgstr "CATÉGORIE DE CARTE"
 
 #: UI.CARDCOMPENDIUM.CARD_FILTER_RARITY_BASIC_TT
 #, fuzzy
@@ -69869,10 +69806,9 @@ msgid "<b>{1}</>/{2}"
 msgstr "<b>{1}</>/{2}"
 
 #: UI.CARDCOMPENDIUM.CARD_FILTER_SERIES_SUBTITLE
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.CARD_FILTER_SERIES_SUBTITLE"
 msgid "Unlocked"
-msgstr "Unlocked"
+msgstr "Débloqué"
 
 #: UI.CARDCOMPENDIUM.CARD_FILTER_SERIES_TITLE
 msgctxt "UI.CARDCOMPENDIUM.CARD_FILTER_SERIES_TITLE"
@@ -70853,7 +70789,7 @@ msgstr "{1#binding} Accepter"
 #: UI.CONTROLS.APPLY
 msgctxt "UI.CONTROLS.APPLY"
 msgid "{1#binding} Apply"
-msgstr "{1#binding} Applique z"
+msgstr "{1#binding} Appliquerz"
 
 #: UI.CONTROLS.BACK
 msgctxt "UI.CONTROLS.BACK"
@@ -70963,10 +70899,9 @@ msgid "<c img='l_all'> Nav"
 msgstr "<c img='l_all'> Nav"
 
 #: UI.CONTROLS.NEXT_CHARACTER
-#, fuzzy
 msgctxt "UI.CONTROLS.NEXT_CHARACTER"
 msgid "{1#binding} Next Character"
-msgstr "{1#binding} Next Character"
+msgstr "{1#binding} Personnage suivant"
 
 #: UI.CONTROLS.NEXT_LINE
 msgctxt "UI.CONTROLS.NEXT_LINE"
@@ -71007,10 +70942,9 @@ msgid "{1#binding} Play Card"
 msgstr "{1#binding} Jouer Carte"
 
 #: UI.CONTROLS.PREV_CHARACTER
-#, fuzzy
 msgctxt "UI.CONTROLS.PREV_CHARACTER"
 msgid "{1#binding} Next Character"
-msgstr "{1#binding} Next Character"
+msgstr "{1#binding} Personnage suivant"
 
 #: UI.CONTROLS.REVERT
 msgctxt "UI.CONTROLS.REVERT"
@@ -71137,16 +71071,14 @@ msgid "CLICK TO CONTINUE"
 msgstr "CLIQUER POUR CONTINUER"
 
 #: UI.CONVERSATION_SCREEN.PRESS_TO_SKIP_GAMEPAD
-#, fuzzy
 msgctxt "UI.CONVERSATION_SCREEN.PRESS_TO_SKIP_GAMEPAD"
 msgid "<i>{1#binding} to skip</>"
-msgstr "<i>{1#binding} to skip</>"
+msgstr "<i>{1#binding} Passer</>"
 
 #: UI.CONVERSATION_SCREEN.PRESS_TO_SKIP
-#, fuzzy
 msgctxt "UI.CONVERSATION_SCREEN.PRESS_TO_SKIP"
 msgid "<i>{1#binding} or <#WHITE>[RIGHT-CLICK]</> to skip</>"
-msgstr "<i>{1#binding} or <#WHITE>[RIGHT-CLICK]</> to skip</>"
+msgstr "<i>{1#binding} ou <#WHITE>[RIGHT-CLICK]</> pour passer</>"
 
 #: UI.CREDITS_SCREEN.CONTROLS_RIGHT_CLOSE
 msgctxt "UI.CREDITS_SCREEN.CONTROLS_RIGHT_CLOSE"
@@ -72210,16 +72142,14 @@ msgid "GRAFT"
 msgstr "GRAFT"
 
 #: UI.GRAFT_COLLECTION.SLOT_TYPE_SOCIAL_BANE
-#, fuzzy
 msgctxt "UI.GRAFT_COLLECTION.SLOT_TYPE_SOCIAL_BANE"
 msgid "SOCIAL BANE"
-msgstr "SOCIAL BANE"
+msgstr "FLÉAU SOCIAL"
 
 #: UI.GRAFT_COLLECTION.SLOT_TYPE_SOCIAL_BOON
-#, fuzzy
 msgctxt "UI.GRAFT_COLLECTION.SLOT_TYPE_SOCIAL_BOON"
 msgid "SOCIAL BOON"
-msgstr "SOCIAL BOON"
+msgstr "AUBAINE SOCIALE"
 
 #: UI.GRAFT_COLLECTION.SLOT_UPGRADE_AVAILABLE
 #, fuzzy
@@ -72949,16 +72879,14 @@ msgid "QUIT"
 msgstr "QUITTER"
 
 #: UI.MAINMENU.ROOK_BATTLE
-#, fuzzy
 msgctxt "UI.MAINMENU.ROOK_BATTLE"
 msgid "BATTLE (Rook)"
-msgstr "BATTLE (Rook)"
+msgstr "COMBAT (Rook)"
 
 #: UI.MAINMENU.ROOK_NEGOTIATION
-#, fuzzy
 msgctxt "UI.MAINMENU.ROOK_NEGOTIATION"
 msgid "NEGOTIATION (Rook)"
-msgstr "NEGOTIATION (Rook)"
+msgstr "NÉGOCIATION (Rook)"
 
 #: UI.MAINMENU.TOOLS
 msgctxt "UI.MAINMENU.TOOLS"
@@ -74645,10 +74573,9 @@ msgid "BATTLE (Rook)"
 msgstr "BATTLE (Rook)"
 
 #: UI.PAUSEMENU.ROOK_NEGOTIATION
-#, fuzzy
 msgctxt "UI.PAUSEMENU.ROOK_NEGOTIATION"
 msgid "NEGOTIATION (Rook)"
-msgstr "NEGOTIATION (Rook)"
+msgstr "NÉGOCIATION (Rook)"
 
 #: UI.PAUSEMENU.SAVE
 msgctxt "UI.PAUSEMENU.SAVE"
