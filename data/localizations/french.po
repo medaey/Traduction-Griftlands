@@ -56930,10 +56930,9 @@ msgid "Silver Tongue"
 msgstr "Silver Tongue"
 
 #: MODIFIER.SLIMY_SHROOGLET.DESC
-#, fuzzy
 msgctxt "MODIFIER.SLIMY_SHROOGLET.DESC"
 msgid "{1} draws one less card per turn."
-msgstr "{1} draws one less card per turn."
+msgstr "{1} pioche une carte en moins par tour."
 
 #: MODIFIER.SLIMY_SHROOGLET.NAME
 #, fuzzy
@@ -59256,10 +59255,9 @@ msgid "Silver Tongue"
 msgstr "Silver Tongue"
 
 #: NEGOTIATION_FEATURE.SLIMY_SHROOGLET.DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.SLIMY_SHROOGLET.DESC"
 msgid "{1} draws one less card per turn."
-msgstr "{1} draws one less card per turn."
+msgstr "{1} pioche une carte en moins par tour."
 
 #: NEGOTIATION_FEATURE.SLIMY_SHROOGLET.NAME
 #, fuzzy
@@ -61909,10 +61907,9 @@ msgid "{worker} seems to have dirt on {target}. Perhaps you can get some useful 
 msgstr "{worker} seems to have dirt on {target}. Perhaps you can get some useful information from {worker.himher}."
 
 #: QUEST.HANDLER_SPREE_NEUTRALIZE_GUARD.OBJECTIVE.CONVINCE_WORKER_TO_TALK.TITLE
-#, fuzzy
 msgctxt "QUEST.HANDLER_SPREE_NEUTRALIZE_GUARD.OBJECTIVE.CONVINCE_WORKER_TO_TALK.TITLE"
 msgid "(Optional) Convince {worker} to talk"
-msgstr "(Optional) Convince {worker} to talk"
+msgstr "(Optional) Convaincre {worker} de parler"
 
 #: QUEST.HANDLER_SPREE_NEUTRALIZE_GUARD.OBJECTIVE.GET_TARGET_FIRED.DESC
 #, fuzzy
@@ -63675,10 +63672,9 @@ msgid "{fssh} said {fssh.heshe} could spare {bouncer} for a while."
 msgstr "{fssh} said {fssh.heshe} could spare {bouncer} for a while."
 
 #: QUEST.SAL_STORY_FSSHCAKES.OBJECTIVE.GET_BOUNCER.TITLE
-#, fuzzy
 msgctxt "QUEST.SAL_STORY_FSSHCAKES.OBJECTIVE.GET_BOUNCER.TITLE"
 msgid "(Optional) convince {bouncer} to help you"
-msgstr "(Optional) convince {bouncer} to help you"
+msgstr "(Optional) convaincre {bouncer} de vous aider"
 
 #: QUEST.SAL_STORY_FSSHCAKES.OBJECTIVE.GET_THE_PACKAGE.DESC
 #, fuzzy
@@ -64681,10 +64677,9 @@ msgid "{guard} is supposed to keep {giver} safe, but something has them spooked.
 msgstr "{guard} is supposed to keep {giver} safe, but something has them spooked. Go bolster their confidence, or you're going to be facing the bandits by yourself."
 
 #: QUEST.SIDE_PRIVATE_SECURITY.OBJECTIVE.CONVINCE_GUARD_TO_HELP.TITLE
-#, fuzzy
 msgctxt "QUEST.SIDE_PRIVATE_SECURITY.OBJECTIVE.CONVINCE_GUARD_TO_HELP.TITLE"
 msgid "(Optional) Convince {guard} to help"
-msgstr "(Optional) Convince {guard} to help"
+msgstr "(Optional) Convaincre {guard} d'aider"
 
 #: QUEST.SIDE_PRIVATE_SECURITY.OBJECTIVE.DEFEND_THE_STORE.DESC
 #, fuzzy
@@ -64705,10 +64700,9 @@ msgid "If {giver} wants your help with a battle, they might be willing to part w
 msgstr "If {giver} wants your help with a battle, they might be willing to part with some of their goods."
 
 #: QUEST.SIDE_PRIVATE_SECURITY.OBJECTIVE.GET_SUPPLIES_FROM_GIVER.TITLE
-#, fuzzy
 msgctxt "QUEST.SIDE_PRIVATE_SECURITY.OBJECTIVE.GET_SUPPLIES_FROM_GIVER.TITLE"
 msgid "(Optional) Get supplies from {giver}"
-msgstr "(Optional) Get supplies from {giver}"
+msgstr "(Optional) Obtenir du materiel de {giver}"
 
 #: QUEST.SIDE_PRIVATE_SECURITY.OBJECTIVE.GO_TO_SHOP.DESC
 #, fuzzy
@@ -68998,34 +68992,29 @@ msgid "<b>Arguments:</>\n\nYou and your opponent can deploy <b>arguments</> to h
 msgstr "<b>Arguments:</>\n\nYou and your opponent can deploy <b>arguments</> to help win the negotiation.\n<b>Arguments</> can be attacked or defended like the <b>core resolve</>."
 
 #: SLIDESHOW.ROOK_BATTLE_TUTORIAL.1.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.ROOK_BATTLE_TUTORIAL.1.TXT"
 msgid "<b>Charge Meter:</>\n\nRook fights with a pair of Aerostat pistols.\nThe state of these weapons is reflected by his <b>Charge</> meter.\n"
-msgstr "<b>Charge Meter:</>\n\nRook fights with a pair of Aerostat pistols.\nThe state of these weapons is reflected by his <b>Charge</> meter.\n"
+msgstr "<b>Compteur de charge:</>\n\nRook se bat avec une paire de pistolet Aerostat.\nL'état des ces armes est indiquer par le <b>Compteur de charge</> .\n"
 
 #: SLIDESHOW.ROOK_BATTLE_TUTORIAL.2.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.ROOK_BATTLE_TUTORIAL.2.TXT"
 msgid "<b>Uses of Charges:</>\n\nRook gains one <b>Charge</> at the start of every turn.\n<b>Charges</b> are consumed by some attacks and skills, while empty cells provide <b>Defense</>.\nCertain cards have enhanced effects when the charge meter is <b>Fully Charged</> or when it is <b>Empty</>.\n"
-msgstr "<b>Uses of Charges:</>\n\nRook gains one <b>Charge</> at the start of every turn.\n<b>Charges</b> are consumed by some attacks and skills, while empty cells provide <b>Defense</>.\nCertain cards have enhanced effects when the charge meter is <b>Fully Charged</> or when it is <b>Empty</>.\n"
+msgstr "<b>Utilisations des charges:</>\n\nRook gagne une <b>Charge</> au début de chaque tour.\nLes <b>Charges</b> sont consumés par certaines attaques et compétences, tandis que les cellules vides vous procure de la <b>Defense</>.\nCertaine cartes ont des effect améliorés lorsque les charge sont <b>Complètement charger</> ou <b>vide</>.\n"
 
 #: SLIDESHOW.ROOK_BATTLE_TUTORIAL.3.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.ROOK_BATTLE_TUTORIAL.3.TXT"
 msgid "<b>Overcharge:</>\n\nGaining charge while fully charged will produce <b>Overcharge</>.\nEach <b>Overcharge</> increases the max damage of all cards by 1.\n<b>Overcharge</> is reduced by half at the end of every turn.\n"
-msgstr "<b>Overcharge:</>\n\nGaining charge while fully charged will produce <b>Overcharge</>.\nEach <b>Overcharge</> increases the max damage of all cards by 1.\n<b>Overcharge</> is reduced by half at the end of every turn.\n"
+msgstr "<b>Surchage:</>\n\nGagner une charge en étant complétement chargé produira une <b>Surcharge</>.\nChaque <b>Surcharge</> augmente de 1 les dommage maximum de touts les cartes.\nLa <b>Surcharge</> est réduit de moitié à la fin de chaque tour.\n"
 
 #: SLIDESHOW.ROOK_NEGOTIATION_TUTORIAL.1.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.ROOK_NEGOTIATION_TUTORIAL.1.TXT"
 msgid "<b>Rook's Coin:</>\n\nDuring negotiations, Rook is able to <b>gamble</> by flipping his lucky coin. \nWhether it comes up <b>heads</> or <b>snails</>, different actions will occur, and cards can have different effects depending upon the current state of the coin."
-msgstr "<b>Rook's Coin:</>\n\nDuring negotiations, Rook is able to <b>gamble</> by flipping his lucky coin. \nWhether it comes up <b>heads</> or <b>snails</>, different actions will occur, and cards can have different effects depending upon the current state of the coin."
+msgstr "<b>Pièce de Rook:</>\n\nLord des négociations, Rook peut <b>lancer</> sa pièce porte-bonheur. \nQuelle tombe sur <b>pile</> ou <b>face</>, différent actions se produiront, les cartes peuvent avoir des effects différent en fonction de résultat de la pièce"
 
 #: SLIDESHOW.ROOK_NEGOTIATION_TUTORIAL.2.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.ROOK_NEGOTIATION_TUTORIAL.2.TXT"
 msgid "<b>Coin collecting:</>\n\nAt certain points in his story, Rook will have the opportunity to trade his coin for others, with different special effects.\nTry to find a coin that works well with the deck that you are building on a particular run.\n"
-msgstr "<b>Coin collecting:</>\n\nAt certain points in his story, Rook will have the opportunity to trade his coin for others, with different special effects.\nTry to find a coin that works well with the deck that you are building on a particular run.\n"
+msgstr "<b>Collecter des pièces:</>\n\nA certain moment de son histoire, Rook pourra échanger sa pièce contre d'autre pièce avec différent effects spéciaux.\nEssayez de trouver une pièce qui fonctionne bien avec votre deck.\n"
 
 #: SLIDESHOW.STARTING_ROOK_SLIDES.1.TXT
 #, fuzzy
@@ -72227,10 +72216,9 @@ msgid "Pick a Graft"
 msgstr "Pick a Graft"
 
 #: UI.GRAFT_UPGRADE_INDICATOR.TT
-#, fuzzy
 msgctxt "UI.GRAFT_UPGRADE_INDICATOR.TT"
 msgid "{1} {1*graft|grafts} ready to upgrade"
-msgstr "{1} {1*graft|grafts} ready to upgrade"
+msgstr "{1} {1*graft|grafts} prête à être améliorer"
 
 #: UI.GRAFTSLOT.EMPTY_COIN
 #, fuzzy
@@ -73414,7 +73402,6 @@ msgid "The number of times you were killed in this run."
 msgstr "Le nombre de fois où vous aver été tué dans cette partie."
 
 #: UI.NEW_GAME_SCREEN.SAVEFILE_LEGACY
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SAVEFILE_LEGACY"
 msgid "{1} {1*GENERATION|GENERATIONS}"
 msgstr "{1} {1*GENERATION|GENERATIONS}"
@@ -73904,10 +73891,9 @@ msgid "Tritanopia - Blue/Yellow"
 msgstr "Tritanopi - Bleu/Jaune"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND_TT
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_TT"
 msgid "{1} card color preview"
-msgstr "{1} card color preview"
+msgstr "{1} aperçu des couleurs de carte"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND"
