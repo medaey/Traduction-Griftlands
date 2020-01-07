@@ -4,7 +4,7 @@
 <p align="center">
 <a href=https://github.com/leghort/Traduction-Griftlands/releases><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/leghort/Traduction-Griftlands?include_prereleases">
 <a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/Traduit-21%25-red"></a>
-<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À réviser-79%25-orange"></a>
+<a href="https://github.com/leghort/Traduction-Griftlands"><img src="https://img.shields.io/badge/À traduire-79%25-orange"></a>
 </p>
 
 <!-- Les couleur pour les % en 6 tranches de ~16.7%
