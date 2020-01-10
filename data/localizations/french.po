@@ -10442,15 +10442,14 @@ msgid "Concentration"
 msgstr "Concentration"
 
 #: BATTLE_FEATURE.CONSUME.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.CONSUME.DESC"
 msgid "Remove this card permanently."
-msgstr "Remove this card permanently."
+msgstr "Détruit cette carte de façon permanente."
 
 #: BATTLE_FEATURE.CONSUME.NAME
 msgctxt "BATTLE_FEATURE.CONSUME.NAME"
 msgid "Destroy"
-msgstr "Détruit"
+msgstr "Déstruction"
 
 #: BATTLE_FEATURE.COUNTER_BAND.DESC
 #, fuzzy
@@ -12198,10 +12197,9 @@ msgid "When this card is drawn, draw another card."
 msgstr "When this card is drawn, draw another card."
 
 #: BATTLE_FEATURE.REPLENISH.NAME
-#, fuzzy
 msgctxt "BATTLE_FEATURE.REPLENISH.NAME"
 msgid "Replenish"
-msgstr "Replenish"
+msgstr "Réapprovisionement"
 
 #: BATTLE_FEATURE.RETAIN_DEFEND.DESC
 #, fuzzy
@@ -22542,10 +22540,9 @@ msgid "Minfen"
 msgstr "Minfen"
 
 #: CHARACTER_SKIN.JAKES_SMUGGLER.1156ACD1-23CB-4E69-871D-46C999CC8A22.BIO
-#, fuzzy
 msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.1156ACD1-23CB-4E69-871D-46C999CC8A22.BIO"
 msgid "This smuggler has a reputation for negotiating steep fees for his services. Perhaps the origin of the Havarian phrase \"coughing up the cash\"."
-msgstr "This smuggler has a reputation for negotiating steep fees for his services. Perhaps the origin of the Havarian phrase \"coughing up the cash\"."
+msgstr "Ce contrebandier a la réputation de pratiquer des tarifs élevés pour ses services. Peut-être que cela lui vient de cette expression Havarienne \"cracher l'argent\"."
 
 #: CHARACTER_SKIN.JAKES_SMUGGLER.1156ACD1-23CB-4E69-871D-46C999CC8A22.NAME
 msgctxt "CHARACTER_SKIN.JAKES_SMUGGLER.1156ACD1-23CB-4E69-871D-46C999CC8A22.NAME"
@@ -26019,7 +26016,7 @@ msgstr "Refuser l'offre"
 #: CONVO.CARD_SHOP_CHAT.OPT_SHOP
 msgctxt "CONVO.CARD_SHOP_CHAT.OPT_SHOP"
 msgid "Buy Cards..."
-msgstr "Acheter des cartes...."
+msgstr "Acheter des cartes…"
 
 #: CONVO.DANGEROUS_GOODS_SELLER.FOO.DIALOG_ASK_WHY_CHEAP
 #, fuzzy
@@ -36112,13 +36109,12 @@ msgstr "New name for your pet!"
 #: CONVO.REST_AND_RELAXATION.STATE_OUTFIT.DIAL_INTRO
 msgctxt "CONVO.REST_AND_RELAXATION.STATE_OUTFIT.DIAL_INTRO"
 msgid "player:\n!left\n!thought\nWhat should I wear today?"
-msgstr "player:\n!left\n!thought\nQue dois-je porter aujourd'hui?"
+msgstr "player:\n!left\n!thought\nQu'est ce que je devrais porter?"
 
 #: CONVO.REST_AND_RELAXATION.STATE_OUTFIT.OPT_OUTFIT
-#, fuzzy
 msgctxt "CONVO.REST_AND_RELAXATION.STATE_OUTFIT.OPT_OUTFIT"
 msgid "Put on \"{1}\""
-msgstr "Put on \"{1}\""
+msgstr "Porter la tenue \"{1}\""
 
 #: CONVO.REST_AND_RELAXATION.STATE_PET.DIAL_INTRO
 #, fuzzy
@@ -40564,10 +40560,9 @@ msgid "Buy a meal"
 msgstr "Buy a meal"
 
 #: CONVO.ROOK_STORY_LIVING_AT_BAR.OPT_CHANGE_OUTFIT
-#, fuzzy
 msgctxt "CONVO.ROOK_STORY_LIVING_AT_BAR.OPT_CHANGE_OUTFIT"
 msgid "Go in your room"
-msgstr "Go in your room"
+msgstr "Aller dans votre chambre"
 
 #: CONVO.ROOK_STORY_LIVING_AT_BAR.REQ_TOO_FULL
 #, fuzzy
@@ -44727,10 +44722,9 @@ msgid "player:\n$neutralResigned\nI'm hurt, Fssh.\nagent:\n!give\n$happyGreeting
 msgstr "player:\n$neutralResigned\nI'm hurt, Fssh.\nagent:\n!give\n$happyGreeting\nHere. Have a Fsshcake.\nplayer:\n!take\n$happyThanks\nThanks."
 
 #: CONVO.SAL_STORY_LIVING_AT_GROG.DIALOG_CHANGE_OUTFIT
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_LIVING_AT_GROG.DIALOG_CHANGE_OUTFIT"
 msgid "player:\n!point\nI'll just pop into my room.\nagent:\n!handwave\nFine.\n!exit"
-msgstr "player:\n!point\nI'll just pop into my room.\nagent:\n!handwave\nFine.\n!exit"
+msgstr "player:\n!point\nJe vais juste faire un tour dans ma chambre.\nagent:\n!handwave\nBien.\n!exit"
 
 #: CONVO.SAL_STORY_LIVING_AT_GROG.DIALOG_PST
 #, fuzzy
@@ -59063,16 +59057,14 @@ msgid "Reinforcer"
 msgstr "Reinforcer"
 
 #: NEGOTIATION_FEATURE.REPLENISH.DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.REPLENISH.DESC"
 msgid "When this card is drawn, draw another card."
-msgstr "When this card is drawn, draw another card."
+msgstr "Lorsque cette carte est piocher, Piocher une autre carte."
 
 #: NEGOTIATION_FEATURE.REPLENISH.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.REPLENISH.NAME"
 msgid "Replenish"
-msgstr "Replenish"
+msgstr "Réapprovisionement"
 
 #: NEGOTIATION_FEATURE.REVOLTING_FLEAD.DESC
 #, fuzzy
@@ -61185,7 +61177,7 @@ msgstr "Shadow"
 #: OUTFIT.sal_base.DESC
 msgctxt "OUTFIT.sal_base.DESC"
 msgid "Sal's Bounty Hunter gear"
-msgstr "La tenue de chasseur de primes de Sal"
+msgstr "Une tenue de chasseur de primes"
 
 #: OUTFIT.sal_base.NAME
 msgctxt "OUTFIT.sal_base.NAME"
@@ -63438,10 +63430,9 @@ msgid "Return to the Grog"
 msgstr "Return to the Grog"
 
 #: QUEST.SAL_STORY_DAY_1.OBJECTIVE.PICK_A_SIDE_JOB.DESC
-#, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_1.OBJECTIVE.PICK_A_SIDE_JOB.DESC"
 msgid "Gain money and notoriety by doing jobs for the denizens of Havaria"
-msgstr "Gain money and notoriety by doing jobs for the denizens of Havaria"
+msgstr "Gagner de l'argent et de la notoriété en travaillant pour les habitants d'Havaria"
 
 #: QUEST.SAL_STORY_DAY_1.OBJECTIVE.PICK_A_SIDE_JOB.TITLE
 msgctxt "QUEST.SAL_STORY_DAY_1.OBJECTIVE.PICK_A_SIDE_JOB.TITLE"
@@ -63473,10 +63464,9 @@ msgid "Rest to regain your strength"
 msgstr "Rest to regain your strength"
 
 #: QUEST.SAL_STORY_DAY_1.OBJECTIVE.TALK_TO_FSSH.DESC
-#, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_1.OBJECTIVE.TALK_TO_FSSH.DESC"
 msgid "Fssh has a special job for you"
-msgstr "Fssh has a special job for you"
+msgstr "Fssh a un travail spécial pour vous"
 
 #: QUEST.SAL_STORY_DAY_1.OBJECTIVE.TALK_TO_FSSH.TITLE
 msgctxt "QUEST.SAL_STORY_DAY_1.OBJECTIVE.TALK_TO_FSSH.TITLE"
@@ -63495,10 +63485,9 @@ msgid " Pick a side, and start working for one of the factions in Murder Bay."
 msgstr " Pick a side, and start working for one of the factions in Murder Bay."
 
 #: QUEST.SAL_STORY_DAY_2.OBJECTIVE.DO_A_HANDLER_JOB.TITLE
-#, fuzzy
 msgctxt "QUEST.SAL_STORY_DAY_2.OBJECTIVE.DO_A_HANDLER_JOB.TITLE"
 msgid "Do a job for {handler}"
-msgstr "Do a job for {handler}"
+msgstr "Faire un travail pour {handler}"
 
 #: QUEST.SAL_STORY_DAY_2.OBJECTIVE.GO_HOME.TITLE
 #, fuzzy
@@ -64327,10 +64316,9 @@ msgid "Hit the Beach"
 msgstr "Aller à la plage"
 
 #: QUEST.SIDE_DEBT_COLLECTION.DESC
-#, fuzzy
 msgctxt "QUEST.SIDE_DEBT_COLLECTION.DESC"
 msgid "{giver} lent {target} {debt_amount#money}. Retrieve the money if you can, or \"make an example\" of {target} to make {giver} happy."
-msgstr "{giver} lent {target} {debt_amount#money}. Retrieve the money if you can, or \"make an example\" of {target} to make {giver} happy."
+msgstr "{giver} a prêter {debt_amount#money} à {target}. Récupérez l'argent, ou \"faites un exemple\" de {target} pour faire plaisir a {giver}."
 
 #: QUEST.SIDE_DEBT_COLLECTION.OBJECTIVE.CONFRONT_TARGET.DESC
 #, fuzzy
@@ -64401,7 +64389,7 @@ msgstr "Debt Collection"
 #: QUEST.SIDE_DELIVER_SUMMONS.DESC
 msgctxt "QUEST.SIDE_DELIVER_SUMMONS.DESC"
 msgid "{giver} needs you to deliver an Admiralty summons to {target}. {target.HeShe} isn't going to take it willingly."
-msgstr "{giver} a besoin que vous remettier une convocation de Admiralty à {target}. {target.HeShe} ne va pas la prendre de son plein gré."
+msgstr "{giver} a besoin que vous remettiez une convocation de l'Admiralty à {target}. De gré ou de force."
 
 #: QUEST.SIDE_DELIVER_SUMMONS.OBJECTIVE.DELIVER_SUMMONS.TITLE
 #, fuzzy
@@ -64500,10 +64488,9 @@ msgid "Friend or Fanatic"
 msgstr "Friend or Fanatic"
 
 #: QUEST.SIDE_INTERNAL_AFFAIR.DESC
-#, fuzzy
 msgctxt "QUEST.SIDE_INTERNAL_AFFAIR.DESC"
 msgid "{giver} wants you to beat up {target}. But keep the violence covert, and be careful not to kill {target.himher}."
-msgstr "{giver} wants you to beat up {target}. But keep the violence covert, and be careful not to kill {target.himher}."
+msgstr "{giver} veut que tu passes à tabac {target}. Mais rester discret, et ne tuer pas {target}."
 
 #: QUEST.SIDE_INTERNAL_AFFAIR.OBJECTIVE.BEAT_TARGET.DESC
 #, fuzzy
@@ -64857,10 +64844,9 @@ msgid "Recon in Force"
 msgstr "Recon in Force"
 
 #: QUEST.SIDE_SECRET_SHOPPER.DESC
-#, fuzzy
 msgctxt "QUEST.SIDE_SECRET_SHOPPER.DESC"
 msgid "{giver} has a package ready at {shop#location}, but can't pick it up."
-msgstr "{giver} has a package ready at {shop#location}, but can't pick it up."
+msgstr "{giver} a un colis qui l'attends au {shop#location}, mais ne peut pas aller le récupérer."
 
 #: QUEST.SIDE_SECRET_SHOPPER.OBJECTIVE.DELIVER_PACKAGE.DESC
 #, fuzzy
@@ -64893,7 +64879,7 @@ msgstr "Client mystère"
 #: QUEST.SIDE_SING_FOR_YOUR_SUPPER.DESC
 msgctxt "QUEST.SIDE_SING_FOR_YOUR_SUPPER.DESC"
 msgid "{target} is trying to get {giver} to turn informant. {giver} is looking for help to get out of this arrangement."
-msgstr "{target} essaie de transformer {giver} en informateur. {giver} est à la recherche d'aide pour sortir de cet situation."
+msgstr "{target} essaie de forcer {giver} à devenir indic. {giver} est à la recherche d'aide pour sortir de cet situation."
 
 #: QUEST.SIDE_SING_FOR_YOUR_SUPPER.OBJECTIVE.CONFIRM_TURNABOUT.DESC
 msgctxt "QUEST.SIDE_SING_FOR_YOUR_SUPPER.OBJECTIVE.CONFIRM_TURNABOUT.DESC"
@@ -64943,10 +64929,9 @@ msgid "Sing for Your Supper"
 msgstr "Sing for Your Supper"
 
 #: QUEST.SIDE_THIEF_BOUNTY.DESC
-#, fuzzy
 msgctxt "QUEST.SIDE_THIEF_BOUNTY.DESC"
 msgid "{giver} is offering you a reward for finding the thief who stole from {giver.himher}."
-msgstr "{giver} is offering you a reward for finding the thief who stole from {giver.himher}."
+msgstr "{giver} vous donnera une récompense si vous trouvez la personne qui la volée."
 
 #: QUEST.SIDE_THIEF_BOUNTY.OBJECTIVE.CAPTURE_THIEF.DESC
 #, fuzzy
@@ -66656,10 +66641,9 @@ msgid "!smile\n*{agent} contorts {agent.hisher} mouth into the facsimile of a sm
 msgstr "!smile\n*La bouche de {agent} laisse paraître une expression sourire."
 
 #: QUIPS.fssh.bartender.tavern.liked.met.greeting.3
-#, fuzzy
 msgctxt "QUIPS.fssh.bartender.tavern.liked.met.greeting.3"
 msgid "Good to see you're still alive!"
-msgstr "Good to see you're still alive!"
+msgstr "C'est bon de te voir en vie !"
 
 #: QUIPS.Fyrdinan.smalltalk.1
 msgctxt "QUIPS.Fyrdinan.smalltalk.1"
@@ -69009,7 +68993,7 @@ msgstr "<b>Surchage:</>\n\nGagner une charge en étant complétement chargé pro
 #: SLIDESHOW.ROOK_NEGOTIATION_TUTORIAL.1.TXT
 msgctxt "SLIDESHOW.ROOK_NEGOTIATION_TUTORIAL.1.TXT"
 msgid "<b>Rook's Coin:</>\n\nDuring negotiations, Rook is able to <b>gamble</> by flipping his lucky coin. \nWhether it comes up <b>heads</> or <b>snails</>, different actions will occur, and cards can have different effects depending upon the current state of the coin."
-msgstr "<b>Pièce de Rook:</>\n\nLord des négociations, Rook peut <b>lancer</> sa pièce porte-bonheur. \nQuelle tombe sur <b>pile</> ou <b>face</>, différent actions se produiront, les cartes peuvent avoir des effects différent en fonction de résultat de la pièce"
+msgstr "<b>Pièce de Rook:</>\n\nLord des négociations, Rook peut <b>lancer</> sa pièce porte-bonheur. \nQuelle tombe sur <b>pile</> ou <b>face</>, différent actions se produiront, les cartes peuvent avoir des effects différent en fonction de résultat de la pièce."
 
 #: SLIDESHOW.ROOK_NEGOTIATION_TUTORIAL.2.TXT
 msgctxt "SLIDESHOW.ROOK_NEGOTIATION_TUTORIAL.2.TXT"
@@ -71067,7 +71051,7 @@ msgstr "<i>{1#binding} Passer</>"
 #: UI.CONVERSATION_SCREEN.PRESS_TO_SKIP
 msgctxt "UI.CONVERSATION_SCREEN.PRESS_TO_SKIP"
 msgid "<i>{1#binding} or <#WHITE>[RIGHT-CLICK]</> to skip</>"
-msgstr "<i>{1#binding} ou <#WHITE>[RIGHT-CLICK]</> pour passer</>"
+msgstr "<i>{1#binding} ou <#WHITE>[CLIC-GAUCHE]</>"
 
 #: UI.CREDITS_SCREEN.CONTROLS_RIGHT_CLOSE
 msgctxt "UI.CREDITS_SCREEN.CONTROLS_RIGHT_CLOSE"
@@ -71530,22 +71514,19 @@ msgid "You won the battle!"
 msgstr "Vous aver Gagner le combat!"
 
 #: UI.FIGHT_RESULTS_SCREEN.FACTION_RELATIONSHIPS
-#, fuzzy
 msgctxt "UI.FIGHT_RESULTS_SCREEN.FACTION_RELATIONSHIPS"
 msgid "Faction Relationships:"
-msgstr "Faction Relationships:"
+msgstr "Les relations de faction :"
 
 #: UI.FIGHT_RESULTS_SCREEN.OPINION_HEADER
-#, fuzzy
 msgctxt "UI.FIGHT_RESULTS_SCREEN.OPINION_HEADER"
 msgid "{1#agent} remembers: {2}"
-msgstr "{1#agent} remembers: {2}"
+msgstr "{1#agent} se souvient: {2}"
 
 #: UI.FIGHT_RESULTS_SCREEN.TITLE
-#, fuzzy
 msgctxt "UI.FIGHT_RESULTS_SCREEN.TITLE"
 msgid "Fight Results"
-msgstr "Fight Results"
+msgstr "Résultats du combat"
 
 #: UI.FIGHT_SCREEN.ACCEPT_SURRENDER_TOOLTIP
 msgctxt "UI.FIGHT_SCREEN.ACCEPT_SURRENDER_TOOLTIP"
@@ -71563,10 +71544,9 @@ msgid "Item"
 msgstr "Objet"
 
 #: UI.FIGHT_SCREEN.CARD_TYPE.MANEUVER_TOOLTIP
-#, fuzzy
 msgctxt "UI.FIGHT_SCREEN.CARD_TYPE.MANEUVER_TOOLTIP"
 msgid "Maneuver"
-msgstr "Maneuver"
+msgstr "Manœuvre"
 
 #: UI.FIGHT_SCREEN.CARD_TYPE.RANGED_ATTACK_TOOLTIP
 #, fuzzy
@@ -71575,16 +71555,14 @@ msgid "Ranged"
 msgstr "Ranged"
 
 #: UI.FIGHT_SCREEN.CARD_TYPE.SPECIAL_TOOLTIP
-#, fuzzy
 msgctxt "UI.FIGHT_SCREEN.CARD_TYPE.SPECIAL_TOOLTIP"
 msgid "Special"
-msgstr "Special"
+msgstr "Spécial"
 
 #: UI.FIGHT_SCREEN.CARD_TYPE.STATUS_TOOLTIP
-#, fuzzy
 msgctxt "UI.FIGHT_SCREEN.CARD_TYPE.STATUS_TOOLTIP"
 msgid "Status"
-msgstr "Status"
+msgstr "État"
 
 #: UI.FIGHT_SCREEN.CARD_TYPE.TOOLTIP
 msgctxt "UI.FIGHT_SCREEN.CARD_TYPE.TOOLTIP"
@@ -71608,10 +71586,9 @@ msgid "CONDITION"
 msgstr "CONDITIONS"
 
 #: UI.FIGHT_SCREEN.CONTROLS_LEFT_INSPECT_CARDS
-#, fuzzy
 msgctxt "UI.FIGHT_SCREEN.CONTROLS_LEFT_INSPECT_CARDS"
 msgid "{1#binding} Inspect Cards"
-msgstr "{1#binding} Inspect Cards"
+msgstr "{1#binding} Inspecter les cartes"
 
 #: UI.FIGHT_SCREEN.CONTROLS_LEFT_INSPECT_FIGHTERS
 #, fuzzy
@@ -71620,10 +71597,9 @@ msgid "{1#binding} Inspect Fighters"
 msgstr "{1#binding} Inspect Fighters"
 
 #: UI.FIGHT_SCREEN.CONTROLS_RIGHT_ACCEPTSURRENDER
-#, fuzzy
 msgctxt "UI.FIGHT_SCREEN.CONTROLS_RIGHT_ACCEPTSURRENDER"
 msgid "{1#binding} Accept surrender"
-msgstr "{1#binding} Accept surrender"
+msgstr "{1#binding} Accepter la reddition"
 
 #: UI.FIGHT_SCREEN.CONTROLS_RIGHT_ENDTURN
 msgctxt "UI.FIGHT_SCREEN.CONTROLS_RIGHT_ENDTURN"
@@ -71631,16 +71607,14 @@ msgid "{1#binding} End turn {2}"
 msgstr "{1#binding} Fin du tour {2}"
 
 #: UI.FIGHT_SCREEN.CONTROLS_RIGHT_RUNAWAY
-#, fuzzy
 msgctxt "UI.FIGHT_SCREEN.CONTROLS_RIGHT_RUNAWAY"
 msgid "{1#binding} Run away"
-msgstr "{1#binding} Run away"
+msgstr "{1#binding} Fuire"
 
 #: UI.FIGHT_SCREEN.COST_TT_MODIFIED
-#, fuzzy
 msgctxt "UI.FIGHT_SCREEN.COST_TT_MODIFIED"
 msgid "\nModified by:{1#concat_line}"
-msgstr "\nModified by:{1#concat_line}"
+msgstr "\nModifié par:{1#concat_line}"
 
 #: UI.FIGHT_SCREEN.COST_TT
 #, fuzzy
@@ -71682,10 +71656,9 @@ msgid "HAND"
 msgstr "MAIN"
 
 #: UI.FIGHT_SCREEN.MODIFIERS
-#, fuzzy
 msgctxt "UI.FIGHT_SCREEN.MODIFIERS"
 msgid "\n\n<b>Modifiers:</b>\n{1}"
-msgstr "\n\n<b>Modifiers:</b>\n{1}"
+msgstr "\n\n<b>Modificateurs:</b>\n{1}"
 
 #: UI.FIGHT_SCREEN.PLAYER_ADVANTAGE
 #, fuzzy
@@ -71757,10 +71730,9 @@ msgid "No"
 msgstr "Non"
 
 #: UI.FIGHT_SCREEN.TUTORIAL_TITLE
-#, fuzzy
 msgctxt "UI.FIGHT_SCREEN.TUTORIAL_TITLE"
 msgid "Battle Tutorial"
-msgstr "Battle Tutorial"
+msgstr "Tutoriel de combat"
 
 #: UI.FIGHT_SCREEN.VICTORY
 msgctxt "UI.FIGHT_SCREEN.VICTORY"
@@ -71802,10 +71774,9 @@ msgid "Continue"
 msgstr "Continuer"
 
 #: UI.GAME_OVER_SCREEN.CONTROLS_LEFT
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.CONTROLS_LEFT"
 msgid "<c img='l_all'> View details"
-msgstr "<c img='l_all'> View details"
+msgstr "<c img='l_all'> Voir les détails"
 
 #: UI.GAME_OVER_SCREEN.CONTROLS_RIGHT_CLOSE
 msgctxt "UI.GAME_OVER_SCREEN.CONTROLS_RIGHT_CLOSE"
@@ -71849,10 +71820,9 @@ msgid "PTS"
 msgstr "PTS"
 
 #: UI.GAME_OVER_SCREEN.NEXT_REWARD
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.NEXT_REWARD"
 msgid "NEXT REWARD"
-msgstr "NEXT REWARD"
+msgstr "RÉCOMPENSE SUIVANTE"
 
 #: UI.GAME_OVER_SCREEN.POINTS
 msgctxt "UI.GAME_OVER_SCREEN.POINTS"
@@ -71871,10 +71841,9 @@ msgid "You can try Prestige {1} now!"
 msgstr "You can try Prestige {1} now!"
 
 #: UI.GAME_OVER_SCREEN.PRESTIGE_TITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.PRESTIGE_TITLE"
 msgid "PRESTIGE UNLOCKED"
-msgstr "PRESTIGE UNLOCKED"
+msgstr "PRESTIGE DÉBLOQUÉ"
 
 #: UI.GAME_OVER_SCREEN.PRESTIGE
 #, fuzzy
@@ -71928,28 +71897,24 @@ msgid "<b><#TITLE>{1}</></>\n{2}"
 msgstr "<b><#TITLE>{1}</></>\n{2}"
 
 #: UI.GAME_OVER_SCREEN.REWARD_UNLOCK
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.REWARD_UNLOCK"
 msgid "NEW UNLOCK"
-msgstr "NEW UNLOCK"
+msgstr "NOUVEAU DÉVERROUILLAGE"
 
 #: UI.GAME_OVER_SCREEN.STATS_BATTLE_BUTTON
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_BATTLE_BUTTON"
 msgid "Review Battle Deck"
-msgstr "Review Battle Deck"
+msgstr "Examiner Deck de Combat"
 
 #: UI.GAME_OVER_SCREEN.STATS_BATTLE_SCREEN_TITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_BATTLE_SCREEN_TITLE"
 msgid "REVIEWING DECK"
-msgstr "REVIEWING DECK"
+msgstr "EXAMINER LE DECK"
 
 #: UI.GAME_OVER_SCREEN.STATS_BATTLE_SUBTITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_BATTLE_SUBTITLE"
 msgid "WON"
-msgstr "WON"
+msgstr "GAGNÉ"
 
 #: UI.GAME_OVER_SCREEN.STATS_BATTLE_TITLE
 msgctxt "UI.GAME_OVER_SCREEN.STATS_BATTLE_TITLE"
@@ -71957,10 +71922,9 @@ msgid "BATTLES"
 msgstr "COMBAT"
 
 #: UI.GAME_OVER_SCREEN.STATS_GRAFT_BUTTON
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_GRAFT_BUTTON"
 msgid "Review Grafts"
-msgstr "Review Grafts"
+msgstr "Examiner les Garfts"
 
 #: UI.GAME_OVER_SCREEN.STATS_GRAFT_SUBTITLE
 msgctxt "UI.GAME_OVER_SCREEN.STATS_GRAFT_SUBTITLE"
@@ -71984,22 +71948,19 @@ msgid "JOBS"
 msgstr "JOBS"
 
 #: UI.GAME_OVER_SCREEN.STATS_NEGOTIATION_BUTTON
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_NEGOTIATION_BUTTON"
 msgid "Review Negotiation Deck"
-msgstr "Review Negotiation Deck"
+msgstr "Examiner le deck de négociation"
 
 #: UI.GAME_OVER_SCREEN.STATS_NEGOTIATION_SCREEN_TITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_NEGOTIATION_SCREEN_TITLE"
 msgid "REVIEWING DECK"
-msgstr "REVIEWING DECK"
+msgstr "EXAMINER LE DECK"
 
 #: UI.GAME_OVER_SCREEN.STATS_NEGOTIATION_SUBTITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_NEGOTIATION_SUBTITLE"
 msgid "WON"
-msgstr "WON"
+msgstr "GAGNÉ"
 
 #: UI.GAME_OVER_SCREEN.STATS_NEGOTIATION_TITLE
 msgctxt "UI.GAME_OVER_SCREEN.STATS_NEGOTIATION_TITLE"
@@ -72007,22 +71968,19 @@ msgid "NEGOTIATIONS"
 msgstr "NÉGOCIATIONS"
 
 #: UI.GAME_OVER_SCREEN.STATS_PROGRESS_BUTTON_HIDE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_PROGRESS_BUTTON_HIDE"
 msgid "Hide Events"
-msgstr "Hide Events"
+msgstr "Masquer les événements"
 
 #: UI.GAME_OVER_SCREEN.STATS_PROGRESS_BUTTON
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_PROGRESS_BUTTON"
 msgid "Review Events"
-msgstr "Review Events"
+msgstr "Afficher les événements"
 
 #: UI.GAME_OVER_SCREEN.STATS_PROGRESS_SUBTITLE
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_PROGRESS_SUBTITLE"
 msgid "COMPLETED"
-msgstr "COMPLETED"
+msgstr "TERMINER"
 
 #: UI.GAME_OVER_SCREEN.STATS_PROGRESS_TITLE
 msgctxt "UI.GAME_OVER_SCREEN.STATS_PROGRESS_TITLE"
@@ -72030,10 +71988,9 @@ msgid "DAYS"
 msgstr "JOURS"
 
 #: UI.GAME_OVER_SCREEN.STATS_RELATIONSHIPS_BUTTON
-#, fuzzy
 msgctxt "UI.GAME_OVER_SCREEN.STATS_RELATIONSHIPS_BUTTON"
 msgid "Review Relationships"
-msgstr "Review Relationships"
+msgstr "Examiner les relations"
 
 #: UI.GAME_OVER_SCREEN.STATS_RELATIONSHIPS_SUBTITLE
 msgctxt "UI.GAME_OVER_SCREEN.STATS_RELATIONSHIPS_SUBTITLE"
@@ -72084,10 +72041,9 @@ msgid "Grafts sound as crude as they are. Salvaged from Vagrant tech and plugged
 msgstr "Grafts sound as crude as they are. Salvaged from Vagrant tech and plugged straight into your spinal cord, they come in holy, advanced, and black market bootstrap varieties, depending on your resources."
 
 #: UI.GRAFT_COLLECTION.NEGOTIATION_GRAFTS
-#, fuzzy
 msgctxt "UI.GRAFT_COLLECTION.NEGOTIATION_GRAFTS"
 msgid "NEGOTIATION GRAFTS"
-msgstr "NEGOTIATION GRAFTS"
+msgstr "GRAFTS DE NEGOCIATION"
 
 #: UI.GRAFT_COLLECTION.SLOT_EMPTY_SUBTITLE
 msgctxt "UI.GRAFT_COLLECTION.SLOT_EMPTY_SUBTITLE"
@@ -72927,10 +72883,9 @@ msgid "OBJECTIVE"
 msgstr "OBJECTIF"
 
 #: UI.MONEY_INDICATOR.TOOLTIP
-#, fuzzy
 msgctxt "UI.MONEY_INDICATOR.TOOLTIP"
 msgid "<b><#MONEY>Shills</></b>\nShills are the currency of Havaria."
-msgstr "<b><#MONEY>Shills</></b>\nShills are the currency of Havaria."
+msgstr "<b><#MONEY>Shills</></b>\nLes Shills, la monnaie d'Havaria."
 
 #: UI.MOVIE_SCREEN.SKIP_TOUCH
 #, fuzzy
@@ -73817,7 +73772,7 @@ msgstr "Passer"
 #: UI.OPTIONS_SCREEN.APPLY
 msgctxt "UI.OPTIONS_SCREEN.APPLY"
 msgid "Apply Changes"
-msgstr "Appliquer les modifications"
+msgstr "Appliquer"
 
 #: UI.OPTIONS_SCREEN.BLOOM_OFF_DESC
 msgctxt "UI.OPTIONS_SCREEN.BLOOM_OFF_DESC"
@@ -73830,10 +73785,9 @@ msgid "OFF"
 msgstr "NON"
 
 #: UI.OPTIONS_SCREEN.BLOOM_ON_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.BLOOM_ON_DESC"
 msgid "Shows some glow around various visual elements. <#SUBTITLE>Recommended.</>"
-msgstr "Shows some glow around various visual elements. <#SUBTITLE>Recommended.</>"
+msgstr "Ajoute des effect de lumière autour de divers éléments. <#SUBTITLE>Recommander.</>"
 
 #: UI.OPTIONS_SCREEN.BLOOM_ON
 msgctxt "UI.OPTIONS_SCREEN.BLOOM_ON"
@@ -73846,10 +73800,9 @@ msgid "Bloom"
 msgstr "Floue"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND_DEFAULT_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_DEFAULT_DESC"
 msgid "Cards are shown in their original colors"
-msgstr "Cards are shown in their original colors"
+msgstr "Les cartes sont montrées dans leurs couleurs d′origine"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND_DEFAULT
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_DEFAULT"
@@ -73857,22 +73810,19 @@ msgid "Default"
 msgstr "DÉFAUT"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND_DEUTERANOPIA_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_DEUTERANOPIA_DESC"
 msgid "Diplomacy and Item card colors are tweaked to be more distinct"
-msgstr "Diplomacy and Item card colors are tweaked to be more distinct"
+msgstr "Les couleurs des cartes diplomatiques et des cartes d'objets ont été modifiées pour être plus distinctes"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND_DEUTERANOPIA
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_DEUTERANOPIA"
 msgid "Deuteranopia - Red/Green"
-msgstr "Deuteranopia - Red/Green"
+msgstr "Deutéranopie - Rouge/Vert"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND_PROTANOPIA_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_PROTANOPIA_DESC"
 msgid "Hostility, Item and Attack card colors are tweaked to be more distinct"
-msgstr "Hostility, Item and Attack card colors are tweaked to be more distinct"
+msgstr "Les couleurs des cartes Hostilité,Objets et Attaques sont modifiées pour être plus distinctes"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND_PROTANOPIA
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_PROTANOPIA"
@@ -73880,10 +73830,9 @@ msgid "Protanopia - Red/Green"
 msgstr "Protanopi - Rouge/Vert"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND_TRITANOPIA_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_TRITANOPIA_DESC"
 msgid "Maneuver, Attack and Item card colors are tweaked to be more distinct"
-msgstr "Maneuver, Attack and Item card colors are tweaked to be more distinct"
+msgstr "Les couleurs des cartes de Manœuvre, Attaque et Objet sont modifiées pour être plus distinctes"
 
 #: UI.OPTIONS_SCREEN.COLOURBLIND_TRITANOPIA
 msgctxt "UI.OPTIONS_SCREEN.COLOURBLIND_TRITANOPIA"
@@ -73901,22 +73850,19 @@ msgid "Color Blind Settings"
 msgstr "RÉGLAGES DES COULEURS"
 
 #: UI.OPTIONS_SCREEN.CONFIRM_CLOSE_DETAILS
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONFIRM_CLOSE_DETAILS"
 msgid "You have unsaved changes. Are you sure you want to close without applying them first?"
-msgstr "You have unsaved changes. Are you sure you want to close without applying them first?"
+msgstr "Vous avez des changements non enregistrés.\nEtes-vous sûr de fermer sans les appliquer?"
 
 #: UI.OPTIONS_SCREEN.CONFIRM_CLOSE
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONFIRM_CLOSE"
 msgid "Unsaved Changes"
-msgstr "Unsaved Changes"
+msgstr "Changements non sauvegardés"
 
 #: UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED_DESC"
 msgid "During card selection, a single click will select a card."
-msgstr "During card selection, a single click will select a card."
+msgstr "Lors de la sélection de la carte, un seul clic sélectionnera la carte."
 
 #: UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED
 msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_DISABLED"
@@ -73924,10 +73870,9 @@ msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
 
 #: UI.OPTIONS_SCREEN.CONFIRM_SELECT_ENABLED_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_ENABLED_DESC"
 msgid "During card selection, two clicks are required to select a card (good for trackpads)."
-msgstr "During card selection, two clicks are required to select a card (good for trackpads)."
+msgstr "Lors de la sélection de la carte, deux clics sont nécessaires pour sélectionner la carte.\n(Recommandé pour les pavé tactile)"
 
 #: UI.OPTIONS_SCREEN.CONFIRM_SELECT_ENABLED
 msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT_ENABLED"
@@ -73935,10 +73880,9 @@ msgid "ENABLED"
 msgstr "ACTIVÉE"
 
 #: UI.OPTIONS_SCREEN.CONFIRM_SELECT
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CONFIRM_SELECT"
 msgid "Confirm Card Selection"
-msgstr "Confirm Card Selection"
+msgstr "CONFIRMER LA SÉLECTION DE CARTE"
 
 #: UI.OPTIONS_SCREEN.CONTROLS_LABEL_TAB_LEFT
 msgctxt "UI.OPTIONS_SCREEN.CONTROLS_LABEL_TAB_LEFT"
@@ -73976,10 +73920,9 @@ msgid "<c img='lt'> Revert changes"
 msgstr "<c img='lt'> Annuler les changements"
 
 #: UI.OPTIONS_SCREEN.CREDITS_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CREDITS_DESC"
 msgid "See who made this game"
-msgstr "See who made this game"
+msgstr "Qui a fait ce jeu"
 
 #: UI.OPTIONS_SCREEN.CREDITS_TITLE
 msgctxt "UI.OPTIONS_SCREEN.CREDITS_TITLE"
@@ -73992,10 +73935,9 @@ msgid "Credits"
 msgstr "CRÉDITS"
 
 #: UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION_DESC"
 msgid "You're in fullscreen mode, so the game window uses the exact resolution of your display. To increase performance, decrease the <#SUBTITLE>Max Target Size</> below"
-msgstr "You're in fullscreen mode, so the game window uses the exact resolution of your display. To increase performance, decrease the <#SUBTITLE>Max Target Size</> below"
+msgstr "Vous êtes en mode plein écran, donc la fenêtre de jeu utilise la résolution exacte de votre écran. Pour augmenter les performances, diminuez le <#SUBTITLE>Taille Maximale</> ci-dessous"
 
 #: UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION
 msgctxt "UI.OPTIONS_SCREEN.CUSTOM_RESOLUTION"
@@ -74003,10 +73945,9 @@ msgid "Custom {1}x{2}"
 msgstr "PERSONNALISÉ {1}X{2}"
 
 #: UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH_DESC"
 msgid "High quality fog and distance blur."
-msgstr "High quality fog and distance blur."
+msgstr "Haute niveau de détail."
 
 #: UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH
 msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_HIGH"
@@ -74014,10 +73955,9 @@ msgid "HIGH"
 msgstr "HAUT"
 
 #: UI.OPTIONS_SCREEN.DETAILLEVEL_LOW_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_LOW_DESC"
 msgid "Increased performance by lowering the fog and distance blur quality."
-msgstr "Increased performance by lowering the fog and distance blur quality."
+msgstr "Meilleur performance au détriment de la qualité."
 
 #: UI.OPTIONS_SCREEN.DETAILLEVEL_LOW
 msgctxt "UI.OPTIONS_SCREEN.DETAILLEVEL_LOW"
@@ -74030,16 +73970,14 @@ msgid "Level Of Detail"
 msgstr "NIVEAU DE DÉTAIL"
 
 #: UI.OPTIONS_SCREEN.DISABLED_TT
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.DISABLED_TT"
 msgid "Not implemented yet"
-msgstr "Not implemented yet"
+msgstr "Pas encore implémenté"
 
 #: UI.OPTIONS_SCREEN.FAST_MODE_DISABLED_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_DISABLED_DESC"
 msgid "The game will play at normal speed."
-msgstr "The game will play at normal speed."
+msgstr "Le jeu se déroulera à la vitesse normale."
 
 #: UI.OPTIONS_SCREEN.FAST_MODE_DISABLED
 msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_DISABLED"
@@ -74047,10 +73985,9 @@ msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
 
 #: UI.OPTIONS_SCREEN.FAST_MODE_ENABLED_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_ENABLED_DESC"
 msgid "The game will speed through text and travel more quickly on the map."
-msgstr "The game will speed through text and travel more quickly on the map."
+msgstr "Le jeu va accélérer la vitesse de défilement des texte et les voyages rapidement."
 
 #: UI.OPTIONS_SCREEN.FAST_MODE_ENABLED
 msgctxt "UI.OPTIONS_SCREEN.FAST_MODE_ENABLED"
@@ -74063,10 +74000,9 @@ msgid "Fast Mode"
 msgstr "MODE RAPIDE"
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER_30HZ_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FRAMELIMITER_30HZ_DESC"
 msgid "The game will render at a maximum of 30 frames per second, possibly saving battery life on laptops."
-msgstr "The game will render at a maximum of 30 frames per second, possibly saving battery life on laptops."
+msgstr "Le jeu rendra à un maximum de 30 images par seconde, ce qui permettra peut-être d'économiser la batterie des ordinateurs portables."
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER_30HZ
 msgctxt "UI.OPTIONS_SCREEN.FRAMELIMITER_30HZ"
@@ -74074,10 +74010,9 @@ msgid "30Hz"
 msgstr "30Hz"
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER_60HZ_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FRAMELIMITER_60HZ_DESC"
 msgid "The game will render at a maximum of 60 frames per second."
-msgstr "The game will render at a maximum of 60 frames per second."
+msgstr "Le rendu du jeu sera au maximum de 60 images par seconde."
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER_60HZ
 msgctxt "UI.OPTIONS_SCREEN.FRAMELIMITER_60HZ"
@@ -74085,10 +74020,9 @@ msgid "60Hz"
 msgstr "60Hz"
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER_OFF_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FRAMELIMITER_OFF_DESC"
 msgid "The game will render as fast as the refresh rate of the monitor."
-msgstr "The game will render as fast as the refresh rate of the monitor."
+msgstr "Le rendu du jeu sera aussi rapide que le taux de rafraîchissement de votre écran."
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER_OFF
 msgctxt "UI.OPTIONS_SCREEN.FRAMELIMITER_OFF"
@@ -74096,16 +74030,14 @@ msgid "OFF"
 msgstr "NON"
 
 #: UI.OPTIONS_SCREEN.FRAMELIMITER
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FRAMELIMITER"
 msgid "Framerate Limiter"
-msgstr "Framerate Limiter"
+msgstr "Images par seconde"
 
 #: UI.OPTIONS_SCREEN.FULLSCREEN_OFF_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_OFF_DESC"
 msgid "The game window can be positioned and resized at will."
-msgstr "The game window can be positioned and resized at will."
+msgstr "La fenêtre de jeu peut être positionnée et redimensionnée à volonté."
 
 #: UI.OPTIONS_SCREEN.FULLSCREEN_OFF
 msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_OFF"
@@ -74113,10 +74045,9 @@ msgid "OFF"
 msgstr "NON"
 
 #: UI.OPTIONS_SCREEN.FULLSCREEN_ON_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_ON_DESC"
 msgid "The game window fills up your display."
-msgstr "The game window fills up your display."
+msgstr "La fenêtre de jeu prend tout votre écran."
 
 #: UI.OPTIONS_SCREEN.FULLSCREEN_ON
 msgctxt "UI.OPTIONS_SCREEN.FULLSCREEN_ON"
@@ -74129,10 +74060,9 @@ msgid "Fullscreen"
 msgstr "PLEIN ÉCRAN"
 
 #: UI.OPTIONS_SCREEN.FX_ACTIONS_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FX_ACTIONS_DESC"
 msgid "The volume of action sounds (characters moving, weapons, hits, etc)."
-msgstr "The volume of action sounds (characters moving, weapons, hits, etc)."
+msgstr "Volume des sons d'action (déplacement des personnages, armes, coups, etc.)."
 
 #: UI.OPTIONS_SCREEN.FX_ACTIONS
 msgctxt "UI.OPTIONS_SCREEN.FX_ACTIONS"
@@ -74142,7 +74072,7 @@ msgstr "SON ACTION"
 #: UI.OPTIONS_SCREEN.FX_AMBIENCE_DESC
 msgctxt "UI.OPTIONS_SCREEN.FX_AMBIENCE_DESC"
 msgid "The volume of ambient sounds."
-msgstr "Le volume des sons ambiant."
+msgstr "Volume des sons ambiant."
 
 #: UI.OPTIONS_SCREEN.FX_AMBIENCE
 msgctxt "UI.OPTIONS_SCREEN.FX_AMBIENCE"
@@ -74152,7 +74082,7 @@ msgstr "Sons ambiants"
 #: UI.OPTIONS_SCREEN.FX_CARDS_DESC
 msgctxt "UI.OPTIONS_SCREEN.FX_CARDS_DESC"
 msgid "The volume of card-playing sound effects."
-msgstr "Le volume des effets sonores des cartes."
+msgstr "Volume des effets sonores des cartes."
 
 #: UI.OPTIONS_SCREEN.FX_CARDS
 msgctxt "UI.OPTIONS_SCREEN.FX_CARDS"
@@ -74162,7 +74092,7 @@ msgstr "Son de carte"
 #: UI.OPTIONS_SCREEN.FX_DESC
 msgctxt "UI.OPTIONS_SCREEN.FX_DESC"
 msgid "The volume of sound effects."
-msgstr "Le volume des effets sonores."
+msgstr "Volume des effets sonores."
 
 #: UI.OPTIONS_SCREEN.FX_DROPDOWN_TT
 msgctxt "UI.OPTIONS_SCREEN.FX_DROPDOWN_TT"
@@ -74170,10 +74100,9 @@ msgid "Advanced effect volume controls"
 msgstr "Contrôles de volume avancés"
 
 #: UI.OPTIONS_SCREEN.FX_UI_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.FX_UI_DESC"
 msgid "The volume of user interface sounds (clicks, mouse hovers, transitions, etc)."
-msgstr "The volume of user interface sounds (clicks, mouse hovers, transitions, etc)."
+msgstr "Volume des sons de l'interface (clics, survol du curseur, transitions, etc)."
 
 #: UI.OPTIONS_SCREEN.FX_UI
 msgctxt "UI.OPTIONS_SCREEN.FX_UI"
@@ -74188,7 +74117,7 @@ msgstr "EFFECT SONORES"
 #: UI.OPTIONS_SCREEN.LANGUAGES_DESC
 msgctxt "UI.OPTIONS_SCREEN.LANGUAGES_DESC"
 msgid "<#SUBTITLE>WARNING:</> Changing the language will require the game to re-launch. Make sure your progress is saved."
-msgstr "<#SUBTITLE>ATTENTION:</> Changer la langue nécessitera de relancer le jeu. Assurez-vous que vos progrès sont sauvegardés."
+msgstr "<#SUBTITLE>ATTENTION:</> Changer de langue nécessitera de relancer le jeu. Assurez-vous d'avoir sauvegarder votre partie en cour."
 
 #: UI.OPTIONS_SCREEN.LANGUAGES_ENABLED
 msgctxt "UI.OPTIONS_SCREEN.LANGUAGES_ENABLED"
@@ -74201,52 +74130,44 @@ msgid "Languages"
 msgstr "Langues"
 
 #: UI.OPTIONS_SCREEN.LAYOUTSCALE_MONITOR_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.LAYOUTSCALE_MONITOR_DESC"
 msgid "The UI elements and text on the screen show at the standard size. <#SUBTITLE>Ideal for desktop/laptop screens.</>"
-msgstr "The UI elements and text on the screen show at the standard size. <#SUBTITLE>Ideal for desktop/laptop screens.</>"
+msgstr "Les éléments de l'interface utilisateur et le texte à l'écran s'affichent à une taille standard. <#SUBTITLE>Idéal pour les écrans de bureau/ordinateur portable.</>"
 
 #: UI.OPTIONS_SCREEN.LAYOUTSCALE_MONITOR
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.LAYOUTSCALE_MONITOR"
 msgid "Normal"
 msgstr "Normal"
 
 #: UI.OPTIONS_SCREEN.LAYOUTSCALE_SMALL_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.LAYOUTSCALE_SMALL_DESC"
 msgid "The UI elements and text on the screen show quite larger than usual. <#SUBTITLE>Ideal for small screens or TV screens far from you.</>"
-msgstr "The UI elements and text on the screen show quite larger than usual. <#SUBTITLE>Ideal for small screens or TV screens far from you.</>"
+msgstr "Les éléments de l'interface utilisateur et le texte à l'écran sont plus grands que d'habitude. <#SUBTITLE>Idéal pour les petits écrans ou les écrans de télévision éloignés de vous.</>"
 
 #: UI.OPTIONS_SCREEN.LAYOUTSCALE_SMALL
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.LAYOUTSCALE_SMALL"
 msgid "Bigger"
-msgstr "Bigger"
+msgstr "Grand"
 
 #: UI.OPTIONS_SCREEN.LAYOUTSCALE_TV_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.LAYOUTSCALE_TV_DESC"
 msgid "The UI elements and text on the screen show larger than usual. <#SUBTITLE>Ideal for TV screens far from you.</>"
-msgstr "The UI elements and text on the screen show larger than usual. <#SUBTITLE>Ideal for TV screens far from you.</>"
+msgstr "Les éléments de l'interface utilisateur et le texte à l'écran sont énorme. <#SUBTITLE>Idéal pour les écrans de télévision éloignés de vous.</>"
 
 #: UI.OPTIONS_SCREEN.LAYOUTSCALE_TV
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.LAYOUTSCALE_TV"
 msgid "Big"
-msgstr "Big"
+msgstr "Énorme"
 
 #: UI.OPTIONS_SCREEN.LAYOUTSCALE
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.LAYOUTSCALE"
 msgid "UI Scaling"
-msgstr "UI Scaling"
+msgstr "TAILLE DE L'INTERFACE UTILISATEUR"
 
 #: UI.OPTIONS_SCREEN.MASTER_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.MASTER_DESC"
 msgid "The overall sound volume of the game."
-msgstr "The overall sound volume of the game."
+msgstr "Volume général du jeu."
 
 #: UI.OPTIONS_SCREEN.MASTER
 msgctxt "UI.OPTIONS_SCREEN.MASTER"
@@ -74254,10 +74175,9 @@ msgid "Master Volume"
 msgstr "VOLUME PRINCIPAL"
 
 #: UI.OPTIONS_SCREEN.MAXY_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.MAXY_DESC"
 msgid "The game will render at a maximum of {1} vertical pixels. Increases performance for high resolutions while sacrificing image quality."
-msgstr "The game will render at a maximum of {1} vertical pixels. Increases performance for high resolutions while sacrificing image quality."
+msgstr "Le jeu rendra au maximum {1} pixels verticaux. Augmente les performances pour les haute résolution tout en préservant la qualité de l'image."
 
 #: UI.OPTIONS_SCREEN.MAXY
 msgctxt "UI.OPTIONS_SCREEN.MAXY"
@@ -74267,7 +74187,7 @@ msgstr "TAILLE MAXIMALE"
 #: UI.OPTIONS_SCREEN.METRICS_DISABLED_DESC
 msgctxt "UI.OPTIONS_SCREEN.METRICS_DISABLED_DESC"
 msgid "The game won't upload any gameplay data to Klei's servers."
-msgstr "Le jeu ne transfère aucune donnée de gameplay sur les serveurs de Klei.."
+msgstr "Le jeu ne transfère aucune donnée de gameplay sur les serveurs de Klei."
 
 #: UI.OPTIONS_SCREEN.METRICS_DISABLED
 msgctxt "UI.OPTIONS_SCREEN.METRICS_DISABLED"
@@ -74275,10 +74195,9 @@ msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
 
 #: UI.OPTIONS_SCREEN.METRICS_ENABLED_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.METRICS_ENABLED_DESC"
 msgid "The game will send gameplay data to Klei's servers, to help us improve the game."
-msgstr "The game will send gameplay data to Klei's servers, to help us improve the game."
+msgstr "Le jeu enverra des données de gameplay aux serveurs de Klei, pour nous aider à améliorer le jeu."
 
 #: UI.OPTIONS_SCREEN.METRICS_ENABLED
 msgctxt "UI.OPTIONS_SCREEN.METRICS_ENABLED"
@@ -74291,10 +74210,9 @@ msgid "Metrics"
 msgstr "TÉLÉMÉTRIE"
 
 #: UI.OPTIONS_SCREEN.MUSIC_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.MUSIC_DESC"
 msgid "The volume of music in the game."
-msgstr "The volume of music in the game."
+msgstr "Volume de la musique du jeu."
 
 #: UI.OPTIONS_SCREEN.MUSIC
 msgctxt "UI.OPTIONS_SCREEN.MUSIC"
@@ -74302,34 +74220,29 @@ msgid "Music Volume"
 msgstr "MUSIQUE"
 
 #: UI.OPTIONS_SCREEN.RESET_PROFILE_BODY
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_BODY"
 msgid "<b><#PENALTY>WARNING:</></> This will reset all of your character XP and unlocks. This action can not be undone. Are you <b>absolutely sure</> you want to do this?"
-msgstr "<b><#PENALTY>WARNING:</></> This will reset all of your character XP and unlocks. This action can not be undone. Are you <b>absolutely sure</> you want to do this?"
+msgstr "<b><#PENALTY>AVERTISSEMENT:</></> Ceci réinitialise tout votre XP de personnage et objet déverrouille. Cette action ne peut pas être annulée. Êtes-vous <b>absolument sûr</> de vouloir faire cela?"
 
 #: UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_BODY
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_BODY"
 msgid "You profile has been reset."
-msgstr "You profile has been reset."
+msgstr "Votre profil a été réinitialisé."
 
 #: UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_TITLE
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_CONFIRM_TITLE"
 msgid "Profile Reset!"
-msgstr "Profile Reset!"
+msgstr "Réinitialisation du profil!"
 
 #: UI.OPTIONS_SCREEN.RESET_PROFILE_DESC_LOCKED
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_DESC_LOCKED"
 msgid "Reset your meta progression, stats, and unlocks. <b>You can't do this while you are in the middle of a run.</>"
-msgstr "Reset your meta progression, stats, and unlocks. <b>You can't do this while you are in the middle of a run.</>"
+msgstr "Réinitialisez votre méta progression, vos statistiques et vos déverrouillages. <b>Tu ne peux pas faire ça pendant que tu es en jeu.</b>"
 
 #: UI.OPTIONS_SCREEN.RESET_PROFILE_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_DESC"
 msgid "Reset your meta progression, stats, and unlocks."
-msgstr "Reset your meta progression, stats, and unlocks."
+msgstr "Réinitialise tout votre progression, vos statistiques..."
 
 #: UI.OPTIONS_SCREEN.RESET_PROFILE_TITLE
 msgctxt "UI.OPTIONS_SCREEN.RESET_PROFILE_TITLE"
@@ -74344,17 +74257,17 @@ msgstr "RÉINITIALISER LE PROFIL"
 #: UI.OPTIONS_SCREEN.RESOLUTION_DESC
 msgctxt "UI.OPTIONS_SCREEN.RESOLUTION_DESC"
 msgid "The size of the game window in pixels."
-msgstr "La resolution du jeu en pixels."
+msgstr "Resolution du jeu en pixels."
 
 #: UI.OPTIONS_SCREEN.RESOLUTION
 msgctxt "UI.OPTIONS_SCREEN.RESOLUTION"
 msgid "Resolution"
-msgstr "Détermination"
+msgstr "RÉSOLUTION"
 
 #: UI.OPTIONS_SCREEN.REVERT
 msgctxt "UI.OPTIONS_SCREEN.REVERT"
 msgid "Revert Changes"
-msgstr "Annuler les changements"
+msgstr "Annuler"
 
 #: UI.OPTIONS_SCREEN.SKIP_MOVIES_DISABLED_DESC
 msgctxt "UI.OPTIONS_SCREEN.SKIP_MOVIES_DISABLED_DESC"
@@ -74382,10 +74295,9 @@ msgid "Skip Cinematics"
 msgstr "Passer les cinématiques"
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED_DESC"
 msgid "Default game UI."
-msgstr "Default game UI."
+msgstr "Interface par défaut."
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_DISABLED"
@@ -74393,16 +74305,14 @@ msgid "DISABLED"
 msgstr "DÉSACTIVÉ"
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_DESC_RIGHT
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_DESC_RIGHT"
 msgid "The game UI will leave a safe area on the bottom right corner for a camera feed overlay."
-msgstr "The game UI will leave a safe area on the bottom right corner for a camera feed overlay."
+msgstr "L'interface utilisateur du jeu laissera une zone libre dans le coin inférieur droit pour positionner une webcam."
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_DESC
-#, fuzzy
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_DESC"
 msgid "The game UI will leave a safe area on the bottom left corner for a camera feed overlay."
-msgstr "The game UI will leave a safe area on the bottom left corner for a camera feed overlay."
+msgstr "L'interface utilisateur du jeu laissera une zone libre dans le coin inférieur gauche pour positionner une webcam."
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_RIGHT
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_ENABLED_RIGHT"
@@ -74417,7 +74327,7 @@ msgstr "CÔTÉ GAUCHE"
 #: UI.OPTIONS_SCREEN.STREAMER_MODE_OVERLAY_TEXT
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE_OVERLAY_TEXT"
 msgid "SAFE AREA FOR STREAMING OVERLAY"
-msgstr "ZONE LIBRE POUR SUPERPOSER UN CONTENUE"
+msgstr "ZONE LIBRE"
 
 #: UI.OPTIONS_SCREEN.STREAMER_MODE
 msgctxt "UI.OPTIONS_SCREEN.STREAMER_MODE"
@@ -74432,12 +74342,12 @@ msgstr "SON"
 #: UI.OPTIONS_SCREEN.TAB_GAMEPLAY
 msgctxt "UI.OPTIONS_SCREEN.TAB_GAMEPLAY"
 msgid "GAMEPLAY"
-msgstr "JOUABILITY"
+msgstr "JOUABILITÉ"
 
 #: UI.OPTIONS_SCREEN.TAB_GRAPHICS
 msgctxt "UI.OPTIONS_SCREEN.TAB_GRAPHICS"
 msgid "GRAPHICS"
-msgstr "GRAPHIQUE"
+msgstr "GRAPHISME"
 
 #: UI.OPTIONS_SCREEN.TAB_OTHER
 msgctxt "UI.OPTIONS_SCREEN.TAB_OTHER"
@@ -74447,7 +74357,7 @@ msgstr "AUTRE"
 #: UI.OPTIONS_SCREEN.VOICE_DESC
 msgctxt "UI.OPTIONS_SCREEN.VOICE_DESC"
 msgid "The volume of character and narrator voices."
-msgstr "Le volume des voix des personnages et des narrateurs."
+msgstr "Volume des voix des personnages et des narrateurs."
 
 #: UI.OPTIONS_SCREEN.VOICE
 msgctxt "UI.OPTIONS_SCREEN.VOICE"
@@ -74553,10 +74463,9 @@ msgid "RETURN TO MAIN MENU"
 msgstr "MENU PRINCIPAL"
 
 #: UI.PAUSEMENU.ROOK_BATTLE
-#, fuzzy
 msgctxt "UI.PAUSEMENU.ROOK_BATTLE"
 msgid "BATTLE (Rook)"
-msgstr "BATTLE (Rook)"
+msgstr "COMBAT (Rook)"
 
 #: UI.PAUSEMENU.ROOK_NEGOTIATION
 msgctxt "UI.PAUSEMENU.ROOK_NEGOTIATION"
@@ -74738,10 +74647,9 @@ msgid "Your pet"
 msgstr "Your pet"
 
 #: UI.PROGRESS_INDICATOR
-#, fuzzy
 msgctxt "UI.PROGRESS_INDICATOR"
 msgid "<#QUEST_LIGHT><b>{1}</></>\nCurrent progress: {2#percent}"
-msgstr "<#QUEST_LIGHT><b>{1}</></>\nCurrent progress: {2#percent}"
+msgstr "<#QUEST_LIGHT><b>{1}</></>\nProgrès actuels: {2#percent}"
 
 #: UI.QUEST_ICONS.AVAILABLE_JOB
 #, fuzzy
@@ -74976,7 +74884,7 @@ msgstr " cartes"
 #: UI.REWARDS_WIDGET.EXTRACASH_DESC
 msgctxt "UI.REWARDS_WIDGET.EXTRACASH_DESC"
 msgid "Get a bonus payment of {1#money}"
-msgstr "Obtener un bonus de {1#money}"
+msgstr "{1#money} bonus"
 
 #: UI.REWARDS_WIDGET.EXTRACASH_TITLE
 msgctxt "UI.REWARDS_WIDGET.EXTRACASH_TITLE"
@@ -75038,10 +74946,9 @@ msgid "REWARDS PENALTY -{1#percent}"
 msgstr "REWARDS PENALTY -{1#percent}"
 
 #: UI.REWARDS_WIDGET.REMOVECARD_DESC
-#, fuzzy
 msgctxt "UI.REWARDS_WIDGET.REMOVECARD_DESC"
 msgid "Remove a card from one of your decks"
-msgstr "Remove a card from one of your decks"
+msgstr "Retirer une carte d'un decks"
 
 #: UI.REWARDS_WIDGET.REMOVECARD_TITLE
 #, fuzzy
@@ -75096,7 +75003,7 @@ msgstr "Gain a number of cards upfront, upon accepting this quest."
 #: UI.REWARDS_WIDGET.UPGRADE_DESC
 msgctxt "UI.REWARDS_WIDGET.UPGRADE_DESC"
 msgid "Upgrade a negotiation or battle card"
-msgstr "Améliorer une carte de négociation ou de combat"
+msgstr "Améliorer une carte combat ou de négociation"
 
 #: UI.REWARDS_WIDGET.UPGRADE_TITLE
 msgctxt "UI.REWARDS_WIDGET.UPGRADE_TITLE"
