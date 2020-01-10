@@ -10449,7 +10449,7 @@ msgstr "Détruit cette carte de façon permanente."
 #: BATTLE_FEATURE.CONSUME.NAME
 msgctxt "BATTLE_FEATURE.CONSUME.NAME"
 msgid "Destroy"
-msgstr "Déstruction"
+msgstr "Détruit"
 
 #: BATTLE_FEATURE.COUNTER_BAND.DESC
 #, fuzzy
@@ -11507,10 +11507,9 @@ msgid "Kra'deshi Regeneration"
 msgstr "Kra'deshi Regeneration"
 
 #: BATTLE_FEATURE.KRILLED_UP.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.KRILLED_UP.DESC"
 msgid "Lose {1} {POWER} every turn. Lose {2} health when {POWER} reaches zero."
-msgstr "Lose {1} {POWER} every turn. Lose {2} health when {POWER} reaches zero."
+msgstr "Perdez {1} {POWER} à chaque tour. Perdez {2} de santé quand votre {POWER} atteint zéro."
 
 #: BATTLE_FEATURE.KRILLED_UP.NAME
 #, fuzzy
@@ -11927,16 +11926,14 @@ msgid "Pinball"
 msgstr "Pinball"
 
 #: BATTLE_FEATURE.POWER.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.POWER.DESC"
 msgid "Whenever you deal damage, deal an additional {1} damage."
-msgstr "Whenever you deal damage, deal an additional {1} damage."
+msgstr "A chaque fois que vous infligez des dégâts, infligez {1} de dégâts supplémentaires."
 
 #: BATTLE_FEATURE.POWER.NAME
-#, fuzzy
 msgctxt "BATTLE_FEATURE.POWER.NAME"
 msgid "Power"
-msgstr "Power"
+msgstr "Puissance"
 
 #: BATTLE_FEATURE.POWER_BARRIER.DESC
 #, fuzzy
@@ -12191,10 +12188,9 @@ msgid "Rentorian Battle Armor"
 msgstr "Rentorian Battle Armor"
 
 #: BATTLE_FEATURE.REPLENISH.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.REPLENISH.DESC"
 msgid "When this card is drawn, draw another card."
-msgstr "When this card is drawn, draw another card."
+msgstr "Lorsque cette carte est piocher, Piocher une autre carte."
 
 #: BATTLE_FEATURE.REPLENISH.NAME
 msgctxt "BATTLE_FEATURE.REPLENISH.NAME"
@@ -13580,10 +13576,9 @@ msgid "All Business"
 msgstr "All Business"
 
 #: CARD.AMNESIATOR.DESC
-#, fuzzy
 msgctxt "CARD.AMNESIATOR.DESC"
 msgid "The next card played is played twice.\nThen, {CONSUME} it."
-msgstr "The next card played is played twice.\nThen, {CONSUME} it."
+msgstr "La prochaine carte jouée est jouée deux fois.\nPuis {CONSUME}."
 
 #: CARD.AMNESIATOR.NAME
 #, fuzzy
@@ -15500,10 +15495,9 @@ msgid "Slurred Speech"
 msgstr "Troubles de l'élocution"
 
 #: CARD.DUPLICITY.DESC
-#, fuzzy
 msgctxt "CARD.DUPLICITY.DESC"
 msgid "The next card played this turn is played twice."
-msgstr "The next card played this turn is played twice."
+msgstr "La prochaine carte jouée à ce tour-ci est jouée deux fois."
 
 #: CARD.DUPLICITY.NAME
 #, fuzzy
@@ -15512,10 +15506,9 @@ msgid "Duplicity"
 msgstr "Duplicity"
 
 #: CARD.DUPLICITY_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.DUPLICITY_PLUS.DESC"
 msgid "The next card played this turn is played twice."
-msgstr "The next card played this turn is played twice."
+msgstr "La prochaine carte jouée à ce tour-ci est jouée deux fois."
 
 #: CARD.DUPLICITY_PLUS.NAME
 #, fuzzy
@@ -15524,10 +15517,9 @@ msgid "Enduring Duplicity"
 msgstr "Enduring Duplicity"
 
 #: CARD.DUPLICITY_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.DUPLICITY_PLUS2.DESC"
 msgid "The next card played this turn is played twice."
-msgstr "The next card played this turn is played twice."
+msgstr "La prochaine carte jouée à ce tour-ci est jouée deux fois."
 
 #: CARD.DUPLICITY_PLUS2.NAME
 #, fuzzy
@@ -16456,10 +16448,9 @@ msgid "Hard Facts"
 msgstr "Hard Facts"
 
 #: CARD.HARD_FACTS_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.HARD_FACTS_PLUS.DESC"
 msgid "Gain {1} {COMPOSURE} on a random argument. Increase by <#UPGRADE>{2}</> for each card played this turn.\n{3}"
-msgstr "Gain {1} {COMPOSURE} on a random argument. Increase by <#UPGRADE>{2}</> for each card played this turn.\n{3}"
+msgstr "Gagne {1} {COMPOSURE} sur un argument aléatoire. Augmente de <#UPGRADE>{2}</> pour chaque carte jouée ce tour-ci.\n{3}"
 
 #: CARD.HARD_FACTS_PLUS.NAME
 #, fuzzy
@@ -16468,10 +16459,9 @@ msgid "Boosted Facts"
 msgstr "Boosted Facts"
 
 #: CARD.HARD_FACTS_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.HARD_FACTS_PLUS2.DESC"
 msgid "<#UPGRADE>Apply</> {1} {COMPOSURE}. Increase by <#UPGRADE>{2}</> for each card played this turn.\n{3}"
-msgstr "<#UPGRADE>Apply</> {1} {COMPOSURE}. Increase by <#UPGRADE>{2}</> for each card played this turn.\n{3}"
+msgstr "<#UPGRADE>Applique</> {1} {COMPOSURE}. Augmente de <#UPGRADE>{2}</> pour chaque carte jouée ce tour-ci.\n{3}"
 
 #: CARD.HARD_FACTS_PLUS2.NAME
 #, fuzzy
@@ -22723,10 +22713,9 @@ msgid "Veep"
 msgstr "Veep"
 
 #: CHARACTER_SKIN.LABORER.BD0D6DF6-964A-4A28-8DFA-B9C381E255E0.BIO
-#, fuzzy
 msgctxt "CHARACTER_SKIN.LABORER.BD0D6DF6-964A-4A28-8DFA-B9C381E255E0.BIO"
 msgid "Ekel's made a reputation of keeping her chin up and taking the blows that come her way. Not sure that's a reputation anyone should want, really."
-msgstr "Ekel's made a reputation of keeping her chin up and taking the blows that come her way. Not sure that's a reputation anyone should want, really."
+msgstr "Ekel a la réputation de garder la tête haute et de supporter tous ce qui lui tombent dessus. Je ne suis pas sûr que ce soit une réputation que quelqu'un veut vraiment."
 
 #: CHARACTER_SKIN.LABORER.BD0D6DF6-964A-4A28-8DFA-B9C381E255E0.NAME
 msgctxt "CHARACTER_SKIN.LABORER.BD0D6DF6-964A-4A28-8DFA-B9C381E255E0.NAME"
@@ -45551,10 +45540,9 @@ msgid "Tell {giver} you got {giver.himher} more shifts"
 msgstr "Tell {giver} you got {giver.himher} more shifts"
 
 #: CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT_4.DIALOG_OFFER
-#, fuzzy
 msgctxt "CONVO.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT_4.DIALOG_OFFER"
 msgid "player:\n!Dubious \n$neutralDubious\nYou all right, there? You look a little stressed.\nagent:\n!scared\n$scaredGreeting\nDo I? It's probably just 'cause I'm gonna be dead in a few hours.\nplayer:\n!interest\n$neutralDubious\nUhh... really?\nagent:\n!scared_shrug\n$scaredDefault\nMaybe. I dunno. Probably? I borrowed money from {target}, but the boss hasn't given me enough shifts to pay it back!\nNow I gotta convince {target} to give me more time... assuming {target.heshe} doesn't kill me, first.\n$scaredDefault\nUnless... <i>you</i> could help me out? Whaddya think?"
-msgstr "player:\n!Dubious \n$neutralDubious\nYou all right, there? You look a little stressed.\nagent:\n!scared\n$scaredGreeting\nDo I? It's probably just 'cause I'm gonna be dead in a few hours.\nplayer:\n!interest\n$neutralDubious\nUhh... really?\nagent:\n!scared_shrug\n$scaredDefault\nMaybe. I dunno. Probably? I borrowed money from {target}, but the boss hasn't given me enough shifts to pay it back!\nNow I gotta convince {target} to give me more time... assuming {target.heshe} doesn't kill me, first.\n$scaredDefault\nUnless... <i>you</i> could help me out? Whaddya think?"
+msgstr "player:\n!Dubious \n$neutralDubious\nÇa va, bien ? Tu as l'air un peu stressé.\nagent:\n!scared\n$scaredGreeting\nVraiment? C'est sûrement parce que je serai mort dans quelques heures..\nplayer:\n!interest\n$neutralDubious\nEuh... vraiment?\nagent:\n!scared_shrug\n$scaredDefault\nPeut-être. Je ne sais pas. Probablement ? J'ai emprunté de l'argent à {target}, mais le patron ne m'a pas accordé assez d'heures de travail pour le rembourser!\nMaintenant, je dois convaincre {cible} de me donner plus de temps... en supposant que ça ne me tue pas.\n$scaredDefault\nA moins que... <i>Toi</i> tu puissiez m'aider ? Qu'est-ce que tu en penses ?"
 
 #: CONVO.SIDE_ASSET_RECOVERY.DIALOG_INTRO
 #, fuzzy
@@ -50035,10 +50023,9 @@ msgid "This card is unplayable"
 msgstr "This card is unplayable"
 
 #: CONVO_OPTION.AGENT_OPPORTUNITY
-#, fuzzy
 msgctxt "CONVO_OPTION.AGENT_OPPORTUNITY"
 msgid "Opportunity: <i>{1} for {2#agent}</>"
-msgstr "Opportunity: <i>{1} for {2#agent}</>"
+msgstr "Opportunité: <i>{1} for {2#agent}</>"
 
 #: CONVO_OPTION.AUTOLOSE_DESC
 #, fuzzy
@@ -55335,10 +55322,9 @@ msgid "All Business"
 msgstr "All Business"
 
 #: MODIFIER.AMNESIATOR.DESC
-#, fuzzy
 msgctxt "MODIFIER.AMNESIATOR.DESC"
 msgid "The next card played is played twice.\nThen, {CONSUME} it."
-msgstr "The next card played is played twice.\nThen, {CONSUME} it."
+msgstr "La prochaine carte jouée est jouée deux fois.\nPuis {CONSUME}."
 
 #: MODIFIER.AMNESIATOR.NAME
 #, fuzzy
@@ -55488,10 +55474,9 @@ msgid "Wanted!"
 msgstr "Wanted!"
 
 #: MODIFIER.BRAIN_GILLS.DESC
-#, fuzzy
 msgctxt "MODIFIER.BRAIN_GILLS.DESC"
 msgid "The next card played this turn gains 3 additional XP."
-msgstr "The next card played this turn gains 3 additional XP."
+msgstr "La prochaine carte jouée ce tour-ci gagne 3 XP supplémentaires."
 
 #: MODIFIER.BRAIN_GILLS.NAME
 #, fuzzy
@@ -55852,10 +55837,9 @@ msgid "Drunk"
 msgstr "Drunk"
 
 #: MODIFIER.DUPLICITY.DESC
-#, fuzzy
 msgctxt "MODIFIER.DUPLICITY.DESC"
 msgid "The next card played this turn is played twice."
-msgstr "The next card played this turn is played twice."
+msgstr "La prochaine carte jouée à ce tour-ci est jouée deux fois."
 
 #: MODIFIER.DUPLICITY.NAME
 #, fuzzy
@@ -57429,10 +57413,9 @@ msgid "Ambush"
 msgstr "Embuscade"
 
 #: NEGOTIATION_FEATURE.AMNESIATOR.DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.AMNESIATOR.DESC"
 msgid "The next card played is played twice.\nThen, {CONSUME} it."
-msgstr "The next card played is played twice.\nThen, {CONSUME} it."
+msgstr "La prochaine carte jouée est jouée deux fois.\nPuis {CONSUME}."
 
 #: NEGOTIATION_FEATURE.AMNESIATOR.NAME
 #, fuzzy
@@ -57582,10 +57565,9 @@ msgid "Wanted!"
 msgstr "Wanted!"
 
 #: NEGOTIATION_FEATURE.BRAIN_GILLS.DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.BRAIN_GILLS.DESC"
 msgid "The next card played this turn gains 3 additional XP."
-msgstr "The next card played this turn gains 3 additional XP."
+msgstr "La prochaine carte jouée ce tour-ci gagne 3 XP supplémentaires."
 
 #: NEGOTIATION_FEATURE.BRAIN_GILLS.NAME
 #, fuzzy
@@ -57712,10 +57694,9 @@ msgid "Coactive Orbslug"
 msgstr "Coactive Orbslug"
 
 #: NEGOTIATION_FEATURE.COMPOSURE.DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.COMPOSURE.DESC"
 msgid "Reduce resolve loss for one turn"
-msgstr "Reduce resolve loss for one turn"
+msgstr "Réduire la perte de détermination pour un tour"
 
 #: NEGOTIATION_FEATURE.COMPOSURE.FEATURE_DESC
 msgctxt "NEGOTIATION_FEATURE.COMPOSURE.FEATURE_DESC"
@@ -57733,10 +57714,9 @@ msgid "Remove this card permanently."
 msgstr "Cette carte est détruit de façon permanente après utilisation."
 
 #: NEGOTIATION_FEATURE.CONSUME.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.CONSUME.NAME"
 msgid "Destroy"
-msgstr "Destroy"
+msgstr "Détruit"
 
 #: NEGOTIATION_FEATURE.CONTRACTOR.DESC
 #, fuzzy
@@ -57995,10 +57975,9 @@ msgid "Drunk"
 msgstr "Ivre"
 
 #: NEGOTIATION_FEATURE.DUPLICITY.DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.DUPLICITY.DESC"
 msgid "The next card played this turn is played twice."
-msgstr "The next card played this turn is played twice."
+msgstr "La prochaine carte jouée à ce tour-ci est jouée deux fois."
 
 #: NEGOTIATION_FEATURE.DUPLICITY.NAME
 #, fuzzy
@@ -58336,16 +58315,14 @@ msgid "<p img='icons/ic_coin_heads.tex' scale=1.0>"
 msgstr "<p img='icons/ic_coin_heads.tex' scale=1.0>"
 
 #: NEGOTIATION_FEATURE.HEADS_AND_SNAILS.DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.HEADS_AND_SNAILS.DESC"
 msgid "Heads and Snails are the two sides of your lucky coin"
-msgstr "Heads and Snails are the two sides of your lucky coin"
+msgstr "Pile et Face sont les deux côté de votre pièce porte-bonheur"
 
 #: NEGOTIATION_FEATURE.HEADS_AND_SNAILS.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.HEADS_AND_SNAILS.NAME"
 msgid "Heads <p img='icons/ic_coin_heads.tex' scale=1.0> and Snails <p img='icons/ic_coin_snails.tex' scale=1.0>"
-msgstr "Heads <p img='icons/ic_coin_heads.tex' scale=1.0> and Snails <p img='icons/ic_coin_snails.tex' scale=1.0>"
+msgstr "Pile <p img='icons/ic_coin_snails.tex' scale=1.0>et Face <p img='icons/ic_coin_heads.tex' scale=1.0>"
 
 #: NEGOTIATION_FEATURE.HEART.NAME
 #, fuzzy
@@ -63905,10 +63882,9 @@ msgid "Tell {giver} that their debt has been renegotiated."
 msgstr "Tell {giver} that their debt has been renegotiated."
 
 #: QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.DESC
-#, fuzzy
 msgctxt "QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.DESC"
 msgid "{giver} has gotten {giver.himher}self into some money trouble with {target}. Find a way for {giver} to either make money or pay it back slowly."
-msgstr "{giver} has gotten {giver.himher}self into some money trouble with {target}. Find a way for {giver} to either make money or pay it back slowly."
+msgstr "{giver} a quelque problèmes d'argent avec {target}. Trouver un moyen pour {giver} de ce faire de l'argent ou de payer sa dette en plusieurs fois."
 
 #: QUEST.SIDE_ANOTHER_DAY_OLDER_AND_DEEPER_IN_DEBT.MORE_SHIFTS
 #, fuzzy
@@ -63957,10 +63933,9 @@ msgid "Another Day Older and Deeper in Debt"
 msgstr "Another Day Older and Deeper in Debt"
 
 #: QUEST.SIDE_ASSET_RECOVERY.DESC
-#, fuzzy
 msgctxt "QUEST.SIDE_ASSET_RECOVERY.DESC"
 msgid "{giver} is trying to track down some stolen goods, and needs you to track down some leads."
-msgstr "{giver} is trying to track down some stolen goods, and needs you to track down some leads."
+msgstr "{giver} essaie de retrouver des biens volés et a besoin de vous pour suivre certaines pistes."
 
 #: QUEST.SIDE_ASSET_RECOVERY.OBJECTIVE.FIND_THE_GOODS.DESC
 #, fuzzy
@@ -64140,10 +64115,9 @@ msgid "{handler} wants you to lure {giver} to the ambush point for a little disc
 msgstr "{handler} wants you to lure {giver} to the ambush point for a little disciplinary 'reeducation'. Convince them to follow you."
 
 #: QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.LURE_GIVER.TITLE
-#, fuzzy
 msgctxt "QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.LURE_GIVER.TITLE"
 msgid "Convince {giver} to come with you"
-msgstr "Convince {giver} to come with you"
+msgstr "Convaincre {giver} de venir avec vous"
 
 #: QUEST.SIDE_BACK_CHANNEL_NEGOTIATIONS.OBJECTIVE.RAT_OUT_GIVER.DESC
 #, fuzzy
@@ -64535,10 +64509,9 @@ msgid "Internal Affairs"
 msgstr "Internal Affairs"
 
 #: QUEST.SIDE_JAKE_ESCORT.DESC
-#, fuzzy
 msgctxt "QUEST.SIDE_JAKE_ESCORT.DESC"
 msgid "{giver} needs you to safely escort one of {giver.hisher} smugglers to the buyer."
-msgstr "{giver} needs you to safely escort one of {giver.hisher} smugglers to the buyer."
+msgstr "{giver} a besoin que tu escortes un de ses contrebandiers jusqu'au client."
 
 #: QUEST.SIDE_JAKE_ESCORT.OBJECTIVE.ESCORT_TO_BUYER.DESC
 #, fuzzy
@@ -64791,10 +64764,9 @@ msgid "Repo Person"
 msgstr "Repo Person"
 
 #: QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.DESC
-#, fuzzy
 msgctxt "QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.DESC"
 msgid "Investigate a wilderness location for signs of illegal activity"
-msgstr "Investigate a wilderness location for signs of illegal activity"
+msgstr "Enquêter sur un territoire sauvage pour trouver des signes d'activité illégale"
 
 #: QUEST.SIDE_SCOUT_OUT_PATROL_SPOT.OBJECTIVE.REPORT_BACK_TO_GIVER.DESC
 #, fuzzy
@@ -65988,10 +65960,9 @@ msgid "!coin_toss\n\nLuck be with me."
 msgstr "!coin_toss\n\nLuck be with me."
 
 #: QUIPS.call_it_card.negotiation.4
-#, fuzzy
 msgctxt "QUIPS.call_it_card.negotiation.4"
 msgid "!coin_toss\n\nHeads, or snails?"
-msgstr "!coin_toss\n\nHeads, or snails?"
+msgstr "!coin_toss\n\nFace, ou pile?"
 
 #: QUIPS.caprice_card.negotiation.1
 #, fuzzy
@@ -67400,34 +67371,29 @@ msgid "There's only one way this can go."
 msgstr "There's only one way this can go."
 
 #: QUIPS.job_accept.1
-#, fuzzy
 msgctxt "QUIPS.job_accept.1"
 msgid "Great! Now get to work."
-msgstr "Great! Now get to work."
+msgstr "Super ! Maintenant, au travail."
 
 #: QUIPS.job_accept.2
-#, fuzzy
 msgctxt "QUIPS.job_accept.2"
 msgid "Good luck. You'll probably need it out there."
-msgstr "Good luck. You'll probably need it out there."
+msgstr "Bonne chance. Vous en aurez probablement besoin."
 
 #: QUIPS.job_accept.3
-#, fuzzy
 msgctxt "QUIPS.job_accept.3"
 msgid "I'm glad you showed up."
-msgstr "I'm glad you showed up."
+msgstr "Je suis content que tu sois venu."
 
 #: QUIPS.job_accept.4
-#, fuzzy
 msgctxt "QUIPS.job_accept.4"
 msgid "Good. Get to it."
-msgstr "Good. Get to it."
+msgstr "Bien. Allez y."
 
 #: QUIPS.job_accept.5
-#, fuzzy
 msgctxt "QUIPS.job_accept.5"
 msgid "Thanks. Good luck out there."
-msgstr "Thanks. Good luck out there."
+msgstr "Merci. Et bonne chance."
 
 #: QUIPS.job_decline.1
 #, fuzzy
@@ -69436,12 +69402,12 @@ msgstr "{1} {1*carte|cartes} prête à être améliorer"
 #: UI.CARD_WIDGET.CARD_CLASS_BATTLE
 msgctxt "UI.CARD_WIDGET.CARD_CLASS_BATTLE"
 msgid "BATTLE CARD"
-msgstr "CARTE DE COMBAT"
+msgstr "CARTE COMBAT"
 
 #: UI.CARD_WIDGET.CARD_CLASS_NEGOTIATION
 msgctxt "UI.CARD_WIDGET.CARD_CLASS_NEGOTIATION"
 msgid "NEGOTIATION CARD"
-msgstr "CARTE DE NÉGOCIATION"
+msgstr "CARTE NÉGOCIATION"
 
 #: UI.CARD_WIDGET.CARD_TYPE.BYSTANDER
 #, fuzzy
@@ -75238,12 +75204,12 @@ msgstr "NO USES LEFT"
 #: UI.SHOW_DECK_SCREEN.SUBCARDINFO_CLASS_BATTLE
 msgctxt "UI.SHOW_DECK_SCREEN.SUBCARDINFO_CLASS_BATTLE"
 msgid "BATTLE CARD"
-msgstr "CARTE DE COMBAT"
+msgstr "CARTE COMBAT"
 
 #: UI.SHOW_DECK_SCREEN.SUBCARDINFO_CLASS_NEGOTIATION
 msgctxt "UI.SHOW_DECK_SCREEN.SUBCARDINFO_CLASS_NEGOTIATION"
 msgid "NEGOTIATION CARD"
-msgstr "CARTE DE NÉGOCIATION"
+msgstr "CARTE NÉGOCIATION"
 
 #: UI.SHOW_DECK_SCREEN.SUBCARDINFO_INCEPTED
 msgctxt "UI.SHOW_DECK_SCREEN.SUBCARDINFO_INCEPTED"
