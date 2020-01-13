@@ -3123,10 +3123,9 @@ msgid "Enhanced Ego Rip"
 msgstr "Enhanced Ego Rip"
 
 #: ATTACK.ELBOW_STRIKE.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE.FLAVOUR"
 msgid "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
-msgstr "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
+msgstr "'Tu vois, les gens s'attende à un coup de poignards. C'est pour ça que je les frappe parfois avec les coudes'"
 
 #: ATTACK.ELBOW_STRIKE.NAME
 msgctxt "ATTACK.ELBOW_STRIKE.NAME"
@@ -3134,10 +3133,9 @@ msgid "Elbow Strike"
 msgstr "Coup de coude"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2A.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2A.FLAVOUR"
 msgid "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
-msgstr "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
+msgstr "'Tu vois, les gens s'attende à un coup de poignards. C'est pour ça que je les frappe parfois avec les coudes'"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2A.NAME
 #, fuzzy
@@ -3151,10 +3149,9 @@ msgid "<#UPGRADE>Gain 1 {COMBO}.</>"
 msgstr "<#UPGRADE>Gagner 1 {COMBO}.</>"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2B.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2B.FLAVOUR"
 msgid "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
-msgstr "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
+msgstr "'Tu vois, les gens s'attende à un coup de poignards. C'est pour ça que je les frappe parfois avec les coudes'"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2B.NAME
 #, fuzzy
@@ -3168,10 +3165,9 @@ msgid "<#UPGRADE>Draw a card.</>"
 msgstr "<#UPGRADE>Piocher une carte.</>"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2C.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2C.FLAVOUR"
 msgid "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
-msgstr "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
+msgstr "'Tu vois, les gens s'attende à un coup de poignards. C'est pour ça que je les frappe parfois avec les coudes'"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2C.NAME
 #, fuzzy
@@ -3185,10 +3181,9 @@ msgid "<#UPGRADE>Gain {RIPOSTE 3}.</>"
 msgstr "<#UPGRADE>Gagner {RIPOSTE 3}.</>"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2D.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2D.FLAVOUR"
 msgid "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
-msgstr "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
+msgstr "'Tu vois, les gens s'attende à un coup de poignards. C'est pour ça que je les frappe parfois avec les coudes'"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2D.NAME
 #, fuzzy
@@ -3202,10 +3197,9 @@ msgid "<#UPGRADE>Gain {1} {DEFEND}.</>"
 msgstr "<#UPGRADE>Gagner {1} {DEFEND}.</>"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2E.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2E.FLAVOUR"
 msgid "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
-msgstr "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
+msgstr "'Tu vois, les gens s'attende à un coup de poignards. C'est pour ça que je les frappe parfois avec les coudes'"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2E.NAME
 #, fuzzy
@@ -3214,10 +3208,9 @@ msgid "Stone Strike"
 msgstr "Stone Strike"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2F.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2F.FLAVOUR"
 msgid "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
-msgstr "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
+msgstr "'Tu vois, les gens s'attende à un coup de poignards. C'est pour ça que je les frappe parfois avec les coudes'"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2F.NAME
 #, fuzzy
@@ -3231,10 +3224,9 @@ msgid "Discard a card."
 msgstr "Défausse une carte."
 
 #: ATTACK.ELBOW_STRIKE_PLUS2G.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2G.FLAVOUR"
 msgid "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
-msgstr "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
+msgstr "'Tu vois, les gens s'attende à un coup de poignards. C'est pour ça que je les frappe parfois avec les coudes'"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2G.NAME
 #, fuzzy
@@ -3249,10 +3241,9 @@ msgid "<#UPGRADE>Spend up to {1} {COMBO}: Deal {2} bonus damage per {COMBO} spen
 msgstr "<#UPGRADE>Spend up to {1} {COMBO}: Deal {2} bonus damage per {COMBO} spent.</>"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2H.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.ELBOW_STRIKE_PLUS2H.FLAVOUR"
 msgid "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
-msgstr "'See, people always expect the daggers. That's why I hit them with the elbow sometimes.'"
+msgstr "'Tu vois, les gens s'attende à un coup de poignards. C'est pour ça que je les frappe parfois avec les coudes'"
 
 #: ATTACK.ELBOW_STRIKE_PLUS2H.NAME
 #, fuzzy
@@ -3273,16 +3264,14 @@ msgid "Emergency Shield Generator"
 msgstr "Emergency Shield Generator"
 
 #: ATTACK.ENERGY_SIPHON.DESC
-#, fuzzy
 msgctxt "ATTACK.ENERGY_SIPHON.DESC"
 msgid "Steal all of the target's {POWER}."
-msgstr "Steal all of the target's {POWER}."
+msgstr "Volez toute la {POWER} de la cible."
 
 #: ATTACK.ENERGY_SIPHON.NAME
-#, fuzzy
 msgctxt "ATTACK.ENERGY_SIPHON.NAME"
 msgid "Energy Siphon"
-msgstr "Energy Siphon"
+msgstr "Siphon d'énergie"
 
 #: ATTACK.ENFEEBLING_RAY.NAME
 #, fuzzy
@@ -3387,10 +3376,9 @@ msgid "Persistent Exertion"
 msgstr "Persistent Exertion"
 
 #: ATTACK.FAN_THE_HAMMER.DESC
-#, fuzzy
 msgctxt "ATTACK.FAN_THE_HAMMER.DESC"
 msgid "Spend all {CHARGE}: repeat this attack once for each {CHARGE}."
-msgstr "Spend all {CHARGE}: repeat this attack once for each {CHARGE}."
+msgstr "Dépense tout les {CHARGE}: attaque une fois pour chaque {CHARGE}."
 
 #: ATTACK.FAN_THE_HAMMER.NAME
 #, fuzzy
@@ -3399,10 +3387,9 @@ msgid "Fan The Hammer"
 msgstr "Fan The Hammer"
 
 #: ATTACK.FAN_THE_HAMMER_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.FAN_THE_HAMMER_PLUS.DESC"
 msgid "Spend all {CHARGE}: repeat this attack once <#UPGRADE>and draw a card</> for each {CHARGE}."
-msgstr "Spend all {CHARGE}: repeat this attack once <#UPGRADE>and draw a card</> for each {CHARGE}."
+msgstr "Dépense tout les {CHARGE}: attaque une fois pour chaque {CHARGE} <#UPGRADE>et pioche une carte</>."
 
 #: ATTACK.FAN_THE_HAMMER_PLUS.NAME
 #, fuzzy
@@ -3411,10 +3398,9 @@ msgid "Visionary Hammer"
 msgstr "Visionary Hammer"
 
 #: ATTACK.FAN_THE_HAMMER_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.FAN_THE_HAMMER_PLUS2.DESC"
 msgid "Spend all {CHARGE}: repeat this attack once for each {CHARGE}."
-msgstr "Spend all {CHARGE}: repeat this attack once for each {CHARGE}."
+msgstr "Dépense tout les {CHARGE}: attaque une fois pour chaque {CHARGE}."
 
 #: ATTACK.FAN_THE_HAMMER_PLUS2.NAME
 #, fuzzy
@@ -3918,10 +3904,9 @@ msgid "Pale Follow Through"
 msgstr "Pale Follow Through"
 
 #: ATTACK.FOOTWORK.DESC
-#, fuzzy
 msgctxt "ATTACK.FOOTWORK.DESC"
 msgid "Discard a card. Gain actions equal to its cost + 1."
-msgstr "Discard a card. Gain actions equal to its cost + 1."
+msgstr "Défausse une carte. Gagner des actions égales à son coût + 1."
 
 #: ATTACK.FOOTWORK.NAME
 #, fuzzy
@@ -3953,10 +3938,9 @@ msgid "Visionary Footwork"
 msgstr "Visionary Footwork"
 
 #: ATTACK.FORCE_SPANNER.DESC
-#, fuzzy
 msgctxt "ATTACK.FORCE_SPANNER.DESC"
 msgid "On your next turn, gain temporary power equal to damage dealt by this card."
-msgstr "On your next turn, gain temporary power equal to damage dealt by this card."
+msgstr "Au prochain tour, gagnez une puissance temporaire égale aux dégâts infligés par cette carte."
 
 #: ATTACK.FORCE_SPANNER.NAME
 #, fuzzy
@@ -4191,10 +4175,9 @@ msgid "Ghost Strike"
 msgstr "Ghost Strike"
 
 #: ATTACK.GHOST_STRIKE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.GHOST_STRIKE_PLUS.DESC"
 msgid "Draw a card.\nDiscard this card: Your attacks deal max damage this turn."
-msgstr "Draw a card.\nDiscard this card: Your attacks deal max damage this turn."
+msgstr "Pioche une carte.\nDéfausse cette carte: ce tour-ci tes attaques infligent le maximum de dégâts."
 
 #: ATTACK.GHOST_STRIKE_PLUS.NAME
 #, fuzzy
@@ -4326,10 +4309,9 @@ msgid "Tall Gunslinger"
 msgstr "Tall Gunslinger"
 
 #: ATTACK.GUNSMOKE.DESC
-#, fuzzy
 msgctxt "ATTACK.GUNSMOKE.DESC"
 msgid "Spend 1 {CHARGE}: Gain 2 actions."
-msgstr "Spend 1 {CHARGE}: Gain 2 actions."
+msgstr "Dépense 1 {CHARGE}: Gagne 2 actions."
 
 #: ATTACK.GUNSMOKE.NAME
 #, fuzzy
@@ -4338,10 +4320,9 @@ msgid "Gun Smoke"
 msgstr "Gun Smoke"
 
 #: ATTACK.GUNSMOKE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.GUNSMOKE_PLUS.DESC"
 msgid "Spend 1 {CHARGE}: Gain 2 actions <#UPGRADE>and draw a card.</>"
-msgstr "Spend 1 {CHARGE}: Gain 2 actions <#UPGRADE>and draw a card.</>"
+msgstr "Dépense 1 {CHARGE}: Gagne 2 actions <#UPGRADE>et pioche une carte.</>"
 
 #: ATTACK.GUNSMOKE_PLUS.NAME
 #, fuzzy
@@ -4350,10 +4331,9 @@ msgid "Visionary Gun Smoke"
 msgstr "Visionary Gun Smoke"
 
 #: ATTACK.GUNSMOKE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.GUNSMOKE_PLUS2.DESC"
 msgid "Spend 1 {CHARGE}: Gain 2 actions <#UPGRADE>and gain 3 {DEFEND}.</>"
-msgstr "Spend 1 {CHARGE}: Gain 2 actions <#UPGRADE>and gain 3 {DEFEND}.</>"
+msgstr "Dépense 1 {CHARGE}: Gagne 2 actions <#UPGRADE>et gagne 3 {DEFEND}.</>"
 
 #: ATTACK.GUNSMOKE_PLUS2.NAME
 #, fuzzy
@@ -4372,10 +4352,9 @@ msgid "Gut Shot"
 msgstr "Coup dans le ventre"
 
 #: ATTACK.HAIR_TRIGGER.DESC
-#, fuzzy
 msgctxt "ATTACK.HAIR_TRIGGER.DESC"
 msgid "Spend 1 {CHARGE}: deal {1} bonus damage."
-msgstr "Spend 1 {CHARGE}: deal {1} bonus damage."
+msgstr "Dépense 1 {CHARGE}: donne {1} de dégât bonus."
 
 #: ATTACK.HAIR_TRIGGER.NAME
 #, fuzzy
@@ -4384,10 +4363,9 @@ msgid "Hair Trigger"
 msgstr "Hair Trigger"
 
 #: ATTACK.HAIR_TRIGGER_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.HAIR_TRIGGER_PLUS.DESC"
 msgid "Spend <#UPGRADE>up to 2 {CHARGE}: deal {1} bonus damage per charge spent.</>"
-msgstr "Spend <#UPGRADE>up to 2 {CHARGE}: deal {1} bonus damage per charge spent.</>"
+msgstr "Dépense <#UPGRADE>jusqu'a 2 {CHARGE}: donne {1} de dégât bonus par charge dépenser.</>"
 
 #: ATTACK.HAIR_TRIGGER_PLUS.NAME
 #, fuzzy
@@ -4396,10 +4374,9 @@ msgid "Enhanced Trigger"
 msgstr "Enhanced Trigger"
 
 #: ATTACK.HAIR_TRIGGER_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.HAIR_TRIGGER_PLUS2.DESC"
 msgid "Spend 1 {CHARGE}: deal <#UPGRADE>{1}</> bonus damage."
-msgstr "Spend 1 {CHARGE}: deal <#UPGRADE>{1}</> bonus damage."
+msgstr "Dépens 1 {CHARGE}: donne <#UPGRADE>{1}</> dégâts bonus."
 
 #: ATTACK.HAIR_TRIGGER_PLUS2.NAME
 #, fuzzy
@@ -4447,10 +4424,9 @@ msgid "Spiked Carapace"
 msgstr "Spiked Carapace"
 
 #: ATTACK.HASTE.DESC
-#, fuzzy
 msgctxt "ATTACK.HASTE.DESC"
 msgid "Gain 1 Action."
-msgstr "Gain 1 Action."
+msgstr "Gagne 1 Action."
 
 #: ATTACK.HASTE.NAME
 #, fuzzy
@@ -4861,7 +4837,7 @@ msgstr "Boosted Flow"
 #: ATTACK.IMPROVISE_HIDE.FLAVOUR
 msgctxt "ATTACK.IMPROVISE_HIDE.FLAVOUR"
 msgid "'You can't fight what you can't find.'"
-msgstr "'On ne peut pas combattre ce qu'on ne trouve pas'"
+msgstr "'On ne peut combattre ce que l'on ne voit pas'"
 
 #: ATTACK.IMPROVISE_HIDE.NAME
 #, fuzzy
@@ -4870,10 +4846,9 @@ msgid "Hide"
 msgstr "Hide"
 
 #: ATTACK.IMPROVISE_HIDE_UPGRADED.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_HIDE_UPGRADED.FLAVOUR"
 msgid "'You can't fight what you can't find.'"
-msgstr "'You can't fight what you can't find.'"
+msgstr "'On ne peut combattre ce que l'on ne voit pas'"
 
 #: ATTACK.IMPROVISE_HIDE_UPGRADED.NAME
 #, fuzzy
@@ -5040,10 +5015,9 @@ msgid "Spare Battery"
 msgstr "Spare Battery"
 
 #: ATTACK.IMPROVISE_SPARE_AMMO_UPGRADED.DESC
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_SPARE_AMMO_UPGRADED.DESC"
 msgid "Gain 2 {CHARGE} and gain 2 {DEFEND}."
-msgstr "Gain 2 {CHARGE} and gain 2 {DEFEND}."
+msgstr "Gagne 2 {CHARGE} et gagne 2 {DEFEND}."
 
 #: ATTACK.IMPROVISE_SPARE_AMMO_UPGRADED.NAME
 #, fuzzy
