@@ -62,18 +62,6 @@ red         16.7%  brightgreen
 | Total                         | 13141(100 %) | 182040 |    1089914 |
 ```
 
-
-* Traduction                                         Éléments                 Mots           Caractères
-Traduit                                          ‪3051 (23 %)                18459               115580
-À réviser                                       ‪10090 (77 %)               163581               974334
-Traductions avec erreurs                                    0
-
- *Texte source
-Chaînes dans la langue source                           13141               181021              1076366
-À réviser                                                                   163581               974346
-Non traduit                                                 0                    0                    0
-
-
 ## Contact
 <a href=https://discord.gg/PT4NFkk><img src="https://img.icons8.com/color/50/000000/discord-logo.png"></a>
 <a href=mailto:medaey@hotmail.com><img src="https://i.ibb.co/Pr1Mtf9/mail.png"></a>
