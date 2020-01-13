@@ -467,10 +467,9 @@ msgid "Spark Charge"
 msgstr "Spark Charge"
 
 #: ATTACK.AI_SPARKY_COUNTER.NAME
-#, fuzzy
 msgctxt "ATTACK.AI_SPARKY_COUNTER.NAME"
 msgid "Counter"
-msgstr "Counter"
+msgstr "Contre"
 
 #: ATTACK.AI_SPARKY_DEFEND.NAME
 #, fuzzy
@@ -820,7 +819,6 @@ msgid "Heal 10 health."
 msgstr "Guérir 10 de santé."
 
 #: ATTACK.BANDAGE.NAME
-#, fuzzy
 msgctxt "ATTACK.BANDAGE.NAME"
 msgid "Bandage"
 msgstr "Bandage"
@@ -1510,10 +1508,9 @@ msgid "Boosted Brain Burn"
 msgstr "Boosted Brain Burn"
 
 #: ATTACK.BRAIN_TICK.DESC
-#, fuzzy
 msgctxt "ATTACK.BRAIN_TICK.DESC"
 msgid "Remove all debuffs on a target and heal {1} per debuff."
-msgstr "Remove all debuffs on a target and heal {1} per debuff."
+msgstr "Retire tout les malus de la cible et soigne de {1} par malus retirer."
 
 #: ATTACK.BRAIN_TICK.NAME
 #, fuzzy
@@ -1522,10 +1519,9 @@ msgid "Brain Tick"
 msgstr "Brain Tick"
 
 #: ATTACK.BRAIN_TICK_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.BRAIN_TICK_PLUS.DESC"
 msgid "Remove all debuffs on a target and heal <#UPGRADE>{1}</> per debuff."
-msgstr "Remove all debuffs on a target and heal <#UPGRADE>{1}</> per debuff."
+msgstr "Retire tout les malus de la cible et soigne de <#UPGRADE>{1}</> par malus retirer."
 
 #: ATTACK.BRAIN_TICK_PLUS.NAME
 #, fuzzy
@@ -1534,10 +1530,9 @@ msgid "Enhanced Brain Tick"
 msgstr "Enhanced Brain Tick"
 
 #: ATTACK.BRAIN_TICK_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.BRAIN_TICK_PLUS2.DESC"
 msgid "Remove all debuffs on a target and heal {1} per debuff."
-msgstr "Remove all debuffs on a target and heal {1} per debuff."
+msgstr "Retire tout les malus de la cible et soigne de {1} par malus retirer."
 
 #: ATTACK.BRAIN_TICK_PLUS2.NAME
 #, fuzzy
@@ -1579,10 +1574,9 @@ msgid "Boosted Brazen Attack"
 msgstr "Boosted Brazen Attack"
 
 #: ATTACK.BREATHER.DESC
-#, fuzzy
 msgctxt "ATTACK.BREATHER.DESC"
 msgid "Spend {1} {COMBO}: Gain 1 Action."
-msgstr "Spend {1} {COMBO}: Gain 1 Action."
+msgstr "Dépenser {1} {COMBO}: Gagne 1 Action."
 
 #: ATTACK.BREATHER.NAME
 #, fuzzy
@@ -1591,10 +1585,9 @@ msgid "Breather"
 msgstr "Breather"
 
 #: ATTACK.BREATHER_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.BREATHER_PLUS.DESC"
 msgid "Spend <#UPGRADE>{1}</> {COMBO}: Gain 1 Action."
-msgstr "Spend <#UPGRADE>{1}</> {COMBO}: Gain 1 Action."
+msgstr "Dépenser <#UPGRADE>{1}</> {COMBO}: Gagne 1 Action."
 
 #: ATTACK.BREATHER_PLUS.NAME
 #, fuzzy
@@ -1603,10 +1596,9 @@ msgid "Pale Breather"
 msgstr "Pale Breather"
 
 #: ATTACK.BREATHER_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.BREATHER_PLUS2.DESC"
 msgid "Spend {1} {COMBO}: Gain 2 Actions next turn."
-msgstr "Spend {1} {COMBO}: Gain 2 Actions next turn."
+msgstr "Dépenser {1} {COMBO}: Gagne 2 Actions au tour suivant."
 
 #: ATTACK.BREATHER_PLUS2.NAME
 #, fuzzy
@@ -2066,10 +2058,9 @@ msgid "Tall Clean Open"
 msgstr "Tall Clean Open"
 
 #: ATTACK.CLEAR_SHOT.DESC
-#, fuzzy
 msgctxt "ATTACK.CLEAR_SHOT.DESC"
 msgid "Gain 1 minimum damage per empty cell."
-msgstr "Gain 1 minimum damage per empty cell."
+msgstr "Gagner 1 de dégât minimum par emplacement vide."
 
 #: ATTACK.CLEAR_SHOT.NAME
 #, fuzzy
@@ -2078,10 +2069,9 @@ msgid "Clear Shot"
 msgstr "Clear Shot"
 
 #: ATTACK.CLEAR_SHOT_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.CLEAR_SHOT_PLUS.DESC"
 msgid "Gain 1 minimum damage per empty cell."
-msgstr "Gain 1 minimum damage per empty cell."
+msgstr "Gagner 1 de dégât minimum par emplacement vide."
 
 #: ATTACK.CLEAR_SHOT_PLUS.NAME
 #, fuzzy
@@ -2090,10 +2080,9 @@ msgid "Tall Clear Shot"
 msgstr "Tall Clear Shot"
 
 #: ATTACK.CLEAR_SHOT_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.CLEAR_SHOT_PLUS2.DESC"
 msgid "Gain 1 minimum damage per empty cell."
-msgstr "Gain 1 minimum damage per empty cell."
+msgstr "Gagner 1 de dégât minimum par emplacement vide."
 
 #: ATTACK.CLEAR_SHOT_PLUS2.NAME
 #, fuzzy
@@ -2125,10 +2114,9 @@ msgid "Coil Grenade"
 msgstr "Coil Grenade"
 
 #: ATTACK.COMBAT_DRONE.DESC
-#, fuzzy
 msgctxt "ATTACK.COMBAT_DRONE.DESC"
 msgid "Summons a combat drone to fight for you."
-msgstr "Summons a combat drone to fight for you."
+msgstr "Appelle un drone de combat qui viens combattre pour vous."
 
 #: ATTACK.COMBAT_DRONE.NAME
 msgctxt "ATTACK.COMBAT_DRONE.NAME"
@@ -2136,10 +2124,9 @@ msgid "Combat Drone"
 msgstr "Drone de combat"
 
 #: ATTACK.COMBAT_GAUZE.DESC
-#, fuzzy
 msgctxt "ATTACK.COMBAT_GAUZE.DESC"
 msgid "Remove a random debuff."
-msgstr "Remove a random debuff."
+msgstr "Retire tout les malus."
 
 #: ATTACK.COMBAT_GAUZE.NAME
 #, fuzzy
@@ -2247,10 +2234,9 @@ msgid "Crackle"
 msgstr "Crackle"
 
 #: ATTACK.CRACKLE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.CRACKLE_PLUS.DESC"
 msgid "If the target has {BURN}, gain <#UPGRADE>{1}</> {CHARGE}."
-msgstr "If the target has {BURN}, gain <#UPGRADE>{1}</> {CHARGE}."
+msgstr "Si la cible {BURN}, gagner <#UPGRADE>{1}</> {CHARGE}."
 
 #: ATTACK.CRACKLE_PLUS.NAME
 #, fuzzy
@@ -2259,10 +2245,9 @@ msgid "Inductive Crackle"
 msgstr "Inductive Crackle"
 
 #: ATTACK.CRACKLE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.CRACKLE_PLUS2.DESC"
 msgid "If the target has {BURN}, gain {1} {CHARGE}."
-msgstr "If the target has {BURN}, gain {1} {CHARGE}."
+msgstr "Si la cible {BURN}, gagner {1} {CHARGE}."
 
 #: ATTACK.CRACKLE_PLUS2.NAME
 #, fuzzy
@@ -3713,7 +3698,7 @@ msgstr "Wide Firestorm"
 #: ATTACK.FISTFUL.DESC
 msgctxt "ATTACK.FISTFUL.DESC"
 msgid "Draw 2 cards, gain 1 {CHARGE} for each attack card drawn."
-msgstr "Pioche 2 cartes, gagne 1 {CHARGE} pour chaque cartes d'attaque piocher"
+msgstr "Pioche 2 cartes, gagne 1 {CHARGE} pour chaque cartes d'attaque piocher."
 
 #: ATTACK.FISTFUL.NAME
 #, fuzzy
@@ -9940,10 +9925,9 @@ msgid "Assassin Mark"
 msgstr "Assassin Mark"
 
 #: BATTLE_FEATURE.ASSAULT.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.ASSAULT.DESC"
 msgid "The next attack card is played twice."
-msgstr "The next attack card is played twice."
+msgstr "La prochaine carte d'attaque est jouée deux fois."
 
 #: BATTLE_FEATURE.ASSAULT.NAME
 #, fuzzy
@@ -10080,10 +10064,9 @@ msgid "Bloody Mess"
 msgstr "Bloody Mess"
 
 #: BATTLE_FEATURE.BODY_PIERCING.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.BODY_PIERCING.DESC"
 msgid "At the end of every turn, gain {RIPOSTE 1} for every 3 {DEFEND} you have."
-msgstr "At the end of every turn, gain {RIPOSTE 1} for every 3 {DEFEND} you have."
+msgstr "A la fin de chaque tour, pour de 3 de {DEFEND} gagner {RIPOSTE 1} ."
 
 #: BATTLE_FEATURE.BODY_PIERCING.NAME
 #, fuzzy
@@ -10496,10 +10479,9 @@ msgid "Curse of Hesh"
 msgstr "Curse of Hesh"
 
 #: BATTLE_FEATURE.CYNOTRAINER.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.CYNOTRAINER.DESC"
 msgid "Discard a card.\nDouble the damage on a random card in your hand this turn."
-msgstr "Discard a card.\nDouble the damage on a random card in your hand this turn."
+msgstr "Défaussez une carte.\nCe tour-ci double les dégâts d'une carte en main."
 
 #: BATTLE_FEATURE.CYNOTRAINER.NAME
 #, fuzzy
@@ -11985,10 +11967,9 @@ msgid "This card has an additional effect when it is the left-most card in your 
 msgstr "This card has an additional effect when it is the left-most card in your hand."
 
 #: BATTLE_FEATURE.PREPARED.NAME
-#, fuzzy
 msgctxt "BATTLE_FEATURE.PREPARED.NAME"
 msgid "Prepared"
-msgstr "Prepared"
+msgstr "Préparer"
 
 #: BATTLE_FEATURE.PRIMED.DESC
 #, fuzzy
@@ -12510,10 +12491,9 @@ msgid "Slated Carapace"
 msgstr "Slated Carapace"
 
 #: BATTLE_FEATURE.SNAP_TALON.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.SNAP_TALON.DESC"
 msgid "Your attacks deal 2 bonus damage to targets with {BLEED}."
-msgstr "Your attacks deal 2 bonus damage to targets with {BLEED}."
+msgstr "Vos attaques infligent 2 points de dégâts supplémentaires aux cibles avec {BLEED}."
 
 #: BATTLE_FEATURE.SNAP_TALON.NAME
 #, fuzzy
@@ -12701,16 +12681,14 @@ msgid "Steady Hands"
 msgstr "Steady Hands"
 
 #: BATTLE_FEATURE.STICKY.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.STICKY.DESC"
 msgid "This card is not discarded at the end of your turn."
-msgstr "This card is not discarded at the end of your turn."
+msgstr "Cette carte n′est pas défausser à la fin de votre tour."
 
 #: BATTLE_FEATURE.STICKY.NAME
-#, fuzzy
 msgctxt "BATTLE_FEATURE.STICKY.NAME"
 msgid "Sticky"
-msgstr "Sticky"
+msgstr "Collante"
 
 #: BATTLE_FEATURE.STUDY_GUIDE.DESC
 #, fuzzy
@@ -16254,10 +16232,9 @@ msgid "Sal's Savvy"
 msgstr "Sal's Savvy"
 
 #: CARD.GRUMBLE.DESC
-#, fuzzy
 msgctxt "CARD.GRUMBLE.DESC"
 msgid "{SNAILS}: Gain 1 bonus damage."
-msgstr "{SNAILS}: Gain 1 bonus damage."
+msgstr "{SNAILS}: Gagne 1 de dégâts supplémentaire."
 
 #: CARD.GRUMBLE.NAME
 #, fuzzy
@@ -16514,10 +16491,9 @@ msgid "Boosted Head Split"
 msgstr "Boosted Head Split"
 
 #: CARD.HEAD_TURNER.DESC
-#, fuzzy
 msgctxt "CARD.HEAD_TURNER.DESC"
 msgid "{HEADS}: Deal max damage.\n{PREPARED}: Gain 1 action."
-msgstr "{HEADS}: Deal max damage.\n{PREPARED}: Gain 1 action."
+msgstr "{HEADS}: Dégâts maximums.\n{PREPARED}: Gagne 1 action."
 
 #: CARD.HEAD_TURNER.NAME
 #, fuzzy
@@ -16526,10 +16502,9 @@ msgid "Head Turner"
 msgstr "Head Turner"
 
 #: CARD.HEAD_TURNER_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.HEAD_TURNER_PLUS.DESC"
 msgid "{HEADS}: Deal max damage.\n{PREPARED}: Gain 1 action."
-msgstr "{HEADS}: Deal max damage.\n{PREPARED}: Gain 1 action."
+msgstr "{HEADS}: Dégâts maximums.\n{PREPARED}: Gagne 1 action."
 
 #: CARD.HEAD_TURNER_PLUS.NAME
 #, fuzzy
@@ -16540,7 +16515,7 @@ msgstr "Tall Head Turner"
 #: CARD.HEAD_TURNER_PLUS2.DESC
 msgctxt "CARD.HEAD_TURNER_PLUS2.DESC"
 msgid "{HEADS}: Deal max damage.\n{PREPARED}: Gain 1 action<#UPGRADE> and draw a card.</>"
-msgstr "{HEADS}: Dégât max.\n{PREPARED}: Gagner 1 action<#UPGRADE> et pioche une carte.</>"
+msgstr "{HEADS}: Dégât maximums.\n{PREPARED}: Gagner 1 action<#UPGRADE> et pioche une carte.</>"
 
 #: CARD.HEAD_TURNER_PLUS2.NAME
 #, fuzzy
@@ -16561,10 +16536,9 @@ msgid "Headbang"
 msgstr "Headbang"
 
 #: CARD.HEADBANG_PLUS.DESC
-#, fuzzy
 msgctxt "CARD.HEADBANG_PLUS.DESC"
 msgid "{HEADS}: Double this card's damage and {GAMBLE}."
-msgstr "{HEADS}: Double this card's damage and {GAMBLE}."
+msgstr "{HEADS}: Double les dégâts de cette carte et faite un {GAMBLE}."
 
 #: CARD.HEADBANG_PLUS.NAME
 #, fuzzy
@@ -16573,10 +16547,9 @@ msgid "Rooted Headbang"
 msgstr "Rooted Headbang"
 
 #: CARD.HEADBANG_PLUS2.DESC
-#, fuzzy
 msgctxt "CARD.HEADBANG_PLUS2.DESC"
 msgid "<#UPGRADE>{SNAILS}</>: Double this card's damage and {GAMBLE}."
-msgstr "<#UPGRADE>{SNAILS}</>: Double this card's damage and {GAMBLE}."
+msgstr "<#UPGRADE>{SNAILS}</>: Double les dégât de cette carte et faite un {GAMBLE}."
 
 #: CARD.HEADBANG_PLUS2.NAME
 #, fuzzy
@@ -16591,10 +16564,9 @@ msgid "Core Argument"
 msgstr "Core Argument"
 
 #: CARD.HEARTY.DESC
-#, fuzzy
 msgctxt "CARD.HEARTY.DESC"
 msgid "Restore 5 resolve."
-msgstr "Restore 5 resolve."
+msgstr "Restaure 5 détermination."
 
 #: CARD.HEARTY.NAME
 #, fuzzy
@@ -18180,10 +18152,9 @@ msgid "Tall Plead"
 msgstr "Tall Plead"
 
 #: CARD.PLEASANTRIES.DESC
-#, fuzzy
 msgctxt "CARD.PLEASANTRIES.DESC"
 msgid "{HEADS}: Deal max damage."
-msgstr "{HEADS}: Deal max damage."
+msgstr "{HEADS}: Dégât maximums."
 
 #: CARD.PLEASANTRIES.NAME
 #, fuzzy
@@ -18192,7 +18163,6 @@ msgid "Pleasantries"
 msgstr "Pleasantries"
 
 #: CARD.PLEASANTRIES_PLUS2A.DESC
-#, fuzzy
 msgctxt "CARD.PLEASANTRIES_PLUS2A.DESC"
 msgid "<#UPGRADE>{PREPARE} a card.</>\n{HEADS}: Deal max damage."
 msgstr "<#UPGRADE>{PREPARE} a card.</>\n{HEADS}: Deal max damage."
@@ -18204,10 +18174,9 @@ msgid "Sifting Pleasantries"
 msgstr "Sifting Pleasantries"
 
 #: CARD.PLEASANTRIES_PLUS2B.DESC
-#, fuzzy
 msgctxt "CARD.PLEASANTRIES_PLUS2B.DESC"
 msgid "<#UPGRADE>Gain 1 {INFLUENCE}.</>\n{HEADS}: Deal max damage."
-msgstr "<#UPGRADE>Gain 1 {INFLUENCE}.</>\n{HEADS}: Deal max damage."
+msgstr "<#UPGRADE>Gagne 1 {INFLUENCE}.</>\n{HEADS}: Dégât maximums."
 
 #: CARD.PLEASANTRIES_PLUS2B.NAME
 #, fuzzy
@@ -18216,10 +18185,9 @@ msgid "Cordial Pleasantries"
 msgstr "Cordial Pleasantries"
 
 #: CARD.PLEASANTRIES_PLUS2C.DESC
-#, fuzzy
 msgctxt "CARD.PLEASANTRIES_PLUS2C.DESC"
 msgid "{HEADS}: Deal max damage."
-msgstr "{HEADS}: Deal max damage."
+msgstr "{HEADS}: Dégât maximums."
 
 #: CARD.PLEASANTRIES_PLUS2C.NAME
 #, fuzzy
@@ -18228,10 +18196,9 @@ msgid "Tall Pleasantries"
 msgstr "Tall Pleasantries"
 
 #: CARD.PLEASANTRIES_PLUS2D.DESC
-#, fuzzy
 msgctxt "CARD.PLEASANTRIES_PLUS2D.DESC"
 msgid "<#UPGRADE>Draw a card.</>\n{HEADS}: Deal max damage."
-msgstr "<#UPGRADE>Draw a card.</>\n{HEADS}: Deal max damage."
+msgstr "<#UPGRADE>Pioche une carte.</>\n{HEADS}: Dégât maximums."
 
 #: CARD.PLEASANTRIES_PLUS2D.NAME
 #, fuzzy
@@ -18240,10 +18207,9 @@ msgid "Visionary Pleasantries"
 msgstr "Visionary Pleasantries"
 
 #: CARD.PLEASANTRIES_PLUS2E.DESC
-#, fuzzy
 msgctxt "CARD.PLEASANTRIES_PLUS2E.DESC"
 msgid "<#UPGRADE>{GAMBLE}.</>\n{HEADS}: Deal max damage."
-msgstr "<#UPGRADE>{GAMBLE}.</>\n{HEADS}: Deal max damage."
+msgstr "<#UPGRADE>{GAMBLE}.</>\n{HEADS}: Dégât maximums."
 
 #: CARD.PLEASANTRIES_PLUS2E.NAME
 #, fuzzy
@@ -18252,10 +18218,9 @@ msgid "Speculative Pleasantries"
 msgstr "Speculative Pleasantries"
 
 #: CARD.PLEASANTRIES_PLUS2F.DESC
-#, fuzzy
 msgctxt "CARD.PLEASANTRIES_PLUS2F.DESC"
 msgid "<#UPGRADE>{SET}.</>\n{HEADS}: Deal max damage.\n<#UPGRADE>{EXPEND}.</>"
-msgstr "<#UPGRADE>{SET}.</>\n{HEADS}: Deal max damage.\n<#UPGRADE>{EXPEND}.</>"
+msgstr "<#UPGRADE>{SET}.</>\n{HEADS}: Dégât maximums.\n<#UPGRADE>{EXPEND}.</>"
 
 #: CARD.PLEASANTRIES_PLUS2F.NAME
 #, fuzzy
@@ -18264,10 +18229,9 @@ msgid "Decisive Pleasantries"
 msgstr "Decisive Pleasantries"
 
 #: CARD.PLEASANTRIES_PLUS2G.DESC
-#, fuzzy
 msgctxt "CARD.PLEASANTRIES_PLUS2G.DESC"
 msgid "{HEADS}: Deal max damage."
-msgstr "{HEADS}: Deal max damage."
+msgstr "{HEADS}: Dégât maximums."
 
 #: CARD.PLEASANTRIES_PLUS2G.NAME
 #, fuzzy
@@ -18276,10 +18240,9 @@ msgid "Lucid Pleasantries"
 msgstr "Lucid Pleasantries"
 
 #: CARD.PLEASANTRIES_PLUS2H.DESC
-#, fuzzy
 msgctxt "CARD.PLEASANTRIES_PLUS2H.DESC"
 msgid "<#UPGRADE>{RIG} 1 {HEADS}.</>\n{HEADS}: Deal max damage."
-msgstr "<#UPGRADE>{RIG} 1 {HEADS}.</>\n{HEADS}: Deal max damage."
+msgstr "<#UPGRADE>{RIG} 1 {HEADS}.</>\n{HEADS}: Dégât maximums."
 
 #: CARD.PLEASANTRIES_PLUS2H.NAME
 #, fuzzy
@@ -53453,10 +53416,9 @@ msgid "Boosted Slug Nook"
 msgstr "Boosted Slug Nook"
 
 #: GRAFT.SNAP_TALON.DESC
-#, fuzzy
 msgctxt "GRAFT.SNAP_TALON.DESC"
 msgid "Your attacks deal 2 bonus damage to targets with {BLEED}."
-msgstr "Your attacks deal 2 bonus damage to targets with {BLEED}."
+msgstr "Vos attaques infligent 2 points de dégâts supplémentaires aux cibles avec {BLEED}."
 
 #: GRAFT.SNAP_TALON.NAME
 #, fuzzy
@@ -58222,16 +58184,14 @@ msgid "Boosted Frontal Goad"
 msgstr "Boosted Frontal Goad"
 
 #: NEGOTIATION_FEATURE.GAMBLE.DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.GAMBLE.DESC"
 msgid "Flip your {1}."
-msgstr "Flip your {1}."
+msgstr "Lancer votre {1}."
 
 #: NEGOTIATION_FEATURE.GAMBLE.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.GAMBLE.NAME"
 msgid "Gamble"
-msgstr "Gamble"
+msgstr "Parie"
 
 #: NEGOTIATION_FEATURE.GET_AUTOMECH_CODE.DESC
 #, fuzzy
@@ -58289,12 +58249,12 @@ msgstr "<p img='icons/ic_coin_heads.tex' scale=1.0>"
 #: NEGOTIATION_FEATURE.HEADS_AND_SNAILS.DESC
 msgctxt "NEGOTIATION_FEATURE.HEADS_AND_SNAILS.DESC"
 msgid "Heads and Snails are the two sides of your lucky coin"
-msgstr "Pile et Face sont les deux côté de votre pièce porte-bonheur"
+msgstr "Les deux côté de votre pièce porte-bonheur"
 
 #: NEGOTIATION_FEATURE.HEADS_AND_SNAILS.NAME
 msgctxt "NEGOTIATION_FEATURE.HEADS_AND_SNAILS.NAME"
 msgid "Heads <p img='icons/ic_coin_heads.tex' scale=1.0> and Snails <p img='icons/ic_coin_snails.tex' scale=1.0>"
-msgstr "Pile <p img='icons/ic_coin_snails.tex' scale=1.0>et Face <p img='icons/ic_coin_heads.tex' scale=1.0>"
+msgstr "Pile <p img='icons/ic_coin_snails.tex' scale=1.0> et Face <p img='icons/ic_coin_heads.tex' scale=1.0>"
 
 #: NEGOTIATION_FEATURE.HEART.NAME
 #, fuzzy
@@ -58334,7 +58294,7 @@ msgstr "Gagner {1} {HOSTILITY}."
 #: NEGOTIATION_FEATURE.HOSTILITY.NAME
 msgctxt "NEGOTIATION_FEATURE.HOSTILITY.NAME"
 msgid "Hostility"
-msgstr "Hostilité"
+msgstr "HOSTILE"
 
 #: NEGOTIATION_FEATURE.IMPATIENCE.DESC
 msgctxt "NEGOTIATION_FEATURE.IMPATIENCE.DESC"
@@ -58917,10 +58877,9 @@ msgid "Prepare"
 msgstr "Preparer"
 
 #: NEGOTIATION_FEATURE.PREPARED.DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.PREPARED.DESC"
 msgid "A card is <b>Prepared</> if it is the left-most card in your hand"
-msgstr "A card is <b>Prepared</> if it is the left-most card in your hand"
+msgstr "Une carte est <b>Préparer</> si c'est la cartes la plus à gauche de votre main"
 
 #: NEGOTIATION_FEATURE.PREPARED.NAME
 #, fuzzy
@@ -59296,16 +59255,14 @@ msgid "Stacked Deck"
 msgstr "Stacked Deck"
 
 #: NEGOTIATION_FEATURE.STICKY.DESC
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.STICKY.DESC"
 msgid "This card is not discarded at the end of your turn."
-msgstr "This card is not discarded at the end of your turn."
+msgstr "Cette carte n′est pas défausser à la fin de votre tour."
 
 #: NEGOTIATION_FEATURE.STICKY.NAME
-#, fuzzy
 msgctxt "NEGOTIATION_FEATURE.STICKY.NAME"
 msgid "Sticky"
-msgstr "Sticky"
+msgstr "Collante"
 
 #: NEGOTIATION_FEATURE.STINGER.DESC
 #, fuzzy
@@ -69315,10 +69272,9 @@ msgid "<i>VS</>"
 msgstr "<i>CONTRE</>"
 
 #: UI.BLASTER_SCREEN.CHARGES_TEXT
-#, fuzzy
 msgctxt "UI.BLASTER_SCREEN.CHARGES_TEXT"
 msgid "Pistol chambers can hold Charge. Charge can be used in combat for additional effects. Empty chambers restore Charge over time, protecting Rook in the meanwhile."
-msgstr "Pistol chambers can hold Charge. Charge can be used in combat for additional effects. Empty chambers restore Charge over time, protecting Rook in the meanwhile."
+msgstr "Les chambres des pistolets contient des charges, charges qui peuvent être utilisées en combat pour obtenir certains effets. Quand une charge et vides elle protégeant Rook. Les charges reviennent avec le temps."
 
 #: UI.BLASTER_SCREEN.CHARGES_TITLE_EMPTY
 #, fuzzy
@@ -69345,16 +69301,19 @@ msgid "Gaining Charge while at full Charge generates Overcharge. Each Overcharge
 msgstr "Gaining Charge while at full Charge generates Overcharge. Each Overcharge increases max damage by 1. It decays over time."
 
 #: UI.BLASTER_SCREEN.OVERCHARGE_TITLE_NOLIMIT
-#, fuzzy
 msgctxt "UI.BLASTER_SCREEN.OVERCHARGE_TITLE_NOLIMIT"
 msgid "OVERCHARGE LIMIT: NO LIMIT"
-msgstr "OVERCHARGE LIMIT: NO LIMIT"
+msgstr "LIMITE DE SURCHARGE : PAS DE LIMITE"
 
 #: UI.BLASTER_SCREEN.OVERCHARGE_TITLE
-#, fuzzy
 msgctxt "UI.BLASTER_SCREEN.OVERCHARGE_TITLE"
 msgid "OVERCHARGE LIMIT: {1}"
-msgstr "OVERCHARGE LIMIT: {1}"
+msgstr "LIMITE DE SURCHARGE : {1}"
+
+#: UI.BLASTER_SCREEN.SUBTITLE
+msgctxt "UI.BLASTER_SCREEN.SUBTITLE"
+msgid ""
+msgstr ""
 
 #: UI.BLASTER_SCREEN.TITLE
 msgctxt "UI.BLASTER_SCREEN.TITLE"
@@ -69395,7 +69354,7 @@ msgstr "Diplomatie"
 #: UI.CARD_WIDGET.CARD_TYPE.HOSTILE
 msgctxt "UI.CARD_WIDGET.CARD_TYPE.HOSTILE"
 msgid "Hostility"
-msgstr "Hostilité"
+msgstr "Hostile"
 
 #: UI.CARD_WIDGET.CARD_TYPE.MANIPULATE
 msgctxt "UI.CARD_WIDGET.CARD_TYPE.MANIPULATE"
@@ -69737,10 +69696,9 @@ msgid "CARD SORTING"
 msgstr "TRIER PAR"
 
 #: UI.CARDCOMPENDIUM.CARD_LOCKED_TT
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.CARD_LOCKED_TT"
 msgid "<b><#TITLE>Locked Card</></b>\nThis card is locked. Doing more runs with this character will unlock more of their cards."
-msgstr "<b><#TITLE>Locked Card</></b>\nThis card is locked. Doing more runs with this character will unlock more of their cards."
+msgstr "<b><#TITLE>Carte verrouillée</#TITLE></b>\nCette carte est verrouillée. Joué plus avec ce personnage pour débloquera des cartes."
 
 #: UI.CARDCOMPENDIUM.CONTROLS_LABEL_TAB_LEFT
 msgctxt "UI.CARDCOMPENDIUM.CONTROLS_LABEL_TAB_LEFT"
@@ -70171,10 +70129,9 @@ msgid "UPGRADED GRAFT"
 msgstr "UPGRADED GRAFT"
 
 #: UI.CARDCOMPENDIUM.UPGRADES_TITLE
-#, fuzzy
 msgctxt "UI.CARDCOMPENDIUM.UPGRADES_TITLE"
 msgid "POTENTIAL UPGRADES"
-msgstr "POTENTIAL UPGRADES"
+msgstr "AMÉLIORATIONS POSSIBLES"
 
 #: UI.CARDS.ACTIONS
 msgctxt "UI.CARDS.ACTIONS"
@@ -71484,7 +71441,7 @@ msgstr "Objet"
 #: UI.FIGHT_SCREEN.CARD_TYPE.MANEUVER_TOOLTIP
 msgctxt "UI.FIGHT_SCREEN.CARD_TYPE.MANEUVER_TOOLTIP"
 msgid "Maneuver"
-msgstr "Manœuvre"
+msgstr "MANOEUVRE"
 
 #: UI.FIGHT_SCREEN.CARD_TYPE.RANGED_ATTACK_TOOLTIP
 #, fuzzy
@@ -72560,16 +72517,14 @@ msgid "View Battle Deck"
 msgstr "Voir deck de combat"
 
 #: UI.MAIN_OVERLAY.VIEW_BLASTER
-#, fuzzy
 msgctxt "UI.MAIN_OVERLAY.VIEW_BLASTER"
 msgid "View Pistols"
-msgstr "View Pistols"
+msgstr "Voir les pistolets"
 
 #: UI.MAIN_OVERLAY.VIEW_COIN
-#, fuzzy
 msgctxt "UI.MAIN_OVERLAY.VIEW_COIN"
 msgid "View Lucky Coin"
-msgstr "View Lucky Coin"
+msgstr "Voir pièce porte-bonheur"
 
 #: UI.MAIN_OVERLAY.VIEW_GRAFTS
 msgctxt "UI.MAIN_OVERLAY.VIEW_GRAFTS"
@@ -72577,10 +72532,9 @@ msgid "View Grafts"
 msgstr "Voir les Grafts"
 
 #: UI.MAIN_OVERLAY.VIEW_MUTATORS
-#, fuzzy
 msgctxt "UI.MAIN_OVERLAY.VIEW_MUTATORS"
 msgid "View Active Mutators"
-msgstr "View Active Mutators"
+msgstr "Voir les Mutators actifs"
 
 #: UI.MAIN_OVERLAY.VIEW_NEGOTIATION_DECK
 msgctxt "UI.MAIN_OVERLAY.VIEW_NEGOTIATION_DECK"
@@ -72750,10 +72704,9 @@ msgid "PLAY"
 msgstr "JOUER"
 
 #: UI.MAINMENU.QUICKPLAY
-#, fuzzy
 msgctxt "UI.MAINMENU.QUICKPLAY"
 msgid "QUICK JUMP {1}"
-msgstr "QUICK JUMP {1}"
+msgstr "PARTIE RAPIDE {1}"
 
 #: UI.MAINMENU.QUIT
 msgctxt "UI.MAINMENU.QUIT"
@@ -72832,10 +72785,9 @@ msgid "Double tap to skip"
 msgstr "Double tap to skip"
 
 #: UI.MOVIE_SCREEN.SKIP
-#, fuzzy
 msgctxt "UI.MOVIE_SCREEN.SKIP"
 msgid "Press {1#binding} to skip"
-msgstr "Press {1#binding} to skip"
+msgstr "Appuyer sur {1#binding} pour passer"
 
 #: UI.MUTATORS_SCREEN.TITLE
 #, fuzzy
@@ -72856,10 +72808,9 @@ msgid "This graft gains XP at the end of every negotiation."
 msgstr "This graft gains XP at the end of every negotiation."
 
 #: UI.NEGOTIATION_PANEL.ACTION_COST_MODIFIED
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.ACTION_COST_MODIFIED"
 msgid "\n\n<b>Modified by:</b>{1#concat_line}"
-msgstr "\n\n<b>Modified by:</b>{1#concat_line}"
+msgstr "\n\n<b>Modifié par:</b>{1#concat_line}"
 
 #: UI.NEGOTIATION_PANEL.ACTION_COST
 #, fuzzy
@@ -72910,10 +72861,9 @@ msgid "You are about to negotiate as {1} for the first time. Would you like to s
 msgstr "You are about to negotiate as {1} for the first time. Would you like to see a quick tutorial about their specific mechanics?"
 
 #: UI.NEGOTIATION_PANEL.CHARACTER_TUTORIAL_TITLE
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.CHARACTER_TUTORIAL_TITLE"
 msgid "{1} Negotiation Tutorial"
-msgstr "{1} Negotiation Tutorial"
+msgstr "{1} Tutoriel de négociation"
 
 #: UI.NEGOTIATION_PANEL.CHOOSE_CARDS
 msgctxt "UI.NEGOTIATION_PANEL.CHOOSE_CARDS"
