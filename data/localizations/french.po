@@ -1510,7 +1510,7 @@ msgstr "Boosted Brain Burn"
 #: ATTACK.BRAIN_TICK.DESC
 msgctxt "ATTACK.BRAIN_TICK.DESC"
 msgid "Remove all debuffs on a target and heal {1} per debuff."
-msgstr "Retire tout les malus de la cible et soigne de {1} par malus retirer."
+msgstr "Retire tout les débuffs de la cible et soigne de {1} par débuffs retirer."
 
 #: ATTACK.BRAIN_TICK.NAME
 #, fuzzy
@@ -1521,7 +1521,7 @@ msgstr "Brain Tick"
 #: ATTACK.BRAIN_TICK_PLUS.DESC
 msgctxt "ATTACK.BRAIN_TICK_PLUS.DESC"
 msgid "Remove all debuffs on a target and heal <#UPGRADE>{1}</> per debuff."
-msgstr "Retire tout les malus de la cible et soigne de <#UPGRADE>{1}</> par malus retirer."
+msgstr "Retire tout les débuffs de la cible et soigne de <#UPGRADE>{1}</> par débuffs retirer."
 
 #: ATTACK.BRAIN_TICK_PLUS.NAME
 #, fuzzy
@@ -1532,7 +1532,7 @@ msgstr "Enhanced Brain Tick"
 #: ATTACK.BRAIN_TICK_PLUS2.DESC
 msgctxt "ATTACK.BRAIN_TICK_PLUS2.DESC"
 msgid "Remove all debuffs on a target and heal {1} per debuff."
-msgstr "Retire tout les malus de la cible et soigne de {1} par malus retirer."
+msgstr "Retire tout les débuffs de la cible et soigne de {1} par débuffs retirer."
 
 #: ATTACK.BRAIN_TICK_PLUS2.NAME
 #, fuzzy
@@ -2126,7 +2126,7 @@ msgstr "Drone de combat"
 #: ATTACK.COMBAT_GAUZE.DESC
 msgctxt "ATTACK.COMBAT_GAUZE.DESC"
 msgid "Remove a random debuff."
-msgstr "Retire tout les malus."
+msgstr "Retire tout les débuffs."
 
 #: ATTACK.COMBAT_GAUZE.NAME
 #, fuzzy
@@ -2665,10 +2665,9 @@ msgid "Tall Direct Hit"
 msgstr "Tall Direct Hit"
 
 #: ATTACK.DIRECT_HIT_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.DIRECT_HIT_PLUS2.DESC"
 msgid "Gain 1 maximum damage per empty cell."
-msgstr "Gain 1 maximum damage per empty cell."
+msgstr "Gagne 1 de dégât maximum par emplacement vide."
 
 #: ATTACK.DIRECT_HIT_PLUS2.NAME
 #, fuzzy
@@ -2804,16 +2803,14 @@ msgid "Double Whammy"
 msgstr "Double Whammy"
 
 #: ATTACK.DRONE_CHARGE.NAME
-#, fuzzy
 msgctxt "ATTACK.DRONE_CHARGE.NAME"
 msgid "Electro-Charge"
-msgstr "Electro-Charge"
+msgstr "Électro-charge"
 
 #: ATTACK.DRONE_DISCHARGE.NAME
-#, fuzzy
 msgctxt "ATTACK.DRONE_DISCHARGE.NAME"
 msgid "Discharge"
-msgstr "Discharge"
+msgstr "Décharge"
 
 #: ATTACK.DRONE_GOON_BLAST.NAME
 #, fuzzy
@@ -3042,10 +3039,9 @@ msgid "Rival's Echo Strike"
 msgstr "Rival's Echo Strike"
 
 #: ATTACK.ECHO_STRIKE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.ECHO_STRIKE_PLUS2.DESC"
 msgid "Return to your hand when played."
-msgstr "Return to your hand when played."
+msgstr "Retourne dans votre main quand jouer"
 
 #: ATTACK.ECHO_STRIKE_PLUS2.NAME
 #, fuzzy
@@ -3926,10 +3922,9 @@ msgid "Boosted Footwork"
 msgstr "Boosted Footwork"
 
 #: ATTACK.FOOTWORK_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.FOOTWORK_PLUS2.DESC"
 msgid "Discard a card. Gain actions and <#UPGRADE>draw cards</> equal to its cost + 1."
-msgstr "Discard a card. Gain actions and <#UPGRADE>draw cards</> equal to its cost + 1."
+msgstr "Défausse une carte. Gagne des actions et <#UPGRADE>piocher des cartes</> égales à son coût + 1."
 
 #: ATTACK.FOOTWORK_PLUS2.NAME
 #, fuzzy
@@ -4801,10 +4796,9 @@ msgid "Throw Dust"
 msgstr "Throw Dust"
 
 #: ATTACK.IMPROVISE_DUST_UPGRADED.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.IMPROVISE_DUST_UPGRADED.FLAVOUR"
 msgid "'I always keep a little sand in my pocket for emergencies.'"
-msgstr "'I always keep a little sand in my pocket for emergencies.'"
+msgstr "'J'ai toujours un peu de sable dans ma poche en cas d'urgence'"
 
 #: ATTACK.IMPROVISE_DUST_UPGRADED.NAME
 #, fuzzy
@@ -5326,10 +5320,9 @@ msgid "Kickochet"
 msgstr "Kickochet"
 
 #: ATTACK.KICK_PLUS2B.DESC
-#, fuzzy
 msgctxt "ATTACK.KICK_PLUS2B.DESC"
 msgid "<#UPGRADE>{EMPTY}: This costs 1 less.</>"
-msgstr "<#UPGRADE>{EMPTY}: This costs 1 less.</>"
+msgstr "<#UPGRADE>{EMPTY}: Coûte 1 de moins.</>"
 
 #: ATTACK.KICK_PLUS2B.NAME
 #, fuzzy
@@ -5544,10 +5537,9 @@ msgid "Lifeline"
 msgstr "Lifeline"
 
 #: ATTACK.LIFELINE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.LIFELINE_PLUS.DESC"
 msgid "Draw <#UPGRADE>{1}</> cards.\n{EMPTY}: Gain {2} {CHARGE} and this costs 0."
-msgstr "Draw <#UPGRADE>{1}</> cards.\n{EMPTY}: Gain {2} {CHARGE} and this costs 0."
+msgstr "Pioche <#UPGRADE>{1}</> cartes.\n{EMPTY}: Gagne {2} {CHARGE} et elle coute 0."
 
 #: ATTACK.LIFELINE_PLUS.NAME
 #, fuzzy
@@ -5556,10 +5548,9 @@ msgid "Visionary Lifeline"
 msgstr "Visionary Lifeline"
 
 #: ATTACK.LIFELINE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.LIFELINE_PLUS2.DESC"
 msgid "Draw {1} cards.\n{EMPTY}: Gain <#UPGRADE>{2}</> {CHARGE} and this costs 0."
-msgstr "Draw {1} cards.\n{EMPTY}: Gain <#UPGRADE>{2}</> {CHARGE} and this costs 0."
+msgstr "Pioche {1} cartes.\n{EMPTY}: Gagne <#UPGRADE>{2}</> {CHARGE} et elle coûte 0."
 
 #: ATTACK.LIFELINE_PLUS2.NAME
 #, fuzzy
@@ -5663,10 +5654,9 @@ msgid "Boosted Lucky Shot"
 msgstr "Boosted Lucky Shot"
 
 #: ATTACK.LUMIN_GENERATOR.DESC
-#, fuzzy
 msgctxt "ATTACK.LUMIN_GENERATOR.DESC"
 msgid "When this card is drawn, gain 2 {CHARGE}."
-msgstr "When this card is drawn, gain 2 {CHARGE}."
+msgstr "Lorsque cette carte est piocher, gagner 2 {CHARGE}."
 
 #: ATTACK.LUMIN_GENERATOR.NAME
 #, fuzzy
@@ -5790,10 +5780,9 @@ msgid "Melt"
 msgstr "Melt"
 
 #: ATTACK.MUDDLE.DESC
-#, fuzzy
 msgctxt "ATTACK.MUDDLE.DESC"
 msgid "{ABILITY}: Whenever you apply a debuff to an enemy, gain 2 {DEFEND}."
-msgstr "{ABILITY}: Whenever you apply a debuff to an enemy, gain 2 {DEFEND}."
+msgstr "{ABILITY}: Chaque fois que vous appliquez un débuff à un ennemi, gagnez 2 {DEFEND}."
 
 #: ATTACK.MUDDLE.NAME
 #, fuzzy
@@ -5802,10 +5791,9 @@ msgid "Muddle"
 msgstr "Muddle"
 
 #: ATTACK.MUDDLE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.MUDDLE_PLUS.DESC"
 msgid "{ABILITY}: Whenever you apply a debuff to an enemy, gain 2 {DEFEND}.\n{EXPEND}, <#UPGRADE>{AMBUSH}</>."
-msgstr "{ABILITY}: Whenever you apply a debuff to an enemy, gain 2 {DEFEND}.\n{EXPEND}, <#UPGRADE>{AMBUSH}</>."
+msgstr "{ABILITY}: Chaque fois que vous appliquez un débuff à un ennemi, gagnez 2 {DEFEND}.\n{EXPEND}, <#UPGRADE>{AMBUSH}</>."
 
 #: ATTACK.MUDDLE_PLUS.NAME
 #, fuzzy
@@ -5814,10 +5802,9 @@ msgid "Initial Muddle"
 msgstr "Initial Muddle"
 
 #: ATTACK.MUDDLE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.MUDDLE_PLUS2.DESC"
 msgid "{ABILITY}: Whenever you apply a debuff to an enemy, gain 2 {DEFEND}."
-msgstr "{ABILITY}: Whenever you apply a debuff to an enemy, gain 2 {DEFEND}."
+msgstr "{ABILITY}: Chaque fois que vous appliquez un débuff à un ennemi, gagnez 2 {DEFEND}."
 
 #: ATTACK.MUDDLE_PLUS2.NAME
 #, fuzzy
@@ -5826,10 +5813,9 @@ msgid "Pale Muddle"
 msgstr "Pale Muddle"
 
 #: ATTACK.MUDDLER.DESC
-#, fuzzy
 msgctxt "ATTACK.MUDDLER.DESC"
 msgid "While in hand, all targets are random."
-msgstr "While in hand, all targets are random."
+msgstr "Une fois en main, toutes les cibles sont aléatoires."
 
 #: ATTACK.MUDDLER.NAME
 #, fuzzy
@@ -6167,10 +6153,9 @@ msgid "Overheater"
 msgstr "Overheater"
 
 #: ATTACK.OVERHEATER_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.OVERHEATER_PLUS.DESC"
 msgid "Gain 2 {SURGE}.\n<#UPGRADE>{PRIMED}: this costs 0.</>"
-msgstr "Gain 2 {SURGE}.\n<#UPGRADE>{PRIMED}: this costs 0.</>"
+msgstr "Gagne 2 {SURGE}.\n<#UPGRADE>{PRIMED}: coûte 0.</>"
 
 #: ATTACK.OVERHEATER_PLUS.NAME
 #, fuzzy
@@ -6179,10 +6164,9 @@ msgid "Loaded Overheater"
 msgstr "Loaded Overheater"
 
 #: ATTACK.OVERHEATER_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.OVERHEATER_PLUS2.DESC"
 msgid "Gain <#UPGRADE>4</> {SURGE}."
-msgstr "Gain <#UPGRADE>4</> {SURGE}."
+msgstr "Gagne <#UPGRADE>4</> {SURGE}."
 
 #: ATTACK.OVERHEATER_PLUS2.NAME
 #, fuzzy
@@ -6191,10 +6175,9 @@ msgid "Boosted Overheater"
 msgstr "Boosted Overheater"
 
 #: ATTACK.OVERLOADED_CORE.DESC
-#, fuzzy
 msgctxt "ATTACK.OVERLOADED_CORE.DESC"
 msgid "{STUN} all enemies with {METALLIC}."
-msgstr "{STUN} all enemies with {METALLIC}."
+msgstr "{STUN} tout les ennemis avec {METALLIC}."
 
 #: ATTACK.OVERLOADED_CORE.NAME
 #, fuzzy
@@ -6214,10 +6197,9 @@ msgid "Overloaded Spark Hammer"
 msgstr "Overloaded Spark Hammer"
 
 #: ATTACK.OVERLOADED_SPARK_HAMMER_HATCH.DESC
-#, fuzzy
 msgctxt "ATTACK.OVERLOADED_SPARK_HAMMER_HATCH.DESC"
 msgid "Deal 6 damage to all characters."
-msgstr "Deal 6 damage to all characters."
+msgstr "Inflige 6 de dégâts à tous les personnages."
 
 #: ATTACK.OVERLOADED_SPARK_HAMMER_HATCH.NAME
 #, fuzzy
@@ -6411,10 +6393,9 @@ msgid "Pale Feedback"
 msgstr "Pale Feedback"
 
 #: ATTACK.PSIONIC_STORM.DESC
-#, fuzzy
 msgctxt "ATTACK.PSIONIC_STORM.DESC"
 msgid "Insert {1} {affliction} cards into your draw pile."
-msgstr "Insert {1} {affliction} cards into your draw pile."
+msgstr "Insère {1} cartes {affliction} dans votre pioche."
 
 #: ATTACK.PSIONIC_STORM.NAME
 #, fuzzy
@@ -6423,10 +6404,9 @@ msgid "Psionic Storm"
 msgstr "Psionic Storm"
 
 #: ATTACK.PSIONIC_STORM_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.PSIONIC_STORM_PLUS.DESC"
 msgid "Insert {1} {affliction} cards into your draw pile."
-msgstr "Insert {1} {affliction} cards into your draw pile."
+msgstr "Insère {1} cartes {affliction} dans votre pioche."
 
 #: ATTACK.PSIONIC_STORM_PLUS.NAME
 #, fuzzy
@@ -6435,10 +6415,9 @@ msgid "Pale Psionic Storm"
 msgstr "Pale Psionic Storm"
 
 #: ATTACK.PSIONIC_STORM_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.PSIONIC_STORM_PLUS2.DESC"
 msgid "Insert <#UPGRADE>{1}</> {affliction} cards into your draw pile."
-msgstr "Insert <#UPGRADE>{1}</> {affliction} cards into your draw pile."
+msgstr "Insère <#UPGRADE>{1}</> cartes {affliction} dans votre pioche."
 
 #: ATTACK.PSIONIC_STORM_PLUS2.NAME
 #, fuzzy
@@ -6449,7 +6428,7 @@ msgstr "Boosted Psionic Storm"
 #: ATTACK.PULSE.DESC
 msgctxt "ATTACK.PULSE.DESC"
 msgid "Apply {1} {RICOCHET} to target enemy."
-msgstr "Appliquer{1} {RICOCHET} à la cible ennemie."
+msgstr "Applique {1} {RICOCHET} à la cible ennemie."
 
 #: ATTACK.PULSE.NAME
 #, fuzzy
@@ -6460,7 +6439,7 @@ msgstr "Pulse"
 #: ATTACK.PULSE_PLUS.DESC
 msgctxt "ATTACK.PULSE_PLUS.DESC"
 msgid "Apply {1} {RICOCHET} to target enemy."
-msgstr "Appliquer{1} {RICOCHET} à la cible ennemie."
+msgstr "Applique {1} {RICOCHET} à la cible ennemie."
 
 #: ATTACK.PULSE_PLUS.NAME
 #, fuzzy
@@ -6471,7 +6450,7 @@ msgstr "Boosted Pulse"
 #: ATTACK.PULSE_PLUS2.DESC
 msgctxt "ATTACK.PULSE_PLUS2.DESC"
 msgid "Apply <#UPGRADE>{1}</> {RICOCHET} to target enemy."
-msgstr "Appliquer<#UPGRADE>{1}</> {RICOCHET} à la cible ennemie."
+msgstr "Applique <#UPGRADE>{1}</> {RICOCHET} à la cible ennemie."
 
 #: ATTACK.PULSE_PLUS2.NAME
 #, fuzzy
@@ -6486,10 +6465,9 @@ msgid "Puncture"
 msgstr "Puncture"
 
 #: ATTACK.QUICK_FIRE.DESC
-#, fuzzy
 msgctxt "ATTACK.QUICK_FIRE.DESC"
 msgid "Spend 1 {CHARGE}: Deal {1} bonus damage."
-msgstr "Spend 1 {CHARGE}: Deal {1} bonus damage."
+msgstr "Dépense 1 {CHARGE}: Donne {1} de dégât bonus."
 
 #: ATTACK.QUICK_FIRE.NAME
 #, fuzzy
@@ -6498,10 +6476,9 @@ msgid "Quick Fire"
 msgstr "Quick Fire"
 
 #: ATTACK.QUICK_FIRE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.QUICK_FIRE_PLUS.DESC"
 msgid "Spend 1 {CHARGE}: Deal {1} bonus damage."
-msgstr "Spend 1 {CHARGE}: Deal {1} bonus damage."
+msgstr "Dépense 1 {CHARGE}: Donne {1} de dégât bonus."
 
 #: ATTACK.QUICK_FIRE_PLUS.NAME
 #, fuzzy
@@ -6510,10 +6487,9 @@ msgid "Rooted Quick Fire"
 msgstr "Rooted Quick Fire"
 
 #: ATTACK.QUICK_FIRE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.QUICK_FIRE_PLUS2.DESC"
 msgid "Spend 1 {CHARGE}: Deal <#UPGRADE>{1}</> bonus damage."
-msgstr "Spend 1 {CHARGE}: Deal <#UPGRADE>{1}</> bonus damage."
+msgstr "Dépense 1 {CHARGE}: Donne <#UPGRADE>{1}</> de dégât bonus."
 
 #: ATTACK.QUICK_FIRE_PLUS2.NAME
 #, fuzzy
@@ -6671,10 +6647,9 @@ msgid "Frenzied Attack"
 msgstr "Frenzied Attack"
 
 #: ATTACK.REBOUND.DESC
-#, fuzzy
 msgctxt "ATTACK.REBOUND.DESC"
 msgid "Gain {1} {RIPOSTE} for each card played this turn.\n{3}"
-msgstr "Gain {1} {RIPOSTE} for each card played this turn.\n{3}"
+msgstr "Gagne {1} {RIPOSTE} pour chaque carte jouée ce tour-ci.\n{3}"
 
 #: ATTACK.REBOUND.NAME
 #, fuzzy
@@ -6683,10 +6658,9 @@ msgid "Rebound"
 msgstr "Rebound"
 
 #: ATTACK.REBOUND_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.REBOUND_PLUS.DESC"
 msgid "Gain {1} {RIPOSTE} <#UPGRADE>and {2} {DEFEND}</> for each card played this turn.\n{3}"
-msgstr "Gain {1} {RIPOSTE} <#UPGRADE>and {2} {DEFEND}</> for each card played this turn.\n{3}"
+msgstr "Gagne {1} {RIPOSTE} <#UPGRADE>et {2} {DEFEND}</> pour chaque carte jouée ce tour-ci.\n{3}"
 
 #: ATTACK.REBOUND_PLUS.NAME
 #, fuzzy
@@ -6695,10 +6669,9 @@ msgid "Stone Rebound"
 msgstr "Stone Rebound"
 
 #: ATTACK.REBOUND_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.REBOUND_PLUS2.DESC"
 msgid "Gain <#UPGRADE>{1} {RIPOSTE}</> for each card played this turn.\n{3}"
-msgstr "Gain <#UPGRADE>{1} {RIPOSTE}</> for each card played this turn.\n{3}"
+msgstr "Gagne <#UPGRADE>{1} {RIPOSTE}</> pour chaque carte jouée ce tour-ci.\n{3}"
 
 #: ATTACK.REBOUND_PLUS2.NAME
 #, fuzzy
@@ -6739,10 +6712,9 @@ msgid "Focused Swing"
 msgstr "Focused Swing"
 
 #: ATTACK.RED_SCARF.DESC
-#, fuzzy
 msgctxt "ATTACK.RED_SCARF.DESC"
 msgid "When this is drawn, gain 1 {POWER}."
-msgstr "When this is drawn, gain 1 {POWER}."
+msgstr "Quand piocher, gagne 1 {POWER}."
 
 #: ATTACK.RED_SCARF.NAME
 #, fuzzy
@@ -6781,10 +6753,9 @@ msgid "Replicator"
 msgstr "Replicator"
 
 #: ATTACK.RESERVE_ROUND.DESC
-#, fuzzy
 msgctxt "ATTACK.RESERVE_ROUND.DESC"
 msgid "Spend {1} {SURGE}: this card costs 0."
-msgstr "Spend {1} {SURGE}: this card costs 0."
+msgstr "Dépense {1} {SURGE}: cette carte coûte 0."
 
 #: ATTACK.RESERVE_ROUND.NAME
 #, fuzzy
@@ -6793,10 +6764,9 @@ msgid "Reserve Round"
 msgstr "Reserve Round"
 
 #: ATTACK.RESERVE_ROUND_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.RESERVE_ROUND_PLUS.DESC"
 msgid "Spend <#UPGRADE>{1}</> {SURGE}: this card costs 0."
-msgstr "Spend <#UPGRADE>{1}</> {SURGE}: this card costs 0."
+msgstr "Dépense <#UPGRADE>{1}</> {SURGE}: cette carte coûte 0."
 
 #: ATTACK.RESERVE_ROUND_PLUS.NAME
 #, fuzzy
@@ -6805,10 +6775,9 @@ msgid "Pale Reserve Round"
 msgstr "Pale Reserve Round"
 
 #: ATTACK.RESERVE_ROUND_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.RESERVE_ROUND_PLUS2.DESC"
 msgid "Spend {1} {SURGE}: this card costs 0."
-msgstr "Spend {1} {SURGE}: this card costs 0."
+msgstr "Dépense {1} {SURGE}: cette carte coûte 0."
 
 #: ATTACK.RESERVE_ROUND_PLUS2.NAME
 #, fuzzy
@@ -6817,10 +6786,9 @@ msgid "Tall Reserve Round"
 msgstr "Tall Reserve Round"
 
 #: ATTACK.RESONATOR.DESC
-#, fuzzy
 msgctxt "ATTACK.RESONATOR.DESC"
 msgid "Apply {RICOCHET} equal to damage dealt by this card."
-msgstr "Apply {RICOCHET} equal to damage dealt by this card."
+msgstr "Applique {RICOCHET} égal aux dégâts infligés par cette carte."
 
 #: ATTACK.RESONATOR.NAME
 #, fuzzy
@@ -6829,10 +6797,9 @@ msgid "Resonator"
 msgstr "Resonator"
 
 #: ATTACK.RESONATOR_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.RESONATOR_PLUS.DESC"
 msgid "Apply {RICOCHET} equal to damage dealt by this card."
-msgstr "Apply {RICOCHET} equal to damage dealt by this card."
+msgstr "Applique {RICOCHET} égal aux dégâts infligés par cette carte."
 
 #: ATTACK.RESONATOR_PLUS.NAME
 #, fuzzy
@@ -6841,10 +6808,9 @@ msgid "Tall Resonator"
 msgstr "Tall Resonator"
 
 #: ATTACK.RESONATOR_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.RESONATOR_PLUS2.DESC"
 msgid "Apply {RICOCHET} equal to damage dealt by this card."
-msgstr "Apply {RICOCHET} equal to damage dealt by this card."
+msgstr "Applique {RICOCHET} égal aux dégâts infligés par cette carte."
 
 #: ATTACK.RESONATOR_PLUS2.NAME
 #, fuzzy
@@ -6892,10 +6858,9 @@ msgid "Rev Up"
 msgstr "Rev Up"
 
 #: ATTACK.RIPPER.DESC
-#, fuzzy
 msgctxt "ATTACK.RIPPER.DESC"
 msgid "Remove a random debuff: Gain 1 action."
-msgstr "Remove a random debuff: Gain 1 action."
+msgstr "Enlève un débuff aléatoire: Gagne 1 action."
 
 #: ATTACK.RIPPER.NAME
 #, fuzzy
@@ -6904,10 +6869,9 @@ msgid "Ripper"
 msgstr "Ripper"
 
 #: ATTACK.RIPPER_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.RIPPER_PLUS.DESC"
 msgid "Remove a random debuff: Gain 1 action."
-msgstr "Remove a random debuff: Gain 1 action."
+msgstr "Enlève un débuff aléatoire: Gagne 1 action."
 
 #: ATTACK.RIPPER_PLUS.NAME
 #, fuzzy
@@ -6916,10 +6880,9 @@ msgid "Tall Ripper"
 msgstr "Tall Ripper"
 
 #: ATTACK.RIPPER_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.RIPPER_PLUS2.DESC"
 msgid "Remove a random debuff: Gain 1 action."
-msgstr "Remove a random debuff: Gain 1 action."
+msgstr "Enlève un débuff aléatoire: Gagne 1 action."
 
 #: ATTACK.RIPPER_PLUS2.NAME
 #, fuzzy
@@ -6928,10 +6891,9 @@ msgid "Rooted Ripper"
 msgstr "Rooted Ripper"
 
 #: ATTACK.RIPTIDE.DESC
-#, fuzzy
 msgctxt "ATTACK.RIPTIDE.DESC"
 msgid "When drawn, apply 3 {RICOCHET} to a random enemy."
-msgstr "When drawn, apply 3 {RICOCHET} to a random enemy."
+msgstr "Quand piocher, applique 3 {RICOCHET} à un ennemi aléatoire."
 
 #: ATTACK.RIPTIDE.NAME
 #, fuzzy
@@ -6952,10 +6914,9 @@ msgid "Spark Blast"
 msgstr "Spark Blast"
 
 #: ATTACK.ROBO_KICK.DESC
-#, fuzzy
 msgctxt "ATTACK.ROBO_KICK.DESC"
 msgid "Spend up to {1} {SURGE}: Apply {2} {CRIPPLE} per {SURGE} spent."
-msgstr "Spend up to {1} {SURGE}: Apply {2} {CRIPPLE} per {SURGE} spent."
+msgstr "Dépense jusqu'à {1} {SURGE}: Applique {2} {CRIPPLE} par {SURGE} dépensé."
 
 #: ATTACK.ROBO_KICK.NAME
 #, fuzzy
@@ -6964,10 +6925,9 @@ msgid "Robo-kick"
 msgstr "Robo-kick"
 
 #: ATTACK.ROBO_KICK_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.ROBO_KICK_PLUS.DESC"
 msgid "Spend up to {1} {SURGE}: Apply {2} {CRIPPLE} per {SURGE} spent."
-msgstr "Spend up to {1} {SURGE}: Apply {2} {CRIPPLE} per {SURGE} spent."
+msgstr "Dépense jusqu'à {1} {SURGE}: Applique {2} {CRIPPLE} par {SURGE} dépensé."
 
 #: ATTACK.ROBO_KICK_PLUS.NAME
 #, fuzzy
@@ -6976,10 +6936,9 @@ msgid "Boosted Robo-Kick"
 msgstr "Boosted Robo-Kick"
 
 #: ATTACK.ROBO_KICK_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.ROBO_KICK_PLUS2.DESC"
 msgid "Spend up to <#UPGRADE>{1}</> {SURGE}: apply {2} {CRIPPLE} per {SURGE} spent."
-msgstr "Spend up to <#UPGRADE>{1}</> {SURGE}: apply {2} {CRIPPLE} per {SURGE} spent."
+msgstr "Dépense jusqu'à <#UPGRADE>{1}</> {SURGE}: Applique {2} {CRIPPLE} par {SURGE} dépensé."
 
 #: ATTACK.ROBO_KICK_PLUS2.NAME
 #, fuzzy
@@ -7169,10 +7128,9 @@ msgid "Enduring Scanner"
 msgstr "Enduring Scanner"
 
 #: ATTACK.SCANNER_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SCANNER_PLUS2.DESC"
 msgid "Apply {SCANNED} to <#UPGRADE>an enemy.</>"
-msgstr "Apply {SCANNED} to <#UPGRADE>an enemy.</>"
+msgstr "Applique {SCANNED} à <#UPGRADE>un ennemi.</>"
 
 #: ATTACK.SCANNER_PLUS2.NAME
 #, fuzzy
@@ -7217,10 +7175,9 @@ msgid "Visionary Scatter"
 msgstr "Visionary Scatter"
 
 #: ATTACK.SCATTERPHASE.DESC
-#, fuzzy
 msgctxt "ATTACK.SCATTERPHASE.DESC"
 msgid "{ABILITY}: Whenever you gain {CHARGE}, deal {1} damage to a random enemy."
-msgstr "{ABILITY}: Whenever you gain {CHARGE}, deal {1} damage to a random enemy."
+msgstr "{ABILITY}: A chaque fois que vous gagnez {CHARGE}, infligez {1} de dégâts à un ennemi aléatoire."
 
 #: ATTACK.SCATTERPHASE.NAME
 #, fuzzy
@@ -7229,10 +7186,9 @@ msgid "Scatterphase"
 msgstr "Scatterphase"
 
 #: ATTACK.SCATTERPHASE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SCATTERPHASE_PLUS.DESC"
 msgid "{ABILITY}: Whenever you gain {CHARGE}, deal {1} damage to a random enemy."
-msgstr "{ABILITY}: Whenever you gain {CHARGE}, deal {1} damage to a random enemy."
+msgstr "{ABILITY}: A chaque fois que vous gagnez {CHARGE}, infligez {1} de dégâts à un ennemi aléatoire."
 
 #: ATTACK.SCATTERPHASE_PLUS.NAME
 #, fuzzy
@@ -7241,10 +7197,9 @@ msgid "Pale Scatterphase"
 msgstr "Pale Scatterphase"
 
 #: ATTACK.SCATTERPHASE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SCATTERPHASE_PLUS2.DESC"
 msgid "{ABILITY}: Whenever you gain {CHARGE}, deal {1} damage to a random enemy.\n{EXPEND}, <#UPGRADE>{AMBUSH}</>"
-msgstr "{ABILITY}: Whenever you gain {CHARGE}, deal {1} damage to a random enemy.\n{EXPEND}, <#UPGRADE>{AMBUSH}</>"
+msgstr "{ABILITY}: A chaque fois que vous gagnez {CHARGE}, infligez {1} de dégâts à un ennemi aléatoire.\n{EXPEND}, <#UPGRADE>{AMBUSH}</>"
 
 #: ATTACK.SCATTERPHASE_PLUS2.NAME
 #, fuzzy
@@ -7253,10 +7208,9 @@ msgid "Initial Scatterphase"
 msgstr "Initial Scatterphase"
 
 #: ATTACK.SEAR.DESC
-#, fuzzy
 msgctxt "ATTACK.SEAR.DESC"
 msgid "Apply {BURN} equal to damage dealt by this card."
-msgstr "Apply {BURN} equal to damage dealt by this card."
+msgstr "Applique {BURN} égal aux dégâts infligés par cette carte."
 
 #: ATTACK.SEAR.NAME
 #, fuzzy
@@ -7265,10 +7219,9 @@ msgid "Sear"
 msgstr "Sear"
 
 #: ATTACK.SEAR_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SEAR_PLUS.DESC"
 msgid "Apply {BURN} equal to damage dealt by this card."
-msgstr "Apply {BURN} equal to damage dealt by this card."
+msgstr "Applique {BURN} égal aux dégâts infligés par cette carte."
 
 #: ATTACK.SEAR_PLUS.NAME
 #, fuzzy
@@ -7277,10 +7230,9 @@ msgid "Tall Sear"
 msgstr "Tall Sear"
 
 #: ATTACK.SEAR_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SEAR_PLUS2.DESC"
 msgid "Apply {BURN} equal to damage dealt by this card."
-msgstr "Apply {BURN} equal to damage dealt by this card."
+msgstr "Applique {BURN} égal aux dégâts infligés par cette carte."
 
 #: ATTACK.SEAR_PLUS2.NAME
 #, fuzzy
@@ -7313,10 +7265,9 @@ msgid "Promoted Searing Bullet"
 msgstr "Promoted Searing Bullet"
 
 #: ATTACK.SEARING_BULLET_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SEARING_BULLET_PLUS2.DESC"
 msgid "Spend up to 3 {SURGE}: Apply 1 {WOUND} per {SURGE} spent."
-msgstr "Spend up to 3 {SURGE}: Apply 1 {WOUND} per {SURGE} spent."
+msgstr "Dépense jusqu'à 3 {SURGE}: Applique 1 {WOUND} par {SURGE} dépensé."
 
 #: ATTACK.SEARING_BULLET_PLUS2.NAME
 #, fuzzy
@@ -7387,10 +7338,9 @@ msgid "Serrated Dirk"
 msgstr "Serrated Dirk"
 
 #: ATTACK.SHADOW_MASTERY.DESC
-#, fuzzy
 msgctxt "ATTACK.SHADOW_MASTERY.DESC"
 msgid "{ABILITY}: Whenever you discard a card, gain {POWER 1} until the end of your turn."
-msgstr "{ABILITY}: Whenever you discard a card, gain {POWER 1} until the end of your turn."
+msgstr "{ABILITY}: Chaque fois que vous défausser une carte, gagner {POWER 1} jusqu′à la fin de votre tour."
 
 #: ATTACK.SHADOW_MASTERY.NAME
 #, fuzzy
@@ -7399,10 +7349,9 @@ msgid "Shadow Mastery"
 msgstr "Shadow Mastery"
 
 #: ATTACK.SHADOW_MASTERY_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SHADOW_MASTERY_PLUS.DESC"
 msgid "{ABILITY}: Whenever you discard a card, gain {POWER 1} until the end of your turn.\n<#UPGRADE>{AMBUSH}</>, {EXPEND}"
-msgstr "{ABILITY}: Whenever you discard a card, gain {POWER 1} until the end of your turn.\n<#UPGRADE>{AMBUSH}</>, {EXPEND}"
+msgstr "{ABILITY}: Chaque fois que vous défausser une carte, gagner {POWER 1} jusqu′à la fin de votre tour.\n <#UPGRADE>{AMBUSH}</>, {EXPEND}"
 
 #: ATTACK.SHADOW_MASTERY_PLUS.NAME
 #, fuzzy
@@ -7411,10 +7360,9 @@ msgid "Initial Shadow Mastery"
 msgstr "Initial Shadow Mastery"
 
 #: ATTACK.SHADOW_MASTERY_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SHADOW_MASTERY_PLUS2.DESC"
 msgid "{ABILITY}: Whenever you discard a card, gain {POWER 1} until the end of your turn."
-msgstr "{ABILITY}: Whenever you discard a card, gain {POWER 1} until the end of your turn."
+msgstr "{ABILITY}: Chaque fois que vous défausser une carte, gagner {POWER 1} jusqu′à la fin de votre tour."
 
 #: ATTACK.SHADOW_MASTERY_PLUS2.NAME
 #, fuzzy
@@ -7423,10 +7371,9 @@ msgid "Pale Shadow Mastery"
 msgstr "Pale Shadow Mastery"
 
 #: ATTACK.SHARPEN.DESC
-#, fuzzy
 msgctxt "ATTACK.SHARPEN.DESC"
 msgid "Apply {BLEED {1}} whenever you hit a target with an attack for rest of the turn."
-msgstr "Apply {BLEED {1}} whenever you hit a target with an attack for rest of the turn."
+msgstr "Applique {BLEED {1}} chaque fois que vous atteignez une cible avec une attaque pour le reste du tour."
 
 #: ATTACK.SHARPEN.NAME
 #, fuzzy
@@ -7435,10 +7382,9 @@ msgid "Sharpen"
 msgstr "Sharpen"
 
 #: ATTACK.SHARPEN_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SHARPEN_PLUS.DESC"
 msgid "Apply {BLEED {1}} whenever you hit a target with an attack for rest of the turn."
-msgstr "Apply {BLEED {1}} whenever you hit a target with an attack for rest of the turn."
+msgstr "Applique {BLEED {1}} chaque fois que vous atteignez une cible avec une attaque pour le reste du tour."
 
 #: ATTACK.SHARPEN_PLUS.NAME
 #, fuzzy
@@ -7447,10 +7393,9 @@ msgid "Enduring Sharpen"
 msgstr "Enduring Sharpen"
 
 #: ATTACK.SHARPEN_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SHARPEN_PLUS2.DESC"
 msgid "Apply {BLEED {1}} whenever you play an attack for the rest of the turn.\n<#UPGRADE>Draw a card.</>"
-msgstr "Apply {BLEED {1}} whenever you play an attack for the rest of the turn.\n<#UPGRADE>Draw a card.</>"
+msgstr "Applique {BLEED {1}} chaque fois que vous atteignez une cible avec une attaque pour le reste du tour.\n<#UPGRADE>Piocher une carte.</>"
 
 #: ATTACK.SHARPEN_PLUS2.NAME
 #, fuzzy
@@ -7459,10 +7404,9 @@ msgid "Sharpen of Vision"
 msgstr "Sharpen of Vision"
 
 #: ATTACK.SHEAR.DESC
-#, fuzzy
 msgctxt "ATTACK.SHEAR.DESC"
 msgid "When drawn, apply 3 {MARK} to a random enemy."
-msgstr "When drawn, apply 3 {MARK} to a random enemy."
+msgstr "Quand piocher, applique 3 {MARK} à un ennemi aléatoire."
 
 #: ATTACK.SHEAR.NAME
 #, fuzzy
@@ -7471,10 +7415,9 @@ msgid "Shear"
 msgstr "Shear"
 
 #: ATTACK.SHILL_SHOT.DESC
-#, fuzzy
 msgctxt "ATTACK.SHILL_SHOT.DESC"
 msgid "Spend all {CHARGE}: Draw a card for each {CHARGE} spent."
-msgstr "Spend all {CHARGE}: Draw a card for each {CHARGE} spent."
+msgstr "Dépense tout les {CHARGE}: Piocher une carte pour chaque {CHARGE} dépensée."
 
 #: ATTACK.SHILL_SHOT.NAME
 #, fuzzy
@@ -7483,10 +7426,9 @@ msgid "Shill Shot"
 msgstr "Shill Shot"
 
 #: ATTACK.SHILL_SHOT_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SHILL_SHOT_PLUS.DESC"
 msgid "Spend all {CHARGE}: Draw a card for each {CHARGE} spent <#UPGRADE>+ 1</>."
-msgstr "Spend all {CHARGE}: Draw a card for each {CHARGE} spent <#UPGRADE>+ 1</>."
+msgstr "Dépense tout les {CHARGE}: Piocher une carte pour chaque {CHARGE} dépensée <#UPGRADE>+ 1</>."
 
 #: ATTACK.SHILL_SHOT_PLUS.NAME
 #, fuzzy
@@ -7495,10 +7437,9 @@ msgid "Boosted Shill Shot"
 msgstr "Boosted Shill Shot"
 
 #: ATTACK.SHILL_SHOT_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SHILL_SHOT_PLUS2.DESC"
 msgid "Spend all {CHARGE}: Draw a card <#UPGRADE>and gain 2 {DEFEND}</> for each {CHARGE} spent."
-msgstr "Spend all {CHARGE}: Draw a card <#UPGRADE>and gain 2 {DEFEND}</> for each {CHARGE} spent."
+msgstr "Dépense tout les {CHARGE}: Pioche une carte <#UPGRADE>et gagne 2 {DEFEND}</> pour chaque {CHARGE} dépensée."
 
 #: ATTACK.SHILL_SHOT_PLUS2.NAME
 #, fuzzy
@@ -7536,10 +7477,9 @@ msgid "Shock Core"
 msgstr "Shock Core"
 
 #: ATTACK.SHOCK_GRENADE.DESC
-#, fuzzy
 msgctxt "ATTACK.SHOCK_GRENADE.DESC"
 msgid "{STUN} all enemies with {METALLIC}."
-msgstr "{STUN} all enemies with {METALLIC}."
+msgstr "{STUN} tout les ennemis avec {METALLIC}."
 
 #: ATTACK.SHOCK_GRENADE.NAME
 #, fuzzy
@@ -7797,10 +7737,9 @@ msgid "Slice"
 msgstr "Slice"
 
 #: ATTACK.SLICE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SLICE_PLUS.DESC"
 msgid "Apply {BLEED} for each card played this turn <#UPGRADE> + 1</>.\n{1}"
-msgstr "Apply {BLEED} for each card played this turn <#UPGRADE> + 1</>.\n{1}"
+msgstr "Applique {BLEED} pour chaque carte jouée ce tour-ci <#UPGRADE> + 1</>.\n{1}"
 
 #: ATTACK.SLICE_PLUS.NAME
 #, fuzzy
@@ -7809,10 +7748,9 @@ msgid "Boosted Slice"
 msgstr "Boosted Slice"
 
 #: ATTACK.SLICE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SLICE_PLUS2.DESC"
 msgid "Apply {BLEED} for each card played this turn.\n<#UPGRADE>If the target has {BLEED 5} or more: Apply {CRIPPLE 2}.</>\n{1}"
-msgstr "Apply {BLEED} for each card played this turn.\n<#UPGRADE>If the target has {BLEED 5} or more: Apply {CRIPPLE 2}.</>\n{1}"
+msgstr "Applique {BLEED} pour chaque carte jouée ce tour-ci.\n <#UPGRADE> Si la cible a {BLEED 5} ou plus: Applique {CRIPPLE 2}.</>\n {1}"
 
 #: ATTACK.SLICE_PLUS2.NAME
 #, fuzzy
@@ -7833,10 +7771,9 @@ msgid "Slip Away"
 msgstr "Slip Away"
 
 #: ATTACK.SLIPPERY.DESC
-#, fuzzy
 msgctxt "ATTACK.SLIPPERY.DESC"
 msgid "{IMPROVISE} a card from your discards.\nGain {1} {DEFEND}."
-msgstr "{IMPROVISE} a card from your discards.\nGain {1} {DEFEND}."
+msgstr "{IMPROVISE} une carte de votre défausse.\nGagne {1}{DEFEND}."
 
 #: ATTACK.SLIPPERY.NAME
 #, fuzzy
@@ -7845,10 +7782,9 @@ msgid "Slippery"
 msgstr "Slippery"
 
 #: ATTACK.SLIPPERY_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SLIPPERY_PLUS.DESC"
 msgid "{IMPROVISE} a card from your discards.\nGain <#UPGRADE>{1} {DEFEND}</>."
-msgstr "{IMPROVISE} a card from your discards.\nGain <#UPGRADE>{1} {DEFEND}</>."
+msgstr "{IMPROVISE} une carte de votre défausse.\nGagner <#UPGRADE>{1}{DEFEND}</>."
 
 #: ATTACK.SLIPPERY_PLUS.NAME
 #, fuzzy
@@ -7857,10 +7793,9 @@ msgid "Stone Slippery"
 msgstr "Stone Slippery"
 
 #: ATTACK.SLIPPERY_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SLIPPERY_PLUS2.DESC"
 msgid "{IMPROVISE} <#UPGRADE>2</> cards from your discards.\nGain {1} {DEFEND}."
-msgstr "{IMPROVISE} <#UPGRADE>2</> cards from your discards.\nGain {1} {DEFEND}."
+msgstr "{IMPROVISE} <#UPGRADE> 2</> cartes de votre défausse.\nGagner {1}{DEFEND}."
 
 #: ATTACK.SLIPPERY_PLUS2.NAME
 #, fuzzy
@@ -7875,10 +7810,9 @@ msgid "Slug"
 msgstr "Slug"
 
 #: ATTACK.SNEAK_ATTACK.DESC
-#, fuzzy
 msgctxt "ATTACK.SNEAK_ATTACK.DESC"
 msgid "Spend {1} {COMBO}: This card deals max damage."
-msgstr "Spend {1} {COMBO}: This card deals max damage."
+msgstr "Dépense {1} {COMBO}: Cette carte inflige le maximum de dégâts."
 
 #: ATTACK.SNEAK_ATTACK.NAME
 #, fuzzy
@@ -7887,10 +7821,9 @@ msgid "Sneak Attack"
 msgstr "Sneak Attack"
 
 #: ATTACK.SNEAK_ATTACK_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SNEAK_ATTACK_PLUS.DESC"
 msgid "Spend <#UPGRADE>{1} {COMBO}</>: This card deals max damage."
-msgstr "Spend <#UPGRADE>{1} {COMBO}</>: This card deals max damage."
+msgstr "Dépense <#UPGRADE>{1} {COMBO}</>: Cette carte inflige le maximum de dégâts."
 
 #: ATTACK.SNEAK_ATTACK_PLUS.NAME
 #, fuzzy
@@ -7899,10 +7832,9 @@ msgid "Pale Sneak Attack"
 msgstr "Pale Sneak Attack"
 
 #: ATTACK.SNEAK_ATTACK_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SNEAK_ATTACK_PLUS2.DESC"
 msgid "Spend {1} {COMBO}: This card deals max damage."
-msgstr "Spend {1} {COMBO}: This card deals max damage."
+msgstr "Dépense {1} {COMBO}: Cette carte inflige le maximum de dégâts."
 
 #: ATTACK.SNEAK_ATTACK_PLUS2.NAME
 #, fuzzy
@@ -7962,10 +7894,9 @@ msgid "Adds bonus damage equal to 25% of target's health."
 msgstr "Adds bonus damage equal to 25% of target's health."
 
 #: ATTACK.SPARK_CANNON.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.SPARK_CANNON.FLAVOUR"
 msgid "'Something's gonna go boom.'"
-msgstr "'Something's gonna go boom.'"
+msgstr "'Ça va faire boom.'"
 
 #: ATTACK.SPARK_CANNON.NAME
 #, fuzzy
@@ -8003,10 +7934,9 @@ msgid "Spark Shot"
 msgstr "Spark Shot"
 
 #: ATTACK.SPARKYS_OPPRESSOR_CELL.DESC
-#, fuzzy
 msgctxt "ATTACK.SPARKYS_OPPRESSOR_CELL.DESC"
 msgid "Gain 3 {POWER} until the end of your turn."
-msgstr "Gain 3 {POWER} until the end of your turn."
+msgstr "Gagne 3 {POWER} jusqu'à la fin de votre tour."
 
 #: ATTACK.SPARKYS_OPPRESSOR_CELL.NAME
 #, fuzzy
@@ -8033,10 +7963,9 @@ msgid "Spear Head"
 msgstr "Spear Head"
 
 #: ATTACK.SPECIALTY.DESC
-#, fuzzy
 msgctxt "ATTACK.SPECIALTY.DESC"
 msgid "{IMPROVISE} an attack card from your draw pile, gain {1} {COMBO}."
-msgstr "{IMPROVISE} an attack card from your draw pile, gain {1} {COMBO}."
+msgstr "{IMPROVISE} une carte d′attaque de votre pioche, gagne {1} {COMBO}."
 
 #: ATTACK.SPECIALTY.NAME
 #, fuzzy
@@ -8045,10 +7974,9 @@ msgid "Specialty"
 msgstr "Specialty"
 
 #: ATTACK.SPECIALTY_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SPECIALTY_PLUS.DESC"
 msgid "{IMPROVISE} an attack card from your draw pile, gain <#UPGRADE>{1}</> {COMBO}."
-msgstr "{IMPROVISE} an attack card from your draw pile, gain <#UPGRADE>{1}</> {COMBO}."
+msgstr "{IMPROVISE} une carte d′attaque de votre pioche, gagne <#UPGRADE>{1}</> {COMBO}."
 
 #: ATTACK.SPECIALTY_PLUS.NAME
 #, fuzzy
@@ -8057,10 +7985,9 @@ msgid "Rival's Specialty"
 msgstr "Rival's Specialty"
 
 #: ATTACK.SPECIALTY_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SPECIALTY_PLUS2.DESC"
 msgid "{IMPROVISE} an attack card from <#UPGRADE>a pool of 5 cards from</> your draw pile, gain {1} {COMBO}."
-msgstr "{IMPROVISE} an attack card from <#UPGRADE>a pool of 5 cards from</> your draw pile, gain {1} {COMBO}."
+msgstr "{IMPROVISE} une carte d′attaque <#UPGRADE>dans un groupe de 5 cartes de</> votre pioche, gagner {1} {COMBO}."
 
 #: ATTACK.SPECIALTY_PLUS2.NAME
 #, fuzzy
@@ -8069,10 +7996,9 @@ msgid "Wide Specialty"
 msgstr "Wide Specialty"
 
 #: ATTACK.SPEED_TONIC.DESC
-#, fuzzy
 msgctxt "ATTACK.SPEED_TONIC.DESC"
 msgid "2 random cards in hand cost 0 until played."
-msgstr "2 random cards in hand cost 0 until played."
+msgstr "2 cartes aléatoires en main coûtent 0 jusqu'à ce qu'elles soient jouées."
 
 #: ATTACK.SPEED_TONIC.NAME
 #, fuzzy
@@ -8137,10 +8063,9 @@ msgid "Raid"
 msgstr "Raid"
 
 #: ATTACK.SPURS.DESC
-#, fuzzy
 msgctxt "ATTACK.SPURS.DESC"
 msgid "Spend all {CHARGE}, gain {1} {RIPOSTE} for each {CHARGE} spent."
-msgstr "Spend all {CHARGE}, gain {1} {RIPOSTE} for each {CHARGE} spent."
+msgstr "Dépense tout les {CHARGE}, gagne {1} {RIPOSTE} pour chaque {CHARGE} dépenser."
 
 #: ATTACK.SPURS.NAME
 #, fuzzy
@@ -8149,10 +8074,9 @@ msgid "Spurs"
 msgstr "Spurs"
 
 #: ATTACK.SPURS_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SPURS_PLUS.DESC"
 msgid "Spend all {CHARGE}, gain <#UPGRADE>{1}</> {RIPOSTE} for each {CHARGE} spent."
-msgstr "Spend all {CHARGE}, gain <#UPGRADE>{1}</> {RIPOSTE} for each {CHARGE} spent."
+msgstr "Dépense tout les {CHARGE}, gagne <#UPGRADE>{1}</> {RIPOSTE} pour chaque {CHARGE} dépenser."
 
 #: ATTACK.SPURS_PLUS.NAME
 #, fuzzy
@@ -8161,10 +8085,9 @@ msgid "Boosted Spurs"
 msgstr "Boosted Spurs"
 
 #: ATTACK.SPURS_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SPURS_PLUS2.DESC"
 msgid "Spend all {CHARGE}, gain {1} {RIPOSTE} <#UPGRADE>and 1 {DEFEND}</> for each {CHARGE} spent."
-msgstr "Spend all {CHARGE}, gain {1} {RIPOSTE} <#UPGRADE>and 1 {DEFEND}</> for each {CHARGE} spent."
+msgstr "Dépense tout les {CHARGE}, gagne {1} {RIPOSTE} <#UPGRADE>et 1 {DEFEND}</> pour chaque {CHARGE} dépenser."
 
 #: ATTACK.SPURS_PLUS2.NAME
 #, fuzzy
@@ -8173,10 +8096,9 @@ msgid "Stony Spurs"
 msgstr "Stony Spurs"
 
 #: ATTACK.SQUEEZE.DESC
-#, fuzzy
 msgctxt "ATTACK.SQUEEZE.DESC"
 msgid "Draw {1} cards, gain {SURGE} equal to their combined cost."
-msgstr "Draw {1} cards, gain {SURGE} equal to their combined cost."
+msgstr "Pioche {1} cartes, gagne {SURGE} égal à leur coût combiné."
 
 #: ATTACK.SQUEEZE.NAME
 #, fuzzy
@@ -8185,10 +8107,9 @@ msgid "Squeeze"
 msgstr "Squeeze"
 
 #: ATTACK.SQUEEZE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SQUEEZE_PLUS.DESC"
 msgid "Draw <#UPGRADE>{1}</> cards, gain {SURGE} equal to their combined cost."
-msgstr "Draw <#UPGRADE>{1}</> cards, gain {SURGE} equal to their combined cost."
+msgstr "Pioche <#UPGRADE>{1}</> cartes, gagne {SURGE}  égal à leur coût combiné."
 
 #: ATTACK.SQUEEZE_PLUS.NAME
 #, fuzzy
@@ -8197,10 +8118,9 @@ msgid "Visionary Squeeze"
 msgstr "Visionary Squeeze"
 
 #: ATTACK.SQUEEZE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SQUEEZE_PLUS2.DESC"
 msgid "Draw {1} cards, gain {SURGE} equal to <#UPGRADE>double</> their combined cost."
-msgstr "Draw {1} cards, gain {SURGE} equal to <#UPGRADE>double</> their combined cost."
+msgstr "Pioche {1} cartes, gagne {SURGE} égal au <#UPGRADE>double</> de leur coût combiné."
 
 #: ATTACK.SQUEEZE_PLUS2.NAME
 #, fuzzy
@@ -8268,10 +8188,9 @@ msgid "<#UPGRADE>Apply 1 {WOUND}.</>"
 msgstr "<#UPGRADE>Appliquer 1 {WOUND}.</>>"
 
 #: ATTACK.STAB_PLUS2E.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.STAB_PLUS2E.FLAVOUR"
 msgid "'Why do I have two daggers? Well, I have two hands, don't I?'"
-msgstr "'Why do I have two daggers? Well, I have two hands, don't I?'"
+msgstr "'Pourquoi ai-je deux poignards ? J'ai deux mains, pas vrai !?'"
 
 #: ATTACK.STAB_PLUS2E.NAME
 #, fuzzy
@@ -8285,10 +8204,9 @@ msgid "<#UPGRADE>Draw a card.</>"
 msgstr "<#UPGRADE>Piocher une carte.</>"
 
 #: ATTACK.STAB_PLUS2F.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.STAB_PLUS2F.FLAVOUR"
 msgid "'Why do I have two daggers? Well, I have two hands, don't I?'"
-msgstr "'Why do I have two daggers? Well, I have two hands, don't I?'"
+msgstr "'Pourquoi ai-je deux poignards ? J'ai deux mains, pas vrai !?'"
 
 #: ATTACK.STAB_PLUS2F.NAME
 #, fuzzy
@@ -8302,10 +8220,9 @@ msgid "<#UPGRADE>Attack twice.</>"
 msgstr "<#UPGRADE>Attaquer deux fois.</>"
 
 #: ATTACK.STAB_PLUS2G.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.STAB_PLUS2G.FLAVOUR"
 msgid "'Why do I have two daggers? Well, I have two hands, don't I?'"
-msgstr "'Why do I have two daggers? Well, I have two hands, don't I?'"
+msgstr "'Pourquoi ai-je deux poignards ? J'ai deux mains, pas vrai !?'"
 
 #: ATTACK.STAB_PLUS2G.NAME
 #, fuzzy
@@ -8319,10 +8236,9 @@ msgid "<#UPGRADE>{PIERCING}</>"
 msgstr "<#UPGRADE>{PIERCING}</>"
 
 #: ATTACK.STAB_PLUS2J.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.STAB_PLUS2J.FLAVOUR"
 msgid "'Why do I have two daggers? Well, I have two hands, don't I?'"
-msgstr "'Why do I have two daggers? Well, I have two hands, don't I?'"
+msgstr "'Pourquoi ai-je deux poignards ? J'ai deux mains, pas vrai !?'"
 
 #: ATTACK.STAB_PLUS2J.NAME
 #, fuzzy
@@ -8331,10 +8247,9 @@ msgid "Stab of the Nail"
 msgstr "Stab of the Nail"
 
 #: ATTACK.STAB_PLUS2K.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.STAB_PLUS2K.FLAVOUR"
 msgid "'Why do I have two daggers? Well, I have two hands, don't I?'"
-msgstr "'Why do I have two daggers? Well, I have two hands, don't I?'"
+msgstr "'Pourquoi ai-je deux poignards ? J'ai deux mains, pas vrai !?'"
 
 #: ATTACK.STAB_PLUS2K.NAME
 #, fuzzy
@@ -8348,10 +8263,9 @@ msgid "Discard a card."
 msgstr "Défausse une carte."
 
 #: ATTACK.STAB_PLUS_2L.FLAVOUR
-#, fuzzy
 msgctxt "ATTACK.STAB_PLUS_2L.FLAVOUR"
 msgid "'Why do I have two daggers? Well, I have two hands, don't I?'"
-msgstr "'Why do I have two daggers? Well, I have two hands, don't I?'"
+msgstr "'Pourquoi ai-je deux poignards ? J'ai deux mains, pas vrai !?'"
 
 #: ATTACK.STAB_PLUS_2L.NAME
 #, fuzzy
@@ -8447,10 +8361,9 @@ msgid "Stomp"
 msgstr "Stomp"
 
 #: ATTACK.STOMP_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.STOMP_PLUS.DESC"
 msgid "Spend <#UPGRADE>{1} {COMBO}</>: this card costs 0."
-msgstr "Spend <#UPGRADE>{1} {COMBO}</>: this card costs 0."
+msgstr "Dépenser <#UPGRADE>{1} {COMBO}</>: cette carte coûte 0."
 
 #: ATTACK.STOMP_PLUS.NAME
 #, fuzzy
@@ -8503,10 +8416,9 @@ msgid "Boosted Striker"
 msgstr "Boosted Striker"
 
 #: ATTACK.STRINGER.DESC
-#, fuzzy
 msgctxt "ATTACK.STRINGER.DESC"
 msgid "Gain {1} {DEFEND}. \nDiscard this card: Gain {1} {DEFEND} and {2} {RIPOSTE}."
-msgstr "Gain {1} {DEFEND}. \nDiscard this card: Gain {1} {DEFEND} and {2} {RIPOSTE}."
+msgstr "Gagne {1} {DEFEND}. \nDéfausse cette carte: Gagne {1} {DEFEND} et {2} {RIPOSTE}."
 
 #: ATTACK.STRINGER.NAME
 #, fuzzy
@@ -8515,10 +8427,9 @@ msgid "Stringer"
 msgstr "Stringer"
 
 #: ATTACK.STRINGER_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.STRINGER_PLUS.DESC"
 msgid "Gain <#UPGRADE>{1} {DEFEND}.</> \nDiscard this card: Gain <#UPGRADE>{1} {DEFEND} </>and <#UPGRADE>{2} {RIPOSTE}.</>"
-msgstr "Gain <#UPGRADE>{1} {DEFEND}.</> \nDiscard this card: Gain <#UPGRADE>{1} {DEFEND} </>and <#UPGRADE>{2} {RIPOSTE}.</>"
+msgstr "Gagne <#UPGRADE>{1} {DEFEND}.</> \nDéfausse cette carte: Gagne <#UPGRADE>{1} {DEFEND} </>et <#UPGRADE>{2} {RIPOSTE}.</>"
 
 #: ATTACK.STRINGER_PLUS.NAME
 #, fuzzy
@@ -8527,10 +8438,9 @@ msgid "Boosted Stringer"
 msgstr "Boosted Stringer"
 
 #: ATTACK.STRINGER_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.STRINGER_PLUS2.DESC"
 msgid "Gain {1} {DEFEND}. \nDiscard this card: Gain {1} {DEFEND} and {2} {RIPOSTE}."
-msgstr "Gain {1} {DEFEND}. \nDiscard this card: Gain {1} {DEFEND} and {2} {RIPOSTE}."
+msgstr "Gagne {1} {DEFEND}. \nDéfausse cette carte:: Gagne {1} {DEFEND} et {2} {RIPOSTE}."
 
 #: ATTACK.STRINGER_PLUS2.NAME
 #, fuzzy
@@ -8590,10 +8500,9 @@ msgid "Summon Goon"
 msgstr "Summon Goon"
 
 #: ATTACK.SUPPRESSING_FIRE.DESC
-#, fuzzy
 msgctxt "ATTACK.SUPPRESSING_FIRE.DESC"
 msgid "Target all enemies. Gain {DEFEND {1}} per target."
-msgstr "Target all enemies. Gain {DEFEND {1}} per target."
+msgstr "Cible tous les ennemis. Gagne {DEFEND {1}} par cible."
 
 #: ATTACK.SUPPRESSING_FIRE.NAME
 #, fuzzy
@@ -8602,10 +8511,9 @@ msgid "Suppressing Fire"
 msgstr "Suppressing Fire"
 
 #: ATTACK.SUPPRESSING_FIRE_PLUS.DESC
-#, fuzzy
 msgctxt "ATTACK.SUPPRESSING_FIRE_PLUS.DESC"
 msgid "Target all enemies. Gain <#UPGRADE>{DEFEND {1}}</> per target."
-msgstr "Target all enemies. Gain <#UPGRADE>{DEFEND {1}}</> per target."
+msgstr "Cible tous les ennemis. Gagne <#UPGRADE>{DEFEND {1}}</> par cible."
 
 #: ATTACK.SUPPRESSING_FIRE_PLUS.NAME
 #, fuzzy
@@ -8614,10 +8522,9 @@ msgid "Promoted Suppressing Fire"
 msgstr "Promoted Suppressing Fire"
 
 #: ATTACK.SUPPRESSING_FIRE_PLUS2.DESC
-#, fuzzy
 msgctxt "ATTACK.SUPPRESSING_FIRE_PLUS2.DESC"
 msgid "Target all enemies. Gain {DEFEND {1}} per target."
-msgstr "Target all enemies. Gain {DEFEND {1}} per target."
+msgstr "Cible tous les ennemis. Gagne {DEFEND {1}} par cible."
 
 #: ATTACK.SUPPRESSING_FIRE_PLUS2.NAME
 #, fuzzy
@@ -42796,7 +42703,7 @@ msgstr "fssh:\n!right\n* {fssh} vous accueille, encore un autre jour de chasse. 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3B
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3B"
 msgid "fssh:\n!right\n* {fssh} has a drink waiting for you. Even though it's been years, she remembered your favorite.\nplayer:\n!left\nfssh:\n!offer\n$neutralDirect\nYou're not the only one who wants {kashio} out of the picture.\n!agree\n$happyDefault\nPlay your cards right, and that revenge you want so bad? It'll deliver itself."
-msgstr "fssh:\n!right\n* Même si ça fait des années, {fssh} ta préparée un verre et c'est ton préféré\nplayer:\n!left\nfssh:\n!offer\n$neutralDirect\nTu n'es pas la seule à vouloir voir {kashio} disparaitre.\n!agree\n$happyDefault\nSi tu joues bien ton coup, elle viendra à toi d'elle-même. Et tu pourras assouvir cette vengeance que tu veux tant?."
+msgstr "fssh:\n!right\n* Même si ça fait des années, {fssh} ta préparée un verre et c'est ton préféré\nplayer:\n!left\nfssh:\n!offer\n$neutralDirect\nTu n'es pas la seule à vouloir voir {kashio} disparaitre.\n!agree\n$happyDefault\nSi tu joues bien ton coup, elle viendra à toi d'elle-même. Et tu pourras assouvir cette vengeance que tu veux tant."
 
 #: CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3C
 msgctxt "CONVO.SAL_STORY_DAY_1.STATE_TALK.DIALOG_FSSH_CONVO_REPLAY_3C"
@@ -49562,10 +49469,9 @@ msgid "Receive {1#graft}"
 msgstr "<b>Recevez</> {1#graft}"
 
 #: CONVO_COMMON.OFFER_NEGOTIATION_DRAFT
-#, fuzzy
 msgctxt "CONVO_COMMON.OFFER_NEGOTIATION_DRAFT"
 msgid "<b>Book of Kra'deshi Poems</>: Draft {1} negotiation cards"
-msgstr "<b>Book of Kra'deshi Poems</>: Draft {1} negotiation cards"
+msgstr "<b>Livre de poèmes Kra'deshi</>: Ébauche de {1} cartes de négociation"
 
 #: CONVO_COMMON.OFFER_NEGOTIATION_SLOT
 #, fuzzy
@@ -49586,10 +49492,9 @@ msgid "<b>Shrokian Pepper Box</b>: {1#card}, {2#card}"
 msgstr "<b>Shrokian Pepper Box</b>: {1#card}, {2#card}"
 
 #: CONVO_COMMON.OFFER_SPARE_CHANGE
-#, fuzzy
 msgctxt "CONVO_COMMON.OFFER_SPARE_CHANGE"
 msgid "<b>Coin Purse</b>: Gain {1#money}"
-msgstr "<b>Coin Purse</b>: Gain {1#money}"
+msgstr "<b>Porte-monnaie</b>: Gagne {1#money}"
 
 #: CONVO_COMMON.OFFER_TRIAGE_KIT
 #, fuzzy
@@ -68924,10 +68829,9 @@ msgid "Last time someone made your life miserable, you kept tabs, called in favo
 msgstr "La dernière fois que quelqu'un vous a rendu la vie impossible, vous avier gardé l'œil ouvert, demandé des services, et vos êtes restées vigilantes. Ils ont plongé, et vous êtes sorti du gouffre. Kashio n'est pas différent."
 
 #: SLIDESHOW.STARTING_SAL_SLIDESHOW_4.1.TXT
-#, fuzzy
 msgctxt "SLIDESHOW.STARTING_SAL_SLIDESHOW_4.1.TXT"
 msgid "You've pictured your revenge so many times. But what if she gets you first? What if someone <i>else</i> does? \n            \nYou scratch those thoughts out like lines on the paper. You're here for Kashio. That's the only way this story ends."
-msgstr "You've pictured your revenge so many times. But what if she gets you first? What if someone <i>else</i> does? \n            \nYou scratch those thoughts out like lines on the paper. You're here for Kashio. That's the only way this story ends."
+msgstr "Vous avait imaginé votre vengeance tant de fois.Et si c'était elle qui finit par gagner? Et si <i>quelqu'un d'autre</i> avait déjà?\n            \nVous oubliez vite ces pensées. Vous êtes là pour Kashio. C'est la seule façon de mettre fin à cette histoire."
 
 #: SPECIES.BEAST
 msgctxt "SPECIES.BEAST"
@@ -73619,7 +73523,7 @@ msgstr "Tout désactiver"
 #: UI.NEW_GAME_SCREEN.START_BUTTON
 msgctxt "UI.NEW_GAME_SCREEN.START_BUTTON"
 msgid "Start!"
-msgstr "Commencez!"
+msgstr "Commencer!"
 
 #: UI.OPTION_INDICATOR.REASON
 msgctxt "UI.OPTION_INDICATOR.REASON"
