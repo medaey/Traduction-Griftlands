@@ -9609,10 +9609,9 @@ msgid "Boosted Wind up"
 msgstr "Boosted Wind up"
 
 #: ATTACK.WORKERS_GLOVES.DESC
-#, fuzzy
 msgctxt "ATTACK.WORKERS_GLOVES.DESC"
 msgid "Your next attack this turn deals double damage."
-msgstr "Your next attack this turn deals double damage."
+msgstr "Votre prochaine attaque ce tour-ci inflige deux fois plus de dégâts."
 
 #: ATTACK.WORKERS_GLOVES.NAME
 #, fuzzy
@@ -10395,10 +10394,9 @@ msgid "Commander"
 msgstr "Commander"
 
 #: BATTLE_FEATURE.COMPANY_BAND.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.COMPANY_BAND.DESC"
 msgid "Pets have +{1} health in battle."
-msgstr "Pets have +{1} health in battle."
+msgstr "Les familiers ont +{1} de santé en combat."
 
 #: BATTLE_FEATURE.COMPANY_BAND.NAME
 #, fuzzy
@@ -10996,10 +10994,9 @@ msgid "Feedback Loop"
 msgstr "Feedback Loop"
 
 #: BATTLE_FEATURE.FEINT_PLUS2F.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.FEINT_PLUS2F.DESC"
 msgid "Your next attack this turn deals maximum damage."
-msgstr "Your next attack this turn deals maximum damage."
+msgstr "Votre prochaine attaque, ce tour fera le maximum de dégâts."
 
 #: BATTLE_FEATURE.FEINT_PLUS2F.NAME
 #, fuzzy
@@ -11042,10 +11039,9 @@ msgid "First Blood"
 msgstr "First Blood"
 
 #: BATTLE_FEATURE.FLASH_POWDER.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.FLASH_POWDER.DESC"
 msgid "Your first attack each combat applies 3 {BURN}."
-msgstr "Your first attack each combat applies 3 {BURN}."
+msgstr "Votre première attaque à chaque combat applique 3 {BURN}."
 
 #: BATTLE_FEATURE.FLASH_POWDER.NAME
 #, fuzzy
@@ -13317,10 +13313,9 @@ msgid "Why Me"
 msgstr "Why Me"
 
 #: BATTLE_FEATURE.WORKERS_GLOVES.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.WORKERS_GLOVES.DESC"
 msgid "Your next attack this turn deals double damage."
-msgstr "Your next attack this turn deals double damage."
+msgstr "Votre prochaine attaque ce tour-ci inflige deux fois plus de dégâts."
 
 #: BATTLE_FEATURE.WORKERS_GLOVES.NAME
 #, fuzzy
@@ -13357,10 +13352,9 @@ msgid "Wound"
 msgstr "Blessé"
 
 #: BATTLE_FEATURE.WOUNDING_BARBS.DESC
-#, fuzzy
 msgctxt "BATTLE_FEATURE.WOUNDING_BARBS.DESC"
 msgid "Your first attack each combat applies {WOUND 3}."
-msgstr "Your first attack each combat applies {WOUND 3}."
+msgstr "Votre première attaque à chaque combat applique {WOUND 3}."
 
 #: BATTLE_FEATURE.WOUNDING_BARBS.NAME
 #, fuzzy
@@ -23090,7 +23084,6 @@ msgid "Nadan"
 msgstr "Nadan"
 
 #: CHARACTER_SKIN.NPC_SAL.10524886-7554-44DF-BD4C-C475EEC54D94.NAME
-#, fuzzy
 msgctxt "CHARACTER_SKIN.NPC_SAL.10524886-7554-44DF-BD4C-C475EEC54D94.NAME"
 msgid "Sal"
 msgstr "Sal"
@@ -23243,7 +23236,6 @@ msgid "Waandra"
 msgstr "Waandra"
 
 #: CHARACTER_SKIN.SPARK_BARON_GOON.17DA08A9-CD2F-49DE-90AF-C98795879996.NAME
-#, fuzzy
 msgctxt "CHARACTER_SKIN.SPARK_BARON_GOON.17DA08A9-CD2F-49DE-90AF-C98795879996.NAME"
 msgid "Tack"
 msgstr "Tack"
@@ -24074,10 +24066,9 @@ msgid "* You turn to {pet}.\npet:\n!right\nplayer:\n!permit\nGo on, {pet}."
 msgstr "* You turn to {pet}.\npet:\n!right\nplayer:\n!permit\nGo on, {pet}."
 
 #: CONVO.ANIMAL_CONTROL.CONFRONT.DIALOG_HAND_OVER_2
-#, fuzzy
 msgctxt "CONVO.ANIMAL_CONTROL.CONFRONT.DIALOG_HAND_OVER_2"
 msgid "pet:\n!exit\n* {agent} shoves {pet} into a rough burlap sack."
-msgstr "pet:\n!exit\n* {agent} shoves {pet} into a rough burlap sack."
+msgstr "pet:\n!exit\n* {agent} met {pet} dans un sac en tissu."
 
 #: CONVO.ANIMAL_CONTROL.CONFRONT.DIALOG_HAND_OVER_3
 #, fuzzy
@@ -24098,10 +24089,9 @@ msgid "player:\n!sigh\nI'll pay.\nagent:\nReally?\nI mean - of course you will.\
 msgstr "player:\n!sigh\nI'll pay.\nagent:\nReally?\nI mean - of course you will.\nplayer:\n!give\nagent:\n!take\nAs you were, civilian.\n!exit"
 
 #: CONVO.ANIMAL_CONTROL.CONFRONT.DIALOG_PST_PET
-#, fuzzy
 msgctxt "CONVO.ANIMAL_CONTROL.CONFRONT.DIALOG_PST_PET"
 msgid "pet:\n!right\n* {pet} looks up at you with uncomprehending eyes.\nplayer:\n!happy\nYou're a good {pet.boygirl}, {pet}."
-msgstr "pet:\n!right\n* {pet} looks up at you with uncomprehending eyes.\nplayer:\n!happy\nYou're a good {pet.boygirl}, {pet}."
+msgstr "pet:\n!right\n* {pet} vous regarde avec un regard d'incompréhension.\nplayer:\n!happy\nC'est un bon {pet.boygirl}, {pet}."
 
 #: CONVO.ANIMAL_CONTROL.CONFRONT.OPT_CONVINCE
 #, fuzzy
@@ -24346,10 +24336,9 @@ msgid "player:\n!left\nagent:\n!scared\nI was just trying to make a living!\npla
 msgstr "player:\n!left\nagent:\n!scared\nJ'essayais juste de gagner ma vie!\nplayer:\n!angry\nOuais? Moi aussi. Aler dégage!"
 
 #: CONVO.BANDIT_THREATEN_PLAYER.DIALOG_FOUGHT_KILLED
-#, fuzzy
 msgctxt "CONVO.BANDIT_THREATEN_PLAYER.DIALOG_FOUGHT_KILLED"
 msgid "player:\n!left\n* You wipe the bandit blood off your knife."
-msgstr "player:\n!left\n* You wipe the bandit blood off your knife."
+msgstr "player:\n!left\n* Vous essuyez le sang du bandit qui est sur votre couteau."
 
 #: CONVO.BANDIT_THREATEN_PLAYER.DIALOG_INTRO
 #, fuzzy
@@ -28740,10 +28729,9 @@ msgid "Train {pet}"
 msgstr "Train {pet}"
 
 #: CONVO.EVENT_FANTASTIC_TRAINER.STATE_START.REQ_ALREADY_TRAINED
-#, fuzzy
 msgctxt "CONVO.EVENT_FANTASTIC_TRAINER.STATE_START.REQ_ALREADY_TRAINED"
 msgid "Your pet is already trained."
-msgstr "Your pet is already trained."
+msgstr "Votre familier est déjà dressé."
 
 #: CONVO.EVENT_FANTASTIC_TRAINER.STATE_START.TT_DONATE
 #, fuzzy
@@ -29711,10 +29699,9 @@ msgid "Tell {agent} you don't have that much"
 msgstr "Tell {agent} you don't have that much"
 
 #: CONVO.EVENT_OLD_DRINKING_BUDDY.STATE_WANTS_MONEY.OPT_PAY_BACK
-#, fuzzy
 msgctxt "CONVO.EVENT_OLD_DRINKING_BUDDY.STATE_WANTS_MONEY.OPT_PAY_BACK"
 msgid "Pay {agent} back"
-msgstr "Pay {agent} back"
+msgstr "Rembourser {agent}"
 
 #: CONVO.EVENT_OLD_DRINKING_BUDDY.STATE_WANTS_MONEY.OPT_WONT_PAY
 #, fuzzy
@@ -30098,7 +30085,6 @@ msgid "Agree to the deal"
 msgstr "Agree to the deal"
 
 #: CONVO.EVENT_SAL_MEETS_ROOK.CONFRONT.OPT_DISAGREE
-#, fuzzy
 msgctxt "CONVO.EVENT_SAL_MEETS_ROOK.CONFRONT.OPT_DISAGREE"
 msgid "Refuse"
 msgstr "Refuser"
@@ -34669,10 +34655,9 @@ msgid "player:\nOn second thought, things might get violent.\nHere's a little mo
 msgstr "player:\nOn second thought, things might get violent.\nHere's a little more.\nagent:\nI'll stand down."
 
 #: CONVO.MANIPULATE_CHAT.OPT_BRIBE
-#, fuzzy
 msgctxt "CONVO.MANIPULATE_CHAT.OPT_BRIBE"
 msgid "Pay {agent} to help you..."
-msgstr "Pay {agent} to help you..."
+msgstr "Payer {agent} pour qu'il vous aide...."
 
 #: CONVO.MANIPULATE_CHAT.OPT_BRIBE_FIGHT
 #, fuzzy
@@ -34699,16 +34684,14 @@ msgid "{agent} will help you only in negotiations"
 msgstr "{agent} will help you only in negotiations"
 
 #: CONVO.MANIPULATE_CHAT.OPT_BRIBE_TOPUP
-#, fuzzy
 msgctxt "CONVO.MANIPULATE_CHAT.OPT_BRIBE_TOPUP"
 msgid "Pay {agent} to help in a fight"
-msgstr "Pay {agent} to help in a fight"
+msgstr "Payer {agent} pour qu'il vous aide dans un combat"
 
 #: CONVO.MANIPULATE_CHAT.OPT_PAYOFF
-#, fuzzy
 msgctxt "CONVO.MANIPULATE_CHAT.OPT_PAYOFF"
 msgid "Pay {agent} to look the other way..."
-msgstr "Pay {agent} to look the other way..."
+msgstr "Payer {agent} pour qu'il fermer les yeux..."
 
 #: CONVO.MANIPULATE_CHAT.OPT_PAYOFF_FIGHT
 #, fuzzy
@@ -35533,10 +35516,9 @@ msgid "Call {1#agent}"
 msgstr "Appelez {1#agent}"
 
 #: CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_PLAY_WITH_PET
-#, fuzzy
 msgctxt "CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_PLAY_WITH_PET"
 msgid "Play with {agent}"
-msgstr "Play with {agent}"
+msgstr "Jouer avec {agent}"
 
 #: CONVO.OPPO_DOG_EVENT.CONFRONT.OPT_TRAIN_PET
 #, fuzzy
@@ -36243,10 +36225,9 @@ msgid "Call 'Heads'"
 msgstr "Call 'Heads'"
 
 #: CONVO.OPPO_KROG_COIN.CONFRONT.OPT_PLAY_THE_GAME
-#, fuzzy
 msgctxt "CONVO.OPPO_KROG_COIN.CONFRONT.OPT_PLAY_THE_GAME"
 msgid "Play the game"
-msgstr "Play the game"
+msgstr "Jouer le jeu"
 
 #: CONVO.OPPO_KROG_COIN.CONFRONT.OPT_SNAILS
 #, fuzzy
@@ -36812,10 +36793,9 @@ msgid "Leave {1} here"
 msgstr "Leave {1} here"
 
 #: CONVO.REST_AND_RELAXATION.STATE_PET.OPT_PET_PET
-#, fuzzy
 msgctxt "CONVO.REST_AND_RELAXATION.STATE_PET.OPT_PET_PET"
 msgid "Pet {1}"
-msgstr "Pet {1}"
+msgstr "Familier {1}"
 
 #: CONVO.REST_AND_RELAXATION.STATE_PET.OPT_SET_NAME
 #, fuzzy
@@ -38281,10 +38261,9 @@ msgid "Get {tech}'s attention"
 msgstr "Get {tech}'s attention"
 
 #: CONVO.RISE_CORE_COLLECTOR.ASDF.OPT_PAY_FOR_ACCESS_CODES
-#, fuzzy
 msgctxt "CONVO.RISE_CORE_COLLECTOR.ASDF.OPT_PAY_FOR_ACCESS_CODES"
 msgid "Pay {agent} to give you access codes"
-msgstr "Pay {agent} to give you access codes"
+msgstr "Payer {agent} pour obtenir des codes d'accès"
 
 #: CONVO.RISE_CORE_COLLECTOR.ASDF.OPT_SAY_CODEWORD
 msgctxt "CONVO.RISE_CORE_COLLECTOR.ASDF.OPT_SAY_CODEWORD"
@@ -41236,16 +41215,14 @@ msgid "Change into another of {player}'s outfits or play with your pets."
 msgstr "Change into another of {player}'s outfits or play with your pets."
 
 #: CONVO.ROOK_STORY_LIVING_AT_BAR.TT_PET
-#, fuzzy
 msgctxt "CONVO.ROOK_STORY_LIVING_AT_BAR.TT_PET"
 msgid "Play with {1#agent}."
-msgstr "Play with {1#agent}."
+msgstr "Jouer avec {1#agent}."
 
 #: CONVO.ROOK_STORY_LIVING_AT_BAR.TT_PETS
-#, fuzzy
 msgctxt "CONVO.ROOK_STORY_LIVING_AT_BAR.TT_PETS"
 msgid "Play with your pets."
-msgstr "Play with your pets."
+msgstr "Jouer avec votre familier"
 
 #: CONVO.RUN_AWAY_CHAT.STATE_RAN.DIALOG_RUNAWAY
 #, fuzzy
@@ -44058,10 +44035,9 @@ msgid "Convince {1#agent} to help you"
 msgstr "Convince {1#agent} to help you"
 
 #: CONVO.SAL_STORY_DAY_1_2.STATE_REWARD.CARD_PICK_SUBTITLE
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_1_2.STATE_REWARD.CARD_PICK_SUBTITLE"
 msgid "You must pick 1"
-msgstr "You must pick 1"
+msgstr "Vous devez en choisir 1"
 
 #: CONVO.SAL_STORY_DAY_1_2.STATE_REWARD.CARD_PICK_TITLE
 #, fuzzy
@@ -44218,10 +44194,9 @@ msgid "Ask about Kashio"
 msgstr "En savoir plus sur Kashio"
 
 #: CONVO.SAL_STORY_DAY_2_3.STATE_INTRO.CARD_PICK_SUBTITLE
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_3.STATE_INTRO.CARD_PICK_SUBTITLE"
 msgid "You must pick 1"
-msgstr "You must pick 1"
+msgstr "Vous devez en choisir 1"
 
 #: CONVO.SAL_STORY_DAY_2_3.STATE_INTRO.CARD_PICK_TITLE
 #, fuzzy
@@ -44353,10 +44328,9 @@ msgid "Ask about the Admiralty"
 msgstr "Ask about the Admiralty"
 
 #: CONVO.SAL_STORY_DAY_2_4.STATE_INTRO.CARD_PICK_SUBTITLE
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_DAY_2_4.STATE_INTRO.CARD_PICK_SUBTITLE"
 msgid "You must pick 1"
-msgstr "You must pick 1"
+msgstr "Vous devez en choisir 1"
 
 #: CONVO.SAL_STORY_DAY_2_4.STATE_INTRO.CARD_PICK_TITLE
 #, fuzzy
@@ -45157,10 +45131,9 @@ msgid "Convince {agent} to do it for free"
 msgstr "Convaincre {agent} de le faire gratuitement"
 
 #: CONVO.SAL_STORY_FSSHCAKES_2.OPT_PAY
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_FSSHCAKES_2.OPT_PAY"
 msgid "Pay {agent} to help"
-msgstr "Pay {agent} to help"
+msgstr "Payer {agent} pour aider"
 
 #: CONVO.SAL_STORY_FSSHCAKES_3.DIALOG_GIVE_PACKAGE
 #, fuzzy
@@ -45235,10 +45208,9 @@ msgid "Convince {agent} to come with you"
 msgstr "Convince {agent} to come with you"
 
 #: CONVO.SAL_STORY_KILL_OOLO_3.OPT_PAY_TO_HELP
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_KILL_OOLO_3.OPT_PAY_TO_HELP"
 msgid "Pay {agent} to help you"
-msgstr "Payer {agent} pour vous aider"
+msgstr "Payer {agent} pour qu'il vous aide"
 
 #: CONVO.SAL_STORY_KILL_OOLO_4.STATE_FIGHT_OOLO.DIALOG_INTRO
 #, fuzzy
@@ -45385,10 +45357,9 @@ msgid "Attack {agent}"
 msgstr "Attaquer {agent}"
 
 #: CONVO.SAL_STORY_KILL_OOLO_5.STATE_DEAL_WITH_SPREE_WITNESSES.OPT_BUY_SILENCE
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_KILL_OOLO_5.STATE_DEAL_WITH_SPREE_WITNESSES.OPT_BUY_SILENCE"
 msgid "Pay {agent} to look the other way"
-msgstr "Pay {agent} to look the other way"
+msgstr "Payer {agent} pour qu'il fermer les yeux"
 
 #: CONVO.SAL_STORY_KILL_OOLO_5.STATE_DEAL_WITH_SPREE_WITNESSES.OPT_CONVINCE_SILENCE
 #, fuzzy
@@ -45595,10 +45566,9 @@ msgid "sibling:\n!scared\nplayer:\n!angry_accuse\n$angryCruel\nYou gonna come qu
 msgstr "sibling:\n!scared\nplayer:\n!angry_accuse\n$angryCruel\nYou gonna come quiet? Or do I need to remind you where you've landed?\nsibling:\n!cruel\n$angryCruel\nMy geography has always been the best of the family. \n!angry_threaten\n$angryHostile\nPerhaps you're the one who needs to be taught a lesson, hmm?"
 
 #: CONVO.SAL_STORY_KILL_OOLO_6.STATE_SIBLING_ARRIVE.DIALOG_THREATEN
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_KILL_OOLO_6.STATE_SIBLING_ARRIVE.DIALOG_THREATEN"
 msgid "player:\n\t\t!angry_accuse\n\t\t$angryCruel\n\t\tYeaaaah, I got bad news. This is a kidnapping. So I'm gonna need you to shut up and come with me.  \nagent:\n!angry\n$angryTakenAback\nW-what?! Is this some sort of joke?"
-msgstr "player:\n\t\t!angry_accuse\n\t\t$angryCruel\n\t\tYeaaaah, I got bad news. This is a kidnapping. So I'm gonna need you to shut up and come with me.  \nagent:\n!angry\n$angryTakenAback\nW-what?! Is this some sort of joke?"
+msgstr "player:\n\t\t!angry_accuse\n\t\t$angryCruel\n\t\tOui, j'ai de mauvaises nouvelles. C'est un kidnapping. Donc je vais avoir besoin que tu la fermes et que tu viennes avec moi.  \nagent:\n!angry\n$angryTakenAback\nQu-quoi ?! C'est une mauvaise blague ?"
 
 #: CONVO.SAL_STORY_KILL_OOLO_6.STATE_SIBLING_ARRIVE.DIALOG_THREATEN_FAIL
 #, fuzzy
@@ -45800,16 +45770,14 @@ msgid "Change into another of {player}'s outfits or play with your pets."
 msgstr "Change into another of {player}'s outfits or play with your pets."
 
 #: CONVO.SAL_STORY_LIVING_AT_GROG.TT_PET
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_LIVING_AT_GROG.TT_PET"
 msgid "Play with {1#agent}."
-msgstr "Play with {1#agent}."
+msgstr "Jouer avec {1#agent}."
 
 #: CONVO.SAL_STORY_LIVING_AT_GROG.TT_PETS
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_LIVING_AT_GROG.TT_PETS"
 msgid "Play with your pets."
-msgstr "Play with your pets."
+msgstr "Jouer avec votre familier"
 
 #: CONVO.SAL_STORY_MERCHANTS.DIAL_REMOVE_CARD
 #, fuzzy
@@ -46061,10 +46029,9 @@ msgid "Upgrade {1#agent}"
 msgstr "Upgrade {1#agent}"
 
 #: CONVO.SAL_STORY_MERCHANTS_4.REQ_AT_FULL_HEALTH
-#, fuzzy
 msgctxt "CONVO.SAL_STORY_MERCHANTS_4.REQ_AT_FULL_HEALTH"
 msgid "Your pet is at full health already"
-msgstr "Your pet is at full health already"
+msgstr "Votre familier est déjà en pleine santé"
 
 #: CONVO.SAL_STORY_MERCHANTS_4.STATE_ATTRACT.DIALOG_FIRST_TIME
 #, fuzzy
@@ -48265,10 +48232,9 @@ msgid "agent:\n\t!eureka\n\t$miscNotalgic\nCan't wait for you to teach {target} 
 msgstr "agent:\n\t!eureka\n\t$miscNotalgic\nCan't wait for you to teach {target} some respect."
 
 #: CONVO.SIDE_INTERNAL_AFFAIR_3.DIALOG_ATTACK
-#, fuzzy
 msgctxt "CONVO.SIDE_INTERNAL_AFFAIR_3.DIALOG_ATTACK"
 msgid "player:\n\t\t!angry_accuse\n\t\t$angryDefault\n\t\tSeems I've been hired to put you in your place. So ... I'm gonna do that.\n\tagent:\n\t\t!placate\n\t\t$neutralTakenAback\n\t\tWhat? Did {giver} put you up to this?\n\t\tYou know that sorry sod is nothing but a dishonorable cheat.\nplayer:\n!fight\n$angryHostile\n\tDon't care. Now, duke's up."
-msgstr "player:\n\t\t!angry_accuse\n\t\t$angryDefault\n\t\tSeems I've been hired to put you in your place. So ... I'm gonna do that.\n\tagent:\n\t\t!placate\n\t\t$neutralTakenAback\n\t\tWhat? Did {giver} put you up to this?\n\t\tYou know that sorry sod is nothing but a dishonorable cheat.\nplayer:\n!fight\n$angryHostile\n\tDon't care. Now, duke's up."
+msgstr "player:\n\t\t!angry_accuse\n\t\t$angryDefault\n\t\tIl me semble que j'ai été engagé pour vous remettre à votre place. Alors... je vais le faire.\n\tagent:\n\t\t!placate\n\t\t$neutralTakenAback\n\t\tQuoi ? C'est {giver} qui vous a demandé de faire ça ?\n\t\tVous savez que ce minable n'est rien d'autre qu'un tricheur malhonnête.\nplayer:\n!fight\n$angryHostile\n\tPeu importe. Maintenant."
 
 #: CONVO.SIDE_INTERNAL_AFFAIR_3.DIALOG_INTIMIDATE
 #, fuzzy
@@ -50544,10 +50510,9 @@ msgid "        * Healed <#HEALTH>{1} HP</>\n    "
 msgstr "        * Healed <#HEALTH>{1} HP</>\n    "
 
 #: CONVO_COMMON.DIALOG_SHOW_HEALTH_LOSS
-#, fuzzy
 msgctxt "CONVO_COMMON.DIALOG_SHOW_HEALTH_LOSS"
 msgid "        * Lost <#HEALTH>{1} HP</>\n    "
-msgstr "        * Lost <#HEALTH>{1} HP</>\n    "
+msgstr "        * Perdu <#HEALTH>{1} HP</>\n    "
 
 #: CONVO_COMMON.DIALOG_SHOW_RESOLVE_GAIN
 msgctxt "CONVO_COMMON.DIALOG_SHOW_RESOLVE_GAIN"
@@ -50555,10 +50520,9 @@ msgid "        * Gained <#RESOLVE>{1} Resolve</>\n    "
 msgstr "        *Gagner <#RESOLVE>{1} détermination</>\n    "
 
 #: CONVO_COMMON.DIALOG_SHOW_RESOLVE_LOSS
-#, fuzzy
 msgctxt "CONVO_COMMON.DIALOG_SHOW_RESOLVE_LOSS"
 msgid "        * Lost <#RESOLVE>{1} Resolve</>\n    "
-msgstr "        * Lost <#RESOLVE>{1} Resolve</>\n    "
+msgstr "        * Perdu <#RESOLVE>{1} Resolve</>\n    "
 
 #: CONVO_COMMON.DIMINISH_OPINION
 #, fuzzy
@@ -52460,10 +52424,9 @@ msgid "Commander"
 msgstr "Commander"
 
 #: GRAFT.COMPANY_BAND.DESC
-#, fuzzy
 msgctxt "GRAFT.COMPANY_BAND.DESC"
 msgid "Pets have +{1} health in battle."
-msgstr "Pets have +{1} health in battle."
+msgstr "Les familiers ont +{1} de santé en combat."
 
 #: GRAFT.COMPANY_BAND.NAME
 #, fuzzy
@@ -52472,10 +52435,9 @@ msgid "Company Band"
 msgstr "Company Band"
 
 #: GRAFT.COMPANY_BAND_PLUS.DESC
-#, fuzzy
 msgctxt "GRAFT.COMPANY_BAND_PLUS.DESC"
 msgid "Pets have <#UPGRADE>+{1}</> health in battle."
-msgstr "Pets have <#UPGRADE>+{1}</> health in battle."
+msgstr "Les familiers ont <#UPGRADE>+{1}</> de santé en combat."
 
 #: GRAFT.COMPANY_BAND_PLUS.NAME
 #, fuzzy
@@ -52921,10 +52883,9 @@ msgid "First Impressions"
 msgstr "First Impressions"
 
 #: GRAFT.FLASH_POWDER.DESC
-#, fuzzy
 msgctxt "GRAFT.FLASH_POWDER.DESC"
 msgid "Your first attack each combat applies 3 {BURN}."
-msgstr "Your first attack each combat applies 3 {BURN}."
+msgstr "Votre première attaque à chaque combat applique 3 {BURN}."
 
 #: GRAFT.FLASH_POWDER.NAME
 #, fuzzy
@@ -52933,10 +52894,9 @@ msgid "Flash Powder"
 msgstr "Flash Powder"
 
 #: GRAFT.FLASH_POWDER_PLUS.DESC
-#, fuzzy
 msgctxt "GRAFT.FLASH_POWDER_PLUS.DESC"
 msgid "Your first attack each combat applies <#UPGRADE>6</> {BURN}."
-msgstr "Your first attack each combat applies <#UPGRADE>6</> {BURN}."
+msgstr "Votre première attaque à chaque combat applique <#UPGRADE>6</> {BURN}."
 
 #: GRAFT.FLASH_POWDER_PLUS.NAME
 #, fuzzy
@@ -53735,10 +53695,9 @@ msgid "Boosted Ocular Surrogate"
 msgstr "Boosted Ocular Surrogate"
 
 #: GRAFT.ON_THE_LAMB.DESC
-#, fuzzy
 msgctxt "GRAFT.ON_THE_LAMB.DESC"
 msgid "-4 Max Health."
-msgstr "-4 Max Health."
+msgstr "-4 Max Santé."
 
 #: GRAFT.ON_THE_LAMB.NAME
 #, fuzzy
@@ -55258,10 +55217,9 @@ msgid "Why Me"
 msgstr "Pourquoi moi"
 
 #: GRAFT.WOUNDING_BARBS.DESC
-#, fuzzy
 msgctxt "GRAFT.WOUNDING_BARBS.DESC"
 msgid "Your first attack each combat applies {WOUND 3}."
-msgstr "Your first attack each combat applies {WOUND 3}."
+msgstr "Votre première attaque à chaque combat applique {WOUND 3}."
 
 #: GRAFT.WOUNDING_BARBS.NAME
 #, fuzzy
@@ -55270,10 +55228,9 @@ msgid "Wounding Barbs"
 msgstr "Wounding Barbs"
 
 #: GRAFT.WOUNDING_BARBS_PLUS.DESC
-#, fuzzy
 msgctxt "GRAFT.WOUNDING_BARBS_PLUS.DESC"
 msgid "Your first attack each combat applies <#UPGRADE>{WOUND 5}</>."
-msgstr "Your first attack each combat applies <#UPGRADE>{WOUND 5}</>."
+msgstr "Votre première attaque à chaque combat s'applique <#UPGRADE>{WOUND 5}</>."
 
 #: GRAFT.WOUNDING_BARBS_PLUS.NAME
 #, fuzzy
@@ -63701,10 +63658,9 @@ msgid "Meditation Spot"
 msgstr "Meditation Spot"
 
 #: QUEST.PET_SELLER.TITLE
-#, fuzzy
 msgctxt "QUEST.PET_SELLER.TITLE"
 msgid "Pet Seller"
-msgstr "Pet Seller"
+msgstr "Vendeur de familier"
 
 #: QUEST.RISE_AMBUSH_A_BARON.DESC
 #, fuzzy
@@ -65599,10 +65555,9 @@ msgid "Give {target} the summons"
 msgstr "Give {target} the summons"
 
 #: QUEST.SIDE_DELIVER_SUMMONS.OBJECTIVE.RETURN_FOR_REWARD.DESC
-#, fuzzy
 msgctxt "QUEST.SIDE_DELIVER_SUMMONS.OBJECTIVE.RETURN_FOR_REWARD.DESC"
 msgid "You've earned it!"
-msgstr "You've earned it!"
+msgstr "Vous l'avez mérité !"
 
 #: QUEST.SIDE_DELIVER_SUMMONS.OBJECTIVE.RETURN_FOR_REWARD.TITLE
 #, fuzzy
@@ -66397,10 +66352,9 @@ msgid "!crossed\n$miscMocking\n\nDo you know who I am?"
 msgstr "!crossed\n$miscMocking\n\nTu sais qui je suis?"
 
 #: QUIPS.bad_deal_card.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.bad_deal_card.negotiation.1"
 msgid "Other:\n!hips\n$miscMocking\nI get rich off people like you!"
-msgstr "Other:\n!hips\n$miscMocking\nI get rich off people like you!"
+msgstr "Other:\n!hips\n$miscMocking\nJe deviens riche grâce à des gens comme vous !"
 
 #: QUIPS.bandit.greeting.1
 msgctxt "QUIPS.bandit.greeting.1"
@@ -67036,28 +66990,24 @@ msgid "!thought \n$angryDefault\n\nWhat do you have to hide?"
 msgstr "!thought \n$angryDefault\n\nWhat do you have to hide?"
 
 #: QUIPS.bribery.admiralty.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.bribery.admiralty.negotiation.1"
 msgid "other:\n!take\n$happyThanks\n\nNot so loud, now, and we're in business."
-msgstr "other:\n!take\n$happyThanks\n\nNot so loud, now, and we're in business."
+msgstr "other:\n!take\n$happyThanks\n\nPas si fort, maintenant nous sommes en affaires."
 
 #: QUIPS.bribery.admiralty.negotiation.2
-#, fuzzy
 msgctxt "QUIPS.bribery.admiralty.negotiation.2"
 msgid "other:\n!take\n$happyThanks\n\nYou make sure you don't tell anyone about this."
-msgstr "other:\n!take\n$happyThanks\n\nYou make sure you don't tell anyone about this."
+msgstr "other:\n!take\n$happyThanks\n\nAssurez-vous d'en parler à personne."
 
 #: QUIPS.bribery.admiralty.negotiation.3
-#, fuzzy
 msgctxt "QUIPS.bribery.admiralty.negotiation.3"
 msgid "other:\n!take\n$happyThanks\n\nAh yes, my overtime pay."
-msgstr "other:\n!take\n$happyThanks\n\nAh yes, my overtime pay."
+msgstr "other:\n!take\n$happyThanks\n\nAh oui, mon salaire pour les heures supplémentaires."
 
 #: QUIPS.bribery.admiralty.negotiation.4
-#, fuzzy
 msgctxt "QUIPS.bribery.admiralty.negotiation.4"
 msgid "other:\n!take\n$happyThanks\n\nAha, yes, citizen, very good."
-msgstr "other:\n!take\n$happyThanks\n\nAha, yes, citizen, very good."
+msgstr "other:\n!take\n$happyThanks\n\nAh, oui, citoyen, très bien."
 
 #: QUIPS.bribery.admiralty.negotiation.5
 #, fuzzy
@@ -67066,46 +67016,39 @@ msgid "other:\n!take\n$happyThanks\n\nKeep this up and I'll deputize you myself.
 msgstr "other:\n!take\n$happyThanks\n\nKeep this up and I'll deputize you myself."
 
 #: QUIPS.bribery.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.bribery.negotiation.1"
 msgid "other:\n!take\n$happyThanks\n\nThis is just how business works."
-msgstr "other:\n!take\n$happyThanks\n\nThis is just how business works."
+msgstr "other:\n!take\n$happyThanks\n\nC'est comme ça que fonctionnent les affaires."
 
 #: QUIPS.bribery.negotiation.2
-#, fuzzy
 msgctxt "QUIPS.bribery.negotiation.2"
 msgid "other:\n!take\n$happyThanks\n\nI like your angle."
-msgstr "other:\n!take\n$happyThanks\n\nI like your angle."
+msgstr "other:\n!take\n$happyThanks\n\nJ'aime votre façon de penser."
 
 #: QUIPS.bribery.negotiation.3
-#, fuzzy
 msgctxt "QUIPS.bribery.negotiation.3"
 msgid "other:\n!take\n$happyThanks\n\nSure, sure. I get you."
-msgstr "other:\n!take\n$happyThanks\n\nSure, sure. I get you."
+msgstr "other:\n!take\n$happyThanks\n\nBien sûr, bien sûr. Je vous comprends."
 
 #: QUIPS.bribery.negotiation.4
-#, fuzzy
 msgctxt "QUIPS.bribery.negotiation.4"
 msgid "other:\n!take\n$happyThanks\n\nWhat do we have here?"
-msgstr "other:\n!take\n$happyThanks\n\nWhat do we have here?"
+msgstr "other:\n!take\n$happyThanks\n\nQu'avons-nous là ?"
 
 #: QUIPS.bribery.negotiation.5
-#, fuzzy
 msgctxt "QUIPS.bribery.negotiation.5"
 msgid "other:\n!take\n$happyThanks\n\nI like how you think."
-msgstr "other:\n!take\n$happyThanks\n\nI like how you think."
+msgstr "other:\n!take\n$happyThanks\n\nJ'aime votre façon de penser."
 
 #: QUIPS.bribery.negotiation.6
-#, fuzzy
 msgctxt "QUIPS.bribery.negotiation.6"
 msgid "other:\n!take\n$happyThanks\n\nThis will go to good use."
-msgstr "other:\n!take\n$happyThanks\n\nThis will go to good use."
+msgstr "other:\n!take\n$happyThanks\n\nCela sera très utile."
 
 #: QUIPS.bribery.negotiation.7
-#, fuzzy
 msgctxt "QUIPS.bribery.negotiation.7"
 msgid "other:\n!take\n$happyThanks\n\nAh, a charitable donation!"
-msgstr "other:\n!take\n$happyThanks\n\nAh, a charitable donation!"
+msgstr "other:\n!take\n$happyThanks\n\nAh, un don généreux!"
 
 #: QUIPS.bribery.negotiation.8
 #, fuzzy
@@ -67617,10 +67560,9 @@ msgid "!crossed\nUgh, not you again."
 msgstr "!crossed\nUgh, not you again."
 
 #: QUIPS.disliked.met.greeting.9
-#, fuzzy
 msgctxt "QUIPS.disliked.met.greeting.9"
 msgid "!crossed\nI see you're still alive."
-msgstr "!crossed\nI see you're still alive."
+msgstr "!crossed\nToujours en vie à ce que je vois."
 
 #: QUIPS.disliked.met.priest.greeting.1
 #, fuzzy
@@ -68329,10 +68271,9 @@ msgid "!cagey\n$miscAlluring\n\nYou might not want to hear this, but..."
 msgstr "!cagey\n$miscAlluring\n\nYou might not want to hear this, but..."
 
 #: QUIPS.inspiration_card.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.inspiration_card.negotiation.1"
 msgid "!eureka\n$happyCocky\n\nAha!"
-msgstr "!eureka\n$happyCocky\n\nAha!"
+msgstr "!eureka\n$happyCocky\n\nHaa!"
 
 #: QUIPS.inspiration_card.negotiation.2
 #, fuzzy
@@ -68526,10 +68467,9 @@ msgid "!angry\nNow you're making me angry!"
 msgstr "!angry\nNow you're making me angry!"
 
 #: QUIPS.intimidated.greeting.1
-#, fuzzy
 msgctxt "QUIPS.intimidated.greeting.1"
 msgid "!scared\n* {agent.name} flinches away from you."
-msgstr "!scared\n* {agent.name} flinches away from you."
+msgstr "!scared\n* {agent.name} s'éloigne de vous."
 
 #: QUIPS.intimidated.greeting.2
 #, fuzzy
@@ -68538,34 +68478,29 @@ msgid "!scared\n* {agent.name} cringes when you approach."
 msgstr "!scared\n* {agent.name} cringes when you approach."
 
 #: QUIPS.intimidated.greeting.3
-#, fuzzy
 msgctxt "QUIPS.intimidated.greeting.3"
 msgid "!scared\nJust don't hurt me, all right?"
-msgstr "!scared\nJust don't hurt me, all right?"
+msgstr "!scared\nNe me faites pas de mal, d'accord ?"
 
 #: QUIPS.intimidated.greeting.4
-#, fuzzy
 msgctxt "QUIPS.intimidated.greeting.4"
 msgid "!scared\nDon't get too close!"
-msgstr "!scared\nDon't get too close!"
+msgstr "!scared\nNe vous approchez pas!"
 
 #: QUIPS.intimidated.greeting.5
-#, fuzzy
 msgctxt "QUIPS.intimidated.greeting.5"
 msgid "!scared\nS-stay back!"
-msgstr "!scared\nS-stay back!"
+msgstr "!scared\nR-rester en arrière!"
 
 #: QUIPS.intimidated.greeting.6
-#, fuzzy
 msgctxt "QUIPS.intimidated.greeting.6"
 msgid "!scared\nJust get it over with."
-msgstr "!scared\nJust get it over with."
+msgstr "!scared\nIl faut en finir."
 
 #: QUIPS.intimidated.greeting.7
-#, fuzzy
 msgctxt "QUIPS.intimidated.greeting.7"
 msgid "!scared\nI'm here, aren't I?"
-msgstr "!scared\nI'm here, aren't I?"
+msgstr "!scared\nJe suis là, n'est-ce pas?"
 
 #: QUIPS.jakes.sell_item.1
 #, fuzzy
@@ -68724,10 +68659,9 @@ msgid "!greeting\nPull up a chair and stay a while, friend."
 msgstr "!greeting\nPull up a chair and stay a while, friend."
 
 #: QUIPS.liked.met.greeting.1
-#, fuzzy
 msgctxt "QUIPS.liked.met.greeting.1"
 msgid "!greeting\nHey!"
-msgstr "!greeting\nHey!"
+msgstr "!greeting\nHé!"
 
 #: QUIPS.liked.met.greeting.2
 #, fuzzy
@@ -68931,10 +68865,9 @@ msgid "Hello again."
 msgstr "Rebonjour."
 
 #: QUIPS.met.greeting.2
-#, fuzzy
 msgctxt "QUIPS.met.greeting.2"
 msgid "You've returned."
-msgstr "You've returned."
+msgstr "Vous êtes de retour."
 
 #: QUIPS.met.greeting.3
 #, fuzzy
@@ -69080,10 +69013,9 @@ msgid "!crossed\n$neutralResigned\nImpress me with something interesting, then."
 msgstr "!crossed\n$neutralResigned\nImpress me with something interesting, then."
 
 #: QUIPS.modifier_removed.intimidate_me.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.modifier_removed.intimidate_me.negotiation.1"
 msgid "!scared\nYou're scaring me!"
-msgstr "!scared\nYou're scaring me!"
+msgstr "!scared\nVous me faites peur!"
 
 #: QUIPS.modifier_removed.intimidate_me.negotiation.2
 #, fuzzy
@@ -69358,16 +69290,14 @@ msgid "$neutralDefault\n\nI should pay you to get rid of that one."
 msgstr "$neutralDefault\n\nI should pay you to get rid of that one."
 
 #: QUIPS.pickpocket_card.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.pickpocket_card.negotiation.1"
 msgid "other:\n$neutralDubious\n\nHey, look over there!"
-msgstr "other:\n$neutralDubious\n\nHey, look over there!"
+msgstr "other:\n$neutralDubious\n\nHé, regardez par là !"
 
 #: QUIPS.pickpocket_card.negotiation.2
-#, fuzzy
 msgctxt "QUIPS.pickpocket_card.negotiation.2"
 msgid "other:\n$neutralDubious\n\nGeez, it's busy in here, huh?"
-msgstr "other:\n$neutralDubious\n\nGeez, it's busy in here, huh?"
+msgstr "other:\n$neutralDubious\n\nBon sang, il y a du monde ici, hein ?"
 
 #: QUIPS.plead_card.negotiation.1
 #, fuzzy
@@ -69382,10 +69312,9 @@ msgid "!bashful\n$miscHopeless\n\nPretty please?"
 msgstr "!bashful\n$miscHopeless\n\nPretty please?"
 
 #: QUIPS.plead_card.negotiation.3
-#, fuzzy
 msgctxt "QUIPS.plead_card.negotiation.3"
 msgid "!bashful\n$miscHopeless\n\nHelp me out here?"
-msgstr "!bashful\n$miscHopeless\n\nHelp me out here?"
+msgstr "!bashful\n$miscHopeless\n\nM'aider ici?"
 
 #: QUIPS.plead_card.negotiation.4
 #, fuzzy
@@ -69835,22 +69764,19 @@ msgid "$neutralDirect\nThis the one we should be strong-arming?"
 msgstr "$neutralDirect\nThis the one we should be strong-arming?"
 
 #: QUIPS.support.beast.negotiation.1
-#, fuzzy
 msgctxt "QUIPS.support.beast.negotiation.1"
 msgid "other:\n!scared\n\nWhat IS that thing?!"
-msgstr "other:\n!scared\n\nWhat IS that thing?!"
+msgstr "other:\n!scared\n\nQu'est-ce que c'est que ce truc ?"
 
 #: QUIPS.support.beast.negotiation.2
-#, fuzzy
 msgctxt "QUIPS.support.beast.negotiation.2"
 msgid "other:\n!scared\n\nKeep that beast away from me."
-msgstr "other:\n!scared\n\nKeep that beast away from me."
+msgstr "other:\n!scared\n\nGardez cette bête loin de moi."
 
 #: QUIPS.support.beast.negotiation.3
-#, fuzzy
 msgctxt "QUIPS.support.beast.negotiation.3"
 msgid "other:\n!scared\n\nYou'll keep that leashed, right?"
-msgstr "other:\n!scared\n\nYou'll keep that leashed, right?"
+msgstr "other:\n!scared\n\nVous allez le garder attaché, pas vrai ?"
 
 #: QUIPS.support.cult_of_hesh.negotiation.1
 #, fuzzy
@@ -73788,10 +73714,9 @@ msgid "FOUND LOOT!"
 msgstr "BUTIN TROUVÉ!"
 
 #: UI.LOOT_SCREEN.TITLE_NEGOTIATION_DEFEAT
-#, fuzzy
 msgctxt "UI.LOOT_SCREEN.TITLE_NEGOTIATION_DEFEAT"
 msgid "NEGOTIATION FAILED"
-msgstr "NEGOTIATION FAILED"
+msgstr "NÉGOCIATION ÉCHOUÉ"
 
 #: UI.LOOT_SCREEN.TITLE_NEGOTIATION_VICTORY
 msgctxt "UI.LOOT_SCREEN.TITLE_NEGOTIATION_VICTORY"
@@ -73959,10 +73884,9 @@ msgid "More info"
 msgstr "Plus d'informations"
 
 #: UI.MAINMENU.MOTD_LIST_POPUP_NEXT_UPDATE
-#, fuzzy
 msgctxt "UI.MAINMENU.MOTD_LIST_POPUP_NEXT_UPDATE"
 msgid "NEXT UPDATE: {1}"
-msgstr "MISE A JOUR"
+msgstr "MISE A JOUR: {1}"
 
 #: UI.MAINMENU.MOTD_LIST_POPUP_SUBTITLE
 msgctxt "UI.MAINMENU.MOTD_LIST_POPUP_SUBTITLE"
@@ -74409,10 +74333,9 @@ msgid "INVULNERABLE"
 msgstr "INVULNÉRABLE"
 
 #: UI.NEGOTIATION_PANEL.PERMANENT
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PANEL.PERMANENT"
 msgid "PERSONALITY"
-msgstr "PERSONALITY"
+msgstr "PERSONNALITÉ"
 
 #: UI.NEGOTIATION_PANEL.PLAYER_TURN
 msgctxt "UI.NEGOTIATION_PANEL.PLAYER_TURN"
@@ -74498,10 +74421,9 @@ msgid "Close"
 msgstr "Retour"
 
 #: UI.NEGOTIATION_PREVIEW.DIFFICULTY
-#, fuzzy
 msgctxt "UI.NEGOTIATION_PREVIEW.DIFFICULTY"
 msgid "OPPONENT STRENGTH"
-msgstr "OPPONENT STRENGTH"
+msgstr "FORCE ADVERSE"
 
 #: UI.NEGOTIATION_PREVIEW.DIFFICULTY_BOSS
 #, fuzzy
@@ -74810,10 +74732,9 @@ msgid "Delete this save file"
 msgstr "Supprimer la sauvegarde"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_SAVEFILES_INFO_CONTROLLER
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_SAVEFILES_INFO_CONTROLLER"
 msgid "Use <c img='rt'> to delete save files."
-msgstr "Use <c img='rt'> to delete save files."
+msgstr "Utiliser <c img='rt'>pour supprimer les fichiers de sauvegardes"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_MAIN_SAVEFILES_INFO_TOUCH
 #, fuzzy
@@ -74890,10 +74811,9 @@ msgid "You start with this negotiation deck, and get the chance to upgrade, add 
 msgstr "Vous commencer avec ce deck de négociation, et vous aurer la possibilité d'améliorer, d'ajouter et de retirer des cartes au cours de votre partie."
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_NEGOTIATION_TITLE
-#, fuzzy
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_NEGOTIATION_TITLE"
 msgid "NEGOTIATION DECK"
-msgstr "NEGOTIATION DECK"
+msgstr "DECK DE NEGOTIATION"
 
 #: UI.NEW_GAME_SCREEN.SIDEBAR_NEGOTIATION_UPGRADE
 msgctxt "UI.NEW_GAME_SCREEN.SIDEBAR_NEGOTIATION_UPGRADE"
@@ -75996,16 +75916,14 @@ msgid "Is here to visit"
 msgstr "Is here to visit"
 
 #: UI.PLAX_NAMEPLATE.WAITING_PET_LABEL
-#, fuzzy
 msgctxt "UI.PLAX_NAMEPLATE.WAITING_PET_LABEL"
 msgid "PET"
-msgstr "PTS"
+msgstr "FAMILIER"
 
 #: UI.PLAX_NAMEPLATE.WAITING_PET_TOOLTIP
-#, fuzzy
 msgctxt "UI.PLAX_NAMEPLATE.WAITING_PET_TOOLTIP"
 msgid "Your pet"
-msgstr "Your pet"
+msgstr "Votre familier"
 
 #: UI.PLAX_NAMEPLATE.WITH_YOU
 #, fuzzy
@@ -76020,10 +75938,9 @@ msgid "Your captive"
 msgstr "Your captive"
 
 #: UI.PLAX_NAMEPLATE.YOUR_PET
-#, fuzzy
 msgctxt "UI.PLAX_NAMEPLATE.YOUR_PET"
 msgid "Your pet"
-msgstr "Your pet"
+msgstr "Votre familier"
 
 #: UI.PROGRESS_INDICATOR
 msgctxt "UI.PROGRESS_INDICATOR"
@@ -76217,10 +76134,9 @@ msgid "Too many grafts make you less human than {1} would like. To install this 
 msgstr "Too many grafts make you less human than {1} would like. To install this new {2}, you'll have to replace an existing one."
 
 #: UI.REPLACE_GRAFT_SCREEN.TITLE
-#, fuzzy
 msgctxt "UI.REPLACE_GRAFT_SCREEN.TITLE"
 msgid "NEW {1#upper}"
-msgstr "NEW {1#upper}"
+msgstr "NOUVEAU {1#upper}"
 
 #: UI.REQ_CANT_OWN_PET
 #, fuzzy
@@ -76671,7 +76587,6 @@ msgid "UPGRADE READY"
 msgstr "AMÉLIORATION PRÊTE"
 
 #: UI.SHOW_DECK_SCREEN.TRASH
-#, fuzzy
 msgctxt "UI.SHOW_DECK_SCREEN.TRASH"
 msgid "TRASH"
 msgstr "DÉFAUSE"
