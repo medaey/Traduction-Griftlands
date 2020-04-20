@@ -16,7 +16,7 @@ orange      33.4%  green
 red         16.7%  brightgreen
 -->
 
-![](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fgriftlands%2Fhome%2FAlpha_Promo-2048x1152-178c232b5ce2742ac50e86ae85b13c251608c271.jpg)
+![](https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/preview.jpg)
 
 ### Table des matières
 **[Télécharger](https://github.com/leghort/Traduction-Griftlands#t%C3%A9l%C3%A9charger-la-derni%C3%A8re-version)**</br>
@@ -27,28 +27,28 @@ red         16.7%  brightgreen
 **[Contact](https://github.com/leghort/Traduction-Griftlands#contact)**<br>
 
 ## Télécharger la dernière version
-<a href=https://github.com/leghort/Traduction-Griftlands/releases/latest><img src="https://i.ibb.co/ck3Rxky/Download-Button.png"></a>
+<a href=https://github.com/leghort/Traduction-Griftlands/releases/latest><img src="https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/download-button.png"></a>
 
 ## Installation
 1. Rendez-vous dans votre dossier d'installation `Griflands`
-![](https://i.ibb.co/M1M998x/image.png)
+![](https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/folder-griftlands.png)
   ⚠️ Vous ne trouvez pas votre dossier d'installation rendez-vous à **[Trouver son dossier d'installation ⚠️](https://github.com/leghort/Traduction-Griftlands#trouver-son-dossier-dinstallation)**</br>
 2. Ouvrez le dossier `Griftlands`
 3. Faire un Glisser-déposer du dossier `data` que vous venez de télécharger, dans votre dossier `Griftlands`
-4. Dans le menu ![](https://i.ibb.co/FbcGSQ1/image.png) allez dans l'onglet ![](https://i.ibb.co/R0hpqdj/image.png) et choisissez la langue ![](https://i.ibb.co/qN62Zbq/image.png)
+4. Dans le menu ![](https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/options-griftlands.png) allez dans l'onglet ![](https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/other-griftlands.png) et choisissez la langue ![](https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/languages-griftlands.png)
 5. Jouer 🕹️
 
 ## Désinstallation
 1. Rendez-vous dans votre dossier d'installation `Griflands`
-![](https://i.ibb.co/M1M998x/image.png)
+![](https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/folder-griftlands.png)
 2. Double clic sur le dossier `data`
 3. Supprimer le dossier `localizations`
 
 ## Trouver son dossier d'installation
-1. Dans la bibliothèque EpicGame clic sur l'engrenage ![](https://i.ibb.co/kK0Pchb/image.png) ou sur ![](https://i.ibb.co/6wJR0Qr/image.png) selon votre affichage
-2. Clic sur ![](https://i.ibb.co/yBFyyXs/image.png)
+1. Dans la bibliothèque EpicGame clic sur l'engrenage ![](https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/gear-button.png) ou sur ![](https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/...-button.png) selon votre affichage
+2. Clic sur ![](https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/raccourci.png)
 3. Retourner sur votre bureau
-4. Lancer le programme ![](https://i.ibb.co/grx0sdk/image.png)
+4. Lancer le programme ![](https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/bloc-notes.png)
 5. Glisser-déposer du Raccourci Griftlands
 6. Votre dossier d'installation est indiqué à la ligne 8
 `IconFile=C:\Program Files\Epic Games\Griftlands\bin\Griftlands.exe`
@@ -63,5 +63,5 @@ red         16.7%  brightgreen
 ```
 
 ## Contact
-<a href=https://discord.gg/PT4NFkk><img src="https://img.icons8.com/color/50/000000/discord-logo.png"></a>
-<a href=mailto:medaey@hotmail.com><img src="https://i.ibb.co/Pr1Mtf9/mail.png"></a>
+<a href=https://discord.gg/PT4NFkk><img src="https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/discord-logo.png"></a>
+<a href=mailto:medaey@hotmail.com><img src="https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/mail.png"></a>
